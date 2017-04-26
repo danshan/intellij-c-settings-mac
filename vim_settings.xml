@@ -1,0 +1,184 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/workspace/wanda/spring-boot-test-demo/src/main/java/com/shanhh/demo/Application.java" timestamp="1493174497833">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1493112586259">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/wanda/spring-boot-test-demo/src/main/java/com/shanhh/demo/service/SecurityServiceImpl.java" timestamp="1493172824325">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="38" column="7" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/wanda/spring-boot-test-demo/.travis.yml" timestamp="1493172317918">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="45" />
+        <mark key="." line="6" column="45" />
+        <mark key="^" line="6" column="47" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/webhook-slack/.travis.yml" timestamp="1493112012756">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/wanda/spring-boot-test-demo/src/main/java/com/shanhh/demo/cache/service/UserCacheImpl.java" timestamp="1493169044290">
+        <mark key="[" line="53" column="50" />
+        <mark key="]" line="53" column="57" />
+        <mark key="." line="53" column="57" />
+        <mark key="^" line="53" column="57" />
+      </file>
+      <file name="$USER_HOME$/workspace/wanda/spring-boot-test-demo/src/main/java/com/shanhh/demo/cache/key/SessionKey.java" timestamp="1493169081546">
+        <mark key="[" line="19" column="54" />
+      </file>
+      <file name="$USER_HOME$/workspace/wanda/spring-boot-test-demo/src/main/java/com/shanhh/demo/mapper/UserMapper.java" timestamp="1493172720275">
+        <mark key="[" line="19" column="21" />
+        <mark key="]" line="19" column="44" />
+        <mark key="^" line="19" column="44" />
+        <mark key="." line="19" column="44" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/webhook-slack/pom.xml" timestamp="1493111529280" />
+      <file name="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" timestamp="1493168101600">
+        <mark key="'" line="83" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/wanda/CPG/pom.xml" timestamp="1493167819648" />
+      <file name="$USER_HOME$/workspace/wanda/spring-boot-test-demo/pom.xml" timestamp="1493168104382">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/wanda/spring-boot-test-demo/src/test/java/com/shanhh/demo/service/SecurityServiceImplTest.java" timestamp="1493173943232">
+        <mark key="[" line="72" column="9" />
+        <mark key="]" line="84" column="0" />
+        <mark key="^" line="79" column="34" />
+        <mark key="." line="84" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/wanda/spring-boot-test-demo/src/test/java/com/shanhh/demo/mapper/UserMapperTest.java" timestamp="1493173212991">
+        <mark key="[" line="31" column="19" />
+        <mark key="]" line="31" column="18" />
+        <mark key="^" line="31" column="18" />
+        <mark key="." line="31" column="18" />
+      </file>
+      <file name="/fragment.java" timestamp="1493169030677">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/wanda/CPG/sonar-project.properties" timestamp="1493110331548" />
+    </filemarks>
+    <jumps>
+      <jump line="276" column="10" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
+      <jump line="234" column="13" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
+      <jump line="142" column="0" filename="$USER_HOME$/workspace/wanda/spring-boot-test-demo/pom.xml" />
+      <jump line="235" column="18" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
+      <jump line="218" column="12" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
+      <jump line="231" column="9" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
+      <jump line="232" column="11" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
+      <jump line="237" column="12" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
+      <jump line="238" column="11" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
+      <jump line="243" column="12" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
+      <jump line="244" column="10" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
+      <jump line="269" column="15" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
+      <jump line="270" column="44" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
+      <jump line="271" column="16" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
+      <jump line="280" column="40" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
+      <jump line="296" column="13" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
+      <jump line="297" column="41" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
+      <jump line="298" column="39" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
+      <jump line="299" column="39" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
+      <jump line="300" column="47" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
+      <jump line="301" column="51" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
+      <jump line="302" column="48" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
+      <jump line="303" column="36" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
+      <jump line="304" column="41" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
+      <jump line="305" column="43" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
+      <jump line="306" column="14" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
+      <jump line="54" column="7" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
+      <jump line="55" column="9" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
+      <jump line="58" column="10" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
+      <jump line="59" column="8" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
+      <jump line="82" column="30" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
+      <jump line="83" column="20" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
+      <jump line="21" column="0" filename="$USER_HOME$/workspace/wanda/spring-boot-test-demo/pom.xml" />
+      <jump line="42" column="16" filename="$USER_HOME$/workspace/wanda/spring-boot-test-demo/src/test/java/com/shanhh/demo/service/SecurityServiceImplTest.java" />
+      <jump line="82" column="7" filename="$USER_HOME$/workspace/wanda/spring-boot-test-demo/src/test/java/com/shanhh/demo/service/SecurityServiceImplTest.java" />
+      <jump line="58" column="0" filename="$USER_HOME$/workspace/wanda/spring-boot-test-demo/src/test/java/com/shanhh/demo/service/SecurityServiceImplTest.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">PSA=</text>
+      </register>
+      <register name="/" type="4">
+        <text>ex</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgVXNlciBtb2NrVXNlcigpIHsKICAgICAgICBVc2VyIHVzZXIgPSBuZXcgVXNlcigpOwogICAgICAgIHVzZXIuc2V0Tmlja25hbWUobW9ja1N0cigxMCkpOwogICAgICAgIHVzZXIuc2V0RW1haWwobW9ja0VtYWlsKCkpOwoK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgQXBwbGljYXRpb24oKSB7fQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkodXNlckNhY2hlLCB0aW1lcygxKSkuc2F2ZVNlc3Npb24oYW55KFVzZXIuY2xhc3MpLCBhbnkoU3RyaW5nLmNsYXNzKSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkodXNlck1hcHBlciwgdGltZXMoMSkpLmxvYWRCeUVtYWlsKGFueShTdHJpbmcuY2xhc3MpKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnROb3ROdWxsKHNlc3Npb25JZCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>ex</last-search>
+      <last-offset />
+      <last-pattern>ex</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>jacoco</entry>
+        <entry>goal</entry>
+        <entry>ex</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
