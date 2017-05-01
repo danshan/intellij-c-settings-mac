@@ -3,31 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/wanda/spring-boot-test-demo/src/main/java/com/shanhh/demo/Application.java" timestamp="1493174497833">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/controller/Console.java" timestamp="1493619186192">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="17" />
+        <mark key="." line="13" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493112586259">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/core/openapi/bean/User.java" timestamp="1493607660809">
-        <mark key="a" line="51" column="11" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/controller/Console.java" timestamp="1493608198720">
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="19" column="18" />
-        <mark key="^" line="20" column="19" />
-        <mark key="." line="19" column="18" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/spring-boot-test-demo/src/main/java/com/shanhh/demo/service/SecurityServiceImpl.java" timestamp="1493172824325">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="38" column="7" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/service/impl/BearychatServiceImpl.java" timestamp="1493624832519">
+        <mark key="[" line="24" column="64" />
+        <mark key="]" line="24" column="23" />
+        <mark key="." line="24" column="23" />
+        <mark key="^" line="24" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/wanda/spring-boot-test-demo/.travis.yml" timestamp="1493172317918">
         <mark key="[" line="6" column="14" />
@@ -41,6 +26,127 @@
         <mark key="." line="95" column="0" />
         <mark key="^" line="106" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/wanda/spring-boot-test-demo/src/main/java/com/shanhh/demo/cache/key/SessionKey.java" timestamp="1493169081546">
+        <mark key="[" line="19" column="54" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/Webhook.java" timestamp="1493600939768">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="50" />
+        <mark key="^" line="14" column="50" />
+        <mark key="." line="14" column="50" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/webhook/bean/WebhookMessage.java" timestamp="1493621090671">
+        <mark key="[" line="8" column="32" />
+        <mark key="]" line="8" column="16" />
+        <mark key="." line="8" column="16" />
+        <mark key="^" line="8" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/webhook/service/MessageAdapter.java" timestamp="1493622312722">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="50" />
+        <mark key="." line="10" column="50" />
+        <mark key="^" line="10" column="50" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/controller/WebhookController.java" timestamp="1493624456271">
+        <mark key="[" line="24" column="68" />
+        <mark key="]" line="24" column="68" />
+        <mark key="^" line="24" column="68" />
+        <mark key="." line="24" column="68" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/service/BearychatService.java" timestamp="1493624729813">
+        <mark key="[" line="9" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/webhook-slack/src/main/java/com/shanhh/webhook/controller/WebhookController.java" timestamp="1493621468795" />
+      <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/core/openapi/OpenApiImpl.java" timestamp="1493625173289">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="56" column="69" />
+        <mark key="]" line="56" column="69" />
+        <mark key="." line="56" column="69" />
+        <mark key="^" line="56" column="68" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/sonarqube/bean/SonarqubeMessage.java" timestamp="1493621102803">
+        <mark key="[" line="18" column="41" />
+        <mark key="]" line="18" column="41" />
+        <mark key="^" line="18" column="40" />
+        <mark key="." line="18" column="41" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/service/WebhookService.java" timestamp="1493619572889">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="20" />
+        <mark key="^" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/webhook-slack/src/main/java/com/shanhh/webhook/sonarqube/service/SonarServiceImpl.java" timestamp="1493621563130" />
+      <file name="$USER_HOME$/workspace/personal/webhook-slack/src/main/java/com/shanhh/webhook/sonarqube/service/SonarService.java" timestamp="1493619496030" />
+      <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/config/MvcConfig.java" timestamp="1493624661677">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/sonarqube/service/SonarqubeMessageAdapter.java" timestamp="1493622101023">
+        <mark key="[" line="14" column="64" />
+        <mark key="]" line="15" column="3" />
+        <mark key="^" line="15" column="3" />
+        <mark key="." line="15" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/sonarqube/service/SonarqubeService.java" timestamp="1493621503026">
+        <mark key="[" line="9" column="58" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.3/jackson-databind-2.8.3-sources.jar!/com/fasterxml/jackson/databind/DeserializationFeature.java" timestamp="1493620863949" />
+      <file name="$USER_HOME$/workspace/personal/webhook-slack/src/main/java/com/shanhh/webhook/sonarqube/beans/SonarPayload.java" timestamp="1493620990624" />
+      <file name="$USER_HOME$/workspace/personal/webhook-slack/src/main/java/com/shanhh/webhook/config/ExporterRegister.java" timestamp="1493620693610" />
+      <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/config/HttpClientConfig.java" timestamp="1493609245174">
+        <mark key="[" line="87" column="22" />
+        <mark key="]" line="87" column="22" />
+        <mark key="." line="87" column="22" />
+        <mark key="^" line="95" column="40" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/core/openapi/bean/BearychatRequest.java" timestamp="1493623989904">
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="14" column="8" />
+        <mark key="^" line="14" column="8" />
+        <mark key="." line="14" column="8" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/webhook/service/WebhookService.java" timestamp="1493621496100">
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/service/impl/BearyChatServiceImpl.java" timestamp="1493619238126">
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="14" column="19" />
+        <mark key="^" line="14" column="44" />
+        <mark key="." line="14" column="19" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.3.RELEASE/spring-web-4.3.3.RELEASE-sources.jar!/org/springframework/http/converter/json/Jackson2ObjectMapperBuilder.java" timestamp="1493624628623" />
+      <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/config/BearychatConfig.java" timestamp="1493620896953">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/webhook-slack/src/main/java/com/shanhh/webhook/slack/service/SlackServiceImpl.java" timestamp="1493623928756" />
+      <file name="$USER_HOME$/workspace/wanda/CPG/upp-cpg-bizservice-bill99/src/main/java/com/wanda/upp/cpg/bizservice/bill99/util/http/Http.java" timestamp="1493600741807" />
+      <file name="$USER_HOME$/workspace/wanda/spring-boot-test-demo/src/main/java/com/shanhh/demo/Application.java" timestamp="1493174497833">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1493620615914">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/webhook-slack/src/main/java/com/shanhh/webhook/config/SlackConfig.java" timestamp="1493620250853" />
+      <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/sonarqube/service/SonarqubeServiceIMpl.java" timestamp="1493622655697">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="31" />
+        <mark key="." line="6" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/wanda/spring-boot-test-demo/src/main/java/com/shanhh/demo/service/SecurityServiceImpl.java" timestamp="1493172824325">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="38" column="7" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/webhook-slack/src/test/java/com/shanhh/webhook/daocloud/service/DaocloudServiceImplTest.java" timestamp="1493620624365" />
       <file name="$USER_HOME$/workspace/personal/webhook-slack/.travis.yml" timestamp="1493112012756">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -52,14 +158,11 @@
         <mark key="." line="53" column="57" />
         <mark key="^" line="53" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/spring-boot-test-demo/src/main/java/com/shanhh/demo/cache/key/SessionKey.java" timestamp="1493169081546">
-        <mark key="[" line="19" column="54" />
-      </file>
-      <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/Webhook.java" timestamp="1493600939768">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="50" />
-        <mark key="^" line="14" column="50" />
-        <mark key="." line="14" column="50" />
+      <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/sonarqube/service/SonarqubeServiceImpl.java" timestamp="1493624741920">
+        <mark key="[" line="30" column="25" />
+        <mark key="]" line="30" column="36" />
+        <mark key="^" line="30" column="36" />
+        <mark key="." line="30" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/wanda/spring-boot-test-demo/src/main/java/com/shanhh/demo/mapper/UserMapper.java" timestamp="1493172720275">
         <mark key="[" line="19" column="21" />
@@ -67,29 +170,35 @@
         <mark key="^" line="19" column="44" />
         <mark key="." line="19" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/CPG/upp-cpg-bizservice-bill99/src/main/java/com/wanda/upp/cpg/bizservice/bill99/util/http/Http.java" timestamp="1493600741807" />
       <file name="$USER_HOME$/workspace/personal/webhook-slack/pom.xml" timestamp="1493601117321" />
-      <file name="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" timestamp="1493168101600">
-        <mark key="'" line="83" column="20" />
+      <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/core/openapi/OpenApi.java" timestamp="1493624176357">
+        <mark key="[" line="15" column="69" />
+        <mark key="]" line="15" column="67" />
+        <mark key="^" line="15" column="67" />
+        <mark key="." line="15" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/core/openapi/OpenApi.java" timestamp="1493607683976">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="4" />
-        <mark key="^" line="12" column="32" />
-        <mark key="." line="12" column="4" />
+      <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/core/openapi/bean/BearychatMessage.java" timestamp="1493623048130">
+        <mark key="[" line="47" column="23" />
+        <mark key="]" line="48" column="29" />
+        <mark key="." line="48" column="29" />
+        <mark key="^" line="48" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/spring-boot-test-demo/pom.xml" timestamp="1493600559837">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/service/BearyChatService.java" timestamp="1493619244762">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="23" />
+        <mark key="." line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/webhook-slack/src/main/java/com/shanhh/webhook/controller/WebhookController.java" timestamp="1493608180252" />
-      <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/core/openapi/OpenApiImpl.java" timestamp="1493607742244">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/sonarqube/SonarqubeService.java" timestamp="1493619896296">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="0" column="45" />
+        <mark key="^" line="0" column="45" />
+        <mark key="." line="0" column="45" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/sonarqube/bean.java" timestamp="1493619885247">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="33" />
+        <mark key="^" line="8" column="33" />
+        <mark key="." line="8" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/wanda/spring-boot-test-demo/src/test/java/com/shanhh/demo/mapper/UserMapperTest.java" timestamp="1493173212991">
         <mark key="[" line="31" column="19" />
@@ -97,7 +206,7 @@
         <mark key="^" line="31" column="18" />
         <mark key="." line="31" column="18" />
       </file>
-      <file name="/fragment.java" timestamp="1493601190312">
+      <file name="/fragment.java" timestamp="1493622766145">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -139,46 +248,47 @@
       <jump line="82" column="7" filename="$USER_HOME$/workspace/wanda/spring-boot-test-demo/src/test/java/com/shanhh/demo/service/SecurityServiceImplTest.java" />
       <jump line="58" column="0" filename="$USER_HOME$/workspace/wanda/spring-boot-test-demo/src/test/java/com/shanhh/demo/service/SecurityServiceImplTest.java" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/core/openapi/OpenApiImpl.java" />
+      <jump line="89" column="5" filename="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/sonarqube/service/SonarqubeMessage.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>daocloud</text>
+        <text>UTF8_VALUE</text>
       </register>
       <register name="-" type="4">
-        <text>daocloud</text>
+        <text>UTF8_VALUE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdWJsaWNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qIEBmb3JtYXR0ZXI6IG9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHJlc3VsdCA9IEVudGl0eVV0aWxzLnRvU3RyaW5nKHJlc3BvbnNlLmdldEVudGl0eSgpLCBDaGFyc2V0cy5VVEZfOCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2xhY2tTZXJ2aWNlLnNlbmQoSG9vay5EQU9DTE9VRCwgc2xhY2tQYXlsb2FkKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0LmFkZEhlYWRlcigiQ29udGVudC1UeXBlIiwgTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0pTT05fVVRGOF9WQUxVRSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTbGFja1BheWxvYWQgc2xhY2tQYXlsb2FkID0gZGFvY2xvdWRTZXJ2aWNlLmV4ZWMocGF5bG9hZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2xhY2tTZXJ2aWNlLnNlbmQoSG9vay5EQU9DTE9VRCwgc2xhY2tQYXlsb2FkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTbGFja1BheWxvYWQgc2xhY2tQYXlsb2FkID0gZGFvY2xvdWRTZXJ2aWNlLmV4ZWMocGF5bG9hZCk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBCZWFuCiAgICBwdWJsaWMgSmFja3NvbjJPYmplY3RNYXBwZXJCdWlsZGVyIG9iamVjdE1hcHBlckJ1aWxkZXIoKSB7CiAgICAgICAgSmFja3NvbjJPYmplY3RNYXBwZXJCdWlsZGVyIGJ1aWxkZXIgPSBuZXcgSmFja3NvbjJPYmplY3RNYXBwZXJCdWlsZGVyKCk7CiAgICAgICAgYnVpbGRlci5zZXJpYWxpemF0aW9uSW5jbHVzaW9uKEpzb25JbmNsdWRlLkluY2x1ZGUuTk9OX05VTEwpOwogICAgICAgIHJldHVybiBidWlsZGVyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKGUuZ2V0TWVzc2FnZSgpLCBlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
