@@ -191,6 +191,12 @@
         <mark key="^" line="46" column="38" />
         <mark key="." line="46" column="38" />
       </file>
+      <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/controller/MessageController.java" timestamp="1493715486824">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="18" column="38" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/cache/key/SessionKey.java" timestamp="1493647340672">
         <mark key="[" line="11" column="20" />
       </file>
@@ -329,7 +335,7 @@
         <mark key="^" line="8" column="24" />
         <mark key="." line="8" column="24" />
       </file>
-      <file name="/fragment.java" timestamp="1493705737079">
+      <file name="/fragment.java" timestamp="1493715236351">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -379,11 +385,11 @@
       <jump line="48" column="12" filename="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/core/service/impl/BearychatServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Title</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>Title</text>
+        <text>sonarqube</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdWJsaWNcPg==</text>
@@ -392,31 +398,31 @@
         <text encoding="base64">ICAgICAgICBhdHRhY2htZW50LnNldFRpdGxlKGJ1aWx0VGV4dChuZXh1c1BheWxvYWQpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBCZWFyeWNoYXRNZXNzYWdlIG1lc3NhZ2UgPSBuZXcgQmVhcnljaGF0TWVzc2FnZSgpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXh1c1NlcnZpY2UuaGFuZGxlKG5leHVzUGF5bG9hZCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEJlYXJ5Y2hhdE1lc3NhZ2UuQXR0YWNobWVudD4gYXR0YWNobWVudHMgPSBMaXN0cy5uZXdMaW5rZWRMaXN0KCk7CgogICAgICAgIEJlYXJ5Y2hhdE1lc3NhZ2UgbWVzc2FnZSA9IG5ldyBCZWFyeWNoYXRNZXNzYWdlKCk7CiAgICAgICAgbWVzc2FnZS5zZXRUZXh0KFN0cmluZy5mb3JtYXQoIk5leHVzIENvbXBvbmVudCBgJXNgIDogKiolcyoqIiwgbmV4dXNQYXlsb2FkLmdldEFjaXRvbigpLCBuZXh1c1BheWxvYWQuZ2V0UmVwb3NpdG9yeU5hbWUoKSkpOwoK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIG5leHVzKEBSZXF1ZXN0Qm9keSBOZXh1c1BheWxvYWQgbmV4dXNQYXlsb2FkKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHRpbWVzdGFtcDsK</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJuZXh1cyIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuUE9TVCwgcHJvZHVjZXMgPSBNZWRpYVR5cGUuQVBQTElDQVRJT05fSlNPTl9VVEY4X1ZBTFVFKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGV4ZWN1dGlvbkNvdW50IDwgNTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWJob29rU2VydmljZS5oYW5kbGUoc29uYXJxdWJlTWVzc2FnZSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zaGFuaGguYmVhcnljaGF0LmNvcmUuc2VydmljZS5CZWFyeWNoYXRTZXJ2aWNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zaGFuaGguYmVhcnljaGF0LmNvcmUuc2VydmljZS5CZWFyeWNoYXRTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTmV4dXNTZXJ2aWNlIG5leHVzU2VydmljZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgIEBSZXNvdXJjZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
