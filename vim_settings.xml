@@ -217,7 +217,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/integration/sonarqube/bean/SonarqubePayload.java" timestamp="1493703790275" />
+      <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/resources/application.sample.yml" timestamp="1493780752945">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/cache/service/UserCacheImpl.java" timestamp="1493685890758">
         <mark key="[" line="26" column="8" />
         <mark key="]" line="81" column="15" />
@@ -390,10 +394,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>b6c66c27e3590c03cc03d7e9debae0dc</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>b6c66c27e3590c03cc03d7e9debae0dc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdWJsaWNcPg==</text>
