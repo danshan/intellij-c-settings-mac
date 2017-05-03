@@ -231,7 +231,6 @@
         <mark key="." line="21" column="31" />
         <mark key="^" line="21" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/webhook-bearychat/src/main/java/com/shanhh/bearychat/core/openapi/bean/BearychatRequest.java" timestamp="1493790574199" />
       <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/integration/sonarqube/service/SonarqubeServiceImpl.java" timestamp="1493771652011">
         <mark key="'" line="34" column="4" />
         <mark key="[" line="103" column="43" />
@@ -360,12 +359,12 @@
         <mark key="^" line="0" column="45" />
         <mark key="." line="0" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/webhook-bearychat/src/main/java/com/shanhh/bearychat/core/openapi/impl/OpenApiImpl.java" timestamp="1493794547779">
+      <file name="$USER_HOME$/workspace/personal/webhook-bearychat/src/main/java/com/shanhh/bearychat/core/openapi/impl/OpenApiImpl.java" timestamp="1493817764197">
         <mark key="'" line="89" column="56" />
-        <mark key="[" line="89" column="56" />
-        <mark key="]" line="89" column="56" />
-        <mark key="^" line="104" column="38" />
-        <mark key="." line="89" column="56" />
+        <mark key="[" line="85" column="15" />
+        <mark key="]" line="85" column="18" />
+        <mark key="^" line="85" column="18" />
+        <mark key="." line="85" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/sonarqube/bean.java" timestamp="1493619885247">
         <mark key="[" line="8" column="26" />
@@ -460,10 +459,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>empty</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>empty</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMaXN0XD4=</text>
