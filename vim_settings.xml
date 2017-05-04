@@ -65,6 +65,7 @@
         <mark key="^" line="34" column="20" />
         <mark key="." line="34" column="20" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/bill99/if-crypto-sdk/3.3.2/if-crypto-sdk-3.3.2.jar!/com/bill99/asap/util/AsapSystemConfig.class" timestamp="1493864660414" />
       <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/cache/service/UserCache.java" timestamp="1493685085460">
         <mark key="[" line="13" column="40" />
         <mark key="]" line="13" column="40" />
@@ -276,7 +277,7 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493706555638">
+      <file name="/Dummy.txt" timestamp="1493864443866">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/core/openapi/bean/BearychatP2pReq.java" timestamp="1493644217601">
