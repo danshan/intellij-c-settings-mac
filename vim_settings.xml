@@ -198,11 +198,10 @@
         <mark key="." line="20" column="50" />
         <mark key="^" line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/webhook-bearychat/src/main/docker/Dockerfile" timestamp="1494169308684">
-        <mark key="[" line="5" column="42" />
-        <mark key="]" line="5" column="42" />
-        <mark key="^" line="2" column="25" />
-        <mark key="." line="5" column="42" />
+      <file name="$USER_HOME$/workspace/personal/webhook-bearychat/src/main/docker/Dockerfile" timestamp="1494173353096">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/config/BearychatConfig.java" timestamp="1493643589490">
         <mark key="[" line="23" column="26" />
@@ -288,11 +287,11 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/webhook-bearychat/README.md" timestamp="1494170001991">
-        <mark key="[" line="17" column="11" />
-        <mark key="]" line="17" column="35" />
-        <mark key="." line="17" column="35" />
-        <mark key="^" line="17" column="35" />
+      <file name="$USER_HOME$/workspace/personal/webhook-bearychat/README.md" timestamp="1494173715386">
+        <mark key="[" line="17" column="87" />
+        <mark key="]" line="17" column="58" />
+        <mark key="." line="17" column="58" />
+        <mark key="^" line="17" column="58" />
       </file>
       <file name="/Dummy.txt" timestamp="1493864443866">
         <mark key="[" line="0" column="0" />
@@ -476,44 +475,44 @@
       <jump line="71" column="82" filename="$USER_HOME$/workspace/personal/webhook-bearychat/src/main/java/com/shanhh/bearychat/integration/nexus/service/NexusServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>gs-spring-boot-docker</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">RU5WIFJFRElTX1BPUlQ9IiIK</text>
       </register>
       <register name="-" type="4">
-        <text>gs-spring-boot-docker</text>
+        <text>REDIS_HOST</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMaXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKCJjYWNoZSB1c2VycyBmYWlsZWQ6IHt9LCB7fSIsIHRva2VuLCBlLmdldE1lc3NhZ2UoKSk7Cg==</text>
+        <text encoding="base64">RU5WIFJFRElTX0hPU1QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RU5WIFJFRElTX1BPUlQ9IiIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RU5WIFJFRElTX0hPU1Q9IiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGFja2FnZSBNVVNUIGJlIHJ1biBiZWZvcmUgZG9ja2VyOmJ1aWxkLiBPdGhlcndpc2UsIGl0IHdpbGwgZmFpbC4K</text>
+        <text encoding="base64">RU5WIFJFRElTX1BPUlQ9JFJFRElTX1BPUlQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobWVzc2FnZS5nZXRVaWQoKSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
+        <text encoding="base64">RU5WIFJFRElTX0hPU1Q9JFJFRElTX0hPU1QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBQcmVjb25kaXRpb25zLmNoZWNrQXJndW1lbnQoU3RyaW5nVXRpbHMuaXNOb3RCbGFuayhtZXNhZ2UpKTsK</text>
+        <text encoding="base64">RU5WIFJFRElTX1BPUlQ9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5leHVzUGF5bG9hZC5nZXRJbml0aWF0b3IoKS5zdWJzdHJpbmcoMCwgbmV4dXNQYXlsb2FkLmdldEluaXRpYXRvcigpLmluZGV4T2YoIi8iKSkK</text>
+        <text encoding="base64">RU5WIFJFRElTX0hPU1Q9Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV4dXNQYXlsb2FkLmdldEluaXRpYXRvcigpLnN1YnN0cmluZygwLCBuZXh1c1BheWxvYWQuZ2V0SW5pdGlhdG9yKCkuaW5kZXhPZigiLyIpKQo=</text>
+        <text encoding="base64">cGFja2FnZSBNVVNUIGJlIHJ1biBiZWZvcmUgZG9ja2VyOmJ1aWxkLiBPdGhlcndpc2UsIGl0IHdpbGwgZmFpbC4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
