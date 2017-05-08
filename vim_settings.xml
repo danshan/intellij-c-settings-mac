@@ -198,10 +198,11 @@
         <mark key="." line="20" column="50" />
         <mark key="^" line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/webhook-bearychat/src/main/docker/Dockerfile" timestamp="1494173353096">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/workspace/personal/webhook-bearychat/src/main/docker/Dockerfile" timestamp="1494204053474">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="3" column="26" />
+        <mark key="^" line="6" column="11" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/config/BearychatConfig.java" timestamp="1493643589490">
         <mark key="[" line="23" column="26" />
@@ -287,11 +288,11 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/webhook-bearychat/README.md" timestamp="1494173715386">
-        <mark key="[" line="17" column="87" />
-        <mark key="]" line="17" column="58" />
-        <mark key="." line="17" column="58" />
-        <mark key="^" line="17" column="58" />
+      <file name="$USER_HOME$/workspace/personal/webhook-bearychat/README.md" timestamp="1494204037472">
+        <mark key="[" line="17" column="66" />
+        <mark key="]" line="17" column="56" />
+        <mark key="." line="17" column="56" />
+        <mark key="^" line="17" column="67" />
       </file>
       <file name="/Dummy.txt" timestamp="1493864443866">
         <mark key="[" line="0" column="0" />
@@ -319,6 +320,11 @@
         <mark key="]" line="89" column="114" />
         <mark key="^" line="78" column="44" />
         <mark key="." line="89" column="114" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/webhook-bearychat/src/main/docker/startup.sh" timestamp="1494203870310">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/integration/nexus/service/NexusServiceImpl.java" timestamp="1493707024496">
         <mark key="[" line="52" column="22" />
@@ -476,43 +482,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">RU5WIFJFRElTX1BPUlQ9IiIK</text>
+        <text encoding="base64">UlVOIHNoIC1jICd0b3VjaCAvYXBwLmphcicK</text>
       </register>
       <register name="-" type="4">
-        <text>REDIS_HOST</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMaXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">RU5WIFJFRElTX0hPU1QK</text>
+        <text encoding="base64">QUREIHdlYmhvb2stYmVhcnljaGF0LmphciBhcHAuamFyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RU5WIFJFRElTX1BPUlQ9IiIK</text>
+        <text encoding="base64">UlVOIHNoIC1jICd0b3VjaCAvYXBwLmphcicK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RU5WIFJFRElTX0hPU1Q9IiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RU5WIFJFRElTX1BPUlQ9JFJFRElTX1BPUlQK</text>
+        <text encoding="base64">JEpBVkFfT1BTVD0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RU5WIFJFRElTX0hPU1Q9JFJFRElTX0hPU1QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RU5WIFJFRElTX1BPUlQ9Cg==</text>
+        <text encoding="base64">QUREIHN0YXJ0dXAuc2ggc3RhcnR1cC5zaAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RU5WIFJFRElTX0hPU1Q9Cg==</text>
+        <text encoding="base64">RU5WIEpBVkFfT1BUUz0iLURzcHJpbmcucmVkaXMuaG9zdD0kUkVESVNfSE9TVCAtRHNwcmluZy5yZWRpcy5wb3J0PSRSRURJU19QT1JUIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RU5WIFJFRElTX1BPUlQ9IiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RU5WIFJFRElTX0hPU1Q9IiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGFja2FnZSBNVVNUIGJlIHJ1biBiZWZvcmUgZG9ja2VyOmJ1aWxkLiBPdGhlcndpc2UsIGl0IHdpbGwgZmFpbC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
