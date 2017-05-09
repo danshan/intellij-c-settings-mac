@@ -8,6 +8,11 @@
         <mark key="]" line="305" column="71" />
         <mark key="." line="305" column="71" />
       </file>
+      <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/_main/M_SERVICE.java" timestamp="1494312578638">
+        <mark key="[" line="19" column="62" />
+        <mark key="]" line="19" column="62" />
+        <mark key="." line="19" column="62" />
+      </file>
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/web/util/QueryUtils.java" timestamp="1494295899581">
         <mark key="[" line="145" column="79" />
         <mark key="]" line="145" column="79" />
@@ -29,11 +34,11 @@
         <mark key="^" line="438" column="120" />
         <mark key="." line="468" column="113" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/controller/ex/ConfigurationDeviceController.java" timestamp="1494305833758">
+      <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/controller/ex/ConfigurationDeviceController.java" timestamp="1494312948856">
         <mark key="'" line="136" column="109" />
-        <mark key="[" line="290" column="92" />
-        <mark key="]" line="290" column="90" />
-        <mark key="." line="290" column="90" />
+        <mark key="[" line="255" column="24" />
+        <mark key="]" line="255" column="24" />
+        <mark key="." line="255" column="24" />
         <mark key="^" line="289" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/controller/VmController.java" timestamp="1494305761800">
@@ -54,12 +59,13 @@
         <mark key="^" line="88" column="44" />
         <mark key="." line="88" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/_main/M_API.java" timestamp="1494295323883">
-        <mark key="[" line="27" column="44" />
-        <mark key="]" line="27" column="44" />
-        <mark key="." line="27" column="44" />
+      <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/_main/M_API.java" timestamp="1494312585854">
+        <mark key="[" line="20" column="62" />
+        <mark key="]" line="20" column="62" />
+        <mark key="." line="20" column="62" />
+        <mark key="^" line="20" column="67" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494311651841">
+      <file name="/Dummy.txt" timestamp="1494312721809">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/controller/TerminalController.java" timestamp="1494305854120">
@@ -218,10 +224,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Vm1JZHMg</text>
+        <text encoding="base64">ZGV2aWNlSWRzIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Vm1JZHMg</text>
+        <text encoding="base64">ZGV2aWNlSWRzIA==</text>
       </register>
       <register name="/" type="4">
         <text>termin</text>
