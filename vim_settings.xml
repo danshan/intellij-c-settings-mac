@@ -44,6 +44,13 @@
         <mark key="." line="255" column="24" />
         <mark key="^" line="289" column="48" />
       </file>
+      <file name="$USER_HOME$/workspace/wanda/jenkins-scripts/package_nodejs.sh" timestamp="1495073277190">
+        <mark key="'" line="16" column="41" />
+        <mark key="[" line="16" column="40" />
+        <mark key="]" line="16" column="40" />
+        <mark key="." line="16" column="40" />
+        <mark key="^" line="16" column="44" />
+      </file>
       <file name="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/src/main/java/com/wanda/ohm/siberia/service/workflow/register/NodeJsRegister.java" timestamp="1495070411369">
         <mark key="[" line="58" column="143" />
         <mark key="]" line="58" column="143" />
@@ -257,16 +264,17 @@
       <jump line="132" column="109" filename="$USER_HOME$/workspace/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/controller/ex/ConfigurationDeviceController.java" />
       <jump line="48" column="77" filename="$USER_HOME$/workspace/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/entity/ex/RackConfigStatistics.java" />
       <jump line="336" column="17" filename="$USER_HOME$/workspace/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/entity/Terminal.java" />
+      <jump line="16" column="41" filename="$USER_HOME$/workspace/wanda/jenkins-scripts/package_nodejs.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uZmlnX2ZvbGRlcjogInt7IGJhc2VfZm9sZGVyfX0vY29uZmlnIgpsb2dzX2ZvbGRlcjogInt7IGJhc2VfZm9sZGVyfX0vbG9ncyIKbGliX2ZvbGRlcjogInt7IGJhc2VfZm9sZGVyfX0vbGliIgp0ZW1wX2ZvbGRlcjogInt7IGJhc2VfZm9sZGVyfX0vdGVtcCIKCmplbmtpbnNfYnVpbGRfcGF0aDogInt7IGplbmtpbnNfaG9zdCB9fS9qb2Ive3sgcHJvamVjdCB9fS97eyBidWlsZG5vIH19L2FwaS9qc29uP3RyZWU9YWN0aW9uc1tsYXN0QnVpbHRSZXZpc2lvblticmFuY2hbbmFtZV1dXSIK</text>
+      <register name="&quot;" type="4">
+        <text>$</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">amFyIA==</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
-        <text>termin</text>
+        <text>target</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgVGFza1N0ZXBSZWdpc3RlciBnZXRTcHJpbmdDbG91ZFJlZ2lzdGVyKEVudiBlbnYpIHsKICAgICAgICByZXR1cm4gbmV3IFNwcmluZ0Nsb3VkUmVnaXN0ZXIoY29udGV4dCk7CiAgICB9Cg==</text>
@@ -303,9 +311,9 @@
       </register>
     </registers>
     <search>
-      <last-search>termin</last-search>
+      <last-search>target</last-search>
       <last-offset />
-      <last-pattern>termin</last-pattern>
+      <last-pattern>target</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -317,6 +325,7 @@
         <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
         <entry encoding="base64">XDxMaXN0XD4=</entry>
         <entry>termin</entry>
+        <entry>target</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
