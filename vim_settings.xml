@@ -37,7 +37,6 @@
         <mark key="^" line="438" column="120" />
         <mark key="." line="468" column="113" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/CPG/upp-cpg-website/config/logback.xml" timestamp="1494549769147" />
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/controller/ex/ConfigurationDeviceController.java" timestamp="1494312948856">
         <mark key="'" line="136" column="109" />
         <mark key="[" line="255" column="24" />
@@ -45,9 +44,13 @@
         <mark key="." line="255" column="24" />
         <mark key="^" line="289" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/CPG/upp-cpg-bizservice-bill99/src/main/java/com/wanda/upp/cpg/bizservice/bill99/converter/impl/reimburse/Bill99ReimburseQueryResponseConverter.java" timestamp="1494559408929" />
-      <file name="$USER_HOME$/workspace/wanda/CPG/upp-cpg-bizservice-bill99/src/main/java/com/wanda/upp/cpg/bizservice/bill99/service/impl/reimburse/ReimburseQueryService.java" timestamp="1494575850758" />
-      <file name="$USER_HOME$/workspace/wanda/CPG/upp-cpg-bizservice-bill99/src/main/java/com/wanda/upp/cpg/bizservice/bill99/config/BatchReimburseConfig.java" timestamp="1494575856190" />
+      <file name="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/src/main/java/com/wanda/ohm/siberia/service/workflow/register/SpringCloudRegister.java" timestamp="1495070370195" />
+      <file name="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/src/main/java/com/wanda/ohm/siberia/service/workflow/register/NodeJsRegister.java" timestamp="1495070411369">
+        <mark key="[" line="58" column="143" />
+        <mark key="]" line="58" column="143" />
+        <mark key="." line="58" column="143" />
+        <mark key="^" line="58" column="143" />
+      </file>
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/controller/VmController.java" timestamp="1494305761800">
         <mark key="[" line="300" column="71" />
         <mark key="]" line="300" column="78" />
@@ -75,8 +78,11 @@
       <file name="/Dummy.txt" timestamp="1494575313613">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/controller/TerminalController.java" timestamp="1494305854120">
-        <mark key="^" line="49" column="35" />
+      <file name="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/config/dev/application.yml" timestamp="1495069925991">
+        <mark key="[" line="53" column="13" />
+        <mark key="]" line="53" column="17" />
+        <mark key="." line="53" column="17" />
+        <mark key="^" line="53" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/web/controller/ex/DictionaryControllerEx.java" timestamp="1494301187048">
         <mark key="[" line="52" column="138" />
@@ -84,7 +90,6 @@
         <mark key="^" line="56" column="13" />
         <mark key="." line="56" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/CPG/upp-cpg-bizservice-bill99/src/test/java/com/wanda/upp/cpg/bizservice/bill99/service/impl/reimburse/ReimburseQueryServiceTest.java" timestamp="1494575310744" />
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/web/util/CastUtils.java" timestamp="1494306156405">
         <mark key="[" line="133" column="28" />
         <mark key="]" line="132" column="44" />
@@ -111,6 +116,11 @@
         <mark key="]" line="37" column="43" />
         <mark key="^" line="117" column="35" />
         <mark key="." line="37" column="43" />
+      </file>
+      <file name="$USER_HOME$/workspace/wanda/siberia/pom.xml" timestamp="1495069953017">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/controller/RackController.java" timestamp="1494305861609">
         <mark key="[" line="306" column="0" />
@@ -150,6 +160,18 @@
       </file>
       <file name="/fragment.java" timestamp="1494296161399">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/src/main/java/com/wanda/ohm/siberia/entity/enums/AppType.java" timestamp="1495069506497">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="9" />
+        <mark key="." line="14" column="9" />
+        <mark key="^" line="14" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/src/main/java/com/wanda/ohm/siberia/service/workflow/TaskStepRegisterFactory.java" timestamp="1495070067493">
+        <mark key="[" line="40" column="19" />
+        <mark key="]" line="40" column="32" />
+        <mark key="." line="40" column="32" />
+        <mark key="^" line="40" column="32" />
       </file>
     </filemarks>
     <jumps>
@@ -216,41 +238,41 @@
       <jump line="336" column="17" filename="$USER_HOME$/workspace/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/entity/Terminal.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gdG9EZXBsb3lIb3N0cyA9IExpc3RzLm5ld0xpbmtlZExpc3QoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>SpringCloudRegister</text>
       </register>
       <register name="/" type="4">
         <text>termin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlzaG93TWFwLmdldCgidGVybWluYWwiKS5hZGQoImRldmljZSB0eXBlIik7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVGFza1N0ZXBSZWdpc3RlciBnZXRTcHJpbmdDbG91ZFJlZ2lzdGVyKEVudiBlbnYpIHsKICAgICAgICByZXR1cm4gbmV3IFNwcmluZ0Nsb3VkUmVnaXN0ZXIoY29udGV4dCk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXNlIGNvbS53YW5kYS5vaG0uY21kYi5jb25zdGFudC5DTURCQ29uc3RhbnRzLlRBQkxFX1RFUk1JTkFMOgogICAgICAgICAgICAgICAgICAgICAgICBUZXJtaW5hbCB0ZXJtaW5hbCA9IHRlcm1pbmFsUmVsYXRpb25EYW8uZ2V0VGVybWluYWwoci5nZXRDb25maWdkYXRhX2lkMSgpKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHRlcm1pbmFsICE9IG51bGwpIGJhc2VSZWxhdGlvbkluZm8uc2V0Q29kZShkZXZpY2UuZ2V0Q29kZSgpKTsgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gdG9EZXBsb3lIb3N0cyA9IExpc3RzLm5ld0xpbmtlZExpc3QoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXNlIGNvbS53YW5kYS5vaG0uY21kYi5jb25zdGFudC5DTURCQ29uc3RhbnRzLlRBQkxFX1RFUk1JTkFMOgogICAgICAgICAgICAgICAgICAgICAgICBUZXJtaW5hbCB0ZXJtaW5hbCA9IHRlcm1pbmFsUmVsYXRpb25EYW8uZ2V0VGVybWluYWwoci5nZXRDb25maWdkYXRhX2lkMigpKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHRlcm1pbmFsICE9IG51bGwpIGJhc2VSZWxhdGlvbkluZm8uc2V0Q29kZShkZXZpY2UuZ2V0Q29kZSgpKTsgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXNlIGNvbS53YW5kYS5vaG0uY21kYi5jb25zdGFudC5DTURCQ29uc3RhbnRzLlRBQkxFX1RFUk1JTkFMOgogICAgICAgICAgICAgICAgICAgICAgICBUZXJtaW5hbCB0ZXJtaW5hbCA9IHRlcm1pbmFsUmVsYXRpb25EYW8uZ2V0VGVybWluYWwoci5nZXRDb25maWdkYXRhX2lkMSgpKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHRlcm1pbmFsICE9IG51bGwpIGJhc2VSZWxhdGlvbkluZm8uc2V0Q29kZShkZXZpY2UuZ2V0Q29kZSgpKTsgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2ZXJzaW9uPiR7b2htLWZyYW1ld29yay1saWIudmVyc2lvbn08L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXNlIGNvbS53YW5kYS5vaG0uY21kYi5jb25zdGFudC5DTURCQ29uc3RhbnRzLlRBQkxFX1RFUk1JTkFMOgogICAgICAgICAgICAgICAgICAgICAgICBUZXJtaW5hbCB0ZXJtaW5hbCA9IHRlcm1pbmFsUmVsYXRpb25EYW8uZ2V0VGVybWluYWwoci5nZXRDb25maWdkYXRhX2lkMigpKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHRlcm1pbmFsICE9IG51bGwpIGJhc2VSZWxhdGlvbkluZm8uc2V0Q29kZShkZXZpY2UuZ2V0Q29kZSgpKTsgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm9obS1mcmFtZXdvcmstbGliPC9hcnRpZmFjdElkPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXNlIGNvbS53YW5kYS5vaG0uY21kYi5jb25zdGFudC5DTURCQ29uc3RhbnRzLlRBQkxFX1RFUk1JTkFMOgogICAgICAgICAgICAgICAgICAgICAgICBUZXJtaW5hbCB0ZXJtaW5hbCA9IHRlcm1pbmFsUmVsYXRpb25EYW8uZ2V0VGVybWluYWwoci5nZXRDb25maWdkYXRhX2lkMigpKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHRlcm1pbmFsICE9IG51bGwpIGJhc2VSZWxhdGlvbkluZm8uc2V0Q29kZShkZXZpY2UuZ2V0Q29kZSgpKTsgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxncm91cElkPmNvbS53YW5kYS5vaG08L2dyb3VwSWQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXNlIGNvbS53YW5kYS5vaG0uY21kYi5jb25zdGFudC5DTURCQ29uc3RhbnRzLlRBQkxFX1RFUk1JTkFMOgogICAgICAgICAgICAgICAgICAgICAgICBUZXJtaW5hbCB0ZXJtaW5hbCA9IHRlcm1pbmFsUmVsYXRpb25EYW8uZ2V0VGVybWluYWwoci5nZXRDb25maWdkYXRhX2lkMSgpKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHRlcm1pbmFsICE9IG51bGwpIGJhc2VSZWxhdGlvbkluZm8uc2V0Q29kZShkZXZpY2UuZ2V0Q29kZSgpKTsgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXNlIGNvbS53YW5kYS5vaG0uY21kYi5jb25zdGFudC5DTURCQ29uc3RhbnRzLlRBQkxFX1RFUk1JTkFMOgogICAgICAgICAgICAgICAgICAgICAgICBUZXJtaW5hbCB0ZXJtaW5hbCA9IHRlcm1pbmFsUmVsYXRpb25EYW8uZ2V0VGVybWluYWwoci5nZXRDb25maWdkYXRhX2lkMSgpKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHRlcm1pbmFsICE9IG51bGwpIGJhc2VSZWxhdGlvbkluZm8uc2V0Q29kZShkZXZpY2UuZ2V0Q29kZSgpKTsgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBnZXRTcHJpbmdDbG91ZFJlZ2lzdGVyKGVudik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXNlIGNvbS53YW5kYS5vaG0uY21kYi5jb25zdGFudC5DTURCQ29uc3RhbnRzLlRBQkxFX1RFUk1JTkFMOgogICAgICAgICAgICAgICAgICAgICAgICBUZXJtaW5hbCB0ZXJtaW5hbCA9IHRlcm1pbmFsUmVsYXRpb25EYW8uZ2V0VGVybWluYWwoci5nZXRDb25maWdkYXRhX2lkMigpKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHRlcm1pbmFsICE9IG51bGwpIGJhc2VSZWxhdGlvbkluZm8uc2V0Q29kZShkZXZpY2UuZ2V0Q29kZSgpKTsgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBOT0RFSlM6Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXNlIGNvbS53YW5kYS5vaG0uY21kYi5jb25zdGFudC5DTURCQ29uc3RhbnRzLlRBQkxFX1RFUk1JTkFMOgogICAgICAgICAgICAgICAgICAgICAgICBUZXJtaW5hbCB0ZXJtaW5hbCA9IHRlcm1pbmFsUmVsYXRpb25EYW8uZ2V0VGVybWluYWwoci5nZXRDb25maWdkYXRhX2lkMSgpKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHRlcm1pbmFsICE9IG51bGwpIGJhc2VSZWxhdGlvbkluZm8uc2V0Q29kZShkZXZpY2UuZ2V0Q29kZSgpKTsgYnJlYWs7Cg==</text>
