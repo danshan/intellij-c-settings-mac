@@ -44,7 +44,6 @@
         <mark key="." line="255" column="24" />
         <mark key="^" line="289" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/src/main/java/com/wanda/ohm/siberia/service/workflow/register/SpringCloudRegister.java" timestamp="1495070370195" />
       <file name="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/src/main/java/com/wanda/ohm/siberia/service/workflow/register/NodeJsRegister.java" timestamp="1495070411369">
         <mark key="[" line="58" column="143" />
         <mark key="]" line="58" column="143" />
@@ -56,6 +55,11 @@
         <mark key="]" line="300" column="78" />
         <mark key="." line="300" column="78" />
         <mark key="^" line="300" column="78" />
+      </file>
+      <file name="$USER_HOME$/workspace/wanda/dansible/roles/app_springcloud/tasks/deploy_app.yml" timestamp="1495070691716">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/personal/webhook-bearychat/README.md" timestamp="1494204037472">
         <mark key="[" line="17" column="66" />
@@ -98,6 +102,12 @@
       </file>
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/entity/Terminal.java" timestamp="1494318869027">
         <mark key="'" line="336" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/wanda/dansible/_app_nodejs_nodes_update.yml" timestamp="1495071019391">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="29" column="30" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/constant/CMDBConstants.java" timestamp="1494304289854">
         <mark key="[" line="27" column="110" />
@@ -151,6 +161,12 @@
         <mark key="]" line="30" column="77" />
         <mark key="." line="30" column="77" />
         <mark key="^" line="30" column="86" />
+      </file>
+      <file name="$USER_HOME$/workspace/wanda/dansible/roles/app_nodejs/tasks/deploy_app.yml" timestamp="1495071041189">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+        <mark key="^" line="4" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/personal/webhook-bearychat/src/main/docker/Dockerfile" timestamp="1494204053474">
         <mark key="[" line="4" column="25" />
@@ -238,11 +254,11 @@
       <jump line="336" column="17" filename="$USER_HOME$/workspace/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/entity/Terminal.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gdG9EZXBsb3lIb3N0cyA9IExpc3RzLm5ld0xpbmtlZExpc3QoKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">amFyIA==</text>
       </register>
       <register name="-" type="4">
-        <text>SpringCloudRegister</text>
+        <text encoding="base64">amFyIA==</text>
       </register>
       <register name="/" type="4">
         <text>termin</text>
@@ -251,31 +267,31 @@
         <text encoding="base64">ICAgIHByaXZhdGUgVGFza1N0ZXBSZWdpc3RlciBnZXRTcHJpbmdDbG91ZFJlZ2lzdGVyKEVudiBlbnYpIHsKICAgICAgICByZXR1cm4gbmV3IFNwcmluZ0Nsb3VkUmVnaXN0ZXIoY29udGV4dCk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gdG9EZXBsb3lIb3N0cyA9IExpc3RzLm5ld0xpbmtlZExpc3QoKTsK</text>
+        <text encoding="base64">ICAgIC0gaW5jbHVkZTogcm9sZXMvYXBwX3NwcmluZ2Nsb3VkL3Rhc2tzL3N0YXJ0X2FwcC55bWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2ZXJzaW9uPiR7b2htLWZyYW1ld29yay1saWIudmVyc2lvbn08L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgIC0gaW5jbHVkZTogcm9sZXMvYXBwX3NwcmluZ2Nsb3VkL3Rhc2tzL3N0b3BfYXBwLnltbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm9obS1mcmFtZXdvcmstbGliPC9hcnRpZmFjdElkPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxncm91cElkPmNvbS53YW5kYS5vaG08L2dyb3VwSWQ+Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">LSBuYW1lOiBkb3dubG9hZCBqYXIgZmlsZSBmcm9tIGhkZnMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBnZXRTcHJpbmdDbG91ZFJlZ2lzdGVyKGVudik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBOT0RFSlM6Cg==</text>
+        <text encoding="base64">ZGVidWc6IG1zZz0iZG93bmxvYWQgcnVubmFibGUgZmlsZXMgdG8gZGVwbG95Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXNlIGNvbS53YW5kYS5vaG0uY21kYi5jb25zdGFudC5DTURCQ29uc3RhbnRzLlRBQkxFX1RFUk1JTkFMOgogICAgICAgICAgICAgICAgICAgICAgICBUZXJtaW5hbCB0ZXJtaW5hbCA9IHRlcm1pbmFsUmVsYXRpb25EYW8uZ2V0VGVybWluYWwoci5nZXRDb25maWdkYXRhX2lkMSgpKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHRlcm1pbmFsICE9IG51bGwpIGJhc2VSZWxhdGlvbkluZm8uc2V0Q29kZShkZXZpY2UuZ2V0Q29kZSgpKTsgYnJlYWs7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
