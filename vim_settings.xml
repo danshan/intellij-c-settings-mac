@@ -180,12 +180,12 @@
         <mark key="." line="81" column="0" />
         <mark key="^" line="54" column="70" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/jenkins-scripts/package_nodejs.sh" timestamp="1495073277190">
+      <file name="$USER_HOME$/workspace/wanda/jenkins-scripts/package_nodejs.sh" timestamp="1495158522664">
         <mark key="'" line="16" column="41" />
-        <mark key="[" line="16" column="40" />
-        <mark key="]" line="16" column="40" />
-        <mark key="." line="16" column="40" />
-        <mark key="^" line="16" column="44" />
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="6" />
+        <mark key="." line="16" column="6" />
+        <mark key="^" line="16" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/entity/ex/RackStatisticsDetail.java" timestamp="1495081493432">
         <mark key="[" line="32" column="30" />
