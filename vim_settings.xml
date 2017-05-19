@@ -211,6 +211,11 @@
         <mark key="^" line="33" column="42" />
         <mark key="." line="33" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/wanda/dansible/inventory" timestamp="1495164995376">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="10" />
+        <mark key="." line="1" column="10" />
+      </file>
       <file name="$USER_HOME$/workspace/personal/webhook-bearychat/README.md" timestamp="1494204037472">
         <mark key="[" line="17" column="66" />
         <mark key="]" line="17" column="56" />
@@ -342,7 +347,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAjdW5hcmNoaXZlOiBzcmM9e3sgcHJlX2ZvbGRlciB9fS97eyBhcHAgfX0uemlwIGRlc3Q9e3sgcHJlX2ZvbGRlciB9fSBjb3B5PW5vCg==</text>
+        <text encoding="base64">MTAuMjE0LjE2OC5bMToyNTVdCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ZGVsZXRlIA==</text>
@@ -351,7 +356,7 @@
         <text>prep</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LSBuYW1lOiBkZWxldGUgc3RhdGljIGZpbGVzCiAgZmlsZToKICAgIHN0YXRlOiBhYnNlbnQKICAgIHBhdGg6ICJ7eyBhcHBzX2ZvbGRlciB9fS8iCg==</text>
+        <text encoding="base64">MTAuMjE0LjE2OC5bMToyNTVdCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAjdW5hcmNoaXZlOiBzcmM9e3sgcHJlX2ZvbGRlciB9fS97eyBhcHAgfX0uemlwIGRlc3Q9e3sgcHJlX2ZvbGRlciB9fSBjb3B5PW5vCg==</text>
@@ -381,7 +386,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY2hhcnQiPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -405,6 +410,7 @@
       <history-cmd>
         <entry>ww</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
