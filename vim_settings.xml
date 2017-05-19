@@ -8,11 +8,6 @@
         <mark key="]" line="305" column="71" />
         <mark key="." line="305" column="71" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/_main/M_SERVICE.java" timestamp="1495079754776">
-        <mark key="[" line="19" column="62" />
-        <mark key="]" line="19" column="62" />
-        <mark key="." line="19" column="62" />
-      </file>
       <file name="/a.dummy" timestamp="1493784353798">
         <mark key="[" line="0" column="0" />
       </file>
@@ -42,6 +37,12 @@
         <mark key="]" line="58" column="143" />
         <mark key="." line="58" column="143" />
         <mark key="^" line="58" column="143" />
+      </file>
+      <file name="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/src/main/resources/assets/siberia/template/dashboard.html" timestamp="1495162849418">
+        <mark key="[" line="90" column="43" />
+        <mark key="]" line="90" column="44" />
+        <mark key="^" line="123" column="59" />
+        <mark key="." line="90" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/controller/VmController.java" timestamp="1494305761800">
         <mark key="[" line="300" column="71" />
@@ -93,6 +94,13 @@
         <mark key="." line="132" column="44" />
         <mark key="^" line="132" column="44" />
       </file>
+      <file name="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/src/main/resources/assets/siberia/js/dashboardController.js" timestamp="1495162861643">
+        <mark key="'" line="153" column="29" />
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="." line="155" column="0" />
+        <mark key="^" line="153" column="28" />
+      </file>
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/constant/CMDBConstants.java" timestamp="1494306139509">
         <mark key="[" line="27" column="110" />
         <mark key="]" line="25" column="56" />
@@ -120,6 +128,11 @@
         <mark key="]" line="285" column="78" />
         <mark key="." line="285" column="78" />
         <mark key="^" line="285" column="78" />
+      </file>
+      <file name="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/src/main/java/com/wanda/ohm/siberia/entity/task/dto/SibTaskGroupCntDTO.java" timestamp="1495162564954">
+        <mark key="[" line="19" column="19" />
+        <mark key="]" line="19" column="19" />
+        <mark key="." line="19" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/_main/GenerateTool.java" timestamp="1494305207357">
         <mark key="[" line="89" column="16" />
@@ -187,6 +200,11 @@
         <mark key="." line="16" column="6" />
         <mark key="^" line="16" column="6" />
       </file>
+      <file name="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/src/main/java/com/wanda/ohm/siberia/entity/entity/SibTaskGroupCnt.java" timestamp="1495162439295">
+        <mark key="[" line="19" column="19" />
+        <mark key="]" line="19" column="19" />
+        <mark key="." line="19" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/entity/ex/RackStatisticsDetail.java" timestamp="1495081493432">
         <mark key="[" line="32" column="30" />
         <mark key="]" line="33" column="42" />
@@ -208,14 +226,20 @@
         <mark key="^" line="26" column="42" />
         <mark key="." line="26" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494575313613">
+      <file name="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/src/main/java/com/wanda/ohm/siberia/edge/cap/controller/TaskController.java" timestamp="1495162732705">
+        <mark key="[" line="250" column="55" />
+        <mark key="]" line="250" column="65" />
+        <mark key="." line="250" column="65" />
+        <mark key="^" line="250" column="65" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1495163242023">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/dansible/_app_nodejs_nodes_update.yml" timestamp="1495071019391">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="29" column="30" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/workspace/wanda/dansible/_app_nodejs_nodes_update.yml" timestamp="1495163259908">
+        <mark key="[" line="29" column="30" />
+        <mark key="]" line="29" column="31" />
+        <mark key="^" line="16" column="21" />
+        <mark key="." line="29" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/constant/CMDBConstants.java" timestamp="1494304289854">
         <mark key="[" line="27" column="110" />
@@ -223,6 +247,7 @@
         <mark key="." line="25" column="56" />
         <mark key="^" line="25" column="56" />
       </file>
+      <file name="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/src/main/java/com/wanda/ohm/siberia/dao/mapper/SibTaskMapper.java" timestamp="1495162412437" />
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/controller/RackController.java" timestamp="1494305861609">
         <mark key="[" line="306" column="0" />
         <mark key="]" line="306" column="0" />
@@ -234,13 +259,13 @@
         <mark key="." line="30" column="77" />
         <mark key="^" line="30" column="86" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/dansible/roles/app_nodejs/tasks/deploy_app.yml" timestamp="1495072344654">
-        <mark key="[" line="7" column="42" />
-        <mark key="]" line="4" column="21" />
-        <mark key="." line="4" column="21" />
-        <mark key="^" line="4" column="21" />
+      <file name="$USER_HOME$/workspace/wanda/dansible/roles/app_nodejs/tasks/deploy_app.yml" timestamp="1495160948778">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+        <mark key="^" line="7" column="29" />
       </file>
-      <file name="/fragment.java" timestamp="1495080997683">
+      <file name="/fragment.java" timestamp="1495162148029">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -311,55 +336,58 @@
       <jump line="87" column="70" filename="$USER_HOME$/workspace/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/web/service/ex/UpdateService.java" />
       <jump line="214" column="25" filename="$USER_HOME$/workspace/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/web/service/ex/BaseService.java" />
       <jump line="36" column="4" filename="$USER_HOME$/workspace/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/web/service/ex/UpdateService.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/src/main/resources/assets/siberia/js/dashboardController.js" />
+      <jump line="160" column="0" filename="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/src/main/resources/assets/siberia/js/dashboardController.js" />
+      <jump line="153" column="29" filename="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/src/main/resources/assets/siberia/js/dashboardController.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIGlmIChvYmogaW5zdGFuY2VvZiBUZXJtaW5hbCkgewogICAgICAgICAgICAgICAgY2hlY2tUZXJtaW5hbFNOKChUZXJtaW5hbCkgb2JqKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2FkRGVwbG95Q2hhcnQoJ3N0YWdlJyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>manage_ip</text>
+        <text>getProject</text>
       </register>
       <register name="/" type="4">
-        <text>target</text>
+        <text>prep</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CUBBdXRvd2lyZWQKICAgIHByaXZhdGUgRGV2aWNlQ2xpZW50IGRldmljZUNsaWVudDsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHByb2plY3Q7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIGlmIChvYmogaW5zdGFuY2VvZiBUZXJtaW5hbCkgewogICAgICAgICAgICAgICAgY2hlY2tUZXJtaW5hbFNOKChUZXJtaW5hbCkgb2JqKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2FkRGVwbG95Q2hhcnQoJ3N0YWdlJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJdGhyb3cgbmV3IFVuaXF1ZUZpZWxkRXhjZXB0aW9uKGlwcyArICLlt7LlrZjlnKjlnKjkuo5EZXZpY2XkuK3vvIzlv4XpobvllK/kuIAiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tIC8uYm94LWJvZHkgLS0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlpZihpZHMuY29udGFpbnMoZGV2aWNlLmlkKSl7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlMaXN0PExvbmc+IGlkcyA9IGRldmljZVNlcnZpY2UucXVlcnlNZUFuZFNpYmxpbmdzRm9ySWRzKExpc3RzLm5ld0FycmF5TGlzdChpbikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlpbi52YWx1ZXMgPSBpcHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgaWQ9InN0YWdlRGVwbG95Q2hhcnQiIHN0eWxlPSJoZWlnaHQ6IDM1MHB4OyB3aWR0aDogMTAwJSIgPjwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpbi50YWJsZU5hbWUgPSAiZGV2aWNlIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY2hhcnQiPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlpbi5jb2x1bW5OYW1lID0gIm1hbmFnZV9pcCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJib3gtYm9keSI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>target</last-search>
+      <last-search>prep</last-search>
       <last-offset />
-      <last-pattern>target</last-pattern>
+      <last-pattern>prep</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -372,8 +400,10 @@
         <entry encoding="base64">XDxMaXN0XD4=</entry>
         <entry>termin</entry>
         <entry>target</entry>
+        <entry>prep</entry>
       </history-search>
       <history-cmd>
+        <entry>ww</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
