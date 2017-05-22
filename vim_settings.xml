@@ -265,11 +265,11 @@
       <file name="/fragment.java" timestamp="1495162148029">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/CPG/sonar-project.properties" timestamp="1495434106261">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="5" column="0" />
+      <file name="$USER_HOME$/workspace/wanda/CPG/sonar-project.properties" timestamp="1495434947808">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
         <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -345,11 +345,11 @@
       <jump line="308" column="25" filename="$USER_HOME$/workspace/wanda/CPG/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c29uYXIuc291cmNlcz0uCg==</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>prep</text>
