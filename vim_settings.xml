@@ -117,9 +117,7 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/CPG/pom.xml" timestamp="1495431532963">
-        <mark key="'" line="308" column="25" />
-      </file>
+      <file name="$USER_HOME$/workspace/wanda/CPG/pom.xml" timestamp="1495431532963" />
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/controller/ProjectController.java" timestamp="1495080847906">
         <mark key="[" line="285" column="71" />
         <mark key="]" line="285" column="78" />
@@ -267,11 +265,11 @@
       <file name="/fragment.java" timestamp="1495162148029">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/CPG/sonar-project.properties" timestamp="1495431614483">
-        <mark key="[" line="4" column="13" />
-        <mark key="]" line="4" column="13" />
-        <mark key="^" line="4" column="13" />
-        <mark key="." line="4" column="13" />
+      <file name="$USER_HOME$/workspace/wanda/CPG/sonar-project.properties" timestamp="1495434106261">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -347,47 +345,47 @@
       <jump line="308" column="25" filename="$USER_HOME$/workspace/wanda/CPG/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c29uYXIuc291cmNlcz0uCg==</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>prep</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">MTAuMjE0LjE2OC5bMToyNTVdCg==</text>
+        <text encoding="base64">ICB1cHAtY3BnLXdlYnNpdGUsXAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAjdW5hcmNoaXZlOiBzcmM9e3sgcHJlX2ZvbGRlciB9fS97eyBhcHAgfX0uemlwIGRlc3Q9e3sgcHJlX2ZvbGRlciB9fSBjb3B5PW5vCg==</text>
+        <text encoding="base64">c29uYXIuc291cmNlcz0uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2FkRGVwbG95Q2hhcnQoJ3N0YWdlJyk7Cg==</text>
+        <text encoding="base64">c29uYXIudGVzdHM9c3JjL3Rlc3QvamF2YQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">c29uYXIuc291cmNlcz1zcmMvbWFpbi9qYXZhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tIC8uYm94LWJvZHkgLS0+Cg==</text>
+        <text encoding="base64">ICB1cHAtY3BnLWNwLWJpemNsaWVudCxcCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAjdW5hcmNoaXZlOiBzcmM9e3sgcHJlX2ZvbGRlciB9fS97eyBhcHAgfX0uemlwIGRlc3Q9e3sgcHJlX2ZvbGRlciB9fSBjb3B5PW5vCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2FkRGVwbG95Q2hhcnQoJ3N0YWdlJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgaWQ9InN0YWdlRGVwbG95Q2hhcnQiIHN0eWxlPSJoZWlnaHQ6IDM1MHB4OyB3aWR0aDogMTAwJSIgPjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY2hhcnQiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -410,8 +408,8 @@
       </history-search>
       <history-cmd>
         <entry>ww</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -425,6 +423,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
