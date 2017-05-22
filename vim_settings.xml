@@ -117,7 +117,12 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/CPG/pom.xml" timestamp="1495431532963" />
+      <file name="$USER_HOME$/workspace/wanda/CPG/pom.xml" timestamp="1495443502464">
+        <mark key="[" line="56" column="73" />
+        <mark key="]" line="56" column="73" />
+        <mark key="." line="56" column="73" />
+        <mark key="^" line="56" column="73" />
+      </file>
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/controller/ProjectController.java" timestamp="1495080847906">
         <mark key="[" line="285" column="71" />
         <mark key="]" line="285" column="78" />
@@ -265,12 +270,12 @@
       <file name="/fragment.java" timestamp="1495162148029">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/CPG/sonar-project.properties" timestamp="1495439131590">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="27" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/workspace/wanda/CPG/sonar-project.properties" timestamp="1495441010250">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="1" column="30" />
+        <mark key="." line="28" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -347,11 +352,11 @@
       <jump line="5" column="0" filename="$USER_HOME$/workspace/wanda/CPG/sonar-project.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c29uYXIudmVyc2lvbj0xLjEuMC1TTkFQU0hPVAo=</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>sonar.java.coveragePlugin=</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>prep</text>
@@ -387,7 +392,7 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -410,8 +415,8 @@
       </history-search>
       <history-cmd>
         <entry>ww</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
