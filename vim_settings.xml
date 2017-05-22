@@ -168,8 +168,6 @@
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/entity/ex/RackStatistics.java" timestamp="1495081484704">
         <mark key="[" line="26" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/web/controller/ProjectController.java" timestamp="1495080897113" />
-      <file name="$MAVEN_REPOSITORY$/io/github/openfeign/feign-hystrix/9.3.1/feign-hystrix-9.3.1.jar!/feign/hystrix/HystrixInvocationHandler.class" timestamp="1495080067588" />
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/web/util/QueryUtils.java" timestamp="1494318785618">
         <mark key="[" line="108" column="12" />
         <mark key="]" line="146" column="86" />
@@ -237,7 +235,7 @@
         <mark key="." line="250" column="65" />
         <mark key="^" line="250" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495163242023">
+      <file name="/Dummy.txt" timestamp="1495415903171">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/wanda/dansible/_app_nodejs_nodes_update.yml" timestamp="1495163259908">
@@ -252,7 +250,6 @@
         <mark key="." line="25" column="56" />
         <mark key="^" line="25" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/src/main/java/com/wanda/ohm/siberia/dao/mapper/SibTaskMapper.java" timestamp="1495162412437" />
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/controller/RackController.java" timestamp="1494305861609">
         <mark key="[" line="306" column="0" />
         <mark key="]" line="306" column="0" />
