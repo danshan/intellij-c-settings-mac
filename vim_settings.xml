@@ -26,12 +26,6 @@
         <mark key="^" line="26" column="213" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/web/service/ex/BaseService.java" timestamp="1495086542207">
-        <mark key="'" line="223" column="25" />
-        <mark key="[" line="178" column="0" />
-        <mark key="]" line="178" column="0" />
-        <mark key="." line="178" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/src/main/java/com/wanda/ohm/siberia/service/workflow/register/NodeJsRegister.java" timestamp="1495070411369">
         <mark key="[" line="58" column="143" />
         <mark key="]" line="58" column="143" />
@@ -122,6 +116,9 @@
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/wanda/CPG/pom.xml" timestamp="1495431532963">
+        <mark key="'" line="308" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/controller/ProjectController.java" timestamp="1495080847906">
         <mark key="[" line="285" column="71" />
@@ -235,7 +232,7 @@
         <mark key="." line="250" column="65" />
         <mark key="^" line="250" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495415903171">
+      <file name="/Dummy.txt" timestamp="1495431426251">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/wanda/dansible/_app_nodejs_nodes_update.yml" timestamp="1495163259908">
@@ -269,6 +266,12 @@
       </file>
       <file name="/fragment.java" timestamp="1495162148029">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/wanda/CPG/sonar-project.properties" timestamp="1495431614483">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="13" />
+        <mark key="^" line="4" column="13" />
+        <mark key="." line="4" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -341,13 +344,14 @@
       <jump line="34" column="0" filename="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/src/main/resources/assets/siberia/js/dashboardController.js" />
       <jump line="160" column="0" filename="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/src/main/resources/assets/siberia/js/dashboardController.js" />
       <jump line="153" column="29" filename="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/src/main/resources/assets/siberia/js/dashboardController.js" />
+      <jump line="308" column="25" filename="$USER_HOME$/workspace/wanda/CPG/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">MTAuMjE0LjE2OC5bMToyNTVdCg==</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGVsZXRlIA==</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>prep</text>
