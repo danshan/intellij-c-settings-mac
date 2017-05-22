@@ -265,12 +265,12 @@
       <file name="/fragment.java" timestamp="1495162148029">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/CPG/sonar-project.properties" timestamp="1495436545475">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="25" />
-        <mark key="^" line="25" column="25" />
-        <mark key="." line="25" column="25" />
+      <file name="$USER_HOME$/workspace/wanda/CPG/sonar-project.properties" timestamp="1495437220987">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="27" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -347,8 +347,8 @@
       <jump line="5" column="0" filename="$USER_HOME$/workspace/wanda/CPG/sonar-project.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sonar.java.coveragePlugin=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c29uYXIudmVyc2lvbj0xLjEuMC1TTkFQU0hPVAo=</text>
       </register>
       <register name="-" type="4">
         <text>sonar.java.coveragePlugin=</text>
@@ -360,31 +360,31 @@
         <text encoding="base64">ICB1cHAtY3BnLXdlYnNpdGUsXAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c29uYXIudmVyc2lvbj0xLjEuMC1TTkFQU0hPVAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I3NvbmFyLmp1bml0LnJlcG9ydHNQYXRoPXRhcmdldC9zdXJlZmlyZS1yZXBvcnRzCiNzb25hci5zdXJlZmlyZS5yZXBvcnRzUGF0aD10YXJnZXQvc3VyZWZpcmUtcmVwb3J0cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">I3NvbmFyLmp1bml0LnJlcG9ydHNQYXRoPXRhcmdldC9zdXJlZmlyZS1yZXBvcnRzCiNzb25hci5zdXJlZmlyZS5yZXBvcnRzUGF0aD10YXJnZXQvc3VyZWZpcmUtcmVwb3J0cwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I3NvbmFyLmp1bml0LnJlcG9ydHNQYXRoPXRhcmdldC9zdXJlZmlyZS1yZXBvcnRzCiNzb25hci5zdXJlZmlyZS5yZXBvcnRzUGF0aD10YXJnZXQvc3VyZWZpcmUtcmVwb3J0cwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c29uYXIuc291cmNlcz0uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c29uYXIudGVzdHM9c3JjL3Rlc3QvamF2YQo=</text>
+        <text encoding="base64">c29uYXIuc291cmNlcz0uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c29uYXIuc291cmNlcz1zcmMvbWFpbi9qYXZhCg==</text>
+        <text encoding="base64">c29uYXIudGVzdHM9c3JjL3Rlc3QvamF2YQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">c29uYXIuc291cmNlcz1zcmMvbWFpbi9qYXZhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB1cHAtY3BnLWNwLWJpemNsaWVudCxcCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
