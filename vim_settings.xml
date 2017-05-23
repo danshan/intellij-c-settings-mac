@@ -270,12 +270,12 @@
       <file name="/fragment.java" timestamp="1495162148029">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/CPG/sonar-project.properties" timestamp="1495501052683">
+      <file name="$USER_HOME$/workspace/wanda/CPG/sonar-project.properties" timestamp="1495502134765">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="12" column="24" />
-        <mark key="^" line="12" column="24" />
-        <mark key="." line="12" column="24" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="8" column="36" />
+        <mark key="^" line="8" column="36" />
+        <mark key="." line="8" column="36" />
       </file>
     </filemarks>
     <jumps>
@@ -352,17 +352,17 @@
       <jump line="5" column="0" filename="$USER_HOME$/workspace/wanda/CPG/sonar-project.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c29uYXIuamF2YS5iaW5hcmllcz10YXJnZXQvY2xhc3Nlcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>libraries</text>
       </register>
       <register name="/" type="4">
-        <text>prep</text>
+        <text encoding="base64">XDxzb25hclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c29uYXIuamF2YS5saWJyYXJpZXM9dGFyZ2V0L2NsYXNzZXMK</text>
+        <text encoding="base64">c29uYXIuamF2YS5iaW5hcmllcz10YXJnZXQvY2xhc3Nlcwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c29uYXIuYmluYXJpZXM9dGFyZ2V0L2NsYXNzZXMK</text>
@@ -396,10 +396,10 @@
       </register>
     </registers>
     <search>
-      <last-search>prep</last-search>
+      <last-search encoding="base64">XDxzb25hclw+</last-search>
       <last-offset />
-      <last-pattern>prep</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxzb25hclw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -412,6 +412,7 @@
         <entry>termin</entry>
         <entry>target</entry>
         <entry>prep</entry>
+        <entry encoding="base64">XDxzb25hclw+</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
