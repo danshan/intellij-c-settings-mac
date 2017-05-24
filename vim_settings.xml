@@ -199,8 +199,15 @@
         <mark key="." line="16" column="6" />
         <mark key="^" line="16" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/webhook-bearychat/src/main/java/com/shanhh/bearychat/core/service/impl/BearychatServiceImpl.java" timestamp="1495586738708" />
-      <file name="$USER_HOME$/workspace/personal/webhook-bearychat/src/main/java/com/shanhh/bearychat/integration/nexus/service/NexusServiceImpl.java" timestamp="1495587284085" />
+      <file name="$USER_HOME$/workspace/personal/webhook-bearychat/src/main/java/com/shanhh/bearychat/core/service/impl/BearychatServiceImpl.java" timestamp="1495589688155">
+        <mark key="[" line="39" column="71" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/webhook-bearychat/src/main/java/com/shanhh/bearychat/integration/nexus/service/NexusServiceImpl.java" timestamp="1495590449819">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="^" line="80" column="31" />
+        <mark key="." line="81" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/src/main/java/com/wanda/ohm/siberia/entity/entity/SibTaskGroupCnt.java" timestamp="1495162439295">
         <mark key="[" line="19" column="19" />
         <mark key="]" line="19" column="19" />
@@ -258,7 +265,7 @@
         <mark key="]" line="306" column="0" />
         <mark key="." line="306" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/webhook-bearychat/src/main/java/com/shanhh/bearychat/core/openapi/impl/OpenApiImpl.java" timestamp="1495587190212" />
+      <file name="$USER_HOME$/workspace/personal/webhook-bearychat/src/main/java/com/shanhh/bearychat/core/openapi/impl/OpenApiImpl.java" timestamp="1495590275567" />
       <file name="$USER_HOME$/workspace/personal/webhook-bearychat/src/main/java/com/shanhh/bearychat/config/ScheduleConfig.java" timestamp="1494168645913">
         <mark key="[" line="30" column="77" />
         <mark key="]" line="30" column="77" />
@@ -271,7 +278,7 @@
         <mark key="." line="21" column="65" />
         <mark key="^" line="21" column="65" />
       </file>
-      <file name="/fragment.java" timestamp="1495586708048">
+      <file name="/fragment.java" timestamp="1495590276170">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/wanda/CPG/sonar-project.properties" timestamp="1495506816383">
@@ -357,43 +364,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c29uYXIuamF2YS5iaW5hcmllcz10YXJnZXQvY2xhc3Nlcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5leHVzUGF5bG9hZC5nZXRDb21wb25lbnQoKS5nZXRGb3JtYXQoKSwK</text>
       </register>
       <register name="-" type="4">
-        <text>libraries</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzb25hclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c29uYXIuamF2YS5iaW5hcmllcz10YXJnZXQvY2xhc3Nlcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5leHVzUGF5bG9hZC5nZXRDb21wb25lbnQoKS5nZXROYW1lKCkpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c29uYXIuYmluYXJpZXM9dGFyZ2V0L2NsYXNzZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5leHVzUGF5bG9hZC5nZXRDb21wb25lbnQoKS5nZXRGb3JtYXQoKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c29uYXIuYmluYXJpZXM9dGFyZ2V0L2NsYXNzZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5leHVzUGF5bG9hZC5nZXRBY3Rpb24oKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c29uYXIuamF2YS5saWJyYXJpZXM9dGFyZ2V0L2NsYXNzZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5leHVzUGF5bG9hZC5nZXRSZXBvc2l0b3J5KCksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I3NvbmFyLnN1cmVmaXJlLnJlcG9ydHNQYXRocz10YXJnZXQvc3VyZWZpcmUtcmVwb3J0cwo=</text>
+        <text encoding="base64">c29uYXIuYmluYXJpZXM9dGFyZ2V0L2NsYXNzZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I3NvbmFyLmp1bml0LnJlcG9ydHNQYXRoPXRhcmdldC9zdXJlZmlyZS1yZXBvcnRzCg==</text>
+        <text encoding="base64">c29uYXIuYmluYXJpZXM9dGFyZ2V0L2NsYXNzZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c29uYXIuamF2YS5saWJyYXJpZXM9dGFyZ2V0L2NsYXNzZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I3NvbmFyLmphY29jby5yZXBvcnRQYXRoPXRhcmdldC9qYWNvY28vamFjb2NvLXVuaXQuZXhlYwo=</text>
+        <text encoding="base64">I3NvbmFyLnN1cmVmaXJlLnJlcG9ydHNQYXRocz10YXJnZXQvc3VyZWZpcmUtcmVwb3J0cwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I3NvbmFyLmphY29jby5yZXBvcnRQYXRoPXRhcmdldC9qYWNvY28vamFjb2NvLXVuaXQuZXhlYwojc29uYXIuanVuaXQucmVwb3J0c1BhdGg9dGFyZ2V0L3N1cmVmaXJlLXJlcG9ydHMKI3NvbmFyLnN1cmVmaXJlLnJlcG9ydHNQYXRocz10YXJnZXQvc3VyZWZpcmUtcmVwb3J0cwo=</text>
+        <text encoding="base64">I3NvbmFyLmp1bml0LnJlcG9ydHNQYXRoPXRhcmdldC9zdXJlZmlyZS1yZXBvcnRzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBKYWNvY28gY29uZmlndXJhdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
