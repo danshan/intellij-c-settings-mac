@@ -232,11 +232,11 @@
         <mark key="." line="68" column="23" />
         <mark key="^" line="68" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/shanhh-jekyll/jekyll/_config.yml" timestamp="1495695350581">
-        <mark key="[" line="27" column="16" />
-        <mark key="]" line="25" column="60" />
-        <mark key="^" line="25" column="60" />
-        <mark key="." line="25" column="60" />
+      <file name="$USER_HOME$/workspace/personal/shanhh-jekyll/jekyll/_config.yml" timestamp="1495715193525">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="12" />
+        <mark key="^" line="16" column="12" />
+        <mark key="." line="16" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/personal/webhook-bearychat/src/main/java/com/shanhh/bearychat/core/service/impl/BearychatServiceImpl.java" timestamp="1495589688155">
         <mark key="[" line="39" column="71" />
@@ -332,7 +332,7 @@
         <mark key="]" line="306" column="0" />
         <mark key="." line="306" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/shanhh-jekyll/jekyll_bak/_config.yml" timestamp="1495695305146">
+      <file name="$USER_HOME$/workspace/personal/shanhh-jekyll/jekyll_bak/_config.yml" timestamp="1495714998742">
         <mark key="[" line="3" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/personal/webhook-bearychat/src/main/java/com/shanhh/bearychat/config/ScheduleConfig.java" timestamp="1494168645913">
@@ -441,10 +441,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>唯品会</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>唯品会</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzb25hclw+</text>
