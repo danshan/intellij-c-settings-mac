@@ -21,6 +21,12 @@
         <mark key="^" line="438" column="120" />
         <mark key="." line="468" column="113" />
       </file>
+      <file name="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/src/main/java/com/wanda/ohm/siberia/service/workflow/register/SpringCloudRegister.java" timestamp="1495685024387">
+        <mark key="[" line="87" column="71" />
+        <mark key="]" line="87" column="67" />
+        <mark key="." line="87" column="67" />
+        <mark key="^" line="87" column="67" />
+      </file>
       <file name="$USER_HOME$/workspace/personal/shanhh-jekyll/Dockerfile" timestamp="1495672441612">
         <mark key="[" line="16" column="53" />
         <mark key="]" line="16" column="46" />
@@ -65,10 +71,10 @@
         <mark key="." line="300" column="78" />
         <mark key="^" line="300" column="78" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/dansible/roles/app_springcloud/tasks/deploy_app.yml" timestamp="1495070691716">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/workspace/wanda/dansible/roles/app_springcloud/tasks/deploy_app.yml" timestamp="1495685073989">
+        <mark key="[" line="11" column="92" />
+        <mark key="]" line="11" column="92" />
+        <mark key="." line="11" column="92" />
       </file>
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/util/CastUtils.java" timestamp="1494304327407">
         <mark key="[" line="89" column="28" />
@@ -115,6 +121,12 @@
         <mark key="." line="132" column="44" />
         <mark key="^" line="132" column="44" />
       </file>
+      <file name="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/src/main/java/com/wanda/ohm/siberia/edge/cap/controller/PipelineController.java" timestamp="1495684901880">
+        <mark key="[" line="187" column="64" />
+        <mark key="]" line="187" column="70" />
+        <mark key="." line="187" column="70" />
+        <mark key="^" line="187" column="70" />
+      </file>
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/constant/CMDBConstants.java" timestamp="1494306139509">
         <mark key="[" line="27" column="110" />
         <mark key="]" line="25" column="56" />
@@ -147,6 +159,11 @@
         <mark key="]" line="56" column="73" />
         <mark key="." line="56" column="73" />
         <mark key="^" line="56" column="73" />
+      </file>
+      <file name="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/src/main/java/com/wanda/ohm/siberia/entity/task/request/CreateTaskReq.java" timestamp="1495685361599">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/controller/ProjectController.java" timestamp="1495080847906">
         <mark key="[" line="285" column="71" />
@@ -192,8 +209,20 @@
         <mark key="^" line="146" column="96" />
         <mark key="." line="146" column="86" />
       </file>
+      <file name="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/src/main/java/com/wanda/ohm/siberia/edge/cap/controller/EnvController.java" timestamp="1495685568341">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="145" column="0" />
+        <mark key="^" line="116" column="61" />
+      </file>
       <file name="$USER_HOME$/workspace/personal/bearychat-webhook/src/main/java/com/shanhh/bearychat/cache/key/SessionKey.java" timestamp="1493647340672">
         <mark key="[" line="11" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/src/main/resources/assets/siberia/js/pipelineController.js" timestamp="1495684563049">
+        <mark key="[" line="90" column="33" />
+        <mark key="]" line="68" column="23" />
+        <mark key="." line="68" column="23" />
+        <mark key="^" line="68" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/personal/shanhh-jekyll/jekyll/_config.yml" timestamp="1495679970086">
         <mark key="[" line="1" column="7" />
@@ -253,11 +282,12 @@
         <mark key="^" line="26" column="42" />
         <mark key="." line="26" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/src/main/java/com/wanda/ohm/siberia/edge/cap/controller/TaskController.java" timestamp="1495162732705">
-        <mark key="[" line="250" column="55" />
-        <mark key="]" line="250" column="65" />
-        <mark key="." line="250" column="65" />
-        <mark key="^" line="250" column="65" />
+      <file name="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/src/main/java/com/wanda/ohm/siberia/edge/cap/controller/TaskController.java" timestamp="1495685349156">
+        <mark key="'" line="297" column="0" />
+        <mark key="[" line="126" column="47" />
+        <mark key="]" line="126" column="19" />
+        <mark key="." line="126" column="19" />
+        <mark key="^" line="126" column="19" />
       </file>
       <file name="/Dummy.txt" timestamp="1495678766202">
         <mark key="[" line="0" column="0" />
@@ -302,13 +332,18 @@
         <mark key="^" line="30" column="86" />
       </file>
       <file name="$USER_HOME$/workspace/personal/paper/_posts/2015-09-12-a-gentle-theme.markdown" timestamp="1495672482816" />
+      <file name="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/src/main/resources/assets/siberia/template/pipeline.html" timestamp="1495684120775">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/wanda/dansible/roles/app_nodejs/tasks/deploy_app.yml" timestamp="1495164299855">
         <mark key="[" line="21" column="76" />
         <mark key="]" line="21" column="65" />
         <mark key="." line="21" column="65" />
         <mark key="^" line="21" column="65" />
       </file>
-      <file name="/fragment.java" timestamp="1495590276170">
+      <file name="/fragment.java" timestamp="1495683449803">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -390,46 +425,47 @@
       <jump line="30" column="0" filename="$USER_HOME$/workspace/personal/shanhh-jekyll/jekyll/_config.yml" />
       <jump line="67" column="0" filename="$USER_HOME$/workspace/personal/shanhh-jekyll/jekyll/_config.yml" />
       <jump line="85" column="0" filename="$USER_HOME$/workspace/personal/shanhh-jekyll/jekyll/_config.yml" />
+      <jump line="298" column="0" filename="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/src/main/java/com/wanda/ohm/siberia/edge/cap/controller/TaskController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Paper Theme</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZ1V0aWxzLmRlZmF1bHRJZkJsYW5rKGFwcExvY2tSZXEuZ2V0TW9kdWxlKCksIGFwcExvY2tSZXEuZ2V0UHJvamVjdCgpKSwK</text>
       </register>
       <register name="-" type="4">
-        <text>Paper Theme</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzb25hclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I0ZST00gZGFuc2hhbi9zaGFuaGgtZG9ja2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZ1V0aWxzLnRyaW1Ub0VtcHR5KGFwcExvY2tSZXEuZ2V0TW9kdWxlKCkpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGVybWFsaW5rOiAvYWJvdXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZ1V0aWxzLmRlZmF1bHRJZkJsYW5rKGFwcExvY2tSZXEuZ2V0TW9kdWxlKCksIGFwcExvY2tSZXEuZ2V0UHJvamVjdCgpKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjcmVkaXRsaW5rOiBodHRwOi8vd3d3LmRhcmdhZGdldHouY29tL2lvcy03LWFic3RyYWN0LXdhbGxwYXBlci1wYWNrLWZvci1pcGhvbmUtNS1hbmQtaXBvZC10b3VjaC1yZXRpbmEvCg==</text>
+        <text encoding="base64">ICAgIEBTaXplKG1pbiA9IDEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1hZ2U6CiAgZmVhdHVyZTogYWJzdHJhY3QtMS5qcGcKICBjcmVkaXQ6IGRhcmdhZGdldHoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG1vZHVsZSA9IFN0cmluZ1V0aWxzLmlzQmxhbmsoY3JlYXRlVGFza1JlcS5nZXRNb2R1bGUoKSkKICAgICAgICAgICAgICAgICAgICA/IFN0cmluZ1V0aWxzLnRyaW1Ub0VtcHR5KGNyZWF0ZVRhc2tSZXEuZ2V0UHJvamVjdCgpKQogICAgICAgICAgICAgICAgICAgIDogU3RyaW5nVXRpbHMudHJpbVRvRW1wdHkoY3JlYXRlVGFza1JlcS5nZXRNb2R1bGUoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW5jbHVkZTogWyIuaHRhY2Nlc3MiXQo=</text>
+        <text encoding="base64">ICAgICAgICBTdGRkawo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW5jbHVkZTogWyIuaHRhY2Nlc3MiXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZXBsb3ltZW50UmVxLmdldFByb2plY3QoKS50cmltKCksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtb2R1bGUsCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzdHlsZTogY29tcHJlc3NlZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDogU3RyaW5nVXRpbHMudHJpbVRvRW1wdHkoZGVwbG95bWVudFJlcS5nZXRNb2R1bGUoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
