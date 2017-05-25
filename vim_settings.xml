@@ -232,11 +232,11 @@
         <mark key="." line="68" column="23" />
         <mark key="^" line="68" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/shanhh-jekyll/jekyll/_config.yml" timestamp="1495715193525">
-        <mark key="[" line="16" column="12" />
-        <mark key="]" line="16" column="12" />
-        <mark key="^" line="16" column="12" />
-        <mark key="." line="16" column="12" />
+      <file name="$USER_HOME$/workspace/personal/shanhh-jekyll/jekyll/_config.yml" timestamp="1495716778937">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="46" column="19" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/personal/webhook-bearychat/src/main/java/com/shanhh/bearychat/core/service/impl/BearychatServiceImpl.java" timestamp="1495589688155">
         <mark key="[" line="39" column="71" />
@@ -275,6 +275,12 @@
         <mark key="]" line="1" column="10" />
         <mark key="." line="1" column="10" />
       </file>
+      <file name="$USER_HOME$/workspace/personal/shanhh-jekyll/jekyll_bak/_includes/scripts.html" timestamp="1495716657483" />
+      <file name="$USER_HOME$/workspace/personal/shanhh-jekyll/jekyll/_includes/scripts.html" timestamp="1495716703415">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/personal/webhook-bearychat/README.md" timestamp="1494204037472">
         <mark key="[" line="17" column="66" />
         <mark key="]" line="17" column="56" />
@@ -297,7 +303,12 @@
         <mark key="." line="126" column="19" />
         <mark key="^" line="126" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495706076883">
+      <file name="$USER_HOME$/workspace/personal/shanhh-jekyll/jekyll/_layouts/default.html" timestamp="1495716722276">
+        <mark key="[" line="22" column="15" />
+        <mark key="]" line="22" column="15" />
+        <mark key="." line="22" column="15" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1495716779546">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/personal/shanhh-jekyll/jekyll/index.html" timestamp="1495679416615">
@@ -306,8 +317,8 @@
         <mark key="^" line="3" column="21" />
         <mark key="." line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/shanhh-jekyll/jekyll/_layouts/post.html" timestamp="1495678624380">
-        <mark key="[" line="143" column="105" />
+      <file name="$USER_HOME$/workspace/personal/shanhh-jekyll/jekyll/_layouts/post.html" timestamp="1495717075874">
+        <mark key="[" line="119" column="73" />
         <mark key="]" line="143" column="105" />
         <mark key="^" line="143" column="105" />
         <mark key="." line="143" column="105" />
@@ -332,7 +343,7 @@
         <mark key="]" line="306" column="0" />
         <mark key="." line="306" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/shanhh-jekyll/jekyll_bak/_config.yml" timestamp="1495714998742">
+      <file name="$USER_HOME$/workspace/personal/shanhh-jekyll/jekyll_bak/_config.yml" timestamp="1495716743080">
         <mark key="[" line="3" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/personal/webhook-bearychat/src/main/java/com/shanhh/bearychat/config/ScheduleConfig.java" timestamp="1494168645913">
@@ -440,44 +451,44 @@
       <jump line="63" column="4" filename="$USER_HOME$/workspace/personal/shanhh-jekyll/jekyll/css/main.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YmluZ192ZXJpZnk6Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>footer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzb25hclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoMz7pq5jnuqflvIDlj5Hlt6XnqIvluIggPHNwYW4gY2xhc3M9ImNvbXBhbnkiPkDllK/lk4HkvJo8L3NwYW4+PC9oMz4K</text>
+        <text encoding="base64">ICAgICAgICB7JSBpbmNsdWRlIGZvb3Rlci5odG1sICV9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoMz5JVCBQcmFjdGl0aW9uZXJzIEJURUMgTmF0aW9uYWwgRGlwbG9tYTwvaDM+Cg==</text>
+        <text encoding="base64">YmluZ192ZXJpZnk6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoMz4xMTA4IFN0dWRpb3M8L2gzPgo=</text>
+        <text encoding="base64">IyBodHRwczovL3NzbC5iaW5nLmNvbS93ZWJtYXN0ZXIvY29uZmlndXJlL3ZlcmlmeS9vd25lcnNoaXAgT3B0aW9uIDIgY29udGVudD0gZ29lcyBoZXJlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoMz5HYW1lcyAmIE11bHRpbWVkaWEgRW52aXJvbm1lbnRzIEJTYyAoSG9ucyk8L2gzPgo=</text>
+        <text encoding="base64">Z29vZ2xlX3ZlcmlmeTogCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LnRpbWVsaW5lIGgzIGEgewogIGNvbG9yOiAjMDAwMDAwOwogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LnRpbWVsaW5lIGgzIGEgewogIGNvbG9yOiAjMDAwMDAwOwp9Cg==</text>
+        <text encoding="base64">eyUgaWYgcGFnZS5jb21tZW50cyAhPSBmYWxzZSAlfXslIGluY2x1ZGUgZGlzcXVzX2NvbW1lbnRzLmh0bWwgJX17JSBlbmRpZiAlfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LnRpbWVsaW5lIGgzIC5jb21wYW55IHsKfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb2xvcjogIzAwMDAwMDsK</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Int7IHNpdGUuY2RuIH19L2Fzc2V0cy9qcy9zY3JpcHRzLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb2xvcjogJGdyZXktY29sb3I7Cg==</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ii8vY2RuLmJvb3Rjc3MuY29tL2pxdWVyeS8xLjkuMS9qcXVlcnkuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb2xvcjogIzAwMDAwMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoMz5JVCBQcmFjdGl0aW9uZXJzIEJURUMgTmF0aW9uYWwgRGlwbG9tYTwvaDM+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
