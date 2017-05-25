@@ -21,8 +21,8 @@
         <mark key="^" line="16" column="46" />
         <mark key="." line="16" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/shanhh-jekyll/jekyll/_includes/footer.html" timestamp="1495673675534">
-        <mark key="[" line="40" column="26" />
+      <file name="$USER_HOME$/workspace/personal/shanhh-jekyll/jekyll/_includes/footer.html" timestamp="1495675566026">
+        <mark key="[" line="40" column="35" />
         <mark key="]" line="40" column="26" />
         <mark key="^" line="40" column="26" />
         <mark key="." line="40" column="26" />
@@ -366,10 +366,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mademistakes</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>mademistakes</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzb25hclw+</text>
