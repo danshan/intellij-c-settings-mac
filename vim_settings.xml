@@ -155,11 +155,11 @@
         <mark key="." line="56" column="73" />
         <mark key="^" line="56" column="73" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/controller/ex/OauthControllerEx.java" timestamp="1495770831523">
+      <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/controller/ex/OauthControllerEx.java" timestamp="1495780775028">
         <mark key="[" line="34" column="59" />
-        <mark key="]" line="34" column="59" />
-        <mark key="^" line="34" column="46" />
-        <mark key="." line="34" column="59" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/controller/ProjectController.java" timestamp="1495080847906">
         <mark key="[" line="285" column="71" />
