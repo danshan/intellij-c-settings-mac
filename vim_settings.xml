@@ -13,6 +13,12 @@
         <mark key="]" line="305" column="71" />
         <mark key="." line="305" column="71" />
       </file>
+      <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/_main/Test.java" timestamp="1496211167891">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="23" column="4" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1493784353798">
         <mark key="[" line="0" column="0" />
       </file>
@@ -551,8 +557,8 @@
       <jump line="430" column="20" filename="$USER_HOME$/workspace/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/web/controller/PeopleController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>showcolumn</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>showcolumn</text>
@@ -564,31 +570,31 @@
         <text encoding="base64">ICAgICAgICBjb2x1bW5OYW1lcy5wdXQoInVwZGF0ZWRfdGltZSIsIGphdmEudXRpbC5EYXRlLmNsYXNzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2VsbCA9IGRhdGFSb3cuY3JlYXRlQ2VsbCgxMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCW9hdXRoQ2xpZW50LmFkZE9yVXBkYXRlKHVwZGF0ZWRQZW9wbGUuZ2V0Q29kZSgpLCBvbGRQZW9wbGUuZ2V0UGFzc3dvcmQoKSwgdXBkYXRlZFBlb3BsZS5nZXRTY29wZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsgLy8gaWdub3JlZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChxID09IGkpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjb3BlLCBzY29wZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vLi4uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCAxMDsgaSArKykgewo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN1bi5yZWZsZWN0LmdlbmVyaWNzLnNjb3BlLlNjb3BlOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBkb1NvbWV0aGluZ1doaWNoVGhyb3dzRXhjZXB0aW9uKCk7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiT0siKTsgICAvLyBpbmNvcnJlY3QgIk9LIiBtZXNzYWdlIGlzIHByaW50ZWQKICAgICAgICB9IGNhdGNoIChSdW50aW1lRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJFUlJPUiIpOyAgLy8gdGhpcyBtZXNzYWdlIGlzIG5vdCBzaG93bgogICAgICAgIH0KICAgIH0KCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgZG9Tb21ldGhpbmdXaGljaFRocm93c0V4Y2VwdGlvbigpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigpOwogICAgICAgIH0gZmluYWxseSB7CiAgICAvKiAuLi4gKi8KICAgICAgICAgICAgcmV0dXJuOyAgICAgIC8vIE5vbmNvbXBsaWFudCAtIHByZXZlbnRzIHRoZSBSdW50aW1lRXhjZXB0aW9uIGZyb20gYmVpbmcgcHJvcGFnYXRlZAogICAgICAgIH0KICAgIH0g</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKyAiI2lmKDoxMCE9IG51bGwpIHBob25lIGluICg6MTApIGFuZCAgI2Vsc2UgI2VuZCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKyAiI2lmKDo5IT0gbnVsbCkgcGhvbmUgbGlrZSA6OSBhbmQgICNlbHNlICNlbmQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
