@@ -107,7 +107,12 @@
         <mark key="^" line="88" column="44" />
         <mark key="." line="88" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/webhook-slack/src/main/java/com/shanhh/webhook/sonarqube/service/SonarServiceImpl.java" timestamp="1496304827327" />
+      <file name="$USER_HOME$/workspace/personal/webhook-slack/src/main/java/com/shanhh/webhook/sonarqube/service/SonarServiceImpl.java" timestamp="1496305979255">
+        <mark key="[" line="40" column="65" />
+        <mark key="]" line="40" column="65" />
+        <mark key="^" line="40" column="62" />
+        <mark key="." line="40" column="65" />
+      </file>
       <file name="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/config/dev/application.yml" timestamp="1495069925991">
         <mark key="[" line="53" column="13" />
         <mark key="]" line="53" column="17" />
@@ -198,6 +203,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/personal/webhook-bearychat/src/main/java/com/shanhh/bearychat/integration/sonarqube/service/SonarqubeServiceImpl.java" timestamp="1496305865537" />
       <file name="$USER_HOME$/workspace/wanda/CPG/pom.xml" timestamp="1495443502464">
         <mark key="[" line="56" column="73" />
         <mark key="]" line="56" column="73" />
@@ -246,6 +252,12 @@
       </file>
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/entity/ex/RackStatistics.java" timestamp="1495081484704">
         <mark key="[" line="26" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/webhook-slack/src/main/java/com/shanhh/webhook/slack/service/SlackServiceImpl.java" timestamp="1496306078568">
+        <mark key="[" line="47" column="87" />
+        <mark key="]" line="49" column="85" />
+        <mark key="." line="49" column="85" />
+        <mark key="^" line="44" column="72" />
       </file>
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/web/util/QueryUtils.java" timestamp="1496199701803">
         <mark key="[" line="150" column="102" />
@@ -522,11 +534,11 @@
       <jump line="430" column="20" filename="$USER_HOME$/workspace/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/web/controller/PeopleController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>showcolumn</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzb25hclw+</text>
@@ -535,31 +547,31 @@
         <text encoding="base64">ICAgICAgICBjb2x1bW5OYW1lcy5wdXQoInVwZGF0ZWRfdGltZSIsIGphdmEudXRpbC5EYXRlLmNsYXNzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiTk9fVkFMVUUiLmVxdWFscyhjb25kaXRpb24uZ2V0U3RhdHVzKCkpID8gIk5BIiA6IGNvbmRpdGlvbi5nZXRWYWx1ZSgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsgLy8gaWdub3JlZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25kaXRpb24uZ2V0RXJyb3JUaHJlc2hvbGQoKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChxID09IGkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25kaXRpb24uZ2V0T3BlcmF0b3IoKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vLi4uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25kaXRpb24uZ2V0TWV0cmljKCksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCAxMDsgaSArKykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nLmZvcm1hdCgiJXMgJXMgJXMgKipbJXNdKioiLAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBkb1NvbWV0aGluZ1doaWNoVGhyb3dzRXhjZXB0aW9uKCk7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiT0siKTsgICAvLyBpbmNvcnJlY3QgIk9LIiBtZXNzYWdlIGlzIHByaW50ZWQKICAgICAgICB9IGNhdGNoIChSdW50aW1lRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJFUlJPUiIpOyAgLy8gdGhpcyBtZXNzYWdlIGlzIG5vdCBzaG93bgogICAgICAgIH0KICAgIH0KCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgZG9Tb21ldGhpbmdXaGljaFRocm93c0V4Y2VwdGlvbigpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigpOwogICAgICAgIH0gZmluYWxseSB7CiAgICAvKiAuLi4gKi8KICAgICAgICAgICAgcmV0dXJuOyAgICAgIC8vIE5vbmNvbXBsaWFudCAtIHByZXZlbnRzIHRoZSBSdW50aW1lRXhjZXB0aW9uIGZyb20gYmVpbmcgcHJvcGFnYXRlZAogICAgICAgIH0KICAgIH0g</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzbGFjay5zZXRUZXh0KFN0cmluZy5mb3JtYXQoIiVzOiBgJXNgIiwgcGF5bG9hZC5nZXRQcm9qZWN0KCkuZ2V0TmFtZSgpLCBwYXlsb2FkLmdldFN0YXR1cygpKSk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzbGFjay5zZXRBdHRhY2htZW50cyhhdHRhY2htZW50cyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
