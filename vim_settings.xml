@@ -19,7 +19,6 @@
         <mark key="^" line="23" column="4" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/webhook-slack/src/main/java/com/shanhh/webhook/docker/beans/DockerPayload.java" timestamp="1496308646922" />
       <file name="/a.dummy" timestamp="1493784353798">
         <mark key="[" line="0" column="0" />
       </file>
@@ -227,7 +226,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/webhook-bearychat/src/main/java/com/shanhh/bearychat/integration/sonarqube/service/SonarqubeServiceImpl.java" timestamp="1496305865537" />
       <file name="$USER_HOME$/workspace/wanda/CPG/pom.xml" timestamp="1495443502464">
         <mark key="[" line="56" column="73" />
         <mark key="]" line="56" column="73" />
@@ -447,7 +445,6 @@
       <file name="$USER_HOME$/workspace/personal/shanhh-jekyll/jekyll/_posts/2010-11-23-set_max_count_of_log_files_for_log4j.md" timestamp="1495672694299">
         <mark key="[" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/webhook-slack/src/main/java/com/shanhh/webhook/daocloud/service/DaocloudService.java" timestamp="1496308749808" />
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/constant/CMDBConstants.java" timestamp="1494304289854">
         <mark key="[" line="27" column="110" />
         <mark key="]" line="25" column="56" />
@@ -498,6 +495,11 @@
       </file>
       <file name="/fragment.java" timestamp="1496373287479">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/wanda/CPG/sonar-project.properties" timestamp="1496462593143">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/personal/webhook-slack/src/main/java/com/shanhh/webhook/coding/beans/CodingEvent.java" timestamp="1496309261656">
         <mark key="[" line="42" column="16" />
@@ -603,10 +605,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">I3NvbmFyLmphdmEudGVzdC5saWJyYXJpZXM9dGFyZ2V0L3Rlc3QtY2xhc3Nlcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzb25hclw+</text>
@@ -615,31 +617,31 @@
         <text encoding="base64">ICAtRHNsYWNrLnNvbmFyPSIkU0xBQ0tfU09OQVIiIFwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">I3NvbmFyLmphdmEudGVzdC5saWJyYXJpZXM9dGFyZ2V0L3Rlc3QtY2xhc3Nlcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXR0YWNobWVudHMucmVtb3ZlKGF0dGFjaG1lbnRzLnNpemUoKSAtIDEpOwo=</text>
+        <text encoding="base64">I3NvbmFyLmphdmEudGVzdC5iaW5hcmllcz10YXJnZXQvdGVzdC1jbGFzc2VzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAoYXR0YWNobWVudHMuc2l6ZSgpID4gMzApIHsK</text>
+        <text encoding="base64">I3NvbmFyLmphdmEubGlicmFyaWVzPXRhcmdldC9jbGFzc2VzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAoYXR0YWNobWVudHMuc2l6ZSgpID4gMzApIHsKICAgICAgICAgICAgYXR0YWNobWVudHMucmVtb3ZlKGF0dGFjaG1lbnRzLnNpemUoKSAtIDEpOwogICAgICAgIH0KCiAgICAgICAgc2xhY2suc2V0VGV4dChTdHJpbmcuZm9ybWF0KCIlczogYCVzYCIsIHBheWxvYWQuZ2V0UHJvamVjdCgpLmdldE5hbWUoKSwgcGF5bG9hZC5nZXRTdGF0dXMoKSkpOwogICAgICAgIHNsYWNrLnNldEF0dGFjaG1lbnRzKGF0dGFjaG1lbnRzKTsKICAgICAgICBzbGFjay5zZXRNcmtkd25JbihBcnJheXMuYXNMaXN0KCJ0ZXh0IikpOwogICAgICAgIHJldHVybiBzbGFjazsKICAgIH0KCiAgICBwcml2YXRlIGJvb2xlYW4gY2hlY2tTa2lwKFNvbmFyUGF5bG9hZCBwYXlsb2FkKSB7CiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQp9Cg==</text>
+        <text encoding="base64">I3NvbmFyLmphdmEuYmluYXJpZXM9dGFyZ2V0L2NsYXNzZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2xhCg==</text>
+        <text encoding="base64">I3NvbmFyLmphY29jby5yZXBvcnRQYXRocz10YXJnZXQvamFjb2NvLmV4ZWMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKTsK</text>
+        <text encoding="base64">I3NvbmFyLnN1cmVmaXJlLnJlcG9ydHNQYXRoPXRhcmdldC9zdXJlZmlyZS1yZXBvcnRzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXR0YWNobWVudHMuYWRkKGF0dGFjaG1lbnQpOwo=</text>
+        <text encoding="base64">I3NvbmFyLmp1bml0LnJlcG9ydHNQYXRoPXRhcmdldC9zdXJlZmlyZS1yZXBvcnRzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAubXJrZHduSW4oQXJyYXlzLmFzTGlzdCgidGV4dCIpKQo=</text>
+        <text encoding="base64">I3NvbmFyLmphdmEuY292ZXJhZ2VQbHVnaW49amFjb2NvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbmRpdGlvbi5nZXRFcnJvclRocmVzaG9sZCgpLAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
