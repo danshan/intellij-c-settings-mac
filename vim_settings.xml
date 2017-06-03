@@ -125,10 +125,11 @@
         <mark key="^" line="88" column="44" />
         <mark key="." line="88" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/webhook-slack/src/main/java/com/shanhh/webhook/sonarqube/service/SonarServiceImpl.java" timestamp="1496381581819">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/workspace/personal/webhook-slack/src/main/java/com/shanhh/webhook/sonarqube/service/SonarServiceImpl.java" timestamp="1496472100118">
+        <mark key="[" line="41" column="49" />
+        <mark key="]" line="41" column="49" />
+        <mark key="." line="41" column="49" />
+        <mark key="^" line="41" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/config/dev/application.yml" timestamp="1495069925991">
         <mark key="[" line="53" column="13" />
@@ -604,11 +605,11 @@
       <jump line="10" column="17" filename="$USER_HOME$/workspace/personal/webhook-slack/src/main/java/com/shanhh/webhook/coding/beans/CodingPushPayload.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I3NvbmFyLmphdmEudGVzdC5saWJyYXJpZXM9dGFyZ2V0L3Rlc3QtY2xhc3Nlcwo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzb25hclw+</text>
