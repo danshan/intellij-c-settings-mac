@@ -99,7 +99,11 @@
         <mark key="^" line="6" column="86" />
       </file>
       <file name="$USER_HOME$/workspace/wanda/ohm-framework/pom.xml" timestamp="1496719680982" />
-      <file name="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/src/main/java/com/wanda/ohm/siberia/service/config/BizConfig.java" timestamp="1496722133036" />
+      <file name="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/src/main/java/com/wanda/ohm/siberia/service/config/BizConfig.java" timestamp="1496723478444">
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="20" column="12" />
+        <mark key="." line="20" column="12" />
+      </file>
       <file name="$USER_HOME$/workspace/wanda/CPG/pom.xml" timestamp="1496645886586">
         <mark key="[" line="56" column="73" />
         <mark key="]" line="56" column="73" />
@@ -648,11 +652,11 @@
       <jump line="156" column="0" filename="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1heFRvdGFsOiAzMDAK</text>
+      <register name="&quot;" type="4">
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text>ip</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzb25hclw+</text>
