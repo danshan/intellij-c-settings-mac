@@ -253,6 +253,7 @@
       <file name="$USER_HOME$/workspace/personal/paper/_config.yml" timestamp="1495760238904">
         <mark key="[" line="12" column="44" />
       </file>
+      <file name="$USER_HOME$/workspace/wanda/siberia/src/main/java/com/wanda/ohm/siberia/service/config/MyBatisSiberiaConfig.java" timestamp="1496729014704" />
       <file name="$USER_HOME$/workspace/personal/webhook-bearychat/src/main/java/com/shanhh/bearychat/config/ScheduleConfig.java" timestamp="1494168645913">
         <mark key="[" line="30" column="77" />
         <mark key="]" line="30" column="77" />
@@ -400,16 +401,18 @@
         <mark key="^" line="41" column="57" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/webhook-bearychat/pom.xml" timestamp="1494169708134">
+      <file name="$USER_HOME$/workspace/personal/webhook-bearychat/pom.xml" timestamp="1496728655703">
         <mark key="[" line="37" column="42" />
         <mark key="]" line="37" column="43" />
         <mark key="^" line="117" column="35" />
         <mark key="." line="37" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/siberia/pom.xml" timestamp="1496727763920">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/workspace/wanda/siberia/pom.xml" timestamp="1496729073577">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="113" column="31" />
+        <mark key="]" line="113" column="34" />
+        <mark key="." line="113" column="34" />
+        <mark key="^" line="113" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/personal/shanhh-jekyll/jekyll/about.md" timestamp="1495695728413">
         <mark key="[" line="3" column="0" />
@@ -544,7 +547,7 @@
         <mark key="." line="21" column="65" />
         <mark key="^" line="21" column="65" />
       </file>
-      <file name="/fragment.java" timestamp="1496727612513">
+      <file name="/fragment.java" timestamp="1496729208490">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/wanda/CPG/sonar-project.properties" timestamp="1496625891042">
@@ -555,9 +558,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="276" column="10" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
-      <jump line="234" column="13" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
-      <jump line="142" column="0" filename="$USER_HOME$/workspace/wanda/spring-boot-test-demo/pom.xml" />
       <jump line="235" column="18" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
       <jump line="218" column="12" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
       <jump line="231" column="9" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
@@ -652,13 +652,19 @@
       <jump line="132" column="61" filename="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/pom.xml" />
       <jump line="100" column="0" filename="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/pom.xml" />
       <jump line="156" column="0" filename="$USER_HOME$/workspace/wanda/siberia/ohm-siberia-edge/pom.xml" />
+      <jump line="193" column="0" filename="$USER_HOME$/workspace/wanda/siberia/pom.xml" />
+      <jump line="48" column="27" filename="$USER_HOME$/workspace/wanda/siberia/pom.xml" />
+      <jump line="67" column="0" filename="$USER_HOME$/workspace/wanda/siberia/pom.xml" />
+      <jump line="204" column="26" filename="$USER_HOME$/workspace/wanda/siberia/pom.xml" />
+      <jump line="162" column="27" filename="$USER_HOME$/workspace/wanda/siberia/pom.xml" />
+      <jump line="38" column="0" filename="$USER_HOME$/workspace/wanda/siberia/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtzcHJpbmcudmVyc2lvbn08L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Data</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzb25hclw+</text>
@@ -667,31 +673,31 @@
         <text encoding="base64">ICAtRHNsYWNrLnNvbmFyPSIkU0xBQ0tfU09OQVIiIFwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtzcHJpbmcudmVyc2lvbn08L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwvcGFyZW50Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtqdW5pdC52ZXJzaW9ufTwvdmVyc2lvbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8dmVyc2lvbj4xLjQuMS5SRUxFQVNFPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLXBhcmVudDwvYXJ0aWZhY3RJZD4K</text>
+        <text encoding="base64">ICAgICAgICA8cGFnZWhlbHBlci52ZXJzaW9uPjQuMS4zPC9wYWdlaGVscGVyLnZlcnNpb24+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8anVuaXQudmVyc2lvbj40LjExPC9qdW5pdC52ZXJzaW9uPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxwYXJlbnQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cGFnZWhlbHBlci52ZXJzaW9uPjQuMS4zPC9wYWdlaGVscGVyLnZlcnNpb24+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICA8bW9ja2l0by52ZXJzaW9uPjEuMTAuMTc8L21vY2tpdG8udmVyc2lvbj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QFNsZjRqCg==</text>
+        <text encoding="base64">ICAgICAgICA8anVuaXQudmVyc2lvbj40LjExPC9qdW5pdC52ZXJzaW9uPgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
