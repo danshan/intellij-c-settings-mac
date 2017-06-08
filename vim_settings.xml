@@ -26,6 +26,7 @@
         <mark key="." line="87" column="67" />
         <mark key="^" line="87" column="67" />
       </file>
+      <file name="$USER_HOME$/workspace/wanda/CPG/upp-cpg-sign-stub/src/main/java/com/wanda/upp/cpg/stub/StubApplication.java" timestamp="1496885777060" />
       <file name="$USER_HOME$/workspace/wanda/siberia/src/main/java/com/wanda/ohm/siberia/ldap/config/LdapConfig.java" timestamp="1496738469394">
         <mark key="[" line="22" column="38" />
         <mark key="]" line="23" column="3" />
@@ -81,6 +82,7 @@
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/entity/ex/RackConfigStatisticsDetail.java" timestamp="1495081478311">
         <mark key="[" line="27" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/wanda/CPG/upp-cpg-edge/src/main/java/com/wanda/upp/cpg/edge/base/interceptor/AccessRequiredInterceptor.java" timestamp="1496885694496" />
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/feign/PeopleClient.java" timestamp="1496195004975">
         <mark key="[" line="82" column="174" />
         <mark key="]" line="82" column="174" />
@@ -506,6 +508,7 @@
       <file name="/Dummy.txt" timestamp="1496738544871">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/wanda/CPG/upp-cpg-sign-stub/src/main/java/com/wanda/upp/cpg/stub/controller/SignController.java" timestamp="1496886133026" />
       <file name="$USER_HOME$/workspace/personal/webhook-slack/src/main/resources/application.sample.yml" timestamp="1496308555230">
         <mark key="[" line="5" column="8" />
         <mark key="]" line="5" column="8" />
@@ -518,7 +521,6 @@
         <mark key="." line="25" column="19" />
         <mark key="^" line="28" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/siberia/src/main/java/com/wanda/ohm/siberia/ldap/core/LdapHelper.java" timestamp="1496807296167" />
       <file name="$USER_HOME$/workspace/personal/shanhh-jekyll/jekyll/_layouts/post.html" timestamp="1495717075874">
         <mark key="[" line="119" column="73" />
         <mark key="]" line="143" column="105" />
