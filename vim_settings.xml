@@ -21,6 +21,7 @@
         <mark key="^" line="23" column="3" />
         <mark key="." line="23" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/controller/IpareaController.java" timestamp="1497256027105" />
       <file name="$USER_HOME$/workspace/wanda/siberia/src/main/java/com/wanda/ohm/siberia/ldap/LdapContactSDK.java" timestamp="1496740065966">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -75,24 +76,17 @@
         <mark key="^" line="56" column="13" />
         <mark key="." line="56" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/controller/PeopleController.java" timestamp="1497251281985">
-        <mark key="[" line="114" column="15" />
-        <mark key="]" line="114" column="23" />
-        <mark key="^" line="114" column="23" />
-        <mark key="." line="114" column="23" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/controller/PeopleController.java" timestamp="1497256654735">
+        <mark key="[" line="163" column="87" />
+        <mark key="]" line="163" column="85" />
+        <mark key="^" line="163" column="85" />
+        <mark key="." line="163" column="85" />
       </file>
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/feign/PeopleClient.java" timestamp="1496195004975">
         <mark key="[" line="82" column="174" />
         <mark key="]" line="82" column="174" />
         <mark key="^" line="82" column="173" />
         <mark key="." line="82" column="174" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/entity/People.java" timestamp="1497251182567">
-        <mark key="'" line="124" column="49" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="^" line="88" column="0" />
-        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/constant/CMDBConstants.java" timestamp="1494306139509">
         <mark key="[" line="27" column="110" />
@@ -131,10 +125,10 @@
         <mark key="^" line="22" column="85" />
       </file>
       <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-service/src/main/java/com/wanda/ohm/cmdb/entity/People.java" timestamp="1497251809524">
-        <mark key="[" line="78" column="36" />
-        <mark key="]" line="78" column="34" />
-        <mark key="." line="78" column="34" />
-        <mark key="^" line="78" column="34" />
+        <mark key="[" line="66" column="36" />
+        <mark key="]" line="66" column="34" />
+        <mark key="." line="66" column="34" />
+        <mark key="^" line="66" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/personal/webhook-bearychat/src/main/docker/Dockerfile" timestamp="1494204053474">
         <mark key="[" line="4" column="25" />
@@ -171,13 +165,6 @@
         <mark key="]" line="145" column="0" />
         <mark key="." line="145" column="0" />
         <mark key="^" line="116" column="61" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/_main/GenerateTool.java" timestamp="1497251554994">
-        <mark key="'" line="1263" column="33" />
-        <mark key="[" line="610" column="96" />
-        <mark key="]" line="610" column="86" />
-        <mark key="." line="610" column="86" />
-        <mark key="^" line="610" column="85" />
       </file>
       <file name="$USER_HOME$/workspace/personal/webhook-slack/src/main/java/com/shanhh/webhook/coding/service/CodingServiceImpl.java" timestamp="1496327266090">
         <mark key="[" line="38" column="38" />
@@ -245,6 +232,13 @@
         <mark key="^" line="3" column="21" />
         <mark key="." line="3" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/controller/ex/ConfigurationDeviceController.java" timestamp="1497256679342">
+        <mark key="'" line="297" column="8" />
+        <mark key="[" line="307" column="162" />
+        <mark key="]" line="307" column="160" />
+        <mark key="^" line="307" column="160" />
+        <mark key="." line="307" column="160" />
+      </file>
       <file name="$USER_HOME$/workspace/wanda/dansible/_app_nodejs_nodes_update.yml" timestamp="1495163259908">
         <mark key="[" line="29" column="30" />
         <mark key="]" line="29" column="31" />
@@ -263,17 +257,29 @@
         <mark key="^" line="121" column="48" />
         <mark key="." line="121" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-service/src/main/java/com/wanda/ohm/_main/GenerateTool.java" timestamp="1497251764352">
-        <mark key="[" line="1021" column="0" />
-        <mark key="]" line="1021" column="0" />
-        <mark key="." line="1021" column="0" />
-        <mark key="^" line="999" column="95" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-service/src/main/java/com/wanda/ohm/_main/GenerateTool.java" timestamp="1497255837070">
+        <mark key="[" line="1227" column="39" />
+        <mark key="]" line="1226" column="37" />
+        <mark key="^" line="1226" column="37" />
+        <mark key="." line="1226" column="37" />
+      </file>
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-service/src/main/java/com/wanda/ohm/cmdb/entity/ex/ConfigurationDevice.java" timestamp="1497256620929">
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="4" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="18" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/personal/webhook-bearychat/src/main/java/com/shanhh/bearychat/config/ScheduleConfig.java" timestamp="1494168645913">
         <mark key="[" line="30" column="77" />
         <mark key="]" line="30" column="77" />
         <mark key="." line="30" column="77" />
         <mark key="^" line="30" column="86" />
+      </file>
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/controller/ex/RelationControllerEx.java" timestamp="1497256696513">
+        <mark key="[" line="49" column="53" />
+        <mark key="]" line="49" column="51" />
+        <mark key="^" line="49" column="51" />
+        <mark key="." line="49" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/personal/shanhh-jekyll/jekyll/_posts/2017-02-20-git_to_dayone2.md" timestamp="1495760370146">
         <mark key="[" line="57" column="4" />
@@ -293,6 +299,7 @@
         <mark key="^" line="40" column="30" />
         <mark key="." line="42" column="16" />
       </file>
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/controller/ConfigdataController.java" timestamp="1497256019564" />
       <file name="$USER_HOME$/workspace/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/_main/Test.java" timestamp="1496211167891">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -317,11 +324,11 @@
         <mark key="." line="91" column="36" />
         <mark key="^" line="206" column="85" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/web/controller/PeopleController.java" timestamp="1497248895026">
-        <mark key="[" line="155" column="136" />
-        <mark key="]" line="155" column="134" />
-        <mark key="." line="155" column="134" />
-        <mark key="^" line="155" column="134" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/web/controller/PeopleController.java" timestamp="1497254785415">
+        <mark key="[" line="224" column="65" />
+        <mark key="]" line="224" column="65" />
+        <mark key="." line="224" column="65" />
+        <mark key="^" line="224" column="68" />
       </file>
       <file name="$USER_HOME$/workspace/personal/shanhh-jekyll/Dockerfile" timestamp="1495759751434">
         <mark key="[" line="1" column="0" />
@@ -485,7 +492,6 @@
         <mark key="^" line="11" column="54" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-service/src/main/java/com/wanda/ohm/cmdb/entity/Iparea.java" timestamp="1497250727871" />
       <file name="$USER_HOME$/workspace/wanda/cmdb/sonar-cmdb-service.properties" timestamp="1497229479769">
         <mark key="[" line="10" column="13" />
         <mark key="]" line="10" column="13" />
@@ -499,18 +505,17 @@
         <mark key="." line="88" column="43" />
         <mark key="^" line="88" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/web/util/QueryUtils.java" timestamp="1497248976240">
-        <mark key="'" line="275" column="0" />
-        <mark key="[" line="15" column="83" />
-        <mark key="]" line="15" column="83" />
-        <mark key="." line="15" column="83" />
-        <mark key="^" line="16" column="68" />
-      </file>
       <file name="$USER_HOME$/workspace/personal/shanhh-jekyll/jekyll/_posts/2010-11-21-export_outlook_contacts_to_evolution.md" timestamp="1495672686034">
         <mark key="[" line="5" column="43" />
         <mark key="]" line="5" column="19" />
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/controller/ex/RackStatisticsController.java" timestamp="1497256736997">
+        <mark key="[" line="147" column="26" />
+        <mark key="]" line="139" column="29" />
+        <mark key="^" line="139" column="29" />
+        <mark key="." line="139" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/personal/webhook-bearychat/README.md" timestamp="1494204037472">
         <mark key="[" line="17" column="66" />
@@ -554,6 +559,9 @@
         <mark key="^" line="32" column="111" />
         <mark key="." line="32" column="111" />
       </file>
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/controller/DictionaryController.java" timestamp="1497255772426">
+        <mark key="[" line="108" column="31" />
+      </file>
       <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/web/service/ex/BaseService.java" timestamp="1497248611278">
         <mark key="[" line="223" column="75" />
         <mark key="]" line="223" column="75" />
@@ -586,7 +594,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="243" column="12" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
       <jump line="244" column="10" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
       <jump line="269" column="15" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
       <jump line="270" column="44" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
@@ -686,13 +693,14 @@
       <jump line="132" column="49" filename="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/entity/People.java" />
       <jump line="1257" column="33" filename="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/_main/GenerateTool.java" />
       <jump line="275" column="0" filename="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/web/util/QueryUtils.java" />
+      <jump line="297" column="8" filename="$USER_HOME$/workspace/wanda/cmdb/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/controller/ex/ConfigurationDeviceController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="/" type="4">
         <text>peope</text>
@@ -701,31 +709,31 @@
         <text encoding="base64">ICAgIEBKc29uUHJvcGVydHkoInVwZGF0ZWRfdGltZSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICsgImltcG9ydCBvcmcuYXBhY2hlLmNvbW1vbnMubGFuZzMuU3RyaW5nVXRpbHM7XG4iKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNjb3BlID0gb3RoZXIuc2NvcGU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnVwZGF0ZWRfdGltZSA9IG90aGVyLnVwZGF0ZWRfdGltZTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnVwZGF0ZWRfYnkgPSBvdGhlci51cGRhdGVkX2J5Owo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNjb3BlID0gb3RoZXIuc2NvcGU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNyZWF0ZWRfdGltZSA9IG90aGVyLmNyZWF0ZWRfdGltZTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnVwZGF0ZWRfdGltZSA9IG90aGVyLnVwZGF0ZWRfdGltZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNyZWF0ZWRfYnkgPSBvdGhlci5jcmVhdGVkX2J5Owo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnVwZGF0ZWRfYnkgPSBvdGhlci51cGRhdGVkX2J5Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNob3djb2x1bW4gPSBvdGhlci5zaG93Y29sdW1uOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNyZWF0ZWRfdGltZSA9IG90aGVyLmNyZWF0ZWRfdGltZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
