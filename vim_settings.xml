@@ -131,6 +131,12 @@
         <mark key="]" line="14" column="1" />
         <mark key="." line="14" column="1" />
       </file>
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-service/src/main/java/com/wanda/ohm/cmdb/entity/Device.java" timestamp="1497250220984">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="14" column="4" />
+        <mark key="^" line="14" column="4" />
+        <mark key="." line="14" column="4" />
+      </file>
       <file name="$USER_HOME$/workspace/wanda/CPG/pom.xml" timestamp="1496998053201">
         <mark key="[" line="56" column="73" />
         <mark key="]" line="56" column="73" />
@@ -195,7 +201,7 @@
         <mark key="." line="145" column="0" />
         <mark key="^" line="116" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/_main/GenerateTool.java" timestamp="1497248247789">
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/_main/GenerateTool.java" timestamp="1497250105614">
         <mark key="'" line="1263" column="33" />
         <mark key="[" line="610" column="96" />
         <mark key="]" line="610" column="86" />
@@ -301,6 +307,7 @@
         <mark key="^" line="121" column="48" />
         <mark key="." line="121" column="48" />
       </file>
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-service/src/main/java/com/wanda/ohm/_main/GenerateTool.java" timestamp="1497236923114" />
       <file name="$USER_HOME$/workspace/personal/webhook-bearychat/src/main/java/com/shanhh/bearychat/config/ScheduleConfig.java" timestamp="1494168645913">
         <mark key="[" line="30" column="77" />
         <mark key="]" line="30" column="77" />
@@ -558,6 +565,7 @@
         <mark key="^" line="9" column="13" />
         <mark key="." line="10" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/web/controller/LabelController.java" timestamp="1497249454737" />
       <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/web/service/ex/UpdateService.java" timestamp="1497248883037">
         <mark key="[" line="88" column="45" />
         <mark key="]" line="88" column="43" />
