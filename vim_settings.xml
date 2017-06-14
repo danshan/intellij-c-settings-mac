@@ -100,7 +100,12 @@
         <mark key="." line="134" column="31" />
         <mark key="^" line="125" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/_main/M_API.java" timestamp="1497412968651" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/_main/M_API.java" timestamp="1497418476533">
+        <mark key="[" line="30" column="44" />
+        <mark key="]" line="30" column="48" />
+        <mark key="." line="30" column="48" />
+        <mark key="^" line="30" column="48" />
+      </file>
       <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/NotifyController.java" timestamp="1497401895764">
         <mark key="[" line="128" column="31" />
         <mark key="]" line="128" column="31" />
@@ -362,11 +367,11 @@
       <jump line="73" column="46" filename="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/web/controller/LabelControllerEx.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbgo=</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>password</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>peope</text>
