@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonar.wanda-group.net" />
+          <option name="name" value="sonar.wanda-group.net" />
+          <option name="login" value="jenkins" />
+          <password>dfc0dfcfdfc4dfc1dfc3dfc4dfd9</password>
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>

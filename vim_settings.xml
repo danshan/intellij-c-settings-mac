@@ -3,207 +3,117 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/web/controller/ConfigurationDeviceController.java" timestamp="1497342438078">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/web/controller/LabelControllerEx.java" timestamp="1497402971259">
+        <mark key="'" line="73" column="46" />
+        <mark key="[" line="90" column="21" />
+        <mark key="]" line="90" column="21" />
+        <mark key="^" line="90" column="22" />
+        <mark key="." line="90" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/service/DeviceService.java" timestamp="1497360326653">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/ConfigdataController.java" timestamp="1497401790696">
+        <mark key="[" line="146" column="31" />
+        <mark key="]" line="146" column="31" />
+        <mark key="." line="146" column="31" />
+        <mark key="^" line="137" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/web/controller/ProjectController.java" timestamp="1497317818073">
-        <mark key="[" line="156" column="66" />
-        <mark key="]" line="156" column="67" />
-        <mark key="." line="156" column="67" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/feign/ConfigdataClientEx.java" timestamp="1497398859783">
+        <mark key="[" line="18" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/service/PeopleService.java" timestamp="1497360444491">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/web/service/DeleteService.java" timestamp="1497399930070">
+        <mark key="[" line="41" column="87" />
+        <mark key="]" line="41" column="87" />
+        <mark key="." line="41" column="87" />
+        <mark key="^" line="43" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/entity/Vm.java" timestamp="1497345816404">
-        <mark key="[" line="20" column="27" />
-        <mark key="]" line="20" column="27" />
-        <mark key="." line="20" column="27" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/web/service/QueryService.java" timestamp="1497403182738">
+        <mark key="[" line="87" column="71" />
+        <mark key="]" line="87" column="80" />
+        <mark key="^" line="87" column="80" />
+        <mark key="." line="87" column="80" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/web/controller/TerminalController.java" timestamp="1497317839255">
-        <mark key="[" line="159" column="66" />
-        <mark key="]" line="159" column="67" />
-        <mark key="." line="159" column="67" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/entity/search/NodeThrough.java" timestamp="1497402953457">
+        <mark key="[" line="29" column="29" />
+        <mark key="]" line="29" column="38" />
+        <mark key="." line="29" column="38" />
+        <mark key="^" line="29" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/entity/Server.java" timestamp="1497345801247">
-        <mark key="[" line="20" column="31" />
-        <mark key="]" line="20" column="31" />
-        <mark key="." line="20" column="31" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/NotifyconfigController.java" timestamp="1497401764403">
+        <mark key="[" line="134" column="31" />
+        <mark key="]" line="134" column="31" />
+        <mark key="." line="134" column="31" />
+        <mark key="^" line="125" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/feign/LabelmappingClient.java" timestamp="1497344316292">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/RelationController.java" timestamp="1497401980115">
+        <mark key="[" line="140" column="31" />
+        <mark key="]" line="140" column="41" />
+        <mark key="." line="140" column="41" />
+        <mark key="^" line="140" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/web/controller/RelationControllerEx.java" timestamp="1497345992949">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/entity/RackStatisticsDetail.java" timestamp="1497402753694">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="38" column="17" />
+        <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/gen/entity/Configdata.java" timestamp="1497362419186" />
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/entity/Terminal.java" timestamp="1497345823858">
-        <mark key="[" line="20" column="33" />
-        <mark key="]" line="20" column="33" />
-        <mark key="." line="20" column="33" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/web/controller/DictionaryControllerEx.java" timestamp="1497398932111">
+        <mark key="[" line="84" column="52" />
+        <mark key="]" line="84" column="52" />
+        <mark key="." line="84" column="52" />
+        <mark key="^" line="84" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/web/service/DeleteService.java" timestamp="1497343404678">
-        <mark key="[" line="39" column="12" />
-        <mark key="]" line="39" column="13" />
-        <mark key="." line="39" column="13" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/ProjectController.java" timestamp="1497401933649">
+        <mark key="[" line="140" column="31" />
+        <mark key="]" line="140" column="31" />
+        <mark key="." line="140" column="31" />
+        <mark key="^" line="131" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/web/controller/ConfigdataController.java" timestamp="1497317765691">
-        <mark key="[" line="162" column="66" />
-        <mark key="]" line="162" column="67" />
-        <mark key="." line="162" column="67" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/ex/dao/OauthClientDao.java" timestamp="1497400884483">
+        <mark key="[" line="44" column="8" />
+        <mark key="]" line="44" column="15" />
+        <mark key="^" line="44" column="15" />
+        <mark key="." line="44" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/core/exception/handler/GlobalDefaultExceptionHandler.java" timestamp="1497360848939">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/web/controller/NotifyControllerEx.java" timestamp="1497399456049">
+        <mark key="[" line="85" column="59" />
+        <mark key="]" line="85" column="57" />
+        <mark key="^" line="85" column="57" />
+        <mark key="." line="85" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/service/RackService.java" timestamp="1497360459426">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/RackController.java" timestamp="1497401957673">
+        <mark key="[" line="140" column="31" />
+        <mark key="]" line="140" column="31" />
+        <mark key="." line="140" column="31" />
+        <mark key="^" line="131" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/NotifyconfigController.java" timestamp="1497359720994">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/ex/service/controller/ConfigurationDeviceController.java" timestamp="1497400535798">
+        <mark key="[" line="375" column="0" />
+        <mark key="]" line="375" column="0" />
+        <mark key="^" line="368" column="9" />
+        <mark key="." line="375" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/RelationController.java" timestamp="1497360986446" />
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/web/controller/NotifylabelController.java" timestamp="1497317813223">
-        <mark key="[" line="151" column="66" />
-        <mark key="]" line="151" column="67" />
-        <mark key="." line="151" column="67" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/NotifylabelController.java" timestamp="1497401910825">
+        <mark key="[" line="134" column="31" />
+        <mark key="]" line="134" column="31" />
+        <mark key="." line="134" column="31" />
+        <mark key="^" line="125" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/entity/Project.java" timestamp="1497345834290">
-        <mark key="[" line="20" column="32" />
-        <mark key="]" line="20" column="32" />
-        <mark key="." line="20" column="32" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/NotifyController.java" timestamp="1497401895764">
+        <mark key="[" line="128" column="31" />
+        <mark key="]" line="128" column="31" />
+        <mark key="." line="128" column="31" />
+        <mark key="^" line="119" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/entity/RackStatisticsDetail.java" timestamp="1497346151219">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/DeviceController.java" timestamp="1497401809512">
+        <mark key="[" line="143" column="31" />
+        <mark key="]" line="143" column="31" />
+        <mark key="." line="143" column="31" />
+        <mark key="^" line="134" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/entity/search/SearchColumnDataIn.java" timestamp="1497338859309">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/entity/search/ConfigRelationNode.java" timestamp="1497342289114">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/feign/VmClient.java" timestamp="1497344419858">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/entity/search/ManyToOneRelationNode.java" timestamp="1497342303433">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/service/NotifyconfigService.java" timestamp="1497360344478">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/feign/LabelClient.java" timestamp="1497344307342">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/feign/PeopleClient.java" timestamp="1497343281660">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/entity/Server.java" timestamp="1497319295270">
-        <mark key="[" line="277" column="0" />
-        <mark key="]" line="277" column="0" />
-        <mark key="." line="277" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/service/ConfigService.java" timestamp="1497360322650">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/service/NotifylabelService.java" timestamp="1497360348016">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/core/exception/FieldErrorException.java" timestamp="1497360663072">
-        <mark key="[" line="29" column="107" />
-        <mark key="]" line="29" column="107" />
-        <mark key="." line="29" column="107" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/entity/Rack.java" timestamp="1497319284139">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/web/controller/NotifyControllerEx.java" timestamp="1497342173438">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/feign/ConfigClient.java" timestamp="1497342690673">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/feign/RackStatisticsClient.java" timestamp="1497342372251">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/NotifylabelController.java" timestamp="1497359776940">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/feign/DictionaryClient.java" timestamp="1497359552571">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/NotifyController.java" timestamp="1497359763633">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/entity/search/OneToManyRelationNode.java" timestamp="1497342318546">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/DeviceController.java" timestamp="1497359647843">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/service/DictionaryService.java" timestamp="1497360329861">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/service/VmService.java" timestamp="1497360481531">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/entity/RelationCompact.java" timestamp="1497401539044">
+        <mark key="[" line="38" column="18" />
+        <mark key="]" line="65" column="22" />
+        <mark key="^" line="65" column="22" />
+        <mark key="." line="65" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/gen/dao/ConfigDao.java" timestamp="1497362406546">
         <mark key="[" line="2" column="26" />
@@ -211,289 +121,128 @@
         <mark key="." line="2" column="37" />
         <mark key="^" line="2" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/config/TokenFilter.java" timestamp="1497344161639">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/service/ProjectService.java" timestamp="1497360452145">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-service/src/main/java/com/wanda/ohm/_main/GenerateTool.java" timestamp="1497362741291">
-        <mark key="[" line="330" column="104" />
-        <mark key="]" line="1107" column="59" />
-        <mark key="^" line="1107" column="51" />
-        <mark key="." line="1107" column="59" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/LabelmappingController.java" timestamp="1497359734906">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/web/service/UpdateService.java" timestamp="1497343360351">
-        <mark key="[" line="105" column="12" />
-        <mark key="]" line="105" column="13" />
-        <mark key="." line="105" column="13" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/config/FormatterConfig.java" timestamp="1497345952554">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/LabelController.java" timestamp="1497359681149">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/feign/ConfigdataClient.java" timestamp="1497342755376">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/feign/ProjectClient.java" timestamp="1497344351306">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/web/controller/PeopleControllerEx.java" timestamp="1497346074672">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/web/controller/RackStatisticsController.java" timestamp="1497345896609">
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/core/exception/BaseResponseException.java" timestamp="1497400207053">
         <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
+        <mark key="]" line="26" column="11" />
+        <mark key="^" line="24" column="10" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/feign/VmClientEx.java" timestamp="1497342423386">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/entity/search/NodeBase.java" timestamp="1497403264719">
+        <mark key="[" line="84" column="38" />
+        <mark key="]" line="84" column="38" />
+        <mark key="." line="84" column="38" />
+        <mark key="^" line="96" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/web/controller/LabelmappingController.java" timestamp="1497317783674">
-        <mark key="[" line="154" column="66" />
-        <mark key="]" line="154" column="67" />
-        <mark key="." line="154" column="67" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-service/src/main/java/com/wanda/ohm/_main/GenerateTool.java" timestamp="1497401724710">
+        <mark key="[" line="1401" column="135" />
+        <mark key="]" line="1401" column="126" />
+        <mark key="^" line="1401" column="125" />
+        <mark key="." line="1401" column="126" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/service/TerminalService.java" timestamp="1497360476591">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/LabelmappingController.java" timestamp="1497401879392">
+        <mark key="[" line="155" column="31" />
+        <mark key="]" line="155" column="41" />
+        <mark key="." line="155" column="41" />
+        <mark key="^" line="155" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/service/RelationService.java" timestamp="1497360463570">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/ex/service/controller/OauthControllerEx.java" timestamp="1497400966545">
+        <mark key="[" line="22" column="34" />
+        <mark key="]" line="22" column="32" />
+        <mark key="." line="22" column="32" />
+        <mark key="^" line="22" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/gen/service/controller/ConfigdataController.java" timestamp="1497362233629" />
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/entity/Terminal.java" timestamp="1497319301454">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/ServerController.java" timestamp="1497401997185">
+        <mark key="[" line="140" column="31" />
+        <mark key="]" line="140" column="31" />
+        <mark key="." line="140" column="31" />
+        <mark key="^" line="131" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/IpareaController.java" timestamp="1497359654563">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/LabelController.java" timestamp="1497401860161">
+        <mark key="[" line="134" column="31" />
+        <mark key="]" line="134" column="31" />
+        <mark key="." line="134" column="31" />
+        <mark key="^" line="125" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/feign/ServerClientEx.java" timestamp="1497342413140">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/IpareaController.java" timestamp="1497401838971">
+        <mark key="[" line="140" column="31" />
+        <mark key="]" line="140" column="31" />
+        <mark key="." line="140" column="31" />
+        <mark key="^" line="131" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/feign/ServerClient.java" timestamp="1497344249097">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/entity/search/SearchColumnDataIn.java" timestamp="1497401576799">
+        <mark key="[" line="28" column="3" />
+        <mark key="]" line="29" column="4" />
+        <mark key="." line="29" column="4" />
+        <mark key="^" line="29" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/entity/ex/ConfigurationDevice.java" timestamp="1497319145947">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/DictionaryController.java" timestamp="1497401824896">
+        <mark key="[" line="148" column="31" />
+        <mark key="]" line="148" column="31" />
+        <mark key="." line="148" column="31" />
+        <mark key="^" line="139" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/gen/entity/Config.java" timestamp="1497362414482">
-        <mark key="[" line="0" column="39" />
-        <mark key="]" line="0" column="39" />
-        <mark key="." line="0" column="39" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/PeopleController.java" timestamp="1497401740650">
+        <mark key="[" line="155" column="31" />
+        <mark key="]" line="155" column="31" />
+        <mark key="." line="155" column="31" />
+        <mark key="^" line="146" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/entity/Device.java" timestamp="1497342838414">
-        <mark key="[" line="20" column="31" />
-        <mark key="]" line="20" column="31" />
-        <mark key="." line="20" column="31" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/VmController.java" timestamp="1497402016513">
+        <mark key="[" line="140" column="31" />
+        <mark key="]" line="140" column="31" />
+        <mark key="." line="140" column="31" />
+        <mark key="^" line="131" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/entity/RackConfigStatistics.java" timestamp="1497345944579">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/core/constant/CMDBConstants.java" timestamp="1497401300353">
+        <mark key="[" line="28" column="31" />
+        <mark key="]" line="28" column="49" />
+        <mark key="." line="28" column="49" />
+        <mark key="^" line="28" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/web/controller/DeviceController.java" timestamp="1497317769770">
-        <mark key="[" line="159" column="66" />
-        <mark key="]" line="159" column="67" />
-        <mark key="." line="159" column="67" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/entity/search/NodeQuery.java" timestamp="1497403211669">
+        <mark key="[" line="19" column="49" />
+        <mark key="]" line="19" column="58" />
+        <mark key="." line="19" column="58" />
+        <mark key="^" line="19" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/web/controller/VmController.java" timestamp="1497317843513">
-        <mark key="[" line="156" column="66" />
-        <mark key="]" line="156" column="67" />
-        <mark key="." line="156" column="67" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/service/ServerService.java" timestamp="1497360468707">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/web/controller/RackController.java" timestamp="1497317822512">
-        <mark key="[" line="156" column="66" />
-        <mark key="]" line="156" column="67" />
-        <mark key="." line="156" column="67" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/feign/NotifyClient.java" timestamp="1497344331391">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/web/controller/NotifyController.java" timestamp="1497317802296">
-        <mark key="[" line="145" column="66" />
-        <mark key="]" line="145" column="67" />
-        <mark key="." line="145" column="67" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/entity/Vm.java" timestamp="1497319304577">
-        <mark key="[" line="234" column="0" />
-        <mark key="]" line="234" column="0" />
-        <mark key="." line="234" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/entity/Device.java" timestamp="1497340347035">
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/PeopleController.java" timestamp="1497360601874">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/web/controller/NotifyconfigController.java" timestamp="1497317791952">
-        <mark key="[" line="151" column="66" />
-        <mark key="]" line="151" column="67" />
-        <mark key="." line="151" column="67" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/feign/NotifyconfigClient.java" timestamp="1497342088860">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/web/controller/RelationController.java" timestamp="1497317827056">
-        <mark key="[" line="157" column="66" />
-        <mark key="]" line="157" column="67" />
-        <mark key="." line="157" column="67" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/feign/DeviceClient.java" timestamp="1497344270517">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/service/IpareaService.java" timestamp="1497360333517">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/VmController.java" timestamp="1497359789800">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/service/LabelmappingService.java" timestamp="1497360336798">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/web/controller/LabelController.java" timestamp="1497317779495">
-        <mark key="[" line="151" column="66" />
-        <mark key="]" line="151" column="67" />
-        <mark key="." line="151" column="67" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/web/service/InsertService.java" timestamp="1497343220159">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/feign/RackClient.java" timestamp="1497344372115">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/service/LabelService.java" timestamp="1497360341114">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/feign/RelationClientEx.java" timestamp="1497342398009">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/entity/Project.java" timestamp="1497319276688">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/entity/Rack.java" timestamp="1497342862622">
-        <mark key="[" line="20" column="29" />
-        <mark key="]" line="20" column="29" />
-        <mark key="." line="20" column="29" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/web/controller/ServerController.java" timestamp="1497317833616">
-        <mark key="[" line="156" column="66" />
-        <mark key="]" line="156" column="67" />
-        <mark key="." line="156" column="67" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/service/NotifyService.java" timestamp="1497360441613">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/entity/RackConfigStatisticsDetail.java" timestamp="1497345927011">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/TerminalController.java" timestamp="1497359806623">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/feign/NotifylabelClient.java" timestamp="1497342930306">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/service/ConfigdataService.java" timestamp="1497360298790">
-        <mark key="[" line="0" column="39" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/feign/RelationClient.java" timestamp="1497342916541">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/feign/TerminalClient.java" timestamp="1497344397436">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1497362051663">
+      <file name="/Dummy.txt" timestamp="1497402596347">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/feign/IpareaClient.java" timestamp="1497344292509">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/web/service/BaseService.java" timestamp="1497403057259">
+        <mark key="[" line="172" column="21" />
+        <mark key="]" line="172" column="21" />
+        <mark key="." line="172" column="21" />
+        <mark key="^" line="172" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/ConfigController.java" timestamp="1497401684630">
+        <mark key="[" line="140" column="31" />
+        <mark key="]" line="140" column="41" />
+        <mark key="." line="140" column="41" />
+        <mark key="^" line="140" column="41" />
+      </file>
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/entity/RackConfigStatisticsDetail.java" timestamp="1497401391827">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="49" column="8" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/TerminalController.java" timestamp="1497401629558">
+        <mark key="[" line="128" column="105" />
+        <mark key="]" line="128" column="119" />
+        <mark key="." line="128" column="119" />
+        <mark key="^" line="128" column="119" />
+      </file>
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/core/constant/CMDBConstants.java" timestamp="1497401320833">
+        <mark key="[" line="18" column="7" />
+        <mark key="]" line="18" column="7" />
+        <mark key="." line="18" column="7" />
+        <mark key="^" line="28" column="36" />
+      </file>
+      <file name="/fragment.java" timestamp="1497398975188">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="306" column="14" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
       <jump line="54" column="7" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
       <jump line="55" column="9" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
       <jump line="58" column="10" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
@@ -593,46 +342,47 @@
       <jump line="180" column="116" filename="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/ServerController.java" />
       <jump line="176" column="144" filename="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/ServerController.java" />
       <jump line="53" column="27" filename="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/LabelmappingController.java" />
+      <jump line="73" column="46" filename="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/web/controller/LabelControllerEx.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>peope</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53YW5kYS5vaG0uY21kYi5hcGkuZ2VuLndlYi5zZXJ2aWNlLkRpY3Rpb25hcnlTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgIEBEYXRhCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53YW5kYS5vaG0uY21kYi5hcGkuY29yZS5leGNlcHRpb24uVW5pcXVlRmllbGRFeGNlcHRpb247Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBTZWFyY2hDb2x1bW5EYXRhSW4oKSB7fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53YW5kYS5vaG0uY21kYi5hcGkuY29yZS5leGNlcHRpb24uRmllbGRFcnJvckV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53YW5kYS5vaG0uY21kYi5hcGkuY29yZS5leGNlcHRpb24uRHVwbGljYXRlUmVsYXRpb25FeGNlcHRpb247Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53YW5kYS5vaG0uY21kYi5hcGkuY29yZS5leGNlcHRpb24uVW5pcXVlRmllbGRFeGNlcHRpb247Cg==</text>
+        <text encoding="base64">CQl0aGlzLnZhbHVlID0gdmFsdWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53YW5kYS5vaG0uY21kYi5hcGkuY29yZS5leGNlcHRpb24uRmllbGRFcnJvckV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">CXB1YmxpYyB2b2lkIHNldFZhbHVlKFN0cmluZyB2YWx1ZSkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53YW5kYS5vaG0uY21kYi5hcGkuZ2VuLndlYi5zZXJ2aWNlLkRldmljZVNlcnZpY2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53YW5kYS5vaG0uY21kYi5hcGkuZ2VuLndlYi5zZXJ2aWNlLio7Cg==</text>
+        <text encoding="base64">CQl0aGlzLnZhbHVlID0gdmFsdWU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5EaWN0aW9uYXJ5Owo=</text>
+        <text encoding="base64">CXB1YmxpYyB2b2lkIHNldFZhbHVlKFN0cmluZyB2YWx1ZSkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5EaWN0aW9uYXJ5Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
