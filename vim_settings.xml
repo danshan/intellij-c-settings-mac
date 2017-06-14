@@ -16,6 +16,12 @@
         <mark key="." line="146" column="31" />
         <mark key="^" line="137" column="41" />
       </file>
+      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-service/src/main/java/com/wanda/ohm/_main/M_SERVICE.java" timestamp="1497410906721">
+        <mark key="[" line="20" column="62" />
+        <mark key="]" line="20" column="62" />
+        <mark key="^" line="18" column="78" />
+        <mark key="." line="20" column="62" />
+      </file>
       <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/feign/ConfigdataClientEx.java" timestamp="1497398859783">
         <mark key="[" line="18" column="53" />
       </file>
@@ -357,11 +363,11 @@
       <jump line="73" column="46" filename="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/web/controller/LabelControllerEx.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hbMF0gPSAoY2hhcikgKGNoWzBdIC0gMzIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>password</text>
       </register>
       <register name="-" type="4">
-        <text>str</text>
+        <text>password</text>
       </register>
       <register name="/" type="4">
         <text>peope</text>
