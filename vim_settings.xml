@@ -21,6 +21,12 @@
         <mark key="^" line="18" column="78" />
         <mark key="." line="18" column="62" />
       </file>
+      <file name="$USER_HOME$/workspace/wanda/siberia/src/main/java/com/wanda/ohm/siberia/ldap/LdapContactSDK.java" timestamp="1497497896067">
+        <mark key="[" line="67" column="93" />
+        <mark key="]" line="67" column="93" />
+        <mark key="^" line="67" column="93" />
+        <mark key="." line="67" column="93" />
+      </file>
       <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/IpareaController.java" timestamp="1497401838971">
         <mark key="[" line="140" column="31" />
         <mark key="]" line="140" column="31" />
@@ -125,6 +131,7 @@
         <mark key="^" line="44" column="15" />
         <mark key="." line="44" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/wanda/siberia/src/main/java/com/wanda/ohm/siberia/edge/cap/controller/CommonController.java" timestamp="1497498312713" />
       <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/web/controller/NotifyControllerEx.java" timestamp="1497399456049">
         <mark key="[" line="85" column="59" />
         <mark key="]" line="85" column="57" />
@@ -228,6 +235,12 @@
         <mark key="^" line="49" column="8" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/wanda/siberia/src/main/java/com/wanda/ohm/siberia/ldap/bean/LdapContact.java" timestamp="1497499093429">
+        <mark key="[" line="86" column="15" />
+        <mark key="]" line="86" column="15" />
+        <mark key="^" line="84" column="46" />
+        <mark key="." line="86" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/TerminalController.java" timestamp="1497401629558">
         <mark key="[" line="128" column="105" />
         <mark key="]" line="128" column="119" />
@@ -264,6 +277,13 @@
         <mark key="." line="22" column="32" />
         <mark key="^" line="22" column="32" />
       </file>
+      <file name="$USER_HOME$/workspace/wanda/siberia/src/main/resources/assets/siberia/template/header_bar.html" timestamp="1497499231591">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="71" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="53" />
+      </file>
+      <file name="$USER_HOME$/workspace/wanda/siberia/config/application.yml" timestamp="1497499998535" />
       <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/ServerController.java" timestamp="1497401997185">
         <mark key="[" line="140" column="31" />
         <mark key="]" line="140" column="31" />
@@ -276,12 +296,11 @@
         <mark key="^" line="42" column="91" />
         <mark key="." line="42" column="91" />
       </file>
-      <file name="/fragment.java" timestamp="1497433739982">
+      <file name="/fragment.java" timestamp="1497498887627">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="9" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
       <jump line="58" column="10" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
       <jump line="59" column="8" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
       <jump line="82" column="30" filename="$MAVEN_REPOSITORY$/org/eluder/coveralls/coveralls-maven-plugin/4.3.0/coveralls-maven-plugin-4.3.0.pom" />
@@ -381,46 +400,47 @@
       <jump line="53" column="27" filename="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/LabelmappingController.java" />
       <jump line="73" column="46" filename="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/web/controller/LabelControllerEx.java" />
       <jump line="42" column="27" filename="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/entity/Dictionary.java" />
+      <jump line="82" column="53" filename="$USER_HOME$/workspace/wanda/siberia/src/main/java/com/wanda/ohm/siberia/ldap/bean/LdapContact.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c21hbGw+e3sgY29udGFjdC5kZXBhcnRtZW50IH19PC9zbWFsbD4K</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">dGl0bGUg</text>
       </register>
       <register name="/" type="4">
         <text>peope</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQoIiAgICBAQXBpTW9kZWxQcm9wZXJ0eShcIuihqOWQjVwiKSBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBUQUJMRSA9IFwiIiArIHRhYmxlbmFtZS5yZXBsYWNlQWxsKCJ0XyIsICIiKSArICJcIjtcblxuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c21hbGw+e3sgY29udGFjdC50aXRsZSB9fTwvc21hbGw+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c21hbGw+e3sgY29udGFjdC5kZXBhcnRtZW50IH19PC9zbWFsbD4K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQoIiAgICBAQXBpTW9kZWxQcm9wZXJ0eShcIuihqOWQjVwiKSBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBUQUJMRSA9IFwiIiArIHRhYmxlbmFtZS5yZXBsYWNlQWxsKCJ0XyIsICIiKSArICJcIjtcblxuIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBHZXR0ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBHZXR0ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CVN0cmluZyBnZXRUYWJsZURpc3BsYXlOYW1lKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoaW50IGkgPSBtYXRjaGVyLmdyb3VwQ291bnQoKTsgaSA+PSAxOyBpLS0pIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1hdGNoZXIuZmluZCgpICYmIG1hdGNoZXIuZ3JvdXBDb3VudCgpID4gMCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKCIgICAgQE92ZXJyaWRlXG4iKS5hcHBlbmQoIiAgICBwdWJsaWMgU3RyaW5nIGdldFRhYmxlRGlzcGxheU5hbWUoKSB7XG4iKS5hcHBlbmQoIiAgICAgICAgcmV0dXJuIHRhYmxlRGlzcGxheU5hbWVraztcbiIpLmFwcGVuZCgiICAgIH1cblxuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZXBzLmFkZCgwLCBtYXRjaGVyLmdyb3VwKGkpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAob3B0Q29uZmlnVGFibGUuaXNQcmVzZW50KCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
