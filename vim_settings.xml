@@ -83,7 +83,6 @@
         <mark key="]" line="15" column="4" />
         <mark key="." line="15" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/entity/Device.java" timestamp="1497432758825" />
       <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/entity/RackStatisticsDetail.java" timestamp="1497402753694">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
@@ -131,7 +130,6 @@
         <mark key="^" line="44" column="15" />
         <mark key="." line="44" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/siberia/src/main/java/com/wanda/ohm/siberia/edge/cap/controller/CommonController.java" timestamp="1497498312713" />
       <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/web/controller/NotifyControllerEx.java" timestamp="1497399456049">
         <mark key="[" line="85" column="59" />
         <mark key="]" line="85" column="57" />
@@ -198,14 +196,12 @@
         <mark key="." line="172" column="21" />
         <mark key="^" line="172" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/entity/Rack.java" timestamp="1497432355993" />
       <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/ConfigController.java" timestamp="1497433714192">
         <mark key="[" line="140" column="31" />
         <mark key="]" line="140" column="41" />
         <mark key="." line="140" column="41" />
         <mark key="^" line="140" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/gen/service/controller/DictionaryController.java" timestamp="1497429195757" />
       <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/DeviceController.java" timestamp="1497401809512">
         <mark key="[" line="143" column="31" />
         <mark key="]" line="143" column="31" />
@@ -283,7 +279,6 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/wanda/siberia/config/application.yml" timestamp="1497499998535" />
       <file name="$USER_HOME$/workspace/wanda/cmdb/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/ServerController.java" timestamp="1497401997185">
         <mark key="[" line="140" column="31" />
         <mark key="]" line="140" column="31" />
