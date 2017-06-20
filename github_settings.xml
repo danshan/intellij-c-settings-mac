@@ -1,7 +1,0 @@
-<application>
-  <component name="GithubSettings">
-    <option name="LOGIN" value="shanhonghao" />
-    <option name="HOST" value="github.wanda-group.net" />
-    <option name="AUTH_TYPE" value="BASIC" />
-  </component>
-</application>
