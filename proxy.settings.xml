@@ -1,0 +1,11 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_TYPE_IS_SOCKS" value="true" />
+    <option name="USE_PROXY_PAC" value="true" />
+    <option name="PROXY_HOST" value="127.0.0.1" />
+    <option name="PROXY_PORT" value="1234" />
+    <option name="PROXY_EXCEPTIONS" value="10.214.*,192.168.*,*.wanda-group.net" />
+    <option name="USE_PAC_URL" value="true" />
+    <option name="PAC_URL" value="http://proxy.wanda-group.net/proxy.pac" />
+  </component>
+</application>
