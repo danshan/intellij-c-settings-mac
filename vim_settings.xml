@@ -2,14 +2,50 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-api/pom.xml" timestamp="1499153371068">
+        <mark key="[" line="134" column="45" />
+        <mark key="]" line="134" column="45" />
+        <mark key="." line="134" column="45" />
+        <mark key="^" line="134" column="44" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/entity/ex/RackConfigStatisticsDetail.java" timestamp="1499152021304">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-service/pom.xml" timestamp="1499153388793">
+        <mark key="[" line="73" column="36" />
+        <mark key="]" line="73" column="44" />
+        <mark key="." line="73" column="44" />
+        <mark key="^" line="73" column="44" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>net</text>
+      </register>
+      <register name=":" type="4">
+        <text>wq</text>
+      </register>
+      <register name="-" type="4">
+        <text>net</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>wq</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
     <editor>
       <key-repeat enabled="true" />
