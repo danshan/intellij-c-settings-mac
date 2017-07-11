@@ -20,6 +20,13 @@
         <mark key="^" line="29" column="4" />
         <mark key="." line="29" column="4" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/pom.xml" timestamp="1499757298476">
+        <mark key="'" line="156" column="9" />
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="17" />
+        <mark key="^" line="156" column="9" />
+        <mark key="." line="12" column="17" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-service/pom.xml" timestamp="1499153883399">
         <mark key="[" line="6" column="36" />
         <mark key="]" line="6" column="44" />
@@ -44,7 +51,12 @@
         <mark key="^" line="114" column="15" />
         <mark key="." line="114" column="15" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/service/ServerService.java" timestamp="1499156923564" />
+      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/bearychat/XXOO.java" timestamp="1499757573315">
+        <mark key="[" line="14" column="30" />
+        <mark key="]" line="14" column="33" />
+        <mark key="." line="14" column="33" />
+        <mark key="^" line="14" column="33" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/web/controller/ConfigurationDeviceController.java" timestamp="1499157404679">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
@@ -78,13 +90,14 @@
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/codes/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/entity/ex/RackStatisticsDetail.java" />
+      <jump line="156" column="9" filename="$USER_HOME$/codes/wanda/bearychat-xxoo/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Tk9USUZZTEFCRUwg</text>
+        <text>Webhook</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Tk9USUZZTEFCRUwg</text>
+        <text>Webhook</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBOT1RJRllMQUJFTCA9ICJub3RpZnlsYWJlbCI7Cg==</text>
