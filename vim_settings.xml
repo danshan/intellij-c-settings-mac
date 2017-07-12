@@ -8,6 +8,9 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1499824423227">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/core/constant/CMDBConstants.java" timestamp="1499156622595">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -26,6 +29,11 @@
         <mark key="]" line="12" column="17" />
         <mark key="^" line="156" column="9" />
         <mark key="." line="12" column="17" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/bearychat/config/MvcConfig.java" timestamp="1499824568009">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-service/pom.xml" timestamp="1499153883399">
         <mark key="[" line="6" column="36" />
@@ -93,8 +101,8 @@
       <jump line="156" column="9" filename="$USER_HOME$/codes/wanda/bearychat-xxoo/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Webhook</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5zaGFuaGguYmVhcnljaGF0LmNvcmUuaW50ZXJjZXB0b3IuUHJvbWV0aGV1c0ludGVyY2VwdG9yOwo=</text>
       </register>
       <register name="-" type="4">
         <text>Webhook</text>
@@ -103,7 +111,7 @@
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBOT1RJRllMQUJFTCA9ICJub3RpZnlsYWJlbCI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zaGFuaGguYmVhcnljaGF0LmNvcmUuaW50ZXJjZXB0b3IuUHJvbWV0aGV1c0ludGVyY2VwdG9yOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CQkJCg==</text>
@@ -115,19 +123,19 @@
         <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ01EQkNvbnN0YW50cygpIHsKICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICogRGVzY3JpcHRpb246CSBUT0RPIEFERCBEZXNjcmlwdGlvbi4gPGJyLz4K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">CQkJCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgQ01EQkNvbnN0YW50cygpIHsKICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICogRGVzY3JpcHRpb246CSBUT0RPIEFERCBEZXNjcmlwdGlvbi4gPGJyLz4K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl0aGlzLmRpY3Rpb25hcnlWYWx1ZXMgPSBkaWN0aW9uYXJ5VmFsdWVzOwo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
