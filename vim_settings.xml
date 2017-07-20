@@ -97,6 +97,12 @@
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/docker/Dockerfile" timestamp="1500537736629">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/core/service/MessageService.java" timestamp="1500515469825">
         <mark key="[" line="12" column="39" />
         <mark key="]" line="12" column="68" />
@@ -265,11 +271,11 @@
         <mark key="." line="33" column="60" />
         <mark key="^" line="33" column="60" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/pom.xml" timestamp="1500536560808">
+      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/pom.xml" timestamp="1500537754633">
         <mark key="[" line="129" column="19" />
-        <mark key="]" line="129" column="19" />
-        <mark key="^" line="129" column="29" />
-        <mark key="." line="129" column="19" />
+        <mark key="]" line="14" column="17" />
+        <mark key="^" line="14" column="17" />
+        <mark key="." line="14" column="17" />
       </file>
       <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/web/controller/RackStatisticsController.java" timestamp="1499155864480">
         <mark key="[" line="106" column="47" />
@@ -369,10 +375,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bearychat</text>
+        <text>listener</text>
       </register>
       <register name="-" type="4">
-        <text>bearychat</text>
+        <text>listener</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
