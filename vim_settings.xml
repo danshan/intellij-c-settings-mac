@@ -296,11 +296,11 @@
         <mark key="^" line="129" column="32" />
         <mark key="." line="130" column="25" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/resources/application-sample.yml" timestamp="1500432376312">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="3" />
-        <mark key="^" line="4" column="3" />
-        <mark key="." line="4" column="3" />
+      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/resources/application-sample.yml" timestamp="1500533280462">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="14" />
+        <mark key="^" line="9" column="20" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/bearychat/XXOO.java" timestamp="1499757573315">
         <mark key="[" line="14" column="30" />
@@ -363,16 +363,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0b2tlbjoK</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGdpdGh1YlBheWxvYWQuZ2V0UHVsbFJlcXVlc3QoKS5nZXRBc3NpZ25lcigpICE9IG51bGwpIHsK</text>
+        <text encoding="base64">ICAgICAgICB0b2tlbjoK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
