@@ -115,11 +115,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="59" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/bearychat/BearychatAdapter.java" timestamp="1500521373719">
-        <mark key="[" line="96" column="71" />
-        <mark key="]" line="96" column="64" />
-        <mark key="." line="96" column="64" />
-        <mark key="^" line="96" column="64" />
+      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/bearychat/BearychatAdapter.java" timestamp="1500546506266">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="62" column="102" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/core/service/AdapterServiceImpl.java" timestamp="1500364500968">
         <mark key="[" line="6" column="33" />
@@ -127,11 +127,10 @@
         <mark key="^" line="8" column="10" />
         <mark key="." line="8" column="10" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/bearychat/BearychatTasks.java" timestamp="1500534900927">
-        <mark key="[" line="37" column="28" />
-        <mark key="]" line="37" column="28" />
-        <mark key="." line="37" column="28" />
-        <mark key="^" line="37" column="28" />
+      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/bearychat/BearychatTasks.java" timestamp="1500546169772">
+        <mark key="[" line="53" column="8" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/AdapterPayload.java" timestamp="1500445903039">
         <mark key="[" line="6" column="3" />
@@ -145,11 +144,11 @@
         <mark key="." line="26" column="3" />
         <mark key="^" line="26" column="3" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/github/service/GithubServiceImpl.java" timestamp="1500522501641">
-        <mark key="[" line="32" column="33" />
-        <mark key="]" line="32" column="39" />
-        <mark key="." line="32" column="39" />
-        <mark key="^" line="32" column="39" />
+      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/github/service/GithubServiceImpl.java" timestamp="1500545926169">
+        <mark key="[" line="34" column="43" />
+        <mark key="]" line="34" column="43" />
+        <mark key="." line="34" column="43" />
+        <mark key="^" line="34" column="41" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/core/controller/BearychatController.java" timestamp="1500363968367">
         <mark key="[" line="26" column="28" />
@@ -175,11 +174,16 @@
         <mark key="." line="16" column="47" />
         <mark key="^" line="16" column="47" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/IntegrationService.java" timestamp="1500544979197">
+      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/IntegrationService.java" timestamp="1500545841741">
         <mark key="[" line="15" column="28" />
-        <mark key="]" line="15" column="12" />
-        <mark key="." line="15" column="12" />
-        <mark key="^" line="15" column="12" />
+        <mark key="]" line="15" column="32" />
+        <mark key="." line="15" column="32" />
+        <mark key="^" line="15" column="32" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/ChatOps.java" timestamp="1500447378058">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/jira/service/JiraServiceImpl.java" timestamp="1500520691306">
         <mark key="'" line="158" column="0" />
@@ -194,12 +198,12 @@
         <mark key="^" line="13" column="10" />
         <mark key="." line="13" column="10" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/core/controller/AdapterController.java" timestamp="1500530575332">
-        <mark key="'" line="39" column="15" />
-        <mark key="[" line="60" column="92" />
-        <mark key="]" line="60" column="93" />
-        <mark key="." line="60" column="93" />
-        <mark key="^" line="60" column="90" />
+      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/core/controller/AdapterController.java" timestamp="1500546079284">
+        <mark key="'" line="41" column="15" />
+        <mark key="[" line="74" column="72" />
+        <mark key="]" line="74" column="77" />
+        <mark key="." line="74" column="77" />
+        <mark key="^" line="74" column="77" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/ItgrPayload.java" timestamp="1500358664171">
         <mark key="[" line="2" column="3" />
@@ -207,12 +211,12 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/github/service/GithubPushBuilder.java" timestamp="1500530844809">
+      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/github/service/GithubPushBuilder.java" timestamp="1500545905177">
         <mark key="'" line="24" column="17" />
-        <mark key="[" line="19" column="69" />
-        <mark key="]" line="19" column="78" />
-        <mark key="^" line="19" column="78" />
-        <mark key="." line="19" column="78" />
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="14" column="10" />
+        <mark key="^" line="14" column="10" />
+        <mark key="." line="14" column="10" />
       </file>
       <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/core/constant/CMDBConstants.java" timestamp="1499156622595">
         <mark key="[" line="18" column="0" />
@@ -289,11 +293,11 @@
         <mark key="^" line="10" column="45" />
         <mark key="." line="10" column="45" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/bearychat/BearychatConfig.java" timestamp="1500433333878">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="52" column="19" />
+      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/bearychat/BearychatConfig.java" timestamp="1500546405176">
+        <mark key="[" line="53" column="79" />
+        <mark key="]" line="53" column="75" />
+        <mark key="." line="53" column="75" />
+        <mark key="^" line="53" column="75" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/bearychat/bean/BearychatRequest.java" timestamp="1500446823765">
         <mark key="[" line="15" column="41" />
@@ -374,11 +378,11 @@
       <jump line="24" column="17" filename="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/github/service/GithubPushBuilder.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>shanhonghao</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBQcmVjb25kaXRpb25zLmNoZWNrTm90TnVsbCh0b2tlbiwgImNvdWxkIG5vdCBmaW5kIHRva2VuIik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>shanhonghao</text>
+        <text encoding="base64">Y2Fubm90IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -387,31 +391,31 @@
         <text encoding="base64">ICAgICAgICB0b2tlbjoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQcmVjb25kaXRpb25zLmNoZWNrTm90TnVsbCh0b2tlbiwgImNvdWxkIG5vdCBmaW5kIHRva2VuIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwb3J0OiA4MDg4Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VydmVyOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVzZXIgPT0gbnVsbCkgewogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aHlzdHJpeDoKICBjb21tYW5kOgogICAgZGVmYXVsdDoKICAgICAgZXhlY3V0aW9uOgogICAgICAgIGlzb2xhdGlvbjoKICAgICAgICAgIHRocmVhZDoKICAgICAgICAgICAgdGltZW91dEluTWlsbGlzZWNvbmRzOiA0MDAwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aHlzdHJpeC5jb21tYW5kLmRlZmF1bHQuZXhlY3V0aW9uLmlzb2xhdGlvbi50aHJlYWQudGltZW91dEluTWlsbGlzZWNvbmRzPTQwMDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy53YXJuKCJ1c2VyIG5vdCBleGlzdHMsIHt9IiwgcmVjZWl2ZXIpOwogICAgICAgICAgICAgICAgY29udGludWU7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGF5bG9hZC5zZXRVaWQodXNlci5nZXRJZCgpKTsKICAgICAgICAgICAgc2VuZE1lc3NhZ2UodG9rZW4sIHBheWxvYWQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy51c2VyTWFwLmdldCh1c2VybmFtZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
