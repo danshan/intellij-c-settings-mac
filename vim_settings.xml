@@ -187,12 +187,12 @@
         <mark key="." line="15" column="32" />
         <mark key="^" line="15" column="32" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/jira/service/JiraServiceImpl.java" timestamp="1500856445553">
-        <mark key="'" line="157" column="0" />
-        <mark key="[" line="56" column="15" />
-        <mark key="]" line="56" column="38" />
-        <mark key="^" line="56" column="38" />
-        <mark key="." line="56" column="38" />
+      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/jira/service/JiraServiceImpl.java" timestamp="1500867398012">
+        <mark key="'" line="162" column="0" />
+        <mark key="[" line="143" column="14" />
+        <mark key="]" line="143" column="14" />
+        <mark key="^" line="146" column="93" />
+        <mark key="." line="143" column="14" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/README.md" timestamp="1500536512511">
         <mark key="[" line="0" column="0" />
@@ -268,7 +268,7 @@
         <mark key="^" line="20" column="5" />
         <mark key="." line="20" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500857050099">
+      <file name="/Dummy.txt" timestamp="1500865703068">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/bearychat/client/BearychatErrorDecoder.java" timestamp="1500446251119">
@@ -341,7 +341,7 @@
         <mark key="." line="24" column="52" />
         <mark key="^" line="24" column="52" />
       </file>
-      <file name="/fragment.java" timestamp="1500859101394">
+      <file name="/fragment.java" timestamp="1500866572608">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -381,10 +381,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -393,31 +393,31 @@
         <text encoding="base64">ICAgICAgICB0b2tlbjoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC9vcHQvY29uZmlnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzc3VlLmdldFNlbGYoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC9vcHQvY29uZmlnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZXBsYWNlKCJyZXN0L2FwaS8yL3VzZXI/dXNlcm5hbWU9IiwgInNlY3VyZS9WaWV3UHJvZmlsZS5qc3BhP25hbWU9IikpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Vk9MVU1OIC9vcHQvY29uZmlnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXIuZ2V0U2VsZigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Vk9MVU1OIC9vcHQvY29uZmlnCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Vk9MVU1OIC9vcHQvY29uZmlnCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gU3BsaXR0ZXIub24oJyYnKS50cmltUmVzdWx0cygpLndpdGhLZXlWYWx1ZVNlcGFyYXRvcigiPSIpLnNwbGl0KHF1ZXJ5KTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcXVlcnkgPSBuZXcgVVJMKHVybCkuZ2V0UXVlcnkoKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJlbG9hZFVzZXJzKCk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPFN0cmluZywgU3RyaW5nPiB0ZXN0KFN0cmluZyB1cmwpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBpbml0KCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
