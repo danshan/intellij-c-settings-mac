@@ -103,10 +103,10 @@
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/docker/Dockerfile" timestamp="1500861573998">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/docker/Dockerfile" timestamp="1500862220095">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/core/service/MessageService.java" timestamp="1500515469825">
@@ -396,7 +396,7 @@
         <text encoding="base64">UlVOIG1rZGlyIC9vcHQvY29uZmlnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Vk9MVU1OIC9vcHQvY29uZmlnCg==</text>
+        <text encoding="base64">UlVOIG1rZGlyIC9vcHQvY29uZmlnCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Vk9MVU1OIC9vcHQvY29uZmlnCg==</text>
@@ -405,19 +405,19 @@
         <text encoding="base64">Vk9MVU1OIC9vcHQvY29uZmlnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Vk9MVU1OIC9vcHQvY29uZmlnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJlbG9hZFVzZXJzKCk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBpbml0KCkgewo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJlbG9hZFVzZXJzKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBQb3N0Q29uc3RydWN0Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBpbml0KCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
