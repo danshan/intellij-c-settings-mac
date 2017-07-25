@@ -247,6 +247,12 @@
         <mark key="." line="15" column="32" />
         <mark key="^" line="15" column="32" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/core/config/MvcConfig.java" timestamp="1500946132655">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="42" column="14" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/jira/service/JiraServiceImpl.java" timestamp="1500877953629">
         <mark key="'" line="61" column="0" />
         <mark key="[" line="51" column="0" />
@@ -463,11 +469,11 @@
       <jump line="37" column="37" filename="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/jira/service/JiraCommentBuilder.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVnaXN0ZXI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -476,31 +482,31 @@
         <text encoding="base64">ICAgIEBEYXRhCiAgICBATm9BcmdzQ29uc3RydWN0b3IKICAgIEBKc29uSWdub3JlUHJvcGVydGllcyhpZ25vcmVVbmtub3duID0gdHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVnaXN0ZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RhbmRhcmRQYXlsb2FkLmdldCgpKTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RhbmRhcmRQYXlsb2FkLmdldCgpKTsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKHN0YW5kYXJkUGF5bG9hZC5pc1ByZXNlbnQoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxTdGFuZGFyZFBheWxvYWQ+IHN0YW5kYXJkUGF5bG9hZCA9IGppcmFTZXJ2aWNlLmNvbnZlcnQoamlyYVBheWxvYWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKHN0YW5kYXJkUGF5bG9hZC5pc1ByZXNlbnQoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBKaXJhUGF5bG9hZCBqaXJhUGF5bG9hZCA9IE9CSkVDVF9NQVBQRVIucmVhZFZhbHVlKFBheWxvYWRVdGlscy5yZWFkUGF5bG9hZCgiamlyYS5jb21tZW50X2NyZWF0ZWQuanNvbiIpLCBKaXJhUGF5bG9hZC5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxTdGFuZGFyZFBheWxvYWQ+IHN0YW5kYXJkUGF5bG9hZCA9IGppcmFTZXJ2aWNlLmNvbnZlcnQoamlyYVBheWxvYWQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3RDb3ZlcnRDb21tZW50Q3JlYXRlZFBheWxvYWQoKSB0aHJvd3MgSU9FeGNlcHRpb24gewo=</text>
+        <text encoding="base64">ICAgICAgICBKaXJhUGF5bG9hZCBqaXJhUGF5bG9hZCA9IE9CSkVDVF9NQVBQRVIucmVhZFZhbHVlKFBheWxvYWRVdGlscy5yZWFkUGF5bG9hZCgiamlyYS5jb21tZW50X2NyZWF0ZWQuanNvbiIpLCBKaXJhUGF5bG9hZC5jbGFzcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3RDb3ZlcnRDb21tZW50Q3JlYXRlZFBheWxvYWQoKSB0aHJvd3MgSU9FeGNlcHRpb24gewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
