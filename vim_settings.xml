@@ -75,6 +75,12 @@
         <mark key="." line="41" column="29" />
         <mark key="^" line="41" column="29" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/yui-hatano/node_modules/hubot-scripts/src/scripts/jira-issues.coffee" timestamp="1501041735637">
+        <mark key="[" line="36" column="13" />
+        <mark key="]" line="36" column="13" />
+        <mark key="^" line="36" column="32" />
+        <mark key="." line="36" column="13" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/resources/application.yml" timestamp="1500539850546">
         <mark key="[" line="6" column="14" />
         <mark key="]" line="6" column="46" />
@@ -200,6 +206,12 @@
         <mark key="." line="21" column="46" />
         <mark key="^" line="19" column="36" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/yui-hatano/scripts/jira.coffee" timestamp="1501042561546">
+        <mark key="[" line="63" column="38" />
+        <mark key="]" line="63" column="36" />
+        <mark key="." line="63" column="36" />
+        <mark key="^" line="63" column="36" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/bearychat/BearychatTasks.java" timestamp="1500860096166">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -271,6 +283,7 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="42" column="14" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/yui-hatano/node_modules/hubot-scripts/src/scripts/jira.coffee" timestamp="1501042415709" />
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/README.md" timestamp="1500536512511">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="13" column="10" />
@@ -309,7 +322,7 @@
         <mark key="^" line="29" column="4" />
         <mark key="." line="29" column="4" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/yui-hatano/scripts/jira-issues.coffee" timestamp="1501032476486">
+      <file name="$USER_HOME$/codes/wanda/yui-hatano/scripts/jira-issues.coffee" timestamp="1501041167256">
         <mark key="'" line="95" column="20" />
         <mark key="[" line="80" column="40" />
         <mark key="]" line="66" column="87" />
@@ -499,11 +512,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/codes/wanda/yui-hatano/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsganNvbi5maWVsZHMuc3VtbWFyeQ==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -512,31 +525,31 @@
         <text encoding="base64">IyAgICAgICAgICAgICAgICAgICAgICBtZXNzYWdlICs9ICcsIGFzc2lnbmVkIHRvICcgKyBqc29uLmZpZWxkcy5hc3NpZ25lZS52YWx1ZS5kaXNwbGF5TmFtZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdldCBtc2cgaXNzdWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IEhVQk9UX0xPR19MRVZFTD1kZWJ1Zwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBpZiBtc2cubWVzc2FnZS51c2VyLm5hbWUubWF0Y2gobmV3IFJlZ0V4cChqaXJhSWdub3JlVXNlcnMsICJnaSIpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IEhVQk9UX0JFQVJZQ0hBVF9NT0RFPXJ0bQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBpZiBtc2cubWVzc2FnZS51c2VyLm5hbWUubWF0Y2gobmV3IFJlZ0V4cChqaXJhSWdub3JlVXNlcnMsICJnaSIpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IEhVQk9UX0JFQVJZQ0hBVF9UT0tFTlM9ZmE2NmUxNzBmNmI0NDdjZWQzOTBhNDkxODJiYzA2ZjAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIGpzb24gPSBKU09OLnBhcnNlKGJvZHkpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IEhVQk9UX0pJUkFfSVNTVUVTX0lHTk9SRV9VU0VSUz1vaG0tamlyYS1ib3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IEhVQk9UX0pJUkFfUEFTU1dPUkQ9anoyZjhzYnIwd3dxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IEhVQk9UX0pJUkFfVVNFUk5BTUU9b2htLWppcmEtYm90Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
