@@ -206,12 +206,12 @@
         <mark key="." line="21" column="46" />
         <mark key="^" line="19" column="36" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/yui-hatano/scripts/jira.coffee" timestamp="1501053582749">
-        <mark key="'" line="135" column="30" />
-        <mark key="[" line="58" column="18" />
-        <mark key="]" line="58" column="20" />
-        <mark key="^" line="58" column="20" />
-        <mark key="." line="58" column="20" />
+      <file name="$USER_HOME$/codes/wanda/yui-hatano/scripts/jira.coffee" timestamp="1501056939980">
+        <mark key="'" line="133" column="30" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="57" column="20" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/bearychat/BearychatTasks.java" timestamp="1500860096166">
         <mark key="[" line="32" column="0" />
@@ -323,11 +323,11 @@
         <mark key="^" line="29" column="4" />
         <mark key="." line="29" column="4" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/yui-hatano/scripts/jira-issues.coffee" timestamp="1501052430692">
-        <mark key="'" line="96" column="20" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/codes/wanda/yui-hatano/scripts/jira-issues.coffee" timestamp="1501056930837">
+        <mark key="'" line="95" column="20" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/github/service/GithubPingBuilder.java" timestamp="1500950477753">
         <mark key="[" line="15" column="39" />
@@ -516,44 +516,44 @@
       <jump line="133" column="30" filename="$USER_HOME$/codes/wanda/yui-hatano/scripts/jira.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aHR0cHM6Ly9hcGkuYmVhcnljaGF0LmNvbS92MS91c2VyLmluZm8/dXNlcl9pZD0je3VzZXJJZH0mdG9rZW49I3twcm9jZXNzLmVudi5IVUJPVF9CRUFSWUNIQVRfVE9LRU5TfQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLnRpbWVvdXQoMikK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aHR0cHM6Ly9hcGkuYmVhcnljaGF0LmNvbS92MS91c2VyLmluZm8/dXNlcl9pZD0je3VzZXJJZH0mdG9rZW49I3twcm9jZXNzLmVudi5IVUJPVF9CRUFSWUNIQVRfVE9LRU5TfQ==</text>
+        <text>000</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGVycikK</text>
+        <text encoding="base64">ICAgIC50aW1lb3V0KDIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLnRpbWVvdXQoMikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjYWNoZSA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgLnRpbWVvdXQoMikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC50aW1lb3V0KDIpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICJodWJvdC1oZWxwIgo=</text>
+        <text encoding="base64">ICBjYWNoZSA9IFtdCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgIDxQcm9qZWN0IEtleT4tPElzc3VlIElEPiAtIERpc3BsYXlzIGluZm9ybWF0aW9uIGFib3V0IHRoZSBKSVJBIHRpY2tldCAoaWYgaXQgZXhpc3RzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaXNzdWVzKQo=</text>
+        <text encoding="base64">Ly8gICJodWJvdC1oZWxwIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgdXNlVjIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
