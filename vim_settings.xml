@@ -81,11 +81,10 @@
         <mark key="." line="6" column="46" />
         <mark key="^" line="6" column="46" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/yui-hatano/bin/hubot" timestamp="1501031023940">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="6" />
-        <mark key="^" line="11" column="6" />
-        <mark key="." line="11" column="6" />
+      <file name="$USER_HOME$/codes/wanda/yui-hatano/bin/hubot" timestamp="1501033263059">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/Adapter.java" timestamp="1500515374453">
         <mark key="[" line="11" column="39" />
@@ -152,7 +151,7 @@
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/docker/Dockerfile" timestamp="1500863549789">
+      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/docker/Dockerfile" timestamp="1501033206968">
         <mark key="[" line="5" column="12" />
         <mark key="]" line="5" column="12" />
         <mark key="." line="5" column="12" />
@@ -163,6 +162,9 @@
         <mark key="]" line="12" column="68" />
         <mark key="^" line="12" column="68" />
         <mark key="." line="12" column="68" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/yui-hatano/Dockerfile" timestamp="1501033185783">
+        <mark key="[" line="0" column="26" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/sonarqube/service/SonarqubeService.java" timestamp="1500362855102">
         <mark key="[" line="9" column="0" />
@@ -415,6 +417,10 @@
         <mark key="^" line="21" column="11" />
         <mark key="." line="21" column="11" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/yui-hatano/.gitignore" timestamp="1501033285227">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="77" column="12" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/bearychat/XXOO.java" timestamp="1499757573315">
         <mark key="[" line="14" column="30" />
         <mark key="]" line="14" column="33" />
@@ -486,10 +492,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/github/service/GithubPullRequestBuilder.java" />
       <jump line="95" column="18" filename="$USER_HOME$/codes/wanda/yui-hatano/scripts/jira-issues.coffee" />
       <jump line="96" column="20" filename="$USER_HOME$/codes/wanda/yui-hatano/scripts/jira-issues.coffee" />
+      <jump line="0" column="0" filename="$USER_HOME$/codes/wanda/yui-hatano/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICsganNvbi5maWVsZHMuc3VtbWFyeQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICsganNvbi5maWVsZHMuc3VtbWFyeQ==</text>
@@ -501,31 +508,31 @@
         <text encoding="base64">IyAgICAgICAgICAgICAgICAgICAgICBtZXNzYWdlICs9ICcsIGFzc2lnbmVkIHRvICcgKyBqc29uLmZpZWxkcy5hc3NpZ25lZS52YWx1ZS5kaXNwbGF5TmFtZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIG1lc3NhZ2UgKz0gJywgYXNzaWduZWQgdG8gWycgKyBqc29uLmZpZWxkcy5hc3NpZ25lZS5kaXNwbGF5TmFtZSsgJ10oKScgKyBqc29uLmZpZWxkcy5hc3NpZ25lZS5kaXNwbGF5TmFtZQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhqc29uLmZpZWxkcy5hc3NpZ25lZSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhqc29uLmZpZWxkcy5hc3NpZ25lZSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0tLS0tLS0tLS0nKQogICAgICBjb25zb2xlLmxvZyhlcnIpCiAgICAgIGNvbnNvbGUubG9nKGJvZHkpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyKQogICAgICBjb25zb2xlLmxvZyhib2R5KQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZXhwb3J0IEhVQk9UX0xPR19MRVZFTD1kZWJ1Zwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZXhwb3J0IEhVQk9UX0JFQVJZQ0hBVF9NT0RFPXJ0bQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZXhwb3J0IEhVQk9UX0JFQVJZQ0hBVF9UT0tFTlM9ZmE2NmUxNzBmNmI0NDdjZWQzOTBhNDkxODJiYzA2ZjAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZXhwb3J0IEhVQk9UX0pJUkFfSVNTVUVTX0lHTk9SRV9VU0VSUz1vaG0tamlyYS1ib3QK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZXhwb3J0IEhVQk9UX0pJUkFfUEFTU1dPUkQ9anoyZjhzYnIwd3dxCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZXNzYWdlICs9ICJcbiIgKyBqaXJhVXJsICsgIi9icm93c2UvIiArIGtleQo=</text>
+        <text encoding="base64">ZXhwb3J0IEhVQk9UX0pJUkFfVVNFUk5BTUU9b2htLWppcmEtYm90Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaWYgbm90IG1zZy5tZXNzYWdlLnRleHQubWF0Y2godXJsUmVnZXgpCg==</text>
+        <text encoding="base64">ZXhwb3J0IEhVQk9UX0pJUkFfSUdOT1JFQ0FTRT10cnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
