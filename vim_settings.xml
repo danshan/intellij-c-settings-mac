@@ -206,11 +206,12 @@
         <mark key="." line="21" column="46" />
         <mark key="^" line="19" column="36" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/yui-hatano/scripts/jira.coffee" timestamp="1501116436479">
+      <file name="$USER_HOME$/codes/wanda/yui-hatano/scripts/jira.coffee" timestamp="1501118720572">
         <mark key="'" line="30" column="50" />
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="156" column="19" />
-        <mark key="." line="156" column="0" />
+        <mark key="[" line="114" column="150" />
+        <mark key="]" line="116" column="12" />
+        <mark key="." line="116" column="12" />
+        <mark key="^" line="116" column="12" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/bearychat/BearychatTasks.java" timestamp="1500860096166">
         <mark key="[" line="32" column="0" />
@@ -284,12 +285,6 @@
         <mark key="^" line="42" column="14" />
       </file>
       <file name="$USER_HOME$/codes/wanda/yui-hatano/node_modules/hubot-scripts/src/scripts/jira.coffee" timestamp="1501050069553" />
-      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/jira/service/JiraServiceImpl.java" timestamp="1500877953629">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-      </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/README.md" timestamp="1500536512511">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="13" column="10" />
@@ -522,8 +517,8 @@
       <jump line="30" column="50" filename="$USER_HOME$/codes/wanda/yui-hatano/scripts/jira.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY2IgcmVzdWx0VGV4dAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YnJlYWsg</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">YnJlYWsg</text>
@@ -532,34 +527,34 @@
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY2IgcmVzdWx0VGV4dAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaWYgaWR4ID49IGppcmFNYXhMaXN0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZm9yIGlzc3VlIGluIHJlc3VsdC5pc3N1ZXMK</text>
+        <text encoding="base64">ICAgICAgaWR4KysKICAgICAgY29uc29sZS5sb2coaWR4ICsgIiAiKyBqaXJhTWF4TGlzdCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjYiByZXN1bHRUZXh0ICsgIiAodG9vIG1hbnkgdG8gbGlzdCkiCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZWxzZQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRUZXh0ICs9IG1lcmdlSXNzdWUocmVzdWx0Lmlzc3VlcykK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaWYgaWR4ID49IGppcmFNYXhMaXN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgcmVzdWx0Lmlzc3Vlcy5sZW5ndGgK</text>
+        <text encoding="base64">ICAgICAgICBpZHgrKwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgcmVzdWx0Lmlzc3Vlcy5mb3JFYWNoIChpc3N1ZSkgLT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgcmVzdWx0Lmlzc3Vlcy5sZW5ndGggPD0gamlyYU1heExpc3QK</text>
+        <text encoding="base64">ICAgICAgaWR4ID0gMAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaWYgaWR4ID49IGppcmFNYXhMaXN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZHgrKwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
