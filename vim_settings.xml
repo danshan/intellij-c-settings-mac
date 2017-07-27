@@ -15,6 +15,7 @@
         <mark key="^" line="20" column="5" />
         <mark key="." line="20" column="5" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/yui-hatano/scripts/jenkins.coffee.bak" timestamp="1501124467943" />
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/IPayload.java" timestamp="1499838610424">
         <mark key="[" line="7" column="25" />
         <mark key="]" line="7" column="46" />
@@ -206,12 +207,12 @@
         <mark key="." line="21" column="46" />
         <mark key="^" line="19" column="36" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/yui-hatano/scripts/jira.coffee" timestamp="1501118720572">
-        <mark key="'" line="30" column="50" />
-        <mark key="[" line="114" column="150" />
-        <mark key="]" line="116" column="12" />
-        <mark key="." line="116" column="12" />
-        <mark key="^" line="116" column="12" />
+      <file name="$USER_HOME$/codes/wanda/yui-hatano/scripts/jira.coffee" timestamp="1501127285599">
+        <mark key="'" line="104" column="0" />
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="172" column="0" />
+        <mark key="^" line="167" column="12" />
+        <mark key="." line="172" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/bearychat/BearychatTasks.java" timestamp="1500860096166">
         <mark key="[" line="32" column="0" />
@@ -515,46 +516,48 @@
       <jump line="53" column="24" filename="$USER_HOME$/codes/wanda/yui-hatano/scripts/jira.coffee" />
       <jump line="133" column="30" filename="$USER_HOME$/codes/wanda/yui-hatano/scripts/jira.coffee" />
       <jump line="30" column="50" filename="$USER_HOME$/codes/wanda/yui-hatano/scripts/jira.coffee" />
+      <jump line="115" column="57" filename="$USER_HOME$/codes/wanda/yui-hatano/scripts/jira.coffee" />
+      <jump line="102" column="0" filename="$USER_HOME$/codes/wanda/yui-hatano/scripts/jira.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YnJlYWsg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyB1c2VyCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YnJlYWsg</text>
+        <text encoding="base64">bnNlcm5hbWUg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaWYgaWR4ID49IGppcmFNYXhMaXN0Cg==</text>
+        <text encoding="base64">ICAgICAgdXNlciA9IGFzc2lnbmVlLnN1YigxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWR4KysKICAgICAgY29uc29sZS5sb2coaWR4ICsgIiAiKyBqaXJhTWF4TGlzdCkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyB1c2VyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdXNlci5uYW1lCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZQo=</text>
+        <text encoding="base64">ICAgIGlmIGFzc2lnbmVlLnN0YXJ0c1dpdGggJ0AnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaWYgaWR4ID49IGppcmFNYXhMaXN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZHgrKwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmVzdWx0Lmlzc3Vlcy5mb3JFYWNoIChpc3N1ZSkgLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWR4ID0gMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaWYgaWR4ID49IGppcmFNYXhMaXN0Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1zZykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZHgrKwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -574,8 +577,8 @@
         <entry encoding="base64">XDwoXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>W</entry>
         <entry>wq</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
