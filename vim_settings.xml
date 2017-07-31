@@ -222,12 +222,12 @@
         <mark key="." line="21" column="46" />
         <mark key="^" line="19" column="36" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/yui-hatano/scripts/jira.coffee" timestamp="1501463429517">
-        <mark key="'" line="20" column="43" />
-        <mark key="[" line="104" column="60" />
-        <mark key="]" line="104" column="60" />
-        <mark key="^" line="69" column="24" />
-        <mark key="." line="104" column="60" />
+      <file name="$USER_HOME$/codes/wanda/yui-hatano/scripts/jira.coffee" timestamp="1501464839620">
+        <mark key="'" line="103" column="6" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="16" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="48" column="15" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/bearychat/BearychatTasks.java" timestamp="1500860096166">
         <mark key="[" line="32" column="0" />
@@ -526,56 +526,60 @@
       <jump line="20" column="43" filename="$USER_HOME$/codes/wanda/yui-hatano/scripts/jira.coffee" />
       <jump line="109" column="32" filename="$USER_HOME$/codes/wanda/bearychat-xxoo/pom.xml" />
       <jump line="20" column="70" filename="$USER_HOME$/codes/wanda/bearychat-xxoo/pom.xml" />
+      <jump line="84" column="2" filename="$USER_HOME$/codes/wanda/yui-hatano/scripts/jira.coffee" />
+      <jump line="72" column="47" filename="$USER_HOME$/codes/wanda/yui-hatano/scripts/jira.coffee" />
+      <jump line="174" column="0" filename="$USER_HOME$/codes/wanda/yui-hatano/scripts/jira.coffee" />
+      <jump line="103" column="6" filename="$USER_HOME$/codes/wanda/yui-hatano/scripts/jira.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNiIGVycgo=</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwoXD4=</text>
+        <text>key</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBKSVJBX0NPVU5ULmluYygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNiIGVycgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBDb3VudGVyIE5FWFVTX0NPVU5UID0gQ291bnRlci5idWlsZCgpLm5hbWUoInJlcXVlc3RzX3RvdGFsIikuaGVscCgiVG90YWwgcmVxdWVzdHMuIikucmVnaXN0ZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIG1zZy4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiB0cnVlCg==</text>
+        <text encoding="base64">IyAgICAgICAgICByZXMuc2VuZCAiR0VUIGZhaWxlZCAje2Vycn0iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGVycikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY2IgImFzc2lnbiBmYWlsZWQiCg==</text>
+        <text encoding="base64">ICAgICAgY2IgIiN7aXNzdWUuaXNzdWV0eXBlfSBbI3tpc3N1ZS5rZXl9XSgje2lzc3VlLnVybH0pICN7aXNzdWUuc3VtbWFyeX0uICN7aXNzdWUuYXNzaWduZWUoKX0gLyAje2lzc3VlLnN0YXR1c30sICN7aXNzdWUuZml4VmVyc2lvbigpfSIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY2IgImFzc2lnbiBAI3thc3NpZ25lZX0gc3VjY2VzcyIK</text>
+        <text encoding="base64">ICAgICAgICB1cmw6IHByb2Nlc3MuZW52LkhVQk9UX0pJUkFfVVJMICsgJy9icm93c2UvJyArIGlzc3Vlcy5rZXkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY2IgImFzc2lnbiBAI3thc3NpZ25lZX0gc3VjY2VzcyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIm5vIGZpeCB2ZXJzaW9uIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QUREIHNjcmlwdHMgc2NyaXB0cwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGVsc2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNzdWVzLmZpZWxkcy5maXhWZXJzaW9ucy5tYXAoKGZpeFZlcnNpb24pIC0+IHJldHVybiBmaXhWZXJzaW9uLm5hbWUpLmpvaW4oIiwgIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwoXD4=</last-search>
+      <last-search>key</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwoXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>key</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -583,6 +587,8 @@
         <entry encoding="base64">XDx7XD4=</entry>
         <entry encoding="base64">XDxjb21tZW50XD4=</entry>
         <entry encoding="base64">XDwoXD4=</entry>
+        <entry>info</entry>
+        <entry>key</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
