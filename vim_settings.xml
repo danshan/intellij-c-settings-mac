@@ -164,11 +164,11 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/github/service/GithubBuilder.java" timestamp="1501583656525">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="6" />
-        <mark key="^" line="8" column="6" />
-        <mark key="." line="8" column="6" />
+      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/github/service/GithubBuilder.java" timestamp="1501663448161">
+        <mark key="[" line="21" column="19" />
+        <mark key="]" line="21" column="34" />
+        <mark key="^" line="21" column="34" />
+        <mark key="." line="21" column="34" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/jira/service/JiraService.java" timestamp="1501583791914">
         <mark key="[" line="13" column="42" />
@@ -382,12 +382,11 @@
         <mark key="]" line="203" column="104" />
         <mark key="." line="203" column="104" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/github/service/GithubPushBuilder.java" timestamp="1501661446871">
+      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/github/service/GithubPushBuilder.java" timestamp="1501663371434">
         <mark key="'" line="27" column="33" />
-        <mark key="[" line="61" column="42" />
-        <mark key="]" line="61" column="42" />
-        <mark key="." line="61" column="42" />
-        <mark key="^" line="61" column="42" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/core/constant/CMDBConstants.java" timestamp="1499156622595">
         <mark key="[" line="18" column="0" />
@@ -621,11 +620,11 @@
       <jump line="19" column="0" filename="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/StandardPayload.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RhbmRhcmRQYXlsb2FkLmdldCgpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>buildCommitMessage</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>buildCommitMessage</text>
       </register>
       <register name="/" type="4">
         <text>key</text>
@@ -634,31 +633,31 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKHN0YW5kYXJkUGF5bG9hZC5nZXQoKS5nZXRSZWNlaXZlcnMoKS5jb250YWlucygic2hhbmhvbmdoYW8iKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RhbmRhcmRQYXlsb2FkLmdldCgpKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKHN0YW5kYXJkUGF5bG9hZC5nZXQoKS5nZXRSZWNlaXZlcnMoKS5jb250YWlucygidl9odWFuZ3lhd2VuIikpOwogICAgICAgIGFzc2VydFRoYXQoc3RhbmRhcmRQYXlsb2FkLmdldCgpLmdldEF0dGFjaG1lbnRzKCkuc2l6ZSgpLCBpcygxKSk7CiAgICAgICAgYXNzZXJ0VGhhdChzdGFuZGFyZFBheWxvYWQuZ2V0KCkuZ2V0QXR0YWNobWVudHMoKS5nZXQoMCkuZ2V0Q29sb3IoKSwgaXMoU3RhbmRhcmRQYXlsb2FkLkNvbG9yLlJFRCkpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHN0YW5kYXJkUGF5bG9hZC5nZXQoKS5nZXRBdHRhY2htZW50cygpLnNpemUoKSwgaXMoMSkpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKHN0YW5kYXJkUGF5bG9hZC5nZXQoKS5nZXRSZWNlaXZlcnMoKS5jb250YWlucygidl9odWFuZ3lhd2VuIikpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHN0YW5kYXJkUGF5bG9hZC5nZXQoKS5nZXRUaXRsZSgpLCBpcygiW+m7hOmbhembry3lkIjkvZzmlrldKGh0dHA6Ly9qaXJhLndhbmRhLWl0Zy5sb2NhbC9zZWN1cmUvVmlld1Byb2ZpbGUuanNwYT9uYW1lPXZfaHVhbmd5YXdlbikgY3JlYXRlZCBCdWcgW0VMTVlDRC0zOTMg5oiR55qE6LS35qy+6aG15Lit5pWw5o2u5pi+56S66ZSZ6K+vXShodHRwOi8vamlyYS53YW5kYS1pdGcubG9jYWwvYnJvd3NlL0VMTVlDRC0zOTMpIikpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RhbmRhcmRQYXlsb2FkLmdldCgpKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKHN0YW5kYXJkUGF5bG9hZC5nZXQoKS5nZXRSZWNlaXZlcnMoKS5jb250YWlucygidl9odWFuZ3lhd2VuIikpOwogICAgICAgIGFzc2VydFRoYXQoc3RhbmRhcmRQYXlsb2FkLmdldCgpLmdldEF0dGFjaG1lbnRzKCkuc2l6ZSgpLCBpcygxKSk7CiAgICAgICAgYXNzZXJ0VGhhdChzdGFuZGFyZFBheWxvYWQuZ2V0KCkuZ2V0QXR0YWNobWVudHMoKS5nZXQoMCkuZ2V0Q29sb3IoKSwgaXMoU3RhbmRhcmRQYXlsb2FkLkNvbG9yLlJFRCkpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHN0YW5kYXJkUGF5bG9hZC5nZXQoKS5nZXRBdHRhY2htZW50cygpLnNpemUoKSwgaXMoMSkpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKHN0YW5kYXJkUGF5bG9hZC5nZXQoKS5nZXRSZWNlaXZlcnMoKS5jb250YWlucygidl9odWFuZ3lhd2VuIikpOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RhbmRhcmRQYXlsb2FkKTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHN0YW5kYXJkUGF5bG9hZC5nZXQoKS5nZXRUaXRsZSgpLCBpcygiW+m7hOmbhembry3lkIjkvZzmlrldKGh0dHA6Ly9qaXJhLndhbmRhLWl0Zy5sb2NhbC9zZWN1cmUvVmlld1Byb2ZpbGUuanNwYT9uYW1lPXZfaHVhbmd5YXdlbikgY3JlYXRlZCBCdWcgW0VMTVlDRC0zOTMg5oiR55qE6LS35qy+6aG15Lit5pWw5o2u5pi+56S66ZSZ6K+vXShodHRwOi8vamlyYS53YW5kYS1pdGcubG9jYWwvYnJvd3NlL0VMTVlDRC0zOTMpIikpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QFRvU3RyaW5nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QFRvU3RyaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RhbmRhcmRQYXlsb2FkKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
