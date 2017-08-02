@@ -67,7 +67,6 @@
         <mark key="." line="294" column="3" />
         <mark key="^" line="294" column="3" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/regex/Pattern.java" timestamp="1501584029739" />
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/docker/Dockerfile" timestamp="1501463368965">
         <mark key="[" line="5" column="12" />
         <mark key="]" line="5" column="12" />
@@ -293,7 +292,6 @@
         <mark key="^" line="11" column="35" />
         <mark key="." line="11" column="35" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/yui-hatano/scripts/jenkins.coffee.bak" timestamp="1501485700055" />
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/test/resources/payload/jira.worklog_created.json" timestamp="1500944649668">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="44" column="0" />
@@ -430,7 +428,7 @@
         <mark key="." line="26" column="23" />
         <mark key="^" line="26" column="23" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/test/java/com/wanda/ohm/chatops/integration/github/service/GithubServiceImplTest.java" timestamp="1501659906428">
+      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/test/java/com/wanda/ohm/chatops/integration/github/service/GithubServiceImplTest.java" timestamp="1501660853779">
         <mark key="[" line="48" column="48" />
         <mark key="]" line="38" column="3" />
         <mark key="." line="38" column="3" />
