@@ -291,11 +291,11 @@
         <mark key="^" line="20" column="5" />
         <mark key="." line="20" column="5" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/config/application.yml" timestamp="1501730339095">
-        <mark key="[" line="13" column="2" />
-        <mark key="]" line="13" column="2" />
-        <mark key="^" line="9" column="3" />
-        <mark key="." line="13" column="2" />
+      <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/config/application.yml" timestamp="1501731231157">
+        <mark key="[" line="6" column="47" />
+        <mark key="]" line="8" column="16" />
+        <mark key="^" line="8" column="16" />
+        <mark key="." line="8" column="16" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/test/resources/payload/jira.worklog_created.json" timestamp="1500944649668">
         <mark key="[" line="0" column="0" />
