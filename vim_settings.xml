@@ -34,6 +34,12 @@
         <mark key="." line="14" column="4" />
         <mark key="^" line="14" column="4" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/chatops-xxoo/src/main/java/com/wanda/ohm/chatops/core/config/SecurityConfig.java" timestamp="1502074305217">
+        <mark key="[" line="38" column="39" />
+        <mark key="]" line="38" column="39" />
+        <mark key="." line="38" column="39" />
+        <mark key="^" line="36" column="15" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/entity/RackStatisticsDetail.java" timestamp="1499154025806">
         <mark key="[" line="114" column="8" />
         <mark key="]" line="114" column="15" />
@@ -634,8 +640,8 @@
         <mark key="^" line="27" column="52" />
         <mark key="." line="27" column="52" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/chatops-xxoo/pom.xml" timestamp="1502072295993">
-        <mark key="[" line="14" column="18" />
+      <file name="$USER_HOME$/codes/wanda/chatops-xxoo/pom.xml" timestamp="1502073849018">
+        <mark key="[" line="73" column="21" />
         <mark key="]" line="14" column="17" />
         <mark key="." line="14" column="17" />
         <mark key="^" line="14" column="17" />
@@ -855,43 +861,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>github</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>github</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KE1hcmtkb3duVXRpbHMuaWdub3JlTWFya2Rvd24obnVsbCksIGlzKG51bGwpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFudE1hdGNoZXJzKCIvIiwiL2hlbGxvIikucGVybWl0QWxsKCkvL+WumuS5iS/or7fmsYLkuI3pnIDopoHpqozor4EgIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uc3VuLm9yZy5hcGFjaGUueGVyY2VzLmludGVybmFsLnV0aWwuUHJvcGVydHlTdGF0ZS5pczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFudE1hdGNoZXJzKCIvIiwiL2hlbGxvIikucGVybWl0QWxsKCkvL+WumuS5iS/or7fmsYLkuI3pnIDopoHpqozor4EK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uc3VuLm9yZy5hcGFjaGUueGVyY2VzLmludGVybmFsLnV0aWwuUHJvcGVydHlTdGF0ZS5pczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBQYXR0ZXJuLmNvbXBpbGUoKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBNQVJLRE9XTl9QVE4uCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBQYXR0ZXJuLmNvbXBpbGUoKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBNQVJLRE9XTl9QVE4uCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFBhdHRlcm4gTURfUFROID0gIAogICAgcHJpdmF0ZSBTdHJpbmcgbWFya2Rvd25GaWx0ZXIoU3RyaW5nIHN0cmluZykgewoKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFBhdHRlcm4gTURfUFROID0gIAogICAgcHJpdmF0ZSBTdHJpbmcgbWFya2Rvd25GaWx0ZXIoU3RyaW5nIHN0cmluZykgewoKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
