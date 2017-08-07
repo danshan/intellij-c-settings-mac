@@ -639,6 +639,9 @@
         <mark key="]" line="23" column="12" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1502067855549">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/test/java/com/wanda/ohm/chatops/utils/MockJiraUtils.java" timestamp="1501835716235">
         <mark key="[" line="27" column="27" />
         <mark key="]" line="27" column="25" />
@@ -709,7 +712,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1502065394478">
+      <file name="/fragment.java" timestamp="1502067855539">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="^" line="0" column="23" />
