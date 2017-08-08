@@ -39,6 +39,7 @@
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="3" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/src/main/java/com/wanda/ohm/chatops/admin/core/config/SecurityConfig.java" timestamp="1502165112842" />
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/test/java/com/wanda/ohm/chatops/utils/MockUtils.java" timestamp="1501830354033">
         <mark key="[" line="48" column="15" />
         <mark key="]" line="48" column="15" />
@@ -164,11 +165,11 @@
         <mark key="." line="62" column="56" />
         <mark key="^" line="62" column="55" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/pom.xml" timestamp="1502161194109">
-        <mark key="[" line="76" column="72" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="74" column="7" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/pom.xml" timestamp="1502165167322">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="33" />
+        <mark key="^" line="12" column="33" />
+        <mark key="." line="12" column="33" />
       </file>
       <file name="$USER_HOME$/codes/wanda/chatops-admin/src/main/java/com/wanda/ohm/chatops/admin/core/ChatOpsAdminApplication.java" timestamp="1502084918741">
         <mark key="[" line="19" column="37" />
@@ -554,6 +555,13 @@
         <mark key="^" line="7" column="39" />
         <mark key="." line="7" column="39" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/pom.xml" timestamp="1502165227734">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="144" column="38" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/bearychat/BearychatConfig.java" timestamp="1502066262859">
         <mark key="[" line="29" column="1" />
         <mark key="]" line="29" column="6" />
@@ -634,11 +642,12 @@
         <mark key="^" line="36" column="32" />
         <mark key="." line="36" column="13" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/pom.xml" timestamp="1502160949962">
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/pom.xml" timestamp="1502165267405">
         <mark key="'" line="43" column="30" />
-        <mark key="[" line="75" column="72" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+        <mark key="[" line="133" column="27" />
+        <mark key="]" line="133" column="27" />
+        <mark key="." line="133" column="27" />
+        <mark key="^" line="133" column="27" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/bearychat/client/BearychatClient.java" timestamp="1501581339044">
         <mark key="[" line="27" column="55" />
@@ -708,13 +717,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="9" filename="$USER_HOME$/codes/wanda/bearychat-xxoo/pom.xml" />
-      <jump line="20" column="44" filename="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/nexus/service/NexusServiceImpl.java" />
-      <jump line="30" column="12" filename="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/nexus/service/NexusServiceImpl.java" />
-      <jump line="59" column="4" filename="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/sonarqube/service/SonarqubeServiceImpl.java" />
-      <jump line="67" column="84" filename="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/sonarqube/service/SonarqubeServiceImpl.java" />
-      <jump line="25" column="0" filename="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/sonarqube/service/SonarqubeServiceImpl.java" />
-      <jump line="62" column="47" filename="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/sonarqube/service/SonarqubeServiceImpl.java" />
       <jump line="61" column="0" filename="$USER_HOME$/codes/wanda/bearychat-xxoo/.gitignore" />
       <jump line="32" column="70" filename="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/bearychat/client/BearychatErrorDecoder.java" />
       <jump line="88" column="0" filename="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/jira/bean/JiraPayload.java" />
@@ -808,55 +810,62 @@
       <jump line="146" column="4" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-ldap/4.1.3.RELEASE/spring-security-ldap-4.1.3.RELEASE-sources.jar!/org/springframework/security/ldap/userdetails/Person.java" />
       <jump line="0" column="6" filename="$USER_HOME$/codes/wanda/chatops-admin/config/application.yml" />
       <jump line="43" column="30" filename="$USER_HOME$/codes/wanda/ChatOps-Admin/pom.xml" />
+      <jump line="189" column="10" filename="$USER_HOME$/codes/wanda/ChatOps-Subscription/pom.xml" />
+      <jump line="146" column="20" filename="$USER_HOME$/codes/wanda/ChatOps-Subscription/pom.xml" />
+      <jump line="110" column="8" filename="$USER_HOME$/codes/wanda/ChatOps-Subscription/pom.xml" />
+      <jump line="1" column="16" filename="$USER_HOME$/codes/wanda/ChatOps-Subscription/pom.xml" />
+      <jump line="2" column="20" filename="$USER_HOME$/codes/wanda/ChatOps-Subscription/pom.xml" />
+      <jump line="3" column="63" filename="$USER_HOME$/codes/wanda/ChatOps-Subscription/pom.xml" />
+      <jump line="22" column="0" filename="$USER_HOME$/codes/wanda/ChatOps-Subscription/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPG9wdGlvbmFsPnRydWU8L29wdGlvbmFsPgo=</text>
+      <register name="&quot;" type="4">
+        <text>xxoo</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>xxoo</text>
       </register>
       <register name="/" type="4">
-        <text>spring-boot</text>
+        <text>http</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3QtY29uZmlndXJhdGlvbi1wcm9jZXNzb3I8L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPG9wdGlvbmFsPnRydWU8L29wdGlvbmFsPgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5odHRwY29tcG9uZW50czwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+aHR0cGNsaWVudDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+JHtodHRwY2xpZW50LnZlcnNpb259PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aHR0cGNsaWVudC52ZXJzaW9uPjQuNS4yPC9odHRwY2xpZW50LnZlcnNpb24+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPG9wdGlvbmFsPnRydWU8L29wdGlvbmFsPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8c3ByaW5nLWJvb3QudmVyc2lvbj4xLjQuMS1SRUxFQVNFPC9zcHJpbmctYm9vdC52ZXJzaW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3QtY29uZmlndXJhdGlvbi1wcm9jZXNzb3I8L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS41LjMuUkVMRUFTRTwvdmVyc2lvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLnNwcmluZ2ZyYW1ld29yay5ib290L3NwcmluZy1ib290LWNvbmZpZ3VyYXRpb24tcHJvY2Vzc29yIC0tPgo=</text>
+        <text encoding="base64">ICAgICAgICA8c3ByaW5nLWJvb3QudmVyc2lvbj4xLjQuMS1SRUxFQVNFPC9zcHJpbmctYm9vdC52ZXJzaW9uPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3QtY29uZmlndXJhdGlvbi1wcm9jZXNzb3I8L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>spring-boot</last-search>
+      <last-search>http</last-search>
       <last-offset />
-      <last-pattern>spring-boot</last-pattern>
+      <last-pattern>http</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -868,6 +877,7 @@
         <entry>key</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry>spring-boot</entry>
+        <entry>http</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
