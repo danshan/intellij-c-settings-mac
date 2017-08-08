@@ -642,12 +642,12 @@
         <mark key="^" line="36" column="32" />
         <mark key="." line="36" column="13" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/pom.xml" timestamp="1502165267405">
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/pom.xml" timestamp="1502169243008">
         <mark key="'" line="43" column="30" />
         <mark key="[" line="133" column="27" />
-        <mark key="]" line="133" column="27" />
-        <mark key="." line="133" column="27" />
-        <mark key="^" line="133" column="27" />
+        <mark key="]" line="138" column="20" />
+        <mark key="." line="138" column="20" />
+        <mark key="^" line="138" column="20" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/bearychat/client/BearychatClient.java" timestamp="1501581339044">
         <mark key="[" line="27" column="55" />
