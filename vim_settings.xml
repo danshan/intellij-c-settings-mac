@@ -190,11 +190,14 @@
         <mark key="^" line="44" column="71" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/client/subscription/SubscriptionClient.java" timestamp="1502328035122">
-        <mark key="[" line="25" column="66" />
-        <mark key="]" line="25" column="77" />
-        <mark key="." line="25" column="77" />
-        <mark key="^" line="25" column="77" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/controller/dto/BaseResponse.java" timestamp="1502329226914">
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="13" column="17" />
+        <mark key="^" line="13" column="17" />
+        <mark key="." line="13" column="17" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/client/subscription/SubscriptionClient.java" timestamp="1502329081339">
+        <mark key="[" line="20" column="36" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/jira/bean/JiraField.java" timestamp="1501744038959">
         <mark key="[" line="6" column="23" />
@@ -556,11 +559,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/client/subscription/dto/BaseResponse.java" timestamp="1502270776807">
-        <mark key="[" line="17" column="18" />
-        <mark key="]" line="17" column="24" />
-        <mark key="." line="17" column="24" />
-        <mark key="^" line="17" column="24" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/client/subscription/dto/BaseResponse.java" timestamp="1502329331058">
+        <mark key="[" line="11" column="7" />
+        <mark key="]" line="19" column="24" />
+        <mark key="." line="19" column="24" />
+        <mark key="^" line="19" column="24" />
       </file>
       <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/web/service/QueryService.java" timestamp="1499155979407">
         <mark key="[" line="147" column="21" />
@@ -744,11 +747,11 @@
         <mark key="^" line="84" column="53" />
         <mark key="." line="83" column="46" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/controller/SubscriptionController.java" timestamp="1502325969226">
-        <mark key="[" line="36" column="32" />
-        <mark key="]" line="36" column="31" />
-        <mark key="^" line="36" column="31" />
-        <mark key="." line="36" column="31" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/controller/SubscriptionController.java" timestamp="1502329037520">
+        <mark key="[" line="31" column="29" />
+        <mark key="]" line="24" column="16" />
+        <mark key="^" line="24" column="16" />
+        <mark key="." line="24" column="16" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/pom.xml" timestamp="1502325284073">
         <mark key="'" line="22" column="0" />
@@ -790,7 +793,7 @@
       <file name="/Dummy.txt" timestamp="1502271290077">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/service/impl/SubscriptionServiceImpl.java" timestamp="1502328111593">
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/service/impl/SubscriptionServiceImpl.java" timestamp="1502329198068">
         <mark key="[" line="30" column="32" />
         <mark key="]" line="30" column="32" />
         <mark key="." line="30" column="32" />
@@ -1062,16 +1065,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Param</text>
+        <text>value = &quot;users/{username}/subscriptions&quot;, method = RequestMethod.GET)</text>
       </register>
       <register name="-" type="4">
-        <text>Param</text>
+        <text>value = &quot;users/{username}/subscriptions&quot;, method = RequestMethod.GET)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VybmFtZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLXJlZGlzPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJ1c2Vycy97dXNlcm5hbWV9L3N1YnNjcmlwdGlvbnMiLCBtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLkdFVCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBTdHJpbmdSZWRpc1RlbXBsYXRlIHJlZGlzVGVtcGxhdGU7Cg==</text>
