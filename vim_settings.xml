@@ -119,11 +119,11 @@
         <mark key="^" line="8" column="10" />
         <mark key="." line="8" column="10" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/service/impl/MessageServiceImpl.java" timestamp="1502325913217">
-        <mark key="[" line="31" column="56" />
-        <mark key="]" line="31" column="65" />
-        <mark key="." line="31" column="65" />
-        <mark key="^" line="31" column="65" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/service/impl/MessageServiceImpl.java" timestamp="1502413323711">
+        <mark key="[" line="35" column="9" />
+        <mark key="]" line="36" column="7" />
+        <mark key="." line="36" column="7" />
+        <mark key="^" line="36" column="7" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/controller/dto/BaseResponse.java" timestamp="1502329226914">
         <mark key="[" line="12" column="7" />
@@ -492,11 +492,10 @@
       <file name="/Dummy.txt" timestamp="1502410677710">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/service/impl/SubscriptionServiceImpl.java" timestamp="1502412122246">
-        <mark key="[" line="64" column="8" />
-        <mark key="]" line="64" column="7" />
-        <mark key="." line="64" column="7" />
-        <mark key="^" line="64" column="7" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/service/impl/SubscriptionServiceImpl.java" timestamp="1502413359699">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/github/service/GithubPingBuilder.java" timestamp="1501839394507">
         <mark key="[" line="17" column="0" />
@@ -1267,10 +1266,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkoc3RhbmRhcmRQYXlsb2FkLmdldFJlY2VpdmVycygpKSkgewogICAgICAgICAgICByZXR1cm4gTGlzdDsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gbnVsbDsK</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>standardPayload.getReceivers()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VybmFtZVw+</text>
@@ -1279,31 +1278,31 @@
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkoc3RhbmRhcmRQYXlsb2FkLmdldFJlY2VpdmVycygpKSkgewogICAgICAgICAgICByZXR1cm4gTGlzdDsKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">QE5vQXJnc0NvbnN0cnVjdG9yCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGV2ZW50Owo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBjb250ZW50ID0gbnVsbDsK</text>
       </register>
-      <register name="9" type="2">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkoc3RhbmRhcmRQYXlsb2FkLmdldFJlY2VpdmVycygpKSkgewogICAgICAgICAgICByZXR1cm4gTGlzdDsKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">QE5vQXJnc0NvbnN0cnVjdG9yCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGV2ZW50Owo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
