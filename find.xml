@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'chatops'" />
-    <option name="defaultScopeName" value="Project 'chatops'" />
-    <option name="SEARCH_SCOPE" value="Project 'chatops'" />
+    <option name="customScope" value="Module 'chatops-xxoo'" />
+    <option name="defaultScopeName" value="Module 'chatops-xxoo'" />
+    <option name="SEARCH_SCOPE" value="Module 'chatops-xxoo'" />
   </component>
 </application>
