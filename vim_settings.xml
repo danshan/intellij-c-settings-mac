@@ -46,6 +46,11 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/package.json" timestamp="1502497055188">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/core/service/MessageService.java" timestamp="1502065478842">
         <mark key="[" line="16" column="38" />
         <mark key="]" line="16" column="37" />
@@ -1268,8 +1273,8 @@
       <jump line="12" column="0" filename="$USER_HOME$/codes/wanda/ChatOps-Admin/webpack.base.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>src</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJ1bml0IjogImNyb3NzLWVudiBCQUJFTF9FTlY9dGVzdCBrYXJtYSBzdGFydCB0ZXN0L3VuaXQva2FybWEuY29uZi5qcyAtLXNpbmdsZS1ydW4iLAo=</text>
       </register>
       <register name="-" type="4">
         <text>src</text>
@@ -1281,31 +1286,31 @@
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bm9kZV9tb2R1bGVzLwo=</text>
+        <text encoding="base64">ICAgICJ1bml0IjogImNyb3NzLWVudiBCQUJFTF9FTlY9dGVzdCBrYXJtYSBzdGFydCB0ZXN0L3VuaXQva2FybWEuY29uZi5qcyAtLXNpbmdsZS1ydW4iLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LkRTX1N0b3JlCg==</text>
+        <text encoding="base64">ICAgICJ0ZXN0IjogIm5wbSBydW4gdW5pdCAmJiBucG0gcnVuIGUyZSIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8g5Yqg6L295ZmoCg==</text>
+        <text encoding="base64">ICAgICJlMmUiOiAibm9kZSB0ZXN0L2UyZS9ydW5uZXIuanMiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gaHR0cHM6Ly92dWUtbG9hZGVyLnZ1ZWpzLm9yZy9lbi9jb25maWd1cmF0aW9ucy9leHRyYWN0LWNzcy5odG1sCg==</text>
+        <text encoding="base64">bm9kZV9tb2R1bGVzLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gaHR0cHM6Ly9kb2Mud2VicGFjay1jaGluYS5vcmcvZ3VpZGVzL21pZ3JhdGluZy8jbW9kdWxlLWxvYWRlcnMtbW9kdWxlLXJ1bGVzCg==</text>
+        <text encoding="base64">LkRTX1N0b3JlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gfSwK</text>
+        <text encoding="base64">Ly8g5Yqg6L295ZmoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgIF0K</text>
+        <text encoding="base64">Ly8gaHR0cHM6Ly92dWUtbG9hZGVyLnZ1ZWpzLm9yZy9lbi9jb25maWd1cmF0aW9ucy9leHRyYWN0LWNzcy5odG1sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgICAnYXV0b3ByZWZpeGVyLWxvYWRlcicK</text>
+        <text encoding="base64">Ly8gaHR0cHM6Ly9kb2Mud2VicGFjay1jaGluYS5vcmcvZ3VpZGVzL21pZ3JhdGluZy8jbW9kdWxlLWxvYWRlcnMtbW9kdWxlLXJ1bGVzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgICAnY3NzLWxvYWRlcicsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gfSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
