@@ -335,6 +335,7 @@
         <mark key="." line="26" column="78" />
         <mark key="^" line="26" column="78" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/vue/App.vue" timestamp="1502499845420" />
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/core/controller/BearychatController.java" timestamp="1500363968367">
         <mark key="[" line="26" column="28" />
         <mark key="]" line="26" column="28" />
@@ -352,6 +353,12 @@
         <mark key="]" line="33" column="28" />
         <mark key="." line="33" column="28" />
         <mark key="^" line="33" column="28" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/vue/router/index.js" timestamp="1502499263253">
+        <mark key="[" line="1" column="31" />
+        <mark key="]" line="3" column="2" />
+        <mark key="^" line="3" column="2" />
+        <mark key="." line="3" column="2" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/test/resources/cases/general_subscription_1.json" timestamp="1502376820849">
         <mark key="[" line="2" column="23" />
@@ -394,11 +401,11 @@
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/service/SubEventService.java" timestamp="1502347684739">
         <mark key="[" line="13" column="26" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/build/webpack.base.conf.js" timestamp="1502442010593">
-        <mark key="[" line="24" column="20" />
-        <mark key="]" line="24" column="22" />
-        <mark key="." line="24" column="22" />
-        <mark key="^" line="24" column="22" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/build/webpack.base.conf.js" timestamp="1502498994389">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="12" />
+        <mark key="." line="11" column="12" />
+        <mark key="^" line="28" column="9" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/service/JiraServiceImpl.java" timestamp="1502411718182">
         <mark key="[" line="53" column="0" />
@@ -411,6 +418,7 @@
         <mark key="^" line="13" column="10" />
         <mark key="." line="13" column="10" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/vue/vuex/api/services/products.js" timestamp="1502499446481" />
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/bearychat/client/StashErrorDecoder.java" timestamp="1500426840873">
         <mark key="[" line="29" column="61" />
         <mark key="]" line="29" column="73" />
@@ -509,7 +517,7 @@
         <mark key="." line="32" column="12" />
         <mark key="^" line="11" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502442581027">
+      <file name="/Dummy.txt" timestamp="1502499737626">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/service/impl/SubscriptionServiceImpl.java" timestamp="1502413359699">
@@ -1273,8 +1281,8 @@
       <jump line="12" column="0" filename="$USER_HOME$/codes/wanda/ChatOps-Admin/webpack.base.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJ1bml0IjogImNyb3NzLWVudiBCQUJFTF9FTlY9dGVzdCBrYXJtYSBzdGFydCB0ZXN0L3VuaXQva2FybWEuY29uZi5qcyAtLXNpbmdsZS1ydW4iLAo=</text>
+      <register name="&quot;" type="4">
+        <text>src</text>
       </register>
       <register name="-" type="4">
         <text>src</text>
