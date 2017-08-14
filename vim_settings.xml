@@ -595,10 +595,10 @@
         <mark key="^" line="27" column="52" />
         <mark key="." line="27" column="52" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/vue/vuex/api/services/index.js" timestamp="1502675174972">
-        <mark key="[" line="1" column="42" />
-        <mark key="]" line="1" column="42" />
-        <mark key="." line="1" column="42" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/vue/vuex/api/services/index.js" timestamp="1502676865975">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="5" column="1" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/bearychat/client/BearychatException.java" timestamp="1500429610477">
@@ -1336,8 +1336,8 @@
       <jump line="38" column="6" filename="$USER_HOME$/codes/wanda/ChatOps-Admin/vue/router/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHByb2R1Y3RzIGZyb20gJy4vcHJvZHVjdHMnCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">LCA=</text>
@@ -1349,31 +1349,31 @@
         <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IoZXJyb3IpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">aW1wb3J0IHByb2R1Y3RzIGZyb20gJy4vcHJvZHVjdHMnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb2xvcjogIzQyYjk4MzsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">YSB7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">fQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb2xvcjogIzQyYjk4MzsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">YSB7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBtYXJnaW46IDAgMTBweDsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cg==</text>
+        <text encoding="base64">ICBtYXJnaW46IDAgMTBweDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGkgewo=</text>
+        <text encoding="base64">ICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
