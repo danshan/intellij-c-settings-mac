@@ -9,14 +9,16 @@
         <mark key="." line="38" column="39" />
         <mark key="^" line="36" column="15" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-Commons/src/main/java/com/wanda/ohm/chatops/commons/dto/BaseResponse.java" timestamp="1502682996400">
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Commons/src/main/java/com/wanda/ohm/chatops/commons/dto/BaseResponse.java" timestamp="1502694048090">
         <mark key="[" line="20" column="23" />
         <mark key="]" line="20" column="28" />
         <mark key="." line="20" column="28" />
         <mark key="^" line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/config/application.yml" timestamp="1502161324630">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/config/application.yml" timestamp="1502693681113">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1502260921891">
         <mark key="[" line="0" column="0" />
@@ -56,12 +58,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/dao/repo/SubEventRepo.java" timestamp="1502681432597">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/core/service/MessageService.java" timestamp="1502065478842">
         <mark key="[" line="16" column="38" />
         <mark key="]" line="16" column="37" />
@@ -97,12 +93,6 @@
         <mark key="]" line="14" column="2" />
         <mark key="^" line="14" column="2" />
         <mark key="." line="14" column="2" />
-      </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/test/java/com/wanda/ohm/chatops/subscription/service/impl/SubscriptionServiceImplTest.java" timestamp="1502681631737">
-        <mark key="'" line="103" column="34" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/.editorconfig" timestamp="1502442453582">
         <mark key="[" line="2" column="2" />
@@ -148,11 +138,11 @@
         <mark key="^" line="16" column="32" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/src/main/java/com/wanda/ohm/chatops/admin/service/SubscriptionServiceImpl.java" timestamp="1502689836588">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="23" column="7" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/src/main/java/com/wanda/ohm/chatops/admin/service/SubscriptionServiceImpl.java" timestamp="1502695551142">
+        <mark key="[" line="44" column="15" />
+        <mark key="]" line="44" column="15" />
+        <mark key="." line="44" column="15" />
+        <mark key="^" line="43" column="80" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/dao/mapper/SubscriptionMapper.java" timestamp="1502681385055">
         <mark key="[" line="2" column="0" />
@@ -165,17 +155,23 @@
         <mark key="." line="36" column="7" />
         <mark key="^" line="36" column="7" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/src/main/java/com/wanda/ohm/chatops/admin/client/SubTypeClient.java" timestamp="1502694972711">
+        <mark key="[" line="20" column="29" />
+        <mark key="]" line="20" column="29" />
+        <mark key="." line="20" column="29" />
+        <mark key="^" line="20" column="29" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/controller/dto/BaseResponse.java" timestamp="1502329226914">
         <mark key="[" line="12" column="7" />
         <mark key="]" line="13" column="17" />
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/controller/SubEventController.java" timestamp="1502681393088">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="32" column="32" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/controller/SubEventController.java" timestamp="1502694841784">
+        <mark key="[" line="35" column="105" />
+        <mark key="]" line="35" column="77" />
+        <mark key="^" line="35" column="77" />
+        <mark key="." line="35" column="77" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/jira/bean/JiraField.java" timestamp="1501744038959">
         <mark key="[" line="6" column="23" />
@@ -305,6 +301,12 @@
         <mark key="^" line="17" column="17" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/src/main/java/com/wanda/ohm/chatops/admin/controller/SubChannelController.java" timestamp="1502694809599">
+        <mark key="[" line="37" column="46" />
+        <mark key="]" line="37" column="44" />
+        <mark key="^" line="37" column="44" />
+        <mark key="." line="37" column="44" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/core/handler/GlobalExceptionHandler.java" timestamp="1502681504762">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -317,17 +319,22 @@
         <mark key="^" line="9" column="13" />
         <mark key="." line="9" column="13" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/src/main/java/com/wanda/ohm/chatops/admin/client/SubChannelClient.java" timestamp="1502693166277">
+        <mark key="[" line="19" column="29" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/service/SubscriptionService.java" timestamp="1502681446368">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="51" column="51" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/controller/SubChannelController.java" timestamp="1502681033228">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="32" column="34" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/controller/SubChannelController.java" timestamp="1502692602464">
+        <mark key="[" line="35" column="58" />
+        <mark key="]" line="35" column="85" />
+        <mark key="." line="35" column="85" />
+        <mark key="^" line="35" column="85" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/test/resources/cases/general_subscription_2.json" timestamp="1502376826803">
         <mark key="[" line="2" column="23" />
@@ -348,13 +355,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="20" column="42" />
-      </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-Commons/src/main/java/com/wanda/ohm/chatops/commons/client/SubscriptionController.java" timestamp="1502681305517">
-        <mark key="'" line="23" column="98" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="23" column="98" />
-        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/core/controller/EventController.java" timestamp="1502257054010">
         <mark key="[" line="33" column="61" />
@@ -380,11 +380,11 @@
         <mark key="^" line="9" column="56" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/src/main/java/com/wanda/ohm/chatops/admin/controller/SubscriptionController.java" timestamp="1502683012911">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="17" column="5" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/src/main/java/com/wanda/ohm/chatops/admin/controller/SubscriptionController.java" timestamp="1502695559849">
+        <mark key="[" line="54" column="34" />
+        <mark key="]" line="54" column="40" />
+        <mark key="." line="54" column="40" />
+        <mark key="^" line="54" column="40" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/bearychat/XXOO.java" timestamp="1499757573315">
         <mark key="[" line="14" column="30" />
@@ -416,13 +416,6 @@
         <mark key="." line="33" column="28" />
         <mark key="^" line="33" column="28" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/vue/router/index.js" timestamp="1502674308427">
-        <mark key="'" line="39" column="6" />
-        <mark key="[" line="4" column="22" />
-        <mark key="]" line="4" column="53" />
-        <mark key="^" line="4" column="53" />
-        <mark key="." line="4" column="53" />
-      </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/test/resources/cases/general_subscription_1.json" timestamp="1502376820849">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="23" />
@@ -434,6 +427,12 @@
         <mark key="]" line="6" column="44" />
         <mark key="." line="6" column="44" />
         <mark key="^" line="6" column="44" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/src/main/java/com/wanda/ohm/chatops/admin/client/SubEventClient.java" timestamp="1502694958299">
+        <mark key="[" line="20" column="29" />
+        <mark key="]" line="20" column="35" />
+        <mark key="." line="20" column="35" />
+        <mark key="^" line="20" column="35" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/service/impl/SubChannelServiceImpl.java" timestamp="1502681460753">
         <mark key="[" line="2" column="0" />
@@ -476,6 +475,12 @@
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/src/main/java/com/wanda/ohm/chatops/admin/controller/SubTypeController.java" timestamp="1502694778533">
+        <mark key="[" line="37" column="47" />
+        <mark key="]" line="37" column="40" />
+        <mark key="^" line="37" column="40" />
+        <mark key="." line="37" column="40" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/vue/vuex/api/services/dev.js" timestamp="1502673755063">
         <mark key="[" line="4" column="43" />
@@ -527,6 +532,11 @@
         <mark key="^" line="38" column="23" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/config/application.yml" timestamp="1502693280035">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/bearychat/bean/BearychatColor.java" timestamp="1500457125082">
         <mark key="[" line="27" column="23" />
         <mark key="]" line="27" column="26" />
@@ -554,8 +564,11 @@
       <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/build/build.js" timestamp="1502439710206">
         <mark key="[" line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/src/main/java/com/wanda/ohm/chatops/admin/client/SubscriptionClient.java" timestamp="1502689958756">
-        <mark key="[" line="23" column="81" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/src/main/java/com/wanda/ohm/chatops/admin/client/SubscriptionClient.java" timestamp="1502695406370">
+        <mark key="[" line="25" column="111" />
+        <mark key="]" line="26" column="3" />
+        <mark key="." line="26" column="3" />
+        <mark key="^" line="26" column="3" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/IntegrationService.java" timestamp="1500545841741">
         <mark key="[" line="15" column="28" />
@@ -580,6 +593,13 @@
         <mark key="^" line="7" column="39" />
         <mark key="." line="7" column="39" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/controller/SubscriptionController.java" timestamp="1502695392654">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="47" column="23" />
+        <mark key="]" line="47" column="30" />
+        <mark key="^" line="47" column="30" />
+        <mark key="." line="47" column="30" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/test/java/com/wanda/ohm/chatops/subscription/utils/MockSubscription.java" timestamp="1502172823647">
         <mark key="[" line="6" column="29" />
         <mark key="]" line="6" column="33" />
@@ -601,10 +621,10 @@
         <mark key="." line="32" column="12" />
         <mark key="^" line="11" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502688859849">
+      <file name="/Dummy.txt" timestamp="1502693644978">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/service/impl/SubscriptionServiceImpl.java" timestamp="1502681740910">
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/service/impl/SubscriptionServiceImpl.java" timestamp="1502693590992">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -693,7 +713,7 @@
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
       </file>
-      <file name="/fragment.java" timestamp="1502688859840">
+      <file name="/fragment.java" timestamp="1502695534405">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="^" line="0" column="23" />
@@ -707,6 +727,12 @@
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/static/views/index.html" timestamp="1502440689803">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/src/main/java/com/wanda/ohm/chatops/admin/service/SubscriptionService.java" timestamp="1502695485123">
+        <mark key="[" line="17" column="10" />
+        <mark key="]" line="17" column="8" />
+        <mark key="^" line="17" column="8" />
+        <mark key="." line="17" column="8" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/core/service/SendingBox.java" timestamp="1501753765311">
         <mark key="[" line="10" column="31" />
@@ -782,13 +808,6 @@
         <mark key="]" line="17" column="42" />
         <mark key="." line="17" column="42" />
         <mark key="^" line="17" column="42" />
-      </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-Commons/pom.xml" timestamp="1502682868460">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="63" column="21" />
-        <mark key="]" line="63" column="20" />
-        <mark key="^" line="63" column="20" />
-        <mark key="." line="63" column="20" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/service/impl/SubTypeServiceImpl.java" timestamp="1502681456713">
         <mark key="[" line="2" column="0" />
@@ -941,6 +960,12 @@
         <mark key="." line="0" column="40" />
         <mark key="^" line="0" column="40" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/src/main/java/com/wanda/ohm/chatops/admin/controller/SubEventController.java" timestamp="1502694874696">
+        <mark key="[" line="37" column="41" />
+        <mark key="]" line="37" column="41" />
+        <mark key="^" line="36" column="72" />
+        <mark key="." line="37" column="41" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/adapter/StandardPayload.java" timestamp="1502411833267">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -981,12 +1006,6 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="22" column="48" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/test/java/com/wanda/ohm/chatops/subscription/utils/MockSubscriptionUtils.java" timestamp="1502681587081">
-        <mark key="'" line="38" column="18" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/test/resources/payload/github.create.json" timestamp="1500949523245">
@@ -1081,11 +1100,11 @@
         <mark key="." line="22" column="1" />
         <mark key="^" line="22" column="1" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/controller/SubTypeController.java" timestamp="1502682474380">
-        <mark key="[" line="31" column="42" />
-        <mark key="]" line="31" column="42" />
-        <mark key="^" line="31" column="38" />
-        <mark key="." line="31" column="42" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/controller/SubTypeController.java" timestamp="1502692306956">
+        <mark key="[" line="28" column="13" />
+        <mark key="]" line="28" column="13" />
+        <mark key="^" line="28" column="70" />
+        <mark key="." line="28" column="13" />
       </file>
       <file name="$USER_HOME$/codes/wanda/chatops-admin/src/main/java/com/wanda/ohm/chatops/admin/core/security/WandaUserDetails.java" timestamp="1502090979824">
         <mark key="[" line="25" column="0" />
@@ -1266,7 +1285,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/pom.xml" timestamp="1502681668962">
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/pom.xml" timestamp="1502693749044">
         <mark key="[" line="61" column="35" />
         <mark key="]" line="60" column="38" />
         <mark key="^" line="60" column="38" />
@@ -1308,6 +1327,13 @@
         <mark key="^" line="0" column="48" />
         <mark key="." line="0" column="48" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/core/config/SwaggerConfig.java" timestamp="1502691662325">
+        <mark key="'" line="79" column="11" />
+        <mark key="[" line="79" column="11" />
+        <mark key="]" line="79" column="11" />
+        <mark key="^" line="35" column="5" />
+        <mark key="." line="79" column="11" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/yui-hatano/Dockerfile" timestamp="1501149159629">
         <mark key="[" line="16" column="38" />
         <mark key="]" line="17" column="0" />
@@ -1326,11 +1352,11 @@
         <mark key="^" line="36" column="32" />
         <mark key="." line="36" column="13" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/pom.xml" timestamp="1502688944812">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="^" line="88" column="20" />
-        <mark key="." line="88" column="0" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/pom.xml" timestamp="1502693754518">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="79" column="21" />
+        <mark key="^" line="87" column="20" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/dao/SubEventDAO.java" timestamp="1502351062565">
         <mark key="[" line="48" column="15" />
@@ -1385,11 +1411,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="8" filename="$USER_HOME$/codes/wanda/bearychat-xxoo/src/test/java/com/wanda/ohm/chatops/integration/github/service/GithubServiceImplTest.java" />
-      <jump line="19" column="0" filename="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/StandardPayload.java" />
-      <jump line="65" column="43" filename="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/bearychat/BearychatAdapter.java" />
-      <jump line="26" column="0" filename="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/core/service/BeanUtils.java" />
-      <jump line="116" column="24" filename="$USER_HOME$/codes/wanda/bearychat-xxoo/pom.xml" />
       <jump line="42" column="42" filename="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/jira/service/JiraServiceImpl.java" />
       <jump line="40" column="7" filename="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/jira/service/JiraServiceImpl.java" />
       <jump line="45" column="0" filename="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/jira/JiraTasks.java" />
@@ -1485,56 +1506,61 @@
       <jump line="5" column="0" filename="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/dao/repo/SubEventRepo.java" />
       <jump line="38" column="18" filename="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/test/java/com/wanda/ohm/chatops/subscription/utils/MockSubscriptionUtils.java" />
       <jump line="103" column="34" filename="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/test/java/com/wanda/ohm/chatops/subscription/service/impl/SubscriptionServiceImplTest.java" />
+      <jump line="91" column="0" filename="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/core/config/SwaggerConfig.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/core/config/SwaggerConfig.java" />
+      <jump line="93" column="25" filename="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/core/config/SwaggerConfig.java" />
+      <jump line="48" column="30" filename="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/core/config/SwaggerConfig.java" />
+      <jump line="79" column="11" filename="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/core/config/SwaggerConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53YW5kYS5vaG0uY2hhdG9wcy5jb21tb25zLmNsaWVudC5TdWJDaGFubmVsQ2xpZW50OwppbXBvcnQgY29tLndhbmRhLm9obS5jaGF0b3BzLmNvbW1vbnMuY2xpZW50LlN1YkV2ZW50Q2xpZW50OwppbXBvcnQgY29tLndhbmRhLm9obS5jaGF0b3BzLmNvbW1vbnMuY2xpZW50LlN1YlR5cGVDbGllbnQ7CmltcG9ydCBjb20ud2FuZGEub2htLmNoYXRvcHMuY29tbW9ucy5jbGllbnQuU3Vic2NyaXB0aW9uQ2xpZW50Owo=</text>
+      <register name="&quot;" type="4">
+        <text>subscriptions</text>
       </register>
       <register name="-" type="4">
-        <text>scanBasePackages = &quot;com.wanda.ohm.chatops&quot;</text>
+        <text>subscriptions</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VybmFtZVw+</text>
+        <text>dis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KCLkuovku7bmj4/ov7AiKQo=</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJ1c2Vycy97dXNlcm5hbWV9L3N1YnNjcmlwdGlvbnMiLCBtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLkdFVCwgcHJvZHVjZXMgPSBNZWRpYVR5cGUuQVBQTElDQVRJT05fSlNPTl9VVEY4X1ZBTFVFKQogICAgQEFwaU9wZXJhdGlvbih2YWx1ZSA9ICLmn6Xor6LnlKjmiLfnmoTmiYDmnInorqLpmIUiLCBub3RlcyA9ICLmn6Xor6LnlKjmiLfnmoTmiYDmnInorqLpmIUiLCByZXNwb25zZUNvbnRhaW5lciA9ICJMaXN0IiwgcmVzcG9uc2UgPSBTdWJzY3JpcHRpb25EVE8uY2xhc3MpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53YW5kYS5vaG0uY2hhdG9wcy5jb21tb25zLmNsaWVudC5TdWJDaGFubmVsQ2xpZW50OwppbXBvcnQgY29tLndhbmRhLm9obS5jaGF0b3BzLmNvbW1vbnMuY2xpZW50LlN1YkV2ZW50Q2xpZW50OwppbXBvcnQgY29tLndhbmRhLm9obS5jaGF0b3BzLmNvbW1vbnMuY2xpZW50LlN1YlR5cGVDbGllbnQ7CmltcG9ydCBjb20ud2FuZGEub2htLmNoYXRvcHMuY29tbW9ucy5jbGllbnQuU3Vic2NyaXB0aW9uQ2xpZW50Owo=</text>
+        <text encoding="base64">ICAgIExpc3Q8U3Vic2NyaXB0aW9uRFRPPiB1cGRhdGVTdWJzY3JpcHRpb25zQnlVc2VybmFtZShTdHJpbmcgdXNlcm5hbWUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QENvbXBvbmVudFNjYW4oYmFzZVBhY2thZ2VzID0gImNvbS53YW5kYS5vaG0iKQo=</text>
+        <text encoding="base64">ICAgICAgICBQcmVjbwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4yLjMuUkVMRUFTRTwvdmVyc2lvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCJhcGkvdjEiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCJhcGkvdjEiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCJhcGkvdjEiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEJhc2VSZXNwb25zZTw+KHJlc3VsdHMuZ2V0KCkpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXN1bHRzLm9yRWxzZVRocm93KCgpIC0+IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJmaW5kIGV2ZW50cyBmYWlsZWQiKSk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRzLm9yRWxzZVRocm93KCgpIC0+IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJmaW5kIHN1YnNjcmlwdGlvbnMgZmFpbGVkIikpOwo=</text>
+        <text encoding="base64">ICAgIHN1YnNjcmlwdGlvblNlcnZpY2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2VybmFtZVw+</last-search>
+      <last-search>dis</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VybmFtZVw+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>dis</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1547,6 +1573,7 @@
         <entry>spring-boot</entry>
         <entry>http</entry>
         <entry encoding="base64">XDx1c2VybmFtZVw+</entry>
+        <entry>dis</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
