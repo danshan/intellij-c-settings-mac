@@ -201,11 +201,11 @@
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/vue/vuex/actions.js" timestamp="1502675275144">
-        <mark key="[" line="16" column="40" />
-        <mark key="]" line="16" column="38" />
-        <mark key="^" line="16" column="38" />
-        <mark key="." line="16" column="38" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/vue/vuex/actions.js" timestamp="1502678698655">
+        <mark key="[" line="20" column="5" />
+        <mark key="]" line="20" column="5" />
+        <mark key="^" line="19" column="5" />
+        <mark key="." line="20" column="5" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/webpack.config.js" timestamp="1502437525187">
         <mark key="[" line="10" column="0" />
@@ -652,7 +652,7 @@
         <mark key="." line="37" column="36" />
         <mark key="^" line="37" column="36" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/vue/components/MySubscriptions.vue" timestamp="1502675372016">
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/vue/components/MySubscriptions.vue" timestamp="1502678372334">
         <mark key="[" line="48" column="9" />
         <mark key="]" line="48" column="9" />
         <mark key="^" line="49" column="0" />
@@ -1336,11 +1336,11 @@
       <jump line="38" column="6" filename="$USER_HOME$/codes/wanda/ChatOps-Admin/vue/router/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHByb2R1Y3RzIGZyb20gJy4vcHJvZHVjdHMnCg==</text>
+      <register name="&quot;" type="4">
+        <text>cache</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>cache</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VybmFtZVw+</text>
