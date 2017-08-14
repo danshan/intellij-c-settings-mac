@@ -27,7 +27,6 @@
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/Siberia/pom.xml" timestamp="1502443248941" />
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/test/java/com/wanda/ohm/chatops/utils/MockUtils.java" timestamp="1501830354033">
         <mark key="[" line="48" column="15" />
         <mark key="]" line="48" column="15" />
@@ -46,10 +45,10 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/package.json" timestamp="1502497055188">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/package.json" timestamp="1502673300248">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/core/service/MessageService.java" timestamp="1502065478842">
         <mark key="[" line="16" column="38" />
@@ -119,6 +118,12 @@
         <mark key="]" line="8" column="10" />
         <mark key="^" line="8" column="10" />
         <mark key="." line="8" column="10" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/vue/lib/slideMenuItems.js" timestamp="1502674001748">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="16" column="32" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/service/impl/MessageServiceImpl.java" timestamp="1502413323711">
         <mark key="[" line="35" column="9" />
@@ -195,6 +200,12 @@
         <mark key="]" line="2" column="21" />
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/vue/vuex/actions.js" timestamp="1502675275144">
+        <mark key="[" line="16" column="40" />
+        <mark key="]" line="16" column="38" />
+        <mark key="^" line="16" column="38" />
+        <mark key="." line="16" column="38" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/webpack.config.js" timestamp="1502437525187">
         <mark key="[" line="10" column="0" />
@@ -335,7 +346,6 @@
         <mark key="." line="26" column="78" />
         <mark key="^" line="26" column="78" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/vue/App.vue" timestamp="1502499845420" />
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/core/controller/BearychatController.java" timestamp="1500363968367">
         <mark key="[" line="26" column="28" />
         <mark key="]" line="26" column="28" />
@@ -354,11 +364,12 @@
         <mark key="." line="33" column="28" />
         <mark key="^" line="33" column="28" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/vue/router/index.js" timestamp="1502499263253">
-        <mark key="[" line="1" column="31" />
-        <mark key="]" line="3" column="2" />
-        <mark key="^" line="3" column="2" />
-        <mark key="." line="3" column="2" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/vue/router/index.js" timestamp="1502674308427">
+        <mark key="'" line="39" column="6" />
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="53" />
+        <mark key="^" line="4" column="53" />
+        <mark key="." line="4" column="53" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/test/resources/cases/general_subscription_1.json" timestamp="1502376820849">
         <mark key="[" line="2" column="23" />
@@ -412,13 +423,24 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/vue/vuex/api/services/dev.js" timestamp="1502673755063">
+        <mark key="[" line="4" column="43" />
+        <mark key="]" line="4" column="42" />
+        <mark key="." line="4" column="42" />
+        <mark key="^" line="4" column="42" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/README.md" timestamp="1500536512511">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="13" column="10" />
         <mark key="^" line="13" column="10" />
         <mark key="." line="13" column="10" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/vue/vuex/api/services/products.js" timestamp="1502499446481" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/vue/vuex/api/services/products.js" timestamp="1502672845773">
+        <mark key="[" line="4" column="43" />
+        <mark key="]" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+        <mark key="^" line="4" column="22" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/bearychat/client/StashErrorDecoder.java" timestamp="1500426840873">
         <mark key="[" line="29" column="61" />
         <mark key="]" line="29" column="73" />
@@ -517,7 +539,7 @@
         <mark key="." line="32" column="12" />
         <mark key="^" line="11" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502499737626">
+      <file name="/Dummy.txt" timestamp="1502675295332">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/service/impl/SubscriptionServiceImpl.java" timestamp="1502413359699">
@@ -573,6 +595,12 @@
         <mark key="^" line="27" column="52" />
         <mark key="." line="27" column="52" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/vue/vuex/api/services/index.js" timestamp="1502675174972">
+        <mark key="[" line="1" column="42" />
+        <mark key="]" line="1" column="42" />
+        <mark key="." line="1" column="42" />
+        <mark key="^" line="5" column="1" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/bearychat/client/BearychatException.java" timestamp="1500429610477">
         <mark key="[" line="14" column="18" />
         <mark key="]" line="16" column="12" />
@@ -597,7 +625,7 @@
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
       </file>
-      <file name="/fragment.java" timestamp="1502410707505">
+      <file name="/fragment.java" timestamp="1502673459334">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="^" line="0" column="23" />
@@ -623,6 +651,12 @@
         <mark key="]" line="37" column="36" />
         <mark key="." line="37" column="36" />
         <mark key="^" line="37" column="36" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/vue/components/MySubscriptions.vue" timestamp="1502675372016">
+        <mark key="[" line="48" column="9" />
+        <mark key="]" line="48" column="9" />
+        <mark key="^" line="49" column="0" />
+        <mark key="." line="48" column="9" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/core/controller/SubscriptionController.java" timestamp="1502257074601">
         <mark key="[" line="34" column="61" />
@@ -658,6 +692,9 @@
         <mark key="]" line="29" column="4" />
         <mark key="^" line="29" column="4" />
         <mark key="." line="29" column="4" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/vue/examples/APIExample.vue" timestamp="1502675343295">
+        <mark key="'" line="12" column="21" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/test/java/com/wanda/ohm/chatops/subscription/utils/MockSubChannelUtils.java" timestamp="1502372948786">
         <mark key="[" line="27" column="44" />
@@ -793,6 +830,12 @@
         <mark key="^" line="29" column="15" />
         <mark key="." line="29" column="15" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/vue/vuex/api/index.js" timestamp="1502675167620">
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="1" column="32" />
+        <mark key="^" line="1" column="32" />
+        <mark key="." line="1" column="32" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/adapter/StandardPayload.java" timestamp="1502411833267">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -805,6 +848,7 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="53" column="61" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/mock-server/index.js" timestamp="1502672338386" />
       <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/.gitignore" timestamp="1502440331678">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
@@ -1072,11 +1116,22 @@
         <mark key="." line="37" column="68" />
         <mark key="^" line="37" column="67" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/src/main/java/com/wanda/ohm/chatops/admin/core/security/ChatOpsSecurityAdapter.java" timestamp="1502673599361">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/IPayload.java" timestamp="1499838610424">
         <mark key="[" line="7" column="25" />
         <mark key="]" line="7" column="46" />
         <mark key="." line="7" column="46" />
         <mark key="^" line="7" column="46" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/vue/vuex/api/services/subscriptions.js" timestamp="1502674995887">
+        <mark key="[" line="4" column="66" />
+        <mark key="]" line="4" column="76" />
+        <mark key="." line="4" column="76" />
+        <mark key="^" line="4" column="76" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/bearychat/BearychatConfig.java" timestamp="1502066262859">
         <mark key="[" line="29" column="1" />
@@ -1179,8 +1234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="0" filename="$USER_HOME$/codes/wanda/yui-hatano/scripts/jira.coffee" />
-      <jump line="103" column="6" filename="$USER_HOME$/codes/wanda/yui-hatano/scripts/jira.coffee" />
       <jump line="149" column="6" filename="$USER_HOME$/codes/wanda/yui-hatano/scripts/jira.coffee" />
       <jump line="35" column="65" filename="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/core/controller/AdapterController.java" />
       <jump line="61" column="7" filename="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/github/service/GithubPushBuilder.java" />
@@ -1279,46 +1332,48 @@
       <jump line="22" column="40" filename="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/test/java/com/wanda/ohm/chatops/subscription/utils/MockSubEventUtils.java" />
       <jump line="100" column="0" filename="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/test/java/com/wanda/ohm/chatops/subscription/service/impl/SubscriptionServiceImplTest.java" />
       <jump line="12" column="0" filename="$USER_HOME$/codes/wanda/ChatOps-Admin/webpack.base.config.js" />
+      <jump line="12" column="21" filename="$USER_HOME$/codes/wanda/ChatOps-Admin/vue/examples/APIExample.vue" />
+      <jump line="38" column="6" filename="$USER_HOME$/codes/wanda/ChatOps-Admin/vue/router/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>src</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="-" type="4">
-        <text>src</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VybmFtZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IoZXJyb3IpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJ1bml0IjogImNyb3NzLWVudiBCQUJFTF9FTlY9dGVzdCBrYXJtYSBzdGFydCB0ZXN0L3VuaXQva2FybWEuY29uZi5qcyAtLXNpbmdsZS1ydW4iLAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogIm5wbSBydW4gdW5pdCAmJiBucG0gcnVuIGUyZSIsCg==</text>
+        <text encoding="base64">ICBjb2xvcjogIzQyYjk4MzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJlMmUiOiAibm9kZSB0ZXN0L2UyZS9ydW5uZXIuanMiLAo=</text>
+        <text encoding="base64">YSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bm9kZV9tb2R1bGVzLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LkRTX1N0b3JlCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8g5Yqg6L295ZmoCg==</text>
+        <text encoding="base64">ICBtYXJnaW46IDAgMTBweDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gaHR0cHM6Ly92dWUtbG9hZGVyLnZ1ZWpzLm9yZy9lbi9jb25maWd1cmF0aW9ucy9leHRyYWN0LWNzcy5odG1sCg==</text>
+        <text encoding="base64">ICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gaHR0cHM6Ly9kb2Mud2VicGFjay1jaGluYS5vcmcvZ3VpZGVzL21pZ3JhdGluZy8jbW9kdWxlLWxvYWRlcnMtbW9kdWxlLXJ1bGVzCg==</text>
+        <text encoding="base64">bGkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
