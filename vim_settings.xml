@@ -375,11 +375,10 @@
         <mark key="^" line="37" column="44" />
         <mark key="." line="37" column="44" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/src/main/java/com/wanda/ohm/chatops/admin/core/security/ChatOpsUserContextMapper.java" timestamp="1502950030667">
-        <mark key="[" line="26" column="56" />
-        <mark key="]" line="24" column="44" />
-        <mark key="." line="24" column="44" />
-        <mark key="^" line="24" column="44" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/src/main/java/com/wanda/ohm/chatops/admin/core/security/ChatOpsUserContextMapper.java" timestamp="1502951938757">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/core/handler/GlobalExceptionHandler.java" timestamp="1502681504762">
         <mark key="[" line="3" column="0" />
@@ -1633,8 +1632,8 @@
       <jump line="110" column="0" filename="$USER_HOME$/codes/wanda/ChatOps-Admin/src/main/java/com/wanda/ohm/chatops/admin/service/SubscriptionServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>homephone</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjdHguZ2V0Cg==</text>
       </register>
       <register name="-" type="4">
         <text>homephone</text>
@@ -1646,31 +1645,31 @@
         <text encoding="base64">ICAgICAgICBkZXRhaWxzLnNldEhvbWVwaG9uZShjdHguZ2V0U3RyaW5nQXR0cmlidXRlKCJob21lcGhvbmUiKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjdHguZ2V0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkZXRhaWxzLnNldAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIFN0cmluZwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIk1hcHBpbmcgdXNlciBkZXRhaWxzIGZyb20gY29udGV4dCB3aXRoIEROOiAiICsgZG4pOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIFN0cmluZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZXRhaWxzIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIk1hcHBpbmcgdXNlciBkZXRhaWxzIGZyb20gY29udGV4dCB3aXRoIEROOiAiICsgZG4pOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgbWFwVXNlclRvQ29udGV4dChVc2VyRGV0YWlscyB1c2VyLCBEaXJDb250ZXh0QWRhcHRlciBjdHgpIHsKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZXRhaWxzIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
