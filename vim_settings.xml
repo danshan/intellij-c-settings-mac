@@ -63,12 +63,11 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/integration/jira/bean/JiraIssueOp.java" timestamp="1503302853372">
+      <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/integration/jira/bean/JiraIssueOp.java" timestamp="1503308835692">
         <mark key="'" line="32" column="12" />
-        <mark key="[" line="130" column="27" />
-        <mark key="]" line="130" column="30" />
-        <mark key="." line="130" column="30" />
-        <mark key="^" line="130" column="30" />
+        <mark key="[" line="35" column="22" />
+        <mark key="]" line="35" column="23" />
+        <mark key="." line="35" column="23" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/core/service/MessageService.java" timestamp="1502065478842">
         <mark key="[" line="16" column="38" />
@@ -250,7 +249,7 @@
         <mark key="^" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/integration/jira/service/JiraIssueTransitor.java" timestamp="1502958547794">
+      <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/integration/jira/service/JiraIssueTransitor.java" timestamp="1503308801169">
         <mark key="[" line="26" column="47" />
         <mark key="]" line="26" column="47" />
         <mark key="." line="26" column="47" />
@@ -780,7 +779,7 @@
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
       </file>
-      <file name="/fragment.java" timestamp="1503303990466">
+      <file name="/fragment.java" timestamp="1503308664214">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="^" line="0" column="23" />
@@ -1009,7 +1008,7 @@
         <mark key="^" line="36" column="72" />
         <mark key="." line="37" column="41" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/integration/jira/service/JiraUpdatorFactory.java" timestamp="1503300542332">
+      <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/integration/jira/service/JiraUpdatorFactory.java" timestamp="1503308663499">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="^" line="24" column="11" />
@@ -1598,11 +1597,11 @@
       <jump line="54" column="85" filename="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/integration/jira/bean/JiraUpdateRequest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIGJlYW47Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">Y2xhc3Mg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -1611,31 +1610,31 @@
         <text encoding="base64">ICAgICAgICBAR2V0dGVyCiAgICAgICAgQEFsbEFyZ3NDb25zdHJ1Y3RvcgogICAgICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgVHJhbnMgaW1wbGVtZW50cyBTZXJpYWxpemFibGUgewogICAgICAgICAgICBwcml2YXRlIFN0cmluZyBpZDsKICAgICAgICB9Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIGJlYW47Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICBAR2V0dGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEppcmFJc3N1ZU9wLklzc3VlVHJhbnNpdGlvbi5UcmFucyh0cmFuc2l0aW9uSWQpLAo=</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXcgSmlyYUlzc3VlT3AuSXNzdWVUcmFuc2l0aW9uLlRyYW5zKHRyYW5zaXRpb25JZCksCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBmaWVsZHMgPSBidWlsZGVyOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJbW11dGFibGVNYXAuPFN0cmluZywgT2JqZWN0PmJ1aWxkZXIoKS5wdXQoInJlcyIpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IEppcmFJc3N1ZU9wLklzc3VlVHJhbnNpdGlvbi5UcmFucyh0cmFuc2l0aW9uSWQpLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXcgSmlyYUlzc3VlT3AuSXNzdWVUcmFuc2l0aW9uLlRyYW5zKHRyYW5zaXRpb25JZCksCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBmaWVsZHMgPSBidWlsZGVyOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJbW11dGFibGVNYXAuPFN0cmluZywgT2JqZWN0PmJ1aWxkZXIoKS5wdXQoInJlcyIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
