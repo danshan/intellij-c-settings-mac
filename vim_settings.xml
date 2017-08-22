@@ -213,11 +213,11 @@
         <mark key="^" line="17" column="14" />
         <mark key="." line="17" column="14" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/integration/ldap/bean/LdapUser.java" timestamp="1503390762662">
-        <mark key="[" line="39" column="12" />
-        <mark key="]" line="39" column="18" />
-        <mark key="." line="39" column="18" />
-        <mark key="^" line="39" column="18" />
+      <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/integration/ldap/bean/LdapUser.java" timestamp="1503393971845">
+        <mark key="[" line="19" column="7" />
+        <mark key="]" line="20" column="17" />
+        <mark key="." line="20" column="17" />
+        <mark key="^" line="20" column="17" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/jira/bean/JiraField.java" timestamp="1501744038959">
         <mark key="[" line="6" column="23" />
@@ -1717,7 +1717,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChXeEVycm9yRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgbG9nLndhcm4oImNyZWF0ZSB3ZWNoYXQgdXNlciBmYWlsZWQ6IHt9LCB7fSIsIHVzZXJuYW1lLCBlLmdldEVycm9yKCkuZ2V0RXJyb3JNc2coKSk7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">QERhdGEK</text>
       </register>
       <register name="-" type="4">
         <text>m</text>
@@ -1729,31 +1729,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY29udGFjdC5zZXRNb2JpbGUoZ2V0QXR0cmlidXRlU3RyaW5nKGNvbGxlY3QsICJwaG9uZU51bWJlciIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChXeEVycm9yRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgbG9nLndhcm4oImNyZWF0ZSB3ZWNoYXQgdXNlciBmYWlsZWQ6IHt9LCB7fSIsIHVzZXJuYW1lLCBlLmdldEVycm9yKCkuZ2V0RXJyb3JNc2coKSk7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">QERhdGEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChXeEVycm9yRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgbG9nLndhcm4oImNyZWF0ZSB3ZWNoYXQgdXNlciBmYWlsZWQ6IHt9LCB7fSIsIHVzZXJuYW1lLCBlLmdldEVycm9yKCkuZ2V0RXJyb3JNc2coKSk7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChXeEVycm9yRXhjZXB0aW9uIGUpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICB3eENwVXNlclNlcnZpY2UuY3JlYXRlKHRvV3hVc2VyKHdkVXNlcnMuZ2V0KHVzZXJuYW1lKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChXeEVycm9yRXhjZXB0aW9uIGUpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICB3eENwVXNlclNlcnZpY2UuY3JlYXRlKHRvV3hVc2VyKHdkVXNlcnMuZ2V0KHVzZXJuYW1lKSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
