@@ -21,7 +21,7 @@
         <mark key="." line="12" column="6" />
         <mark key="^" line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/core/config/WxCpProperties.java" timestamp="1503369979837">
+      <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/core/config/WxCpProperties.java" timestamp="1503370155416">
         <mark key="[" line="10" column="7" />
         <mark key="]" line="11" column="6" />
         <mark key="." line="11" column="6" />
@@ -552,11 +552,11 @@
         <mark key="^" line="22" column="40" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/core/config/WxCpConfig.java" timestamp="1503370032776">
-        <mark key="[" line="52" column="27" />
-        <mark key="]" line="52" column="43" />
-        <mark key="^" line="52" column="43" />
-        <mark key="." line="52" column="43" />
+      <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/core/config/WxCpConfig.java" timestamp="1503370159723">
+        <mark key="[" line="52" column="14" />
+        <mark key="]" line="53" column="49" />
+        <mark key="^" line="53" column="49" />
+        <mark key="." line="53" column="49" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/nexus/bean/NexusPayload.java" timestamp="1500364248472">
         <mark key="[" line="16" column="37" />
