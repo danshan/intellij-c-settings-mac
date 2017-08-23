@@ -942,11 +942,11 @@
         <mark key="." line="34" column="61" />
         <mark key="^" line="34" column="54" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/handler/WeChatMsgHandler.java" timestamp="1503458463157">
+      <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/handler/WeChatMsgHandler.java" timestamp="1503465502159">
         <mark key="[" line="97" column="25" />
-        <mark key="]" line="97" column="12" />
-        <mark key="." line="97" column="12" />
-        <mark key="^" line="97" column="31" />
+        <mark key="]" line="105" column="24" />
+        <mark key="." line="105" column="24" />
+        <mark key="^" line="105" column="24" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/dao/entity/SubType.java" timestamp="1502375809591">
         <mark key="[" line="19" column="0" />
