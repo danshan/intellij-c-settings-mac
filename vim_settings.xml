@@ -1088,7 +1088,7 @@
         <mark key="." line="22" column="4" />
         <mark key="^" line="22" column="50" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/integration/jira/bean/JiraProject.java" timestamp="1503997796961" />
+      <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/integration/jira/bean/JiraProject.java" timestamp="1503999026714" />
       <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/integration/jira/service/JiraIssueCommenter.java" timestamp="1502958534878">
         <mark key="[" line="27" column="35" />
         <mark key="]" line="27" column="33" />
