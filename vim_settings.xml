@@ -290,6 +290,9 @@
         <mark key="." line="18" column="39" />
         <mark key="^" line="18" column="39" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/integration/github/bean/GithubRepo.java" timestamp="1504576260018">
+        <mark key="[" line="6" column="25" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/integration/jira/bean/JiraUpdater.java" timestamp="1502789229527">
         <mark key="[" line="14" column="17" />
         <mark key="]" line="14" column="16" />
@@ -425,6 +428,12 @@
         <mark key="]" line="63" column="43" />
         <mark key="^" line="63" column="43" />
         <mark key="." line="63" column="43" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/DashboardService.java" timestamp="1504575647706">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="6" column="16" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/src/main/java/com/wanda/ohm/chatops/admin/controller/dto/SubDetailDTO.java" timestamp="1502942042424">
         <mark key="[" line="21" column="25" />
@@ -777,6 +786,12 @@
         <mark key="." line="16" column="62" />
         <mark key="^" line="16" column="62" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/DashboardServiceImpl.java" timestamp="1504576227552">
+        <mark key="[" line="34" column="45" />
+        <mark key="]" line="34" column="76" />
+        <mark key="^" line="34" column="76" />
+        <mark key="." line="34" column="76" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/service/SubscriptionService.java" timestamp="1502267511749">
         <mark key="[" line="13" column="19" />
         <mark key="]" line="13" column="24" />
@@ -969,11 +984,11 @@
         <mark key="." line="28" column="26" />
         <mark key="^" line="28" column="26" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/controller/DebugController.java" timestamp="1504572874289">
-        <mark key="[" line="30" column="12" />
-        <mark key="]" line="30" column="10" />
-        <mark key="." line="30" column="10" />
-        <mark key="^" line="30" column="10" />
+      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/controller/DebugController.java" timestamp="1504575324933">
+        <mark key="[" line="30" column="76" />
+        <mark key="]" line="30" column="76" />
+        <mark key="." line="30" column="76" />
+        <mark key="^" line="30" column="71" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/nexus/service/NexusServiceImpl.java" timestamp="1501839359367">
         <mark key="[" line="46" column="0" />
@@ -1586,11 +1601,11 @@
         <mark key="^" line="0" column="48" />
         <mark key="." line="0" column="48" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/integration/github/client/GithubClient.java" timestamp="1504572958658">
-        <mark key="[" line="21" column="57" />
-        <mark key="]" line="21" column="57" />
-        <mark key="." line="21" column="57" />
-        <mark key="^" line="22" column="15" />
+      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/integration/github/client/GithubClient.java" timestamp="1504576078674">
+        <mark key="[" line="43" column="70" />
+        <mark key="]" line="44" column="3" />
+        <mark key="." line="44" column="3" />
+        <mark key="^" line="44" column="3" />
       </file>
       <file name="$USER_HOME$/codes/wanda/yui-hatano/Dockerfile" timestamp="1501149159629">
         <mark key="[" line="16" column="38" />
@@ -1769,16 +1784,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>participation</text>
+        <text encoding="base64">ZXh0ZW5kcyA=</text>
       </register>
       <register name="-" type="4">
-        <text>participation</text>
+        <text encoding="base64">ZXh0ZW5kcyA=</text>
       </register>
       <register name="/" type="4">
         <text>chat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVzZXJuYW1lOiBvaG0tamlyYS1ib3QKICAgIHBhc3N3b3JkOiBqejJmOHNicjB3d3EK</text>
+        <text encoding="base64">ICAgIEBIZWFkZXJzKCJDb250ZW50LVR5cGU6ICIgKyBNZWRpYVR5cGUuQVBQTElDQVRJT05fSlNPTl9WQUxVRSkKICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIvcmVwb3Mve293bmVyfS97cmVwb30vc3RhdHMvcGFydGljaXBhdGlvbiIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuR0VUKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBSZXNwb25zZUVudGl0eTxPYmplY3Q+IHNoYW5ob25naGFvID0gKFJlc3BvbnNlRW50aXR5PE9iamVjdD4pIHNoYW5ob25naGFvMTsK</text>
