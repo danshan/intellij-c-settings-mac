@@ -367,11 +367,10 @@
         <mark key="^" line="19" column="6" />
         <mark key="." line="19" column="5" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/config/application.yml" timestamp="1504572358263">
-        <mark key="[" line="2" column="39" />
-        <mark key="]" line="18" column="38" />
-        <mark key="^" line="18" column="38" />
-        <mark key="." line="18" column="38" />
+      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/config/application.yml" timestamp="1504600850206">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="6" />
+        <mark key="." line="14" column="6" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/bearychat/service/BearychatService.java" timestamp="1500359668266">
         <mark key="[" line="10" column="30" />
@@ -589,6 +588,7 @@
         <mark key="^" line="22" column="40" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/config/application.yml" timestamp="1504600953341" />
       <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/core/config/WxCpConfig.java" timestamp="1503482144551">
         <mark key="[" line="95" column="0" />
         <mark key="]" line="95" column="0" />
@@ -739,7 +739,7 @@
         <mark key="." line="32" column="12" />
         <mark key="^" line="11" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504578551215">
+      <file name="/Dummy.txt" timestamp="1504600954403">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/github/service/GithubPingBuilder.java" timestamp="1501839394507">
@@ -933,6 +933,7 @@
         <mark key="." line="56" column="15" />
         <mark key="^" line="40" column="27" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/adapter/wandartx/WandartxConfig.java" timestamp="1504601034522" />
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/dao/mapper/SubEventMapper.java" timestamp="1502356983667">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -1113,6 +1114,9 @@
         <mark key="]" line="32" column="65" />
         <mark key="^" line="13" column="13" />
         <mark key="." line="32" column="65" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/integration/jira/dao/JiraDAO.java" timestamp="1504601191389">
+        <mark key="[" line="6" column="26" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/jira/JiraConfig.java" timestamp="1501829777176">
         <mark key="[" line="27" column="28" />
@@ -1569,10 +1573,11 @@
         <mark key="." line="4" column="76" />
         <mark key="^" line="4" column="76" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/core/config/JiraConfig.java" timestamp="1504516654976">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/core/config/JiraConfig.java" timestamp="1504601129239">
+        <mark key="[" line="49" column="28" />
+        <mark key="]" line="49" column="34" />
+        <mark key="." line="49" column="34" />
+        <mark key="^" line="49" column="34" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/pom.xml" timestamp="1502693749044">
         <mark key="[" line="61" column="35" />
@@ -1811,43 +1816,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>UPP</text>
+        <text>WandartxDAO</text>
       </register>
       <register name="-" type="4">
-        <text>UPP</text>
+        <text>WandartxDAO</text>
       </register>
       <register name="/" type="4">
         <text>chat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW50aXR5LnNldENvbW1pdENudExhc3RXZWVrKGVudGl0eS5nZXRDb21taXRDbnRMYXN0V2VlaygpICsgd2Vla2x5Q29tbWl0Q291bnQuZ2V0QWxsKCkuZ2V0KHdlZWtseUNvbW1pdENvdW50LmdldEFsbCgpLnNpemUoKSAtIDEpKTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogamlyYeeuoeeQhuWRmOWvhueggQogICAgICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8T2JqZWN0LCBPYmplY3Q+IHNoYW5ob25naGFvID0gZ2l0aHViQ2xpZW50LmZpbmRXZWVrbHlDb21taXRDb3VudCgiVVBQIiwgIkNQRyIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW50aXR5LnNldENvbW1pdENudFRoaXNXZWVrKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIEBDb25maWd1cmF0aW9uUHJvcGVydGllcyhwcmVmaXggPSAiaW50ZWdyYXRpb24uamlyYSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5nZXRBbGwoKS5nZXQoTWF0aC5tYXgoMCwgKHdlZWtzQmVmb3JlKSk7Cg==</text>
+        <text encoding="base64">ICAgIEBDb25maWd1cmF0aW9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0V2VlayhpbnQgd2Vla3NCZWZvcmUpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBycGl2YXRlIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIFN0eXJpbmcgZGF0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5nZXRXZWVrKC0xKTsK</text>
+        <text encoding="base64">ICAgICAgICBycGl2YXRlIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
