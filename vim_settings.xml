@@ -789,11 +789,11 @@
         <mark key="." line="16" column="62" />
         <mark key="^" line="16" column="62" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/DashboardServiceImpl.java" timestamp="1504580712368">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="36" column="33" />
-        <mark key="^" line="36" column="32" />
-        <mark key="." line="36" column="33" />
+      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/DashboardServiceImpl.java" timestamp="1504597883504">
+        <mark key="[" line="42" column="59" />
+        <mark key="]" line="42" column="62" />
+        <mark key="." line="42" column="62" />
+        <mark key="^" line="42" column="62" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/service/SubscriptionService.java" timestamp="1502267511749">
         <mark key="[" line="13" column="19" />
@@ -987,11 +987,11 @@
         <mark key="." line="28" column="26" />
         <mark key="^" line="28" column="26" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/controller/DebugController.java" timestamp="1504578458778">
-        <mark key="[" line="33" column="55" />
-        <mark key="]" line="33" column="55" />
-        <mark key="." line="33" column="55" />
-        <mark key="^" line="34" column="70" />
+      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/controller/DebugController.java" timestamp="1504597202028">
+        <mark key="[" line="32" column="92" />
+        <mark key="]" line="32" column="92" />
+        <mark key="^" line="33" column="38" />
+        <mark key="." line="32" column="92" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/nexus/service/NexusServiceImpl.java" timestamp="1501839359367">
         <mark key="[" line="46" column="0" />
@@ -1035,7 +1035,7 @@
         <mark key="^" line="44" column="71" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/github/bean/GithubPayload.java" timestamp="1504576507089" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/github/bean/GithubPayload.java" timestamp="1504595640408" />
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/client/subscription/SubscriptionClient.java" timestamp="1502681086277">
         <mark key="[" line="26" column="34" />
         <mark key="]" line="25" column="57" />
@@ -1354,11 +1354,10 @@
         <mark key="^" line="13" column="6" />
         <mark key="." line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/integration/github/bean/GithubWeeklyCommitCount.java" timestamp="1504578838537">
-        <mark key="[" line="20" column="26" />
-        <mark key="]" line="20" column="28" />
-        <mark key="^" line="20" column="28" />
-        <mark key="." line="20" column="28" />
+      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/integration/github/bean/GithubWeeklyCommitCount.java" timestamp="1504596857443">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/core/config/WxAgent.java" timestamp="1503482131188">
         <mark key="[" line="7" column="25" />
@@ -1812,43 +1811,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>UPP</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>UPP</text>
       </register>
       <register name="/" type="4">
         <text>chat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QEpzb25JZ25vcmVQcm9wZXJ0aWVzKGlnbm9yZVVua25vd24gPSB0cnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW50aXR5LnNldENvbW1pdENudExhc3RXZWVrKGVudGl0eS5nZXRDb21taXRDbnRMYXN0V2VlaygpICsgd2Vla2x5Q29tbWl0Q291bnQuZ2V0QWxsKCkuZ2V0KHdlZWtseUNvbW1pdENvdW50LmdldEFsbCgpLnNpemUoKSAtIDEpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkYXNoYm9hcmQuc2V0RW50aXRpZXMoZW50aXRpZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBNYXA8T2JqZWN0LCBPYmplY3Q+IHNoYW5ob25naGFvID0gZ2l0aHViQ2xpZW50LmZpbmRXZWVrbHlDb21taXRDb3VudCgiVVBQIiwgIkNQRyIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PERhc2hib2FyZC5FbnRpdHk+IGVudGl0aWVzID0gTGlzdHMubmV3TGlua2VkTGlzdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW50aXR5LnNldENvbW1pdENudFRoaXNXZWVrKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBEYXNoYm9hcmQgZGFzaGJvYXJkID0gbmV3IERhc2hib2FyZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHVibGljIHN0YWljIAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5nZXRBbGwoKS5nZXQoTWF0aC5tYXgoMCwgKHdlZWtzQmVmb3JlKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0V2VlayhpbnQgd2Vla3NCZWZvcmUpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QERhdGEK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5nZXRXZWVrKC0xKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
