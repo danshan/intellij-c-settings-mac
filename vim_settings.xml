@@ -843,11 +843,11 @@
         <mark key="^" line="10" column="45" />
         <mark key="." line="10" column="45" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/integration/jira/dao/mapper/SprintInfoMapper.java" timestamp="1504663384438">
-        <mark key="[" line="17" column="43" />
-        <mark key="]" line="18" column="37" />
-        <mark key="^" line="18" column="37" />
-        <mark key="." line="18" column="37" />
+      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/integration/jira/dao/mapper/SprintInfoMapper.java" timestamp="1504667689195">
+        <mark key="[" line="24" column="51" />
+        <mark key="]" line="25" column="50" />
+        <mark key="^" line="25" column="50" />
+        <mark key="." line="25" column="50" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/package-info.java" timestamp="1500358313251">
         <mark key="[" line="1" column="16" />
@@ -1121,11 +1121,12 @@
         <mark key="^" line="13" column="13" />
         <mark key="." line="32" column="65" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/integration/jira/dao/JiraDAO.java" timestamp="1504663972498">
+      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/integration/jira/dao/JiraDAO.java" timestamp="1504667593121">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="16" column="111" />
-        <mark key="]" line="89" column="43" />
-        <mark key="." line="89" column="0" />
+        <mark key="[" line="17" column="33" />
+        <mark key="]" line="98" column="20" />
+        <mark key="." line="98" column="20" />
+        <mark key="^" line="98" column="20" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/jira/JiraConfig.java" timestamp="1501829777176">
         <mark key="[" line="27" column="28" />
@@ -1817,32 +1818,32 @@
       <jump line="16" column="0" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/integration/jira/dao/JiraDAO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>127.a0.0.1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbmZvLnNldFNwcmludElkKHIuZ2V0U3RyaW5nKCJzcHJpbnRfaWQiKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>127.a0.0.1</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>chat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbmZvLnNldFNwcmludFN0YXJ0KHIuZ2V0RGF0ZSgic3ByaW50X3N0YXJ0IikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbmZvLnNldFNwcmludElkKHIuZ2V0U3RyaW5nKCJzcHJpbnRfaWQiKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBSZWdpc3Rlck1hcHBlcihTcHJpbnRJbmZvTWFwcGVyLmNsYXNzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlxuIiArCg==</text>
+        <text encoding="base64">ICAgIEBSZWdpc3Rlck1hcHBlcihTcHJpbnRJbmZvTWFwcGVyLmNsYXNzKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIlxuIiArCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiAgIFxuIiArCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlxuIiArCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlxuIiArCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiAgIFxuIiArCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIlxuIiArCg==</text>
