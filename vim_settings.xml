@@ -600,11 +600,11 @@
         <mark key="^" line="22" column="40" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/GithubRepoDashboardServiceImpl.java" timestamp="1504798835317">
-        <mark key="[" line="33" column="29" />
-        <mark key="]" line="33" column="39" />
-        <mark key="." line="33" column="39" />
-        <mark key="^" line="33" column="39" />
+      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/GithubRepoDashboardServiceImpl.java" timestamp="1504799882888">
+        <mark key="[" line="32" column="18" />
+        <mark key="]" line="32" column="25" />
+        <mark key="." line="32" column="25" />
+        <mark key="^" line="32" column="25" />
       </file>
       <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/core/config/WxCpConfig.java" timestamp="1503482144551">
         <mark key="[" line="95" column="0" />
@@ -1858,11 +1858,11 @@
       <jump line="40" column="0" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/integration/github/client/GithubClient.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIG93bmVyOwo=</text>
+      <register name="&quot;" type="4">
+        <text>map</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">R2l0aHViVXNlciA=</text>
+        <text>map</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
@@ -1871,31 +1871,31 @@
         <text encoding="base64">ICAgIEBKc29uUHJvcGVydHkoImRlZmF1bHRfYnJhbmNoIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIG93bmVyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIEdpdGh1YlVzZXIgb3duZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIG93bmVyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIEdpdGh1YlVzZXIgb3duZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBASnNvblByb3BlcnR5KCJjcmVhdGVkX2F0IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBASnNvblByb3BlcnR5KCJkZWZhdWx0X2JyYW5jaCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBASnNvblByb3BlcnR5KCJjcmVhdGVkX2F0IikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBASnNvblByb3BlcnR5KCJwcml2YXRlIikK</text>
+        <text encoding="base64">ICAgICAgICBASnNvblByb3BlcnR5KCJkZWZhdWx0X2JyYW5jaCIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIFN0cmluZyBodG1sVXJsOwo=</text>
+        <text encoding="base64">ICAgICAgICBASnNvblByb3BlcnR5KCJwcml2YXRlIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBASnNvblByb3BlcnR5KCJodG1sX3VybCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIFN0cmluZyBodG1sVXJsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBASnNvblByb3BlcnR5KCJmdWxsX25hbWUiKQo=</text>
+        <text encoding="base64">ICAgICAgICBASnNvblByb3BlcnR5KCJodG1sX3VybCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
