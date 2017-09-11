@@ -1640,11 +1640,11 @@
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/docker/Dockerfile" timestamp="1505117468532">
-        <mark key="[" line="5" column="57" />
-        <mark key="]" line="5" column="55" />
-        <mark key="^" line="5" column="55" />
-        <mark key="." line="5" column="55" />
+      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/docker/Dockerfile" timestamp="1505118763730">
+        <mark key="[" line="5" column="114" />
+        <mark key="]" line="5" column="114" />
+        <mark key="^" line="5" column="80" />
+        <mark key="." line="5" column="114" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/core/service/MessageServiceImpl.java" timestamp="1501814423300">
         <mark key="[" line="30" column="103" />
@@ -1991,11 +1991,11 @@
       <jump line="40" column="0" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/GithubOrgDashboardServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
