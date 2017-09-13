@@ -1014,7 +1014,7 @@
         <mark key="." line="37" column="36" />
         <mark key="^" line="37" column="36" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/BranchMarkCalculatorImpl.java" timestamp="1505196877743">
+      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/BranchMarkCalculatorImpl.java" timestamp="1505262476132">
         <mark key="'" line="51" column="63" />
         <mark key="[" line="128" column="38" />
         <mark key="]" line="128" column="47" />
@@ -1274,8 +1274,8 @@
         <mark key="." line="79" column="48" />
         <mark key="^" line="79" column="47" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/task/GithubRepoTask.java" timestamp="1505188620268">
-        <mark key="[" line="33" column="98" />
+      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/task/GithubRepoTask.java" timestamp="1505262531649">
+        <mark key="[" line="28" column="29" />
         <mark key="]" line="34" column="24" />
         <mark key="." line="34" column="24" />
         <mark key="^" line="34" column="24" />
