@@ -1509,11 +1509,11 @@
         <mark key="^" line="15" column="3" />
         <mark key="." line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/service/JiraIssueBuilder.java" timestamp="1506676474726">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="46" column="15" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/service/JiraIssueBuilder.java" timestamp="1506678694180">
+        <mark key="[" line="55" column="21" />
+        <mark key="]" line="55" column="22" />
+        <mark key="^" line="58" column="7" />
+        <mark key="." line="55" column="22" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/core/config/ChatOpsConfig.java" timestamp="1501754447392">
         <mark key="[" line="21" column="35" />
@@ -2084,8 +2084,8 @@
       <jump line="22" column="0" filename="$USER_HOME$/codes/personal/douban-videostation/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>str</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>str</text>
@@ -2094,37 +2094,37 @@
         <text encoding="base64">XDw6XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXR0YWNobWVudC5zZXRUZXh0KCIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFN0YW5kYXJkUGF5bG9hZC5Db2xvci5CTFVFOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIFN0cmluZyB0b2tlbjsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIFN0cmluZyBuYW1lOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIFN0cmluZyB0b2tlbjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgVHJpZ2dlciB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIFN0cmluZyBuYW1lOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBOb0FyZ3NDb25zdHJ1Y3Rvcgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgVHJpZ2dlciB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBEYXRhCg==</text>
+        <text encoding="base64">ICAgIEBOb0FyZ3NDb25zdHJ1Y3Rvcgo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2157,8 +2157,8 @@
         <entry>W</entry>
         <entry>q</entry>
         <entry>we</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
