@@ -484,7 +484,7 @@
         <mark key="^" line="0" column="39" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/adapter/wandartx/WandartxAdapter.java" timestamp="1506676407075">
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/adapter/wandartx/WandartxAdapter.java" timestamp="1506677405864">
         <mark key="[" line="50" column="31" />
       </file>
       <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/integration/jira/exception/JiraError.java" timestamp="1503541170898">
@@ -1253,11 +1253,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="29" column="43" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/pom.xml" timestamp="1506673663235">
-        <mark key="[" line="64" column="23" />
-        <mark key="]" line="64" column="39" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/pom.xml" timestamp="1506677929754">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="16" />
         <mark key="^" line="64" column="39" />
-        <mark key="." line="64" column="39" />
+        <mark key="." line="14" column="16" />
       </file>
       <file name="$USER_HOME$/codes/wanda/wand_backend/src/test/java/com/wanda/wdlist/utils/JsonCaseUtils.java" timestamp="1503470657433">
         <mark key="[" line="16" column="65" />
@@ -1454,6 +1454,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="14" column="30" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/core/util/MarkdownUtils.java" timestamp="1506677835353">
+        <mark key="[" line="25" column="47" />
+        <mark key="]" line="25" column="51" />
+        <mark key="^" line="25" column="51" />
+        <mark key="." line="25" column="51" />
       </file>
       <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/core/config/GithubConfig.java" timestamp="1504516661368">
         <mark key="[" line="15" column="47" />
@@ -2078,11 +2084,11 @@
       <jump line="22" column="0" filename="$USER_HOME$/codes/personal/douban-videostation/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>str</text>
       </register>
       <register name="-" type="4">
-        <text>spring-boot-starter-remote-config-apollo.version</text>
+        <text>str</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
@@ -2118,7 +2124,7 @@
         <text encoding="base64">ICAgIEBEYXRhCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -2149,10 +2155,10 @@
       </history-search>
       <history-cmd>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>we</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
