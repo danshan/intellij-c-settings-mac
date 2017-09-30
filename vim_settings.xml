@@ -415,6 +415,11 @@
         <mark key="^" line="122" column="7" />
         <mark key="." line="160" column="0" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ldap-devops-sync/pom.xml" timestamp="1506737204819">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="13" column="21" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/dao/ChannelDAO.java" timestamp="1502243885955">
         <mark key="[" line="23" column="17" />
         <mark key="]" line="23" column="18" />
@@ -577,6 +582,12 @@
         <mark key="]" line="13" column="45" />
         <mark key="." line="13" column="45" />
         <mark key="^" line="14" column="38" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/ldap-devops-sync/src/main/java/com/wanda/devops/sync/task/ReloadDisabledUsersTask.java" timestamp="1506737434335">
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="11" column="9" />
+        <mark key="^" line="11" column="9" />
+        <mark key="." line="11" column="9" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/dao/entity/Subscription.java" timestamp="1502681497793">
         <mark key="[" line="4" column="0" />
@@ -914,6 +925,12 @@
         <mark key="]" line="18" column="19" />
         <mark key="^" line="17" column="23" />
         <mark key="." line="18" column="19" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/ldap-jira-sync/README.md" timestamp="1506736690198">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="10" />
+        <mark key="^" line="3" column="10" />
+        <mark key="." line="3" column="10" />
       </file>
       <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/integration/github/client/GithubClientConfig.java" timestamp="1504517176361">
         <mark key="[" line="27" column="75" />
@@ -1668,6 +1685,12 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="19" column="24" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ldap-devops-sync/src/main/java/com/wanda/devops/sync/App.java" timestamp="1506737247453">
+        <mark key="[" line="18" column="30" />
+        <mark key="]" line="18" column="32" />
+        <mark key="^" line="18" column="32" />
+        <mark key="." line="18" column="32" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/web/service/QueryService.java" timestamp="1499155979407">
         <mark key="[" line="147" column="21" />
         <mark key="]" line="147" column="32" />
@@ -1806,6 +1829,7 @@
         <mark key="^" line="18" column="22" />
         <mark key="." line="18" column="22" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/CrawlerApp.java" timestamp="1506737238421" />
       <file name="$USER_HOME$/codes/wanda/chatops-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/wandartx/WandartxAdapter.java" timestamp="1502071791074">
         <mark key="[" line="37" column="68" />
         <mark key="]" line="37" column="68" />
@@ -2091,10 +2115,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>CrawlerApp</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>CrawlerApp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
