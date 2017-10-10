@@ -1594,9 +1594,9 @@
         <mark key="^" line="15" column="3" />
         <mark key="." line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/service/JiraIssueBuilder.java" timestamp="1507614165080">
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/service/JiraIssueBuilder.java" timestamp="1507615009867">
         <mark key="'" line="62" column="46" />
-        <mark key="[" line="88" column="9" />
+        <mark key="[" line="35" column="68" />
         <mark key="]" line="89" column="7" />
         <mark key="." line="89" column="7" />
         <mark key="^" line="89" column="7" />
