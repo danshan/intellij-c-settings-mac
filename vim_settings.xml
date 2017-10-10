@@ -48,8 +48,11 @@
         <mark key="^" line="16" column="16" />
         <mark key="." line="16" column="16" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/docker/Dockerfile" timestamp="1507616490780">
-        <mark key="[" line="0" column="49" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/docker/Dockerfile" timestamp="1507618100502">
+        <mark key="[" line="0" column="39" />
+        <mark key="]" line="0" column="39" />
+        <mark key="^" line="5" column="55" />
+        <mark key="." line="0" column="39" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/test/java/com/wanda/ohm/chatops/utils/MockUtils.java" timestamp="1501830354033">
         <mark key="[" line="48" column="15" />
@@ -2227,10 +2230,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>issueEvent.substring(issueEvent+ 1);</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>issueEvent.substring(issueEvent+ 1);</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
