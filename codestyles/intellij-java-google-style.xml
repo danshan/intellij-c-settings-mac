@@ -292,6 +292,20 @@
   <option name="DOWHILE_BRACE_FORCE" value="3" />
   <option name="WHILE_BRACE_FORCE" value="3" />
   <option name="FOR_BRACE_FORCE" value="3" />
+  <SqlCodeStyleSettings>
+    <option name="WRAP_INSIDE_SELECT" value="2" />
+    <option name="WRAP_INSIDE_JOIN_EXPRESSION" value="0" />
+    <option name="WRAP_INSIDE_GROUP_BY" value="2" />
+    <option name="WRAP_INSIDE_WHERE" value="2" />
+    <option name="WRAP_INSIDE_ORDER_BY" value="2" />
+    <option name="WRAP_INSIDE_SET" value="0" />
+    <option name="WRAP_INSIDE_BINARY_EXPRESSION" value="0" />
+    <option name="WRAP_INSIDE_ARGUMENT_DEFINITION" value="0" />
+    <option name="WRAP_INSIDE_CALL_EXPRESSION" value="0" />
+    <option name="WRAP_INSIDE_VALUES_EXPRESSION" value="2" />
+    <option name="WRAP_VALUES_EXPRESSION" value="2" />
+    <option name="WRAP_PARENTHESIZED_EXPRESSION_INSIDE_VALUES" value="0" />
+  </SqlCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
@@ -403,5 +417,8 @@
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
     <option name="PARENT_SETTINGS_INSTALLED" value="true" />
+  </codeStyleSettings>
+  <codeStyleSettings language="SQL">
+    <option name="KEEP_LINE_BREAKS" value="false" />
   </codeStyleSettings>
 </code_scheme>
