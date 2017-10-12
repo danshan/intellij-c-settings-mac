@@ -1817,6 +1817,9 @@
         <mark key="." line="26" column="23" />
         <mark key="^" line="26" column="23" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/resources/sql/jira/select_bug_density_by_sprint.sql" timestamp="1507793336805">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/core/config/LdapConfig.java" timestamp="1503367401791">
         <mark key="[" line="51" column="19" />
         <mark key="]" line="51" column="28" />
