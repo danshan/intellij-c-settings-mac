@@ -624,6 +624,7 @@
         <mark key="." line="13" column="45" />
         <mark key="^" line="14" column="38" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/gen/entity/Project.java" timestamp="1507777676499" />
       <file name="$USER_HOME$/codes/wanda/ldap-devops-sync/src/main/java/com/wanda/devops/sync/task/ReloadDisabledUsersTask.java" timestamp="1506737529771">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -815,6 +816,12 @@
         <mark key="]" line="29" column="73" />
         <mark key="." line="29" column="73" />
         <mark key="^" line="29" column="73" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/gen/entity/People.java" timestamp="1507777685209">
+        <mark key="[" line="24" column="24" />
+        <mark key="]" line="24" column="29" />
+        <mark key="." line="24" column="29" />
+        <mark key="^" line="24" column="29" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/client/SubscriptionController.java" timestamp="1502267892983">
         <mark key="[" line="26" column="4" />
@@ -1449,6 +1456,12 @@
         <mark key="." line="34" column="24" />
         <mark key="^" line="34" column="24" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/entity/People.java" timestamp="1507777691048">
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="21" column="36" />
+        <mark key="." line="21" column="36" />
+        <mark key="^" line="21" column="36" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/vue/vuex/api/index.js" timestamp="1502675167620">
         <mark key="[" line="1" column="32" />
         <mark key="]" line="1" column="32" />
@@ -1691,6 +1704,12 @@
         <mark key="]" line="6" column="30" />
         <mark key="." line="6" column="30" />
         <mark key="^" line="6" column="30" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/PeopleController.java" timestamp="1507777771021">
+        <mark key="[" line="344" column="63" />
+        <mark key="]" line="344" column="67" />
+        <mark key="." line="344" column="67" />
+        <mark key="^" line="344" column="67" />
       </file>
       <file name="$USER_HOME$/codes/wanda/yui-hatano/package.json" timestamp="1501146111426">
         <mark key="[" line="21" column="24" />
@@ -2286,10 +2305,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>var</text>
+        <text>TABLE</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>TABLE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
