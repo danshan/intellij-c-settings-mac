@@ -743,12 +743,11 @@
         <mark key="^" line="26" column="72" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/resources/sql/jira/select_sprint_info.sql" timestamp="1507788038593">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="84" column="66" />
-        <mark key="]" line="84" column="65" />
-        <mark key="." line="84" column="65" />
-        <mark key="^" line="84" column="65" />
+      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/resources/sql/jira/select_sprint_info.sql" timestamp="1507789164252">
+        <mark key="[" line="31" column="33" />
+        <mark key="]" line="32" column="4" />
+        <mark key="." line="32" column="4" />
+        <mark key="^" line="32" column="4" />
       </file>
       <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/integration/jira/service/JiraIssueEditor.java" timestamp="1503315196938">
         <mark key="[" line="26" column="18" />
