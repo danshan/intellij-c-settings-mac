@@ -1924,8 +1924,10 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="33" column="41" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/client/JiraClientConfig.java" timestamp="1508119592849">
-        <mark key="[" line="20" column="17" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/client/JiraClientConfig.java" timestamp="1508139998745">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/constant/SubStatus.java" timestamp="1502258846784">
         <mark key="[" line="24" column="15" />
@@ -2397,8 +2399,8 @@
       <jump line="58" column="0" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraBlockedIssueDailyTask.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ohm</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBCZWFuCg==</text>
       </register>
       <register name="-" type="4">
         <text>ohm</text>
@@ -2410,25 +2412,25 @@
         <text encoding="base64">ICAgICAgICByZXF1ZXN0LnNldEZpZWxkcyhMaXN0cy5uZXdBcnJheUxpc3QoZmllbGRzLnNwbGl0KCIsIikpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbShuYW1lID0gImV4cGFuZCIpIFN0cmluZyBleHBhbmQpOwo=</text>
+        <text encoding="base64">ICAgIEBCZWFuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbShuYW1lID0gImZpZWxkcyIsIGRlZmF1bHRWYWx1ZSA9ICIqbmF2aWdhYmxlIikgU3RyaW5nIGZpZWxkcywK</text>
+        <text encoding="base64">ICAgIEBCZWFuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbShuYW1lID0gIm1heFJlc3VsdHMiLCBkZWZhdWx0VmFsdWUgPSAiNTAiKSBpbnQgcGFnZVNpemUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbShuYW1lID0gImV4cGFuZCIpIFN0cmluZyBleHBhbmQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbShuYW1lID0gInN0YXJ0QXQiLCBkZWZhdWx0VmFsdWUgPSAiMCIpIGludCBzdGFydCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbShuYW1lID0gImZpZWxkcyIsIGRlZmF1bHRWYWx1ZSA9ICIqbmF2aWdhYmxlIikgU3RyaW5nIGZpZWxkcywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSgianFsIikgU3RyaW5nIGpxbCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbShuYW1lID0gIm1heFJlc3VsdHMiLCBkZWZhdWx0VmFsdWUgPSAiNTAiKSBpbnQgcGFnZVNpemUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbShuYW1lID0gInN0YXJ0QXQiLCBkZWZhdWx0VmFsdWUgPSAiMCIpIGludCBzdGFydCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSgianFsIikgU3RyaW5nIGpxbCwK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIEBCZWFuCg==</text>
