@@ -384,11 +384,11 @@
         <mark key="^" line="94" column="14" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/client/JiraClient.java" timestamp="1508134216009">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="30" column="67" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/client/JiraClient.java" timestamp="1508136440444">
+        <mark key="[" line="30" column="29" />
+        <mark key="]" line="30" column="29" />
+        <mark key="^" line="31" column="0" />
+        <mark key="." line="30" column="29" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/nexus/bean/NexusPayload.java" timestamp="1500364248472">
         <mark key="[" line="16" column="37" />
@@ -396,12 +396,12 @@
         <mark key="." line="16" column="47" />
         <mark key="^" line="16" column="47" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/service/JiraServiceImpl.java" timestamp="1508134812502">
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/service/JiraServiceImpl.java" timestamp="1508136262688">
         <mark key="'" line="98" column="45" />
         <mark key="[" line="104" column="16" />
-        <mark key="]" line="104" column="16" />
-        <mark key="." line="104" column="16" />
-        <mark key="^" line="104" column="49" />
+        <mark key="]" line="98" column="37" />
+        <mark key="." line="98" column="37" />
+        <mark key="^" line="98" column="37" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/src/main/java/com/wanda/ohm/chatops/admin/controller/SubTypeController.java" timestamp="1503313521431">
         <mark key="[" line="37" column="47" />
@@ -1768,7 +1768,7 @@
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
       </file>
-      <file name="/fragment.java" timestamp="1508132374448">
+      <file name="/fragment.java" timestamp="1508135961266">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
@@ -1825,12 +1825,12 @@
         <mark key="^" line="42" column="62" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraBlockedIssueDailyTask.java" timestamp="1508134865933">
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraBlockedIssueDailyTask.java" timestamp="1508136165712">
         <mark key="'" line="58" column="0" />
-        <mark key="[" line="90" column="61" />
-        <mark key="]" line="90" column="61" />
-        <mark key="." line="90" column="61" />
-        <mark key="^" line="90" column="59" />
+        <mark key="[" line="90" column="21" />
+        <mark key="]" line="90" column="21" />
+        <mark key="." line="90" column="21" />
+        <mark key="^" line="90" column="51" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/core/config/MvcConfig.java" timestamp="1507626809819">
         <mark key="[" line="23" column="14" />
@@ -2426,10 +2426,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">UmVxdWVzdEJvZHkg</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">UmVxdWVzdEJvZHkg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
