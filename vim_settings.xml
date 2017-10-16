@@ -396,12 +396,12 @@
         <mark key="." line="16" column="47" />
         <mark key="^" line="16" column="47" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/service/JiraServiceImpl.java" timestamp="1508134265214">
-        <mark key="'" line="97" column="45" />
-        <mark key="[" line="100" column="34" />
-        <mark key="]" line="100" column="31" />
-        <mark key="." line="100" column="31" />
-        <mark key="^" line="100" column="31" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/service/JiraServiceImpl.java" timestamp="1508134812502">
+        <mark key="'" line="98" column="45" />
+        <mark key="[" line="104" column="16" />
+        <mark key="]" line="104" column="16" />
+        <mark key="." line="104" column="16" />
+        <mark key="^" line="104" column="49" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/src/main/java/com/wanda/ohm/chatops/admin/controller/SubTypeController.java" timestamp="1503313521431">
         <mark key="[" line="37" column="47" />
@@ -1825,11 +1825,11 @@
         <mark key="^" line="42" column="62" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraBlockedIssueDailyTask.java" timestamp="1508133880934">
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraBlockedIssueDailyTask.java" timestamp="1508134865933">
         <mark key="'" line="58" column="0" />
-        <mark key="[" line="90" column="65" />
-        <mark key="]" line="90" column="65" />
-        <mark key="." line="90" column="65" />
+        <mark key="[" line="90" column="61" />
+        <mark key="]" line="90" column="61" />
+        <mark key="." line="90" column="61" />
         <mark key="^" line="90" column="59" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/core/config/MvcConfig.java" timestamp="1507626809819">
@@ -2425,17 +2425,17 @@
       <jump line="58" column="0" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraBlockedIssueDailyTask.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbShuYW1lID0gImV4cGFuZCIpIFN0cmluZyBleHBhbmQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>fields</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxTdHJpbmc+IGZpZWxkczsK</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0LnNldEZpZWxkcyhMaXN0cy5uZXdBcnJheUxpc3QoZmllbGRzLnNwbGl0KCIsIikpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbShuYW1lID0gImV4cGFuZCIpIFN0cmluZyBleHBhbmQpOwo=</text>
