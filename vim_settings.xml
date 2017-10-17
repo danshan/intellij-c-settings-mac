@@ -390,11 +390,11 @@
         <mark key="^" line="94" column="14" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/client/JiraClient.java" timestamp="1508220314416">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="31" column="39" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/client/JiraClient.java" timestamp="1508225966291">
+        <mark key="[" line="29" column="47" />
+        <mark key="]" line="29" column="45" />
+        <mark key="." line="29" column="45" />
+        <mark key="^" line="29" column="45" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/nexus/bean/NexusPayload.java" timestamp="1500364248472">
         <mark key="[" line="16" column="37" />
@@ -2451,7 +2451,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIvcmVzdC9hcGkvMi9zZWFyY2giLCBtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLkdFVCkK</text>
+        <text encoding="base64">ICAgIEBSZXEK</text>
       </register>
       <register name="-" type="4">
         <text>PathVariable</text>
@@ -2463,31 +2463,31 @@
         <text encoding="base64">ICAgIEBSZXF1ZXN0TGluZSgiR0VUIC9yZXN0L2FwaS8yL3NlYXJjaCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIvcmVzdC9hcGkvMi9zZWFyY2giLCBtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLkdFVCkK</text>
+        <text encoding="base64">ICAgIEBSZXEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIvcmVzdC9hcGkvMi9pc3N1ZS97aXNzdWVLZXl9L3RyYW5zaXRpb25zIiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5QT1NUKQo=</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIvcmVzdC9hcGkvMi9wcm9qZWN0IiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5HRVQpCg==</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIvcmVzdC9hcGkvMi9zZWFyY2giLCBtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLkdFVCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIvcmVzdC9hcGkvMi9pc3N1ZS97aXNzdWVLZXl9L3RyYW5zaXRpb25zIiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5QT1NUKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIvcmVzdC9hcGkvMi9wcm9qZWN0IiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5HRVQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBKaXJhQ2xpZW50IGppcmFGZmFuQ2xpZW50KCkgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBKaXJhQ2xpZW50IGppcmFGZmFuQ2xpZW50KCkgewo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIEBCZWFuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
