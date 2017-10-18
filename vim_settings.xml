@@ -1660,11 +1660,11 @@
         <mark key="^" line="27" column="26" />
         <mark key="." line="27" column="26" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/service/parser/JiraItDeskParser.java" timestamp="1508293746915">
-        <mark key="[" line="57" column="28" />
-        <mark key="]" line="57" column="29" />
-        <mark key="." line="57" column="29" />
-        <mark key="^" line="74" column="35" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/service/parser/JiraItDeskParser.java" timestamp="1508294400239">
+        <mark key="[" line="57" column="57" />
+        <mark key="]" line="57" column="66" />
+        <mark key="." line="57" column="66" />
+        <mark key="^" line="57" column="66" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Commons/src/main/java/com/wanda/ohm/chatops/commons/dto/SubEventDTO.java" timestamp="1503311916208">
         <mark key="[" line="29" column="23" />
