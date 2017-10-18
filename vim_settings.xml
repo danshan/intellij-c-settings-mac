@@ -587,6 +587,12 @@
         <mark key="^" line="20" column="10" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/service/parser/JiraItServiceParser.java" timestamp="1508290081746">
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="22" column="25" />
+        <mark key="." line="22" column="25" />
+        <mark key="^" line="22" column="25" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/github/service/GithubBuilder.java" timestamp="1501811643620">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -1765,7 +1771,7 @@
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
       </file>
-      <file name="/fragment.java" timestamp="1508232619661">
+      <file name="/fragment.java" timestamp="1508290052459">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
@@ -2448,10 +2454,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>jiraClient</text>
+        <text>处理添加 github 账号</text>
       </register>
       <register name="-" type="4">
-        <text>jiraClient</text>
+        <text>处理添加 github 账号</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
