@@ -222,6 +222,9 @@
         <mark key="." line="14" column="16" />
         <mark key="^" line="14" column="16" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/resources/sql/jira/sprint_bug_cnt.sql" timestamp="1508398872431">
+        <mark key="[" line="1" column="14" />
+      </file>
       <file name="$USER_HOME$/codes/personal/douban-videostation/src/main/java/com/shanhh/synology/douban/App.java" timestamp="1506549500203">
         <mark key="[" line="14" column="30" />
         <mark key="]" line="14" column="32" />
@@ -426,6 +429,11 @@
         <mark key="]" line="4" column="22" />
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="22" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/resources/sql/jira/sprint_bug_cnt.txt" timestamp="1508398699050">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/gen/entity/People.java" timestamp="1507779121298">
         <mark key="[" line="27" column="4" />
@@ -1720,12 +1728,12 @@
         <mark key="." line="20" column="45" />
         <mark key="^" line="20" column="45" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/JiraSprintDashboardServiceImpl.java" timestamp="1508383118325">
-        <mark key="'" line="123" column="59" />
-        <mark key="[" line="170" column="26" />
-        <mark key="]" line="170" column="27" />
-        <mark key="." line="170" column="27" />
-        <mark key="^" line="98" column="71" />
+      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/JiraSprintDashboardServiceImpl.java" timestamp="1508399050452">
+        <mark key="'" line="190" column="56" />
+        <mark key="[" line="106" column="46" />
+        <mark key="]" line="106" column="56" />
+        <mark key="." line="106" column="56" />
+        <mark key="^" line="106" column="56" />
       </file>
       <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/GitOrgDashboardService.java" timestamp="1504777261363">
         <mark key="[" line="11" column="3" />
@@ -2335,11 +2343,11 @@
         <mark key="^" line="0" column="48" />
         <mark key="." line="0" column="48" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/bean/JiraSprintDashboard.java" timestamp="1508382541836">
-        <mark key="[" line="69" column="24" />
-        <mark key="]" line="67" column="22" />
-        <mark key="." line="67" column="22" />
-        <mark key="^" line="67" column="22" />
+      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/bean/JiraSprintDashboard.java" timestamp="1508399036967">
+        <mark key="[" line="51" column="11" />
+        <mark key="]" line="50" column="22" />
+        <mark key="." line="50" column="22" />
+        <mark key="^" line="50" column="22" />
       </file>
       <file name="$USER_HOME$/codes/wanda/yui-hatano/node_modules/hubot-scripts/src/scripts/jira-issues.coffee" timestamp="1501041735637">
         <mark key="[" line="36" column="13" />
@@ -2394,7 +2402,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="64" filename="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/integration/jira/bean/JiraSearchRequest.java" />
       <jump line="149" column="53" filename="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/integration/jira/bean/JiraSearchRequest.java" />
       <jump line="93" column="45" filename="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/integration/jira/bean/JiraUpdateRequest.java" />
       <jump line="55" column="0" filename="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/integration/ldap/bean/LdapUser.java" />
@@ -2494,46 +2501,47 @@
       <jump line="101" column="40" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/pom.xml" />
       <jump line="129" column="58" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/JiraSprintDashboardServiceImpl.java" />
       <jump line="123" column="59" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/JiraSprintDashboardServiceImpl.java" />
+      <jump line="182" column="56" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/JiraSprintDashboardServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudGl0eS5zZXRUYXNrSW50KHNwcmludE9yaWdpbmFsRXN0aW1hdGUuZ2V0VGFza0RvbmVDbnQoKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>getTaskDoneCnt</text>
       </register>
       <register name="-" type="4">
-        <text>OriginalEstimate(sprintOriginalEstimate.getOriginalEstimate());</text>
+        <text>getTaskDoneCnt</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBzcHJpbnQg5Lit55qE5Lu75Yqh5pWwCiAgICAgICAgICovCiAgICAgICAgcHJpdmF0ZSBpbnQgdGFza0NudDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudGl0eS5zZXRUYXNrRG9uZUNudChzcHJpbnRUYXNrRG9uZUNudC5nZXRUYXNrRG9uZUNudCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudGl0eS5zZXRUYXNrSW50KHNwcmludE9yaWdpbmFsRXN0aW1hdGUuZ2V0VGFza0RvbmVDbnQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBJTk5FUiBKT0lOIGlzc3Vlc3RhdHVzIE9OIGlzc3VlLmlzc3Vlc3RhdHVzID0gaXNzdWVzdGF0dXMuSUQKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFORCBpc3N1ZXN0YXR1cy5TVEFUVVNDQVRFR09SWSA9IDMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW50aXR5LnNldE9yaWdpbmFsRXN0aW1hdGUoKChCaWdEZWNpbWFsKSByZXN1bHQuZ2V0KCJvcmlnaW5hbF9lc3RpbWF0ZSIpKS5sb25nVmFsdWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudGl0eS5zZXRUYXNrSW50KHNwcmludE9yaWdpbmFsRXN0aW1hdGUuZ2V0VGFza0RvbmVDbnQoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U0VMRUNUCiAgY291bnQoaXNzdWVzdGF0dXMuU1RBVFVTQ0FURUdPUlkpIHRhc2tfZG9uZV9jbnQsCiAgc3ByaW50LnNwcmludF9pZCAgICAgICAgICAgICAgICAgIHNwcmludF9pZApGUk9NIGppcmFpc3N1ZSBpc3N1ZQogIElOTkVSIEpPSU4KICAoU0VMRUNUCiAgICAgc3ByaW50LklTU1VFLAogICAgIHNwLklEIHNwcmludF9pZAogICBGUk9NIGFvXzYwZGI3MV9zcHJpbnQgc3AKICAgICBJTk5FUiBKT0lOIGN1c3RvbWZpZWxkdmFsdWUgc3ByaW50IE9OIHNwLklEID0gc3ByaW50LlNUUklOR1ZBTFVFCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBTkQgc3ByaW50LkNVU1RPTUZJRUxEID0gJzEwMDA1JwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQU5EIHNwcmludC5TVFJJTkdWQUxVRSBJUyBOT1QgTlVMTCkgc3ByaW50IE9OIGlzc3VlLklEID0gc3ByaW50LklTU1VFCiAgSU5ORVIgSk9JTiBpc3N1ZXN0YXR1cyBPTiBpc3N1ZS5pc3N1ZXN0YXR1cyA9IGlzc3Vlc3RhdHVzLklECiAgICAgICAgICAgICAgICAgICAgICAgICAgICBBTkQgaXNzdWVzdGF0dXMuU1RBVFVTQ0FURUdPUlkgPSAzCldIRVJFCiAgaXNzdWUuaXNzdWV0eXBlID0gJzEwMDA4JwpHUk9VUCBCWQogIHNwcmludF9pZAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudGl0eS5zZXRFcGljQ250KHNwcmludE9yaWdpbmFsRXN0aW1hdGUuZ2V0RXBpY0NudCgpKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudGl0eS5zZXRQcm9qZWN0TmFtZShzcHJpbnRQb2ludHMuZ2V0UHJvamVjdE5hbWUoKSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudGl0eS5zZXRQcm9qZWN0S2V5KHNwcmludFBvaW50cy5nZXRQcm9qZWN0S2V5KCkpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZW50aXR5LnNldE9yaWdpbmFsRXN0aW1hdGUoKChCaWdEZWNpbWFsKSByZXN1bHQuZ2V0KCJvcmlnaW5hbF9lc3RpbWF0ZSIpKS5sb25nVmFsdWUoKSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">U0VMRUNUCiAgY291bnQoaXNzdWVzdGF0dXMuU1RBVFVTQ0FURUdPUlkpIHRhc2tfZG9uZV9jbnQsCiAgc3ByaW50LnNwcmludF9pZCAgICAgICAgICAgICAgICAgIHNwcmludF9pZApGUk9NIGppcmFpc3N1ZSBpc3N1ZQogIElOTkVSIEpPSU4KICAoU0VMRUNUCiAgICAgc3ByaW50LklTU1VFLAogICAgIHNwLklEIHNwcmludF9pZAogICBGUk9NIGFvXzYwZGI3MV9zcHJpbnQgc3AKICAgICBJTk5FUiBKT0lOIGN1c3RvbWZpZWxkdmFsdWUgc3ByaW50IE9OIHNwLklEID0gc3ByaW50LlNUUklOR1ZBTFVFCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBTkQgc3ByaW50LkNVU1RPTUZJRUxEID0gJzEwMDA1JwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQU5EIHNwcmludC5TVFJJTkdWQUxVRSBJUyBOT1QgTlVMTCkgc3ByaW50IE9OIGlzc3VlLklEID0gc3ByaW50LklTU1VFCiAgSU5ORVIgSk9JTiBpc3N1ZXN0YXR1cyBPTiBpc3N1ZS5pc3N1ZXN0YXR1cyA9IGlzc3Vlc3RhdHVzLklECiAgICAgICAgICAgICAgICAgICAgICAgICAgICBBTkQgaXNzdWVzdGF0dXMuU1RBVFVTQ0FURUdPUlkgPSAzCldIRVJFCiAgaXNzdWUuaXNzdWV0eXBlID0gJzEwMDA4JwpHUk9VUCBCWQogIHNwcmludF9pZAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudGl0eS5zZXRFcGljQ250KHNwcmludE9yaWdpbmFsRXN0aW1hdGUuZ2V0RXBpY0NudCgpKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudGl0eS5zZXRQcm9qZWN0TmFtZShzcHJpbnRQb2ludHMuZ2V0UHJvamVjdE5hbWUoKSk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW50aXR5LnNldFRhc2tJbnQoZW50aXR5LmdldCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudGl0eS5zZXRQcm9qZWN0S2V5KHNwcmludFBvaW50cy5nZXRQcm9qZWN0S2V5KCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
