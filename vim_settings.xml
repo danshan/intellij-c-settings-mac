@@ -1403,6 +1403,9 @@
         <mark key="^" line="14" column="59" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/resources/sql/jira/sprint_sit_bug_cnt.txt" timestamp="1508399849348">
+        <mark key="[" line="0" column="16" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/static/router/index.js" timestamp="1502441343898">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="21" />
@@ -1728,12 +1731,12 @@
         <mark key="." line="20" column="45" />
         <mark key="^" line="20" column="45" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/JiraSprintDashboardServiceImpl.java" timestamp="1508399050452">
-        <mark key="'" line="190" column="56" />
-        <mark key="[" line="106" column="46" />
-        <mark key="]" line="106" column="56" />
-        <mark key="." line="106" column="56" />
-        <mark key="^" line="106" column="56" />
+      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/JiraSprintDashboardServiceImpl.java" timestamp="1508401049563">
+        <mark key="'" line="198" column="56" />
+        <mark key="[" line="218" column="25" />
+        <mark key="]" line="218" column="24" />
+        <mark key="." line="218" column="24" />
+        <mark key="^" line="218" column="24" />
       </file>
       <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/GitOrgDashboardService.java" timestamp="1504777261363">
         <mark key="[" line="11" column="3" />
@@ -2186,6 +2189,12 @@
         <mark key="." line="6" column="46" />
         <mark key="^" line="6" column="46" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/resources/sql/jira/sprint_sit_bug_cnt.sql" timestamp="1508400930863">
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/integration/jira/bean/JiraIssue.java" timestamp="1503897713262">
         <mark key="[" line="24" column="12" />
         <mark key="]" line="24" column="12" />
@@ -2343,11 +2352,11 @@
         <mark key="^" line="0" column="48" />
         <mark key="." line="0" column="48" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/bean/JiraSprintDashboard.java" timestamp="1508399036967">
-        <mark key="[" line="51" column="11" />
-        <mark key="]" line="50" column="22" />
-        <mark key="." line="50" column="22" />
-        <mark key="^" line="50" column="22" />
+      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/bean/JiraSprintDashboard.java" timestamp="1508400968398">
+        <mark key="[" line="54" column="22" />
+        <mark key="]" line="56" column="22" />
+        <mark key="." line="56" column="22" />
+        <mark key="^" line="56" column="22" />
       </file>
       <file name="$USER_HOME$/codes/wanda/yui-hatano/node_modules/hubot-scripts/src/scripts/jira-issues.coffee" timestamp="1501041735637">
         <mark key="[" line="36" column="13" />
@@ -2505,43 +2514,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getTaskDoneCnt</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>getTaskDoneCnt</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudGl0eS5zZXRUYXNrRG9uZUNudChzcHJpbnRUYXNrRG9uZUNudC5nZXRUYXNrRG9uZUNudCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNwcmludEJ1Z0NudCAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBlbnRpdHkuc2V0QnVnQ250KHNwcmludEJ1Z0NudC5nZXRCdWdDbnQoKSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPExvbmcsIEppcmFTcHJpbnREYXNoYm9hcmQuRW50aXR5PiBmZXRjaFNwcmludEJ1Z0NudCgpIHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBJTk5FUiBKT0lOIGlzc3Vlc3RhdHVzIE9OIGlzc3VlLmlzc3Vlc3RhdHVzID0gaXNzdWVzdGF0dXMuSUQKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFORCBpc3N1ZXN0YXR1cy5TVEFUVVNDQVRFR09SWSA9IDMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudGl0eS5zZXRUYXNrSW50KHNwcmludE9yaWdpbmFsRXN0aW1hdGUuZ2V0VGFza0RvbmVDbnQoKSk7Cg==</text>
+        <text encoding="base64">ICBJTk5FUiBKT0lOIGlzc3Vlc3RhdHVzIE9OIGlzc3VlLmlzc3Vlc3RhdHVzID0gaXNzdWVzdGF0dXMuSUQKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFORCBpc3N1ZXN0YXR1cy5TVEFUVVNDQVRFR09SWSA9IDMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudGl0eS5zZXRUYXNrSW50KHNwcmludE9yaWdpbmFsRXN0aW1hdGUuZ2V0VGFza0RvbmVDbnQoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW50aXR5LnNldE9yaWdpbmFsRXN0aW1hdGUoKChCaWdEZWNpbWFsKSByZXN1bHQuZ2V0KCJvcmlnaW5hbF9lc3RpbWF0ZSIpKS5sb25nVmFsdWUoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U0VMRUNUCiAgY291bnQoaXNzdWVzdGF0dXMuU1RBVFVTQ0FURUdPUlkpIHRhc2tfZG9uZV9jbnQsCiAgc3ByaW50LnNwcmludF9pZCAgICAgICAgICAgICAgICAgIHNwcmludF9pZApGUk9NIGppcmFpc3N1ZSBpc3N1ZQogIElOTkVSIEpPSU4KICAoU0VMRUNUCiAgICAgc3ByaW50LklTU1VFLAogICAgIHNwLklEIHNwcmludF9pZAogICBGUk9NIGFvXzYwZGI3MV9zcHJpbnQgc3AKICAgICBJTk5FUiBKT0lOIGN1c3RvbWZpZWxkdmFsdWUgc3ByaW50IE9OIHNwLklEID0gc3ByaW50LlNUUklOR1ZBTFVFCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBTkQgc3ByaW50LkNVU1RPTUZJRUxEID0gJzEwMDA1JwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQU5EIHNwcmludC5TVFJJTkdWQUxVRSBJUyBOT1QgTlVMTCkgc3ByaW50IE9OIGlzc3VlLklEID0gc3ByaW50LklTU1VFCiAgSU5ORVIgSk9JTiBpc3N1ZXN0YXR1cyBPTiBpc3N1ZS5pc3N1ZXN0YXR1cyA9IGlzc3Vlc3RhdHVzLklECiAgICAgICAgICAgICAgICAgICAgICAgICAgICBBTkQgaXNzdWVzdGF0dXMuU1RBVFVTQ0FURUdPUlkgPSAzCldIRVJFCiAgaXNzdWUuaXNzdWV0eXBlID0gJzEwMDA4JwpHUk9VUCBCWQogIHNwcmludF9pZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW50aXR5LnNldE9yaWdpbmFsRXN0aW1hdGUoKChCaWdEZWNpbWFsKSByZXN1bHQuZ2V0KCJvcmlnaW5hbF9lc3RpbWF0ZSIpKS5sb25nVmFsdWUoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudGl0eS5zZXRFcGljQ250KHNwcmludE9yaWdpbmFsRXN0aW1hdGUuZ2V0RXBpY0NudCgpKTsK</text>
+        <text encoding="base64">U0VMRUNUCiAgY291bnQoaXNzdWVzdGF0dXMuU1RBVFVTQ0FURUdPUlkpIHRhc2tfZG9uZV9jbnQsCiAgc3ByaW50LnNwcmludF9pZCAgICAgICAgICAgICAgICAgIHNwcmludF9pZApGUk9NIGppcmFpc3N1ZSBpc3N1ZQogIElOTkVSIEpPSU4KICAoU0VMRUNUCiAgICAgc3ByaW50LklTU1VFLAogICAgIHNwLklEIHNwcmludF9pZAogICBGUk9NIGFvXzYwZGI3MV9zcHJpbnQgc3AKICAgICBJTk5FUiBKT0lOIGN1c3RvbWZpZWxkdmFsdWUgc3ByaW50IE9OIHNwLklEID0gc3ByaW50LlNUUklOR1ZBTFVFCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBTkQgc3ByaW50LkNVU1RPTUZJRUxEID0gJzEwMDA1JwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQU5EIHNwcmludC5TVFJJTkdWQUxVRSBJUyBOT1QgTlVMTCkgc3ByaW50IE9OIGlzc3VlLklEID0gc3ByaW50LklTU1VFCiAgSU5ORVIgSk9JTiBpc3N1ZXN0YXR1cyBPTiBpc3N1ZS5pc3N1ZXN0YXR1cyA9IGlzc3Vlc3RhdHVzLklECiAgICAgICAgICAgICAgICAgICAgICAgICAgICBBTkQgaXNzdWVzdGF0dXMuU1RBVFVTQ0FURUdPUlkgPSAzCldIRVJFCiAgaXNzdWUuaXNzdWV0eXBlID0gJzEwMDA4JwpHUk9VUCBCWQogIHNwcmludF9pZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudGl0eS5zZXRQcm9qZWN0TmFtZShzcHJpbnRQb2ludHMuZ2V0UHJvamVjdE5hbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudGl0eS5zZXRFcGljQ250KHNwcmludE9yaWdpbmFsRXN0aW1hdGUuZ2V0RXBpY0NudCgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudGl0eS5zZXRQcm9qZWN0S2V5KHNwcmludFBvaW50cy5nZXRQcm9qZWN0S2V5KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudGl0eS5zZXRQcm9qZWN0TmFtZShzcHJpbnRQb2ludHMuZ2V0UHJvamVjdE5hbWUoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
