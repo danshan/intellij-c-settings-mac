@@ -1144,6 +1144,11 @@
         <mark key="." line="7" column="46" />
         <mark key="^" line="7" column="46" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/resources/sql/jira/project_bug_cnt.txt" timestamp="1508489577814">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/vue/vuex/api/services/subscriptions.js" timestamp="1502674995887">
         <mark key="[" line="4" column="66" />
         <mark key="]" line="4" column="76" />
@@ -1652,6 +1657,11 @@
         <mark key="." line="11" column="6" />
         <mark key="^" line="11" column="6" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/resources/sql/jira/project_bug_cnt.sql" timestamp="1508489590874">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/java/com/wanda/ohm/chatops/xxoo/integration/github/service/GithubServiceImplTest.java" timestamp="1508209756259">
         <mark key="[" line="53" column="68" />
         <mark key="]" line="53" column="70" />
@@ -1743,12 +1753,12 @@
         <mark key="." line="20" column="45" />
         <mark key="^" line="20" column="45" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/JiraSprintDashboardServiceImpl.java" timestamp="1508483931086">
-        <mark key="'" line="237" column="6" />
-        <mark key="[" line="227" column="55" />
-        <mark key="]" line="224" column="110" />
-        <mark key="." line="224" column="110" />
-        <mark key="^" line="224" column="110" />
+      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/JiraSprintDashboardServiceImpl.java" timestamp="1508489747359">
+        <mark key="'" line="262" column="74" />
+        <mark key="[" line="131" column="67" />
+        <mark key="]" line="131" column="67" />
+        <mark key="." line="131" column="67" />
+        <mark key="^" line="85" column="11" />
       </file>
       <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/GitOrgDashboardService.java" timestamp="1504777261363">
         <mark key="[" line="11" column="3" />
@@ -2364,10 +2374,10 @@
         <mark key="^" line="0" column="48" />
         <mark key="." line="0" column="48" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/bean/JiraSprintDashboard.java" timestamp="1508483156289">
-        <mark key="[" line="60" column="42" />
-        <mark key="]" line="62" column="28" />
-        <mark key="." line="62" column="28" />
+      <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/bean/JiraSprintDashboard.java" timestamp="1508489673742">
+        <mark key="[" line="68" column="27" />
+        <mark key="]" line="68" column="27" />
+        <mark key="." line="68" column="27" />
         <mark key="^" line="62" column="28" />
       </file>
       <file name="$USER_HOME$/codes/wanda/yui-hatano/node_modules/hubot-scripts/src/scripts/jira-issues.coffee" timestamp="1501041735637">
@@ -2424,7 +2434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="0" filename="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/integration/ldap/bean/LdapUser.java" />
       <jump line="68" column="70" filename="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/controller/DebugController.java" />
       <jump line="52" column="24" filename="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/controller/DebugController.java" />
       <jump line="127" column="0" filename="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/controller/DebugController.java" />
@@ -2524,46 +2533,47 @@
       <jump line="182" column="56" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/JiraSprintDashboardServiceImpl.java" />
       <jump line="9" column="0" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/resources/sql/jira/project_pro_bug_cnt.txt" />
       <jump line="228" column="6" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/JiraSprintDashboardServiceImpl.java" />
+      <jump line="254" column="74" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/JiraSprintDashboardServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getUatBugCnt</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>getUatBugCnt</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudGl0eS5zZXRVYXRCdWdDbnQoc3ByaW50VWF0QnVnQ250LmdldFVhdEJ1Z0NudCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHByb2plY3RQcm9CdWdDbnQgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgZW50aXR5LnNldFByb2plY3RQcm9CdWdDbnQocHJvamVjdFByb0J1Z0NudC5nZXRQcm9qZWN0UHJvQnVnQ250KCkpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U0VMRUNUCiAgQ09VTlQoMSkgcHJvX2J1Z190b3RhbCwKICBwcm9qZWN0CkZST00gamlyYWlzc3VlIGlzc3VlCiAgSU5ORVIgSk9JTiBjdXN0b21maWVsZHZhbHVlIGZpZWxkcyBPTiBpc3N1ZS5JRCA9IGZpZWxkcy5JU1NVRSBBTkQgZmllbGRzLmN1c3RvbWZpZWxkID0gJzEwMzA0JyBBTkQgZmllbGRzLnN0cmluZ3ZhbHVlID0gJzEwMzI4JwpXSEVSRQogIGlzc3VlLmlzc3VldHlwZSA9ICcxMDAwNCcKR1JPVVAgQlkKICBwcm9qZWN0Cg==</text>
+        <text encoding="base64">ICBJTk5FUiBKT0lOIGN1c3RvbWZpZWxkdmFsdWUgZmllbGRzIE9OIGlzc3VlLklEID0gZmllbGRzLklTU1VFIEFORCBmaWVsZHMuY3VzdG9tZmllbGQgPSAnMTAzMDQnIEFORCBmaWVsZHMuc3RyaW5ndmFsdWUgPSAnMTAzMjgnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPExvbmcsIEppcmFTcHJpbnREYXNoYm9hcmQuRW50aXR5PiBmZXRjaFNwcmludEJ1Z0NudCgpIHsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">U0VMRUNUCiAgQ09VTlQoMSkgcHJvX2J1Z190b3RhbCwKICBwcm9qZWN0CkZST00gamlyYWlzc3VlIGlzc3VlCiAgSU5ORVIgSk9JTiBjdXN0b21maWVsZHZhbHVlIGZpZWxkcyBPTiBpc3N1ZS5JRCA9IGZpZWxkcy5JU1NVRSBBTkQgZmllbGRzLmN1c3RvbWZpZWxkID0gJzEwMzA0JyBBTkQgZmllbGRzLnN0cmluZ3ZhbHVlID0gJzEwMzI4JwpXSEVSRQogIGlzc3VlLmlzc3VldHlwZSA9ICcxMDAwNCcKR1JPVVAgQlkKICBwcm9qZWN0Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBJTk5FUiBKT0lOIGlzc3Vlc3RhdHVzIE9OIGlzc3VlLmlzc3Vlc3RhdHVzID0gaXNzdWVzdGF0dXMuSUQKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFORCBpc3N1ZXN0YXR1cy5TVEFUVVNDQVRFR09SWSA9IDMK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPExvbmcsIEppcmFTcHJpbnREYXNoYm9hcmQuRW50aXR5PiBmZXRjaFNwcmludEJ1Z0NudCgpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudGl0eS5zZXRUYXNrSW50KHNwcmludE9yaWdpbmFsRXN0aW1hdGUuZ2V0VGFza0RvbmVDbnQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBJTk5FUiBKT0lOIGlzc3Vlc3RhdHVzIE9OIGlzc3VlLmlzc3Vlc3RhdHVzID0gaXNzdWVzdGF0dXMuSUQKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFORCBpc3N1ZXN0YXR1cy5TVEFUVVNDQVRFR09SWSA9IDMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW50aXR5LnNldE9yaWdpbmFsRXN0aW1hdGUoKChCaWdEZWNpbWFsKSByZXN1bHQuZ2V0KCJvcmlnaW5hbF9lc3RpbWF0ZSIpKS5sb25nVmFsdWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudGl0eS5zZXRUYXNrSW50KHNwcmludE9yaWdpbmFsRXN0aW1hdGUuZ2V0VGFza0RvbmVDbnQoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U0VMRUNUCiAgY291bnQoaXNzdWVzdGF0dXMuU1RBVFVTQ0FURUdPUlkpIHRhc2tfZG9uZV9jbnQsCiAgc3ByaW50LnNwcmludF9pZCAgICAgICAgICAgICAgICAgIHNwcmludF9pZApGUk9NIGppcmFpc3N1ZSBpc3N1ZQogIElOTkVSIEpPSU4KICAoU0VMRUNUCiAgICAgc3ByaW50LklTU1VFLAogICAgIHNwLklEIHNwcmludF9pZAogICBGUk9NIGFvXzYwZGI3MV9zcHJpbnQgc3AKICAgICBJTk5FUiBKT0lOIGN1c3RvbWZpZWxkdmFsdWUgc3ByaW50IE9OIHNwLklEID0gc3ByaW50LlNUUklOR1ZBTFVFCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBTkQgc3ByaW50LkNVU1RPTUZJRUxEID0gJzEwMDA1JwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQU5EIHNwcmludC5TVFJJTkdWQUxVRSBJUyBOT1QgTlVMTCkgc3ByaW50IE9OIGlzc3VlLklEID0gc3ByaW50LklTU1VFCiAgSU5ORVIgSk9JTiBpc3N1ZXN0YXR1cyBPTiBpc3N1ZS5pc3N1ZXN0YXR1cyA9IGlzc3Vlc3RhdHVzLklECiAgICAgICAgICAgICAgICAgICAgICAgICAgICBBTkQgaXNzdWVzdGF0dXMuU1RBVFVTQ0FURUdPUlkgPSAzCldIRVJFCiAgaXNzdWUuaXNzdWV0eXBlID0gJzEwMDA4JwpHUk9VUCBCWQogIHNwcmludF9pZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
