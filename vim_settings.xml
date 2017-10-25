@@ -297,6 +297,11 @@
         <mark key="^" line="21" column="34" />
         <mark key="." line="21" column="34" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/core/config/PrometheusConfig.groovy" timestamp="1508901335656">
+        <mark key="[" line="22" column="93" />
+        <mark key="]" line="22" column="93" />
+        <mark key="." line="22" column="93" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/controller/SubChannelController.java" timestamp="1502692602464">
         <mark key="[" line="35" column="58" />
         <mark key="]" line="35" column="85" />
@@ -1223,6 +1228,12 @@
         <mark key="." line="30" column="44" />
         <mark key="^" line="30" column="23" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/core/config/ChatOpsConfig.groovy" timestamp="1508901840013">
+        <mark key="[" line="12" column="78" />
+        <mark key="]" line="12" column="78" />
+        <mark key="." line="12" column="78" />
+        <mark key="^" line="12" column="82" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/test/java/com/wanda/ohm/chatops/utils/MockJiraUtils.java" timestamp="1501835716235">
         <mark key="[" line="27" column="27" />
         <mark key="]" line="27" column="25" />
@@ -1546,6 +1557,12 @@
         <mark key="]" line="8" column="11" />
         <mark key="^" line="8" column="11" />
         <mark key="." line="8" column="11" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/core/config/MvcConfig.groovy" timestamp="1508901313217">
+        <mark key="[" line="44" column="34" />
+        <mark key="]" line="44" column="34" />
+        <mark key="." line="44" column="34" />
+        <mark key="^" line="41" column="22" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/service/impl/JiraWebhookParserImpl.java" timestamp="1507515918504">
         <mark key="[" line="16" column="0" />
@@ -1978,6 +1995,11 @@
         <mark key="." line="13" column="23" />
         <mark key="^" line="13" column="23" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/core/config/AdapterConfigLoader.groovy" timestamp="1508901193437">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/integration/jira/bean/JiraGeneralIssue.java" timestamp="1503898647931">
         <mark key="[" line="55" column="4" />
         <mark key="]" line="55" column="4" />
@@ -1990,7 +2012,7 @@
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
       </file>
-      <file name="/fragment.java" timestamp="1508900242711">
+      <file name="/fragment.java" timestamp="1508901180083">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
@@ -2013,6 +2035,12 @@
         <mark key="]" line="37" column="36" />
         <mark key="." line="37" column="36" />
         <mark key="^" line="37" column="36" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/core/config/ChatOpsConfigLoader.groovy" timestamp="1508901263182">
+        <mark key="[" line="21" column="70" />
+        <mark key="]" line="21" column="70" />
+        <mark key="." line="21" column="70" />
+        <mark key="^" line="21" column="69" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/adapter/bearychat/client/BearychatClient.groovy" timestamp="1508898660711">
         <mark key="[" line="14" column="0" />
@@ -2731,10 +2759,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>java</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>java</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -2743,31 +2771,31 @@
         <text encoding="base64">YXBwbHkgcGx1Z2luOiAnamF2YScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdyb292eQo=</text>
+        <text encoding="base64">ICAgIEBHZXR0ZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnbWF2ZW4nCg==</text>
+        <text encoding="base64">ICAgIEBBbGxBcmdzQ29uc3RydWN0b3IK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QE5vQXJnc0NvbnN0cnVjdG9yCg==</text>
+        <text encoding="base64">ICAgIEBTZXR0ZXIKICAgIEBHZXR0ZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnbWF2ZW4nCg==</text>
+        <text encoding="base64">QFNldHRlcgpAR2V0dGVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdyb292eQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnbWF2ZW4nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">QE5vQXJnc0NvbnN0cnVjdG9yCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGdyb292eSB7IHNyY0RpciAnc3JjL21haW4vZ3Jvb3Z5JyB9Cg==</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnbWF2ZW4nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGphdmEgeyBzcmNEaXIgJ3NyYy9tYWluL2phdmEnIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
