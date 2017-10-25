@@ -1698,6 +1698,12 @@
         <mark key="^" line="157" column="20" />
         <mark key="." line="160" column="0" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/integration/jira/service/JiraBuilder.groovy" timestamp="1508915219610">
+        <mark key="[" line="23" column="52" />
+        <mark key="]" line="23" column="52" />
+        <mark key="^" line="19" column="105" />
+        <mark key="." line="23" column="52" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/core/handler/GlobalExceptionHandler.java" timestamp="1502681504762">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -2773,11 +2779,11 @@
       <jump line="16" column="5" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/adapter/bearychat/BearychatTasks.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0KfQo=</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -2786,31 +2792,31 @@
         <text encoding="base64">c291cmNlU2V0cy5tYWluLmphdmEuc3JjRGlycyA9IFtdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gU3RyaW5nLmZvcm1hdCgiWyVzXSglcykiLCB1c2VyLmdldERpc3BsYXlOYW1lKCksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZy5mb3JtYXQoIiVzL2Jyb3dzZS8lcyIsIGdldFNlcnZlckhvc3QoaXNzdWUuZ2V0U2VsZigpKSwgaXNzdWUuZ2V0S2V5KCkpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzc3VlLmdldEZpZWxkcygpLmdldFN1bW1hcnkoKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzc3VlLmdldEtleSgpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnZ3Jvb3Z5JyB7IHNyY0RpcnMgJ3NyYy9tYWluL2dyb292eScgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gU3RyaW5nLmZvcm1hdCgiWyVzICVzXSglcykiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBqYXZhIHsgc3JjRGlycyAnc3JjL21haW4vamF2YScgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gU3RyaW5nLmZvcm1hdCgiWyVzICVzXSglcykiLAogICAgICAgICAgICAgICAgaXNzdWUuZ2V0S2V5KCksCiAgICAgICAgICAgICAgICBpc3N1ZS5nZXRGaWVsZHMoKS5nZXRTdW1tYXJ5KCksCiAgICAgICAgICAgICAgICBTdHJpbmcuZm9ybWF0KCIlcy9icm93c2UvJXMiLCBnZXRTZXJ2ZXJIb3N0KGlzc3VlLmdldFNlbGYoKSksIGlzc3VlLmdldEtleSgpKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1haW4gewo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c291cmNlU2V0cyB7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIltdIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdyb292eSB7IHNyY0RpcnMgJ3NyYy9tYWluL2dyb292eScgfQo=</text>
+        <text encoding="base64">ICAgICAgICBkZWYgY29udmVydGVkVXJsID0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
