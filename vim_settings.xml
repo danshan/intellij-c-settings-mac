@@ -422,7 +422,7 @@
         <mark key="^" line="94" column="14" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/client/JiraClient.java" timestamp="1508313948076">
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/client/JiraClient.java" timestamp="1508898223493">
         <mark key="[" line="48" column="18" />
         <mark key="]" line="48" column="18" />
         <mark key="." line="48" column="18" />
@@ -562,6 +562,9 @@
         <mark key="." line="32" column="12" />
         <mark key="^" line="11" column="9" />
       </file>
+      <file name="/Dummy.txt" timestamp="1508900059963">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/github/service/GithubPingBuilder.java" timestamp="1501839394507">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -639,7 +642,6 @@
         <mark key="^" line="20" column="10" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Class.java" timestamp="1508835590548" />
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/service/parser/JiraItServiceParser.java" timestamp="1508290081746">
         <mark key="[" line="22" column="8" />
         <mark key="]" line="22" column="25" />
@@ -1238,6 +1240,12 @@
         <mark key="]" line="53" column="45" />
         <mark key="^" line="53" column="45" />
         <mark key="." line="53" column="45" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/core/intercepter/PrometheusInterceptor.groovy" timestamp="1508900293773">
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="21" column="23" />
+        <mark key="." line="21" column="23" />
+        <mark key="^" line="21" column="11" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/IPayload.java" timestamp="1499838610424">
         <mark key="[" line="7" column="25" />
@@ -1877,11 +1885,10 @@
       <file name="/Dummy.groovy" timestamp="1508835543705">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/build.gradle" timestamp="1508834618902">
-        <mark key="[" line="19" column="48" />
-        <mark key="]" line="19" column="47" />
-        <mark key="." line="19" column="47" />
-        <mark key="^" line="19" column="47" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/build.gradle" timestamp="1508900485940">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
       </file>
       <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/GitOrgDashboardService.java" timestamp="1504777261363">
         <mark key="[" line="11" column="3" />
@@ -1983,7 +1990,7 @@
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
       </file>
-      <file name="/fragment.java" timestamp="1508737136703">
+      <file name="/fragment.java" timestamp="1508900242711">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
@@ -2007,11 +2014,11 @@
         <mark key="." line="37" column="36" />
         <mark key="^" line="37" column="36" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/adapter/bearychat/client/BearychatClient.groovy" timestamp="1508836445970">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="13" column="44" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/adapter/bearychat/client/BearychatClient.groovy" timestamp="1508898660711">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="13" column="30" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/github/service/GithubBuilder.java" timestamp="1508209611651">
         <mark key="[" line="40" column="87" />
@@ -2723,53 +2730,53 @@
       <jump line="16" column="5" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/adapter/bearychat/BearychatTasks.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBIZWFkZXJzKCJDb250ZW50LVR5cGU6ICIgKyBNZWRpYVR5cGUuQVBQTElDQVRJT05fSlNPTl9WQUxVRSkK</text>
+      <register name="&quot;" type="4">
+        <text>java</text>
       </register>
       <register name="-" type="4">
-        <text>APPLICATION_JSON_VALUE</text>
+        <text>java</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoZWlnaHRcPg==</text>
+        <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBIZWFkZXJzKCJDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24iKQo=</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnamF2YScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBIZWFkZXJzKCJDb250ZW50LVR5cGU6ICIgKyBNZWRpYVR5cGUuQVBQTElDQVRJT05fSlNPTl9WQUxVRSkK</text>
+        <text encoding="base64">ICAgIGdyb292eQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBIZWFkZXJzKCJDb250ZW50LVR5cGU6ICIgKyBNZWRpYVR5cGUuQVBQTElDQVRJT05fSlNPTl9WQUxVRSkK</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnbWF2ZW4nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBIZWFkZXJzKCJDb250ZW50LVR5cGU6ICIgKyBNZWRpYVR5cGUuQVBQTElDQVRJT05fSlNPTl9WQUxVRSkK</text>
+        <text encoding="base64">QE5vQXJnc0NvbnN0cnVjdG9yCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBIZWFkZXJzKCJDb250ZW50LVR5cGU6ICIgKyBNZWRpYVR5cGUuQVBQTElDQVRJT05fSlNPTl9WQUxVRSkK</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnbWF2ZW4nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBIZWFkZXJzKCJDb250ZW50LVR5cGU6ICIgKyBNZWRpYVR5cGUuQVBQTElDQVRJT05fSlNPTl9WQUxVRSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBIZWFkZXJzKCJDb250ZW50LVR5cGU6ICIgKyBNZWRpYVR5cGUuQVBQTElDQVRJT05fSlNPTl9WQUxVRSkK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAR2V0dGVyCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZ2V0Sgo=</text>
+        <text encoding="base64">ICAgIGdyb292eSB7IHNyY0RpciAnc3JjL21haW4vZ3Jvb3Z5JyB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJlYXJ5Y2hhdFBheWxvYWQuYXR0YWNobWVudHMuYWRkKGJlYXJ5Y2hhdEF0dGFjaG1lbnQpCg==</text>
+        <text encoding="base64">ICAgIGphdmEgeyBzcmNEaXIgJ3NyYy9tYWluL2phdmEnIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoZWlnaHRcPg==</last-search>
+      <last-search encoding="base64">XDwnXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoZWlnaHRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDwnXD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -2793,6 +2800,7 @@
         <entry encoding="base64">XDw6XD4=</entry>
         <entry encoding="base64">XDwmXD4=</entry>
         <entry encoding="base64">XDxoZWlnaHRcPg==</entry>
+        <entry encoding="base64">XDwnXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
