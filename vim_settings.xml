@@ -15,7 +15,7 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="30" column="40" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/groovy/com/wanda/ohm/chatops/xxoo/integration/github/service/GithubServiceImplTest.groovy" timestamp="1509345969674">
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/groovy/com/wanda/ohm/chatops/xxoo/integration/github/service/GithubServiceImplTest.groovy" timestamp="1509350751677">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
@@ -276,7 +276,14 @@
         <mark key="^" line="35" column="31" />
         <mark key="." line="35" column="31" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/groovy/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraIssueDueDateDailyTaskTest.groovy" timestamp="1509349205857">
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/groovy/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraReloadProjectsTasksTest.groovy" timestamp="1509352556242">
+        <mark key="'" line="15" column="21" />
+        <mark key="[" line="15" column="26" />
+        <mark key="]" line="15" column="27" />
+        <mark key="^" line="76" column="15" />
+        <mark key="." line="15" column="27" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/groovy/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraIssueDueDateDailyTaskTest.groovy" timestamp="1509350798627">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
         <mark key="^" line="59" column="40" />
@@ -451,11 +458,11 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/groovy/com/wanda/ohm/chatops/xxoo/integration/jira/service/JiraServiceImplTest.groovy" timestamp="1509346147994">
-        <mark key="[" line="37" column="120" />
-        <mark key="]" line="37" column="120" />
-        <mark key="." line="37" column="120" />
-        <mark key="^" line="46" column="64" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/groovy/com/wanda/ohm/chatops/xxoo/integration/jira/service/JiraServiceImplTest.groovy" timestamp="1509352320174">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="43" column="64" />
       </file>
       <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-service/pom.xml" timestamp="1507707263842">
         <mark key="[" line="6" column="15" />
@@ -1011,6 +1018,11 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/groovy/com/wanda/ohm/chatops/xxoo/utils/PayloadUtils.groovy" timestamp="1509353007802">
+        <mark key="[" line="12" column="69" />
+        <mark key="]" line="12" column="69" />
+        <mark key="." line="12" column="69" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/integration/jira/client/JiraErrorDecoder.java" timestamp="1503457427666">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -1459,6 +1471,7 @@
         <mark key="." line="49" column="34" />
         <mark key="^" line="49" column="34" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.spockframework/spock-core/1.1-groovy-2.4/2b08ca54637337988a8da795c6dc3f66d2810ebb/spock-core-1.1-groovy-2.4-sources.jar!/org/spockframework/lang/SpecInternals.java" timestamp="1509352375161" />
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/bearychat/BearychatConfig.java" timestamp="1502066262859">
         <mark key="[" line="29" column="1" />
         <mark key="]" line="29" column="6" />
@@ -1668,6 +1681,12 @@
         <mark key="[" line="214" column="12" />
         <mark key="]" line="214" column="12" />
         <mark key="." line="214" column="12" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/groovy/com/wanda/ohm/chatops/xxoo/utils/MockJiraUtils.groovy" timestamp="1509352932523">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="21" column="24" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/adapter/bearychat/client/BearychatErrorDecoder.java" timestamp="1508315383159">
         <mark key="[" line="18" column="1" />
@@ -2452,6 +2471,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="59" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/groovy/com/wanda/ohm/chatops/xxoo/utils/MockUtils.groovy" timestamp="1509352993299">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="57" column="51" />
+        <mark key="]" line="57" column="51" />
+        <mark key="." line="57" column="51" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/test/java/com/wanda/ohm/chatops/integration/github/service/GithubServiceImplTest.java" timestamp="1501831375580">
         <mark key="[" line="29" column="58" />
         <mark key="]" line="29" column="57" />
@@ -2540,6 +2565,12 @@
         <mark key="]" line="9" column="16" />
         <mark key="^" line="9" column="16" />
         <mark key="." line="9" column="16" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/adapter/bearychat/bean/BearychatPayload.groovy" timestamp="1509345544328">
+        <mark key="'" line="39" column="6" />
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/controller/MessageController.groovy" timestamp="1508742829680">
         <mark key="[" line="39" column="63" />
@@ -2996,10 +3027,10 @@
         <mark key="^" line="15" column="23" />
         <mark key="." line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraReloadProjectsTask.groovy" timestamp="1509081235655">
-        <mark key="[" line="25" column="12" />
-        <mark key="]" line="25" column="19" />
-        <mark key="." line="25" column="19" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraReloadProjectsTask.groovy" timestamp="1509350841582">
+        <mark key="[" line="23" column="2" />
+        <mark key="]" line="23" column="2" />
+        <mark key="." line="23" column="2" />
         <mark key="^" line="25" column="19" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/adapter/bearychat/BearychatTasks.groovy" timestamp="1508996781524">
@@ -3039,9 +3070,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="14" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/GithubRepoDashboardServiceImpl.java" />
-      <jump line="16" column="3" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/bean/GithubRepoDashboard.java" />
-      <jump line="33" column="53" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/GithubOrgDashboardServiceImpl.java" />
       <jump line="47" column="0" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/GithubOrgDashboardServiceImpl.java" />
       <jump line="32" column="53" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/GithubRepoDashboardServiceImpl.java" />
       <jump line="130" column="4" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/integration/github/client/GithubClient.java" />
@@ -3139,13 +3167,16 @@
       <jump line="22" column="68" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/groovy/com/wanda/ohm/chatops/xxoo/core/util/MarkdownUtilsTest.groovy" />
       <jump line="38" column="6" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/adapter/bearychat/bean/BearychatPayload.groovy" />
       <jump line="77" column="0" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraIssueDueDateDailyTask.groovy" />
+      <jump line="15" column="21" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/groovy/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraReloadProjectsTasksTest.groovy" />
+      <jump line="11" column="0" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/groovy/com/wanda/ohm/chatops/xxoo/utils/MockUtils.groovy" />
+      <jump line="67" column="0" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/groovy/com/wanda/ohm/chatops/xxoo/utils/MockUtils.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhZGFwdGVyUmVnaXN0ZXIuZ2V0QWRhcHRlcnMoKSA+PiAoTGlzdHMubmV3QXJyYXlMaXN0KHdhbmRhcnR4QWRhcHRlcikpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>thenReturn</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -3154,31 +3185,31 @@
         <text encoding="base64">ICAgICAgICBhZGFwdGVyUmVnaXN0ZXIuYWRhcHRlcnMgPDwgd2FuZGFydHhBZGFwdGVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhZGFwdGVyUmVnaXN0ZXIuZ2V0QWRhcHRlcnMoKSA+PiAoTGlzdHMubmV3QXJyYXlMaXN0KHdhbmRhcnR4QWRhcHRlcikpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aGVuUmV0dXJuKE9wdGlvbmFsLm9mKGppcmFTZWFyY2hSZXN1bHQpKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgT2JqZWN0TWFwcGVyIE9CSkVDVF9NQVBQRVIgPSBuZXcgT2JqZWN0TWFwcGVyKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBqaXJhU2VydmljZS5zZWFyY2hCeUpxbChfLCBhbnkoU3RyaW5nLmNsYXNzKSwgYW55KEludGVnZXIuY2xhc3MpLCBhbnkoSW50ZWdlci5jbGFzcyksIGFueShTdHJpbmcuY2xhc3MpLCBhbnkoU3RyaW5nLmNsYXNzKSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaXNzdWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuOiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5idWlsZCgpKSk7IC8vIOi9rOaIkGhhc2htYXDmmK/mlrnkvr/nlKjkvovoh6rlt7HmlLnlgLwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBUZXN0KGRlc2NyaXB0aW9uID0gImlzc3VlIOS4reayoeaciWFzc2lnbmVlIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wdXQoImFzc2lnbmVlIiwgSW1tdXRhYmxlTWFwLjxTdHJpbmcsIFN0cmluZz4gYnVpbGRlcigpLnB1dCgibmFtZSIsIG1vY2tTdHIoMTApKS5idWlsZCgpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wdXQoInN1bW1hcnkiLCBtb2NrU3RyKDMwKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhZGFwdGVyUmVnaXN0ZXIuYWRhcHRlcnMgPDwgd2FuZGFydHhBZGFwdGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wdXQoImlzc3VldHlwZSIsIEltbXV0YWJsZU1hcC48U3RyaW5nLCBTdHJpbmc+IGJ1aWxkZXIoKS5wdXQoIm5hbWUiLCAiQnVnIikuYnVpbGQoKSkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZGVmICJ0ZXN0IHJ1biBzdWNjZXNzIigpIHsKICAgICAgICBnaXZlbjoKICAgICAgICBqaXJhU2VydmljZS5zZWFyY2hCeUpxbChfLCBfLCBfLCBfLCA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wdXQoInN0YXR1cyIsIEltbXV0YWJsZU1hcC48U3RyaW5nLCBTdHJpbmc+IGJ1aWxkZXIoKS5wdXQoIm5hbWUiLCAiT3BlbiIpLmJ1aWxkKCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
