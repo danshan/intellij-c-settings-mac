@@ -2072,11 +2072,11 @@
       <file name="/Dummy.groovy" timestamp="1508982960636">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/build.gradle" timestamp="1509327612716">
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/build.gradle" timestamp="1509328462738">
         <mark key="[" line="30" column="28" />
-        <mark key="]" line="30" column="28" />
-        <mark key="^" line="19" column="41" />
-        <mark key="." line="30" column="28" />
+        <mark key="]" line="24" column="23" />
+        <mark key="^" line="24" column="23" />
+        <mark key="." line="24" column="23" />
       </file>
       <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/GitOrgDashboardService.java" timestamp="1504777261363">
         <mark key="[" line="11" column="3" />
