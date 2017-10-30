@@ -265,6 +265,11 @@
         <mark key="^" line="35" column="31" />
         <mark key="." line="35" column="31" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/groovy/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraIssueDueDateDailyTaskTest.groovy" timestamp="1509331037694">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/webpack.config.js" timestamp="1502437525187">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -3047,8 +3052,8 @@
       <jump line="39" column="24" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/integration/github/service/GithubPushBuilder.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dGVzdExvZ2dpbmcgewogICAgc2hvd1N0YW5kYXJkU3RyZWFtcyA9IHRydWUKfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">cHVibGljIA==</text>
