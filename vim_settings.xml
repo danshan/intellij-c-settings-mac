@@ -540,9 +540,9 @@
         <mark key="^" line="37" column="40" />
         <mark key="." line="37" column="40" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/groovy/com/wanda/ohm/chatops/xxoo/core/util/MarkdownUtilsTest.groovy" timestamp="1509428524474">
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/groovy/com/wanda/ohm/chatops/xxoo/core/util/MarkdownUtilsTest.groovy" timestamp="1509440099722">
         <mark key="'" line="22" column="68" />
-        <mark key="[" line="22" column="65" />
+        <mark key="[" line="24" column="5" />
         <mark key="]" line="22" column="65" />
         <mark key="^" line="22" column="65" />
         <mark key="." line="22" column="65" />
