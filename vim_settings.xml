@@ -2163,12 +2163,11 @@
       <file name="/Dummy.groovy" timestamp="1509348692792">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/build.gradle" timestamp="1509355724765">
-        <mark key="'" line="70" column="39" />
-        <mark key="[" line="89" column="15" />
-        <mark key="]" line="89" column="16" />
-        <mark key="." line="89" column="16" />
-        <mark key="^" line="88" column="37" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/build.gradle" timestamp="1509410972939">
+        <mark key="'" line="71" column="39" />
+        <mark key="[" line="42" column="75" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/integration/jira/bean/JiraIssue.groovy" timestamp="1509345564954">
         <mark key="[" line="4" column="0" />
@@ -3173,11 +3172,11 @@
       <jump line="62" column="39" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>stageDir</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>stageDir</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -3186,31 +3185,31 @@
         <text encoding="base64">ICAgICAgICBhZGFwdGVyUmVnaXN0ZXIuYWRhcHRlcnMgPDwgd2FuZGFydHhBZGFwdGVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4gamFyLmFyY2hpdmVQYXRoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1hdmVuIHsgdXJsICJodHRwOi8vcmVwby5tYXZlbi5hcGFjaGUub3JnL21hdmVuMiIgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cDovL3JlcG8ubWF2ZW4uYXBhY2hlLm9yZy9tYXZlbjIiIH0K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAuLi4K</text>
+        <text encoding="base64">ICAgIGRlcGVuZGVuY2llcyB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC4uLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGgoIm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1ncmFkbGUtcGx1Z2luOjEuMC4xLlJFTEVBU0UiKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgT2JqZWN0TWFwcGVyIE9CSkVDVF9NQVBQRVIgPSBuZXcgT2JqZWN0TWFwcGVyKCk7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlkICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QnIHZlcnNpb24gJzEuNS44LlJFTEVBU0UnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
