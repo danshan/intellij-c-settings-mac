@@ -2163,12 +2163,12 @@
       <file name="/Dummy.groovy" timestamp="1509348692792">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/build.gradle" timestamp="1509354714602">
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/build.gradle" timestamp="1509355724765">
         <mark key="'" line="70" column="39" />
-        <mark key="[" line="86" column="23" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="39" column="4" />
+        <mark key="[" line="89" column="15" />
+        <mark key="]" line="89" column="16" />
+        <mark key="." line="89" column="16" />
+        <mark key="^" line="88" column="37" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/integration/jira/bean/JiraIssue.groovy" timestamp="1509345564954">
         <mark key="[" line="4" column="0" />
@@ -3173,11 +3173,11 @@
       <jump line="62" column="39" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1hdmVuIHsgdXJsICJodHRwOi8vcmVwby5tYXZlbi5hcGFjaGUub3JnL21hdmVuMiIgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>stageDir</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>stageDir</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -3186,31 +3186,31 @@
         <text encoding="base64">ICAgICAgICBhZGFwdGVyUmVnaXN0ZXIuYWRhcHRlcnMgPDwgd2FuZGFydHhBZGFwdGVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1hdmVuIHsgdXJsICJodHRwOi8vcmVwby5tYXZlbi5hcGFjaGUub3JnL21hdmVuMiIgfQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4gamFyLmFyY2hpdmVQYXRoCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cDovL3JlcG8ubWF2ZW4uYXBhY2hlLm9yZy9tYXZlbjIiIH0K</text>
+        <text encoding="base64">ICAgIG1hdmVuIHsgdXJsICJodHRwOi8vcmVwby5tYXZlbi5hcGFjaGUub3JnL21hdmVuMiIgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAuLi4K</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cDovL3JlcG8ubWF2ZW4uYXBhY2hlLm9yZy9tYXZlbjIiIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC4uLgo=</text>
+        <text encoding="base64">ICAgICAgICAuLi4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC4uLgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgT2JqZWN0TWFwcGVyIE9CSkVDVF9NQVBQRVIgPSBuZXcgT2JqZWN0TWFwcGVyKCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgT2JqZWN0TWFwcGVyIE9CSkVDVF9NQVBQRVIgPSBuZXcgT2JqZWN0TWFwcGVyKCk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaXNzdWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
