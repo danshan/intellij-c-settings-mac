@@ -283,12 +283,11 @@
         <mark key="^" line="76" column="15" />
         <mark key="." line="15" column="27" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/groovy/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraIssueDueDateDailyTaskTest.groovy" timestamp="1509413101271">
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/groovy/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraIssueDueDateDailyTaskTest.groovy" timestamp="1509497779318">
         <mark key="'" line="14" column="56" />
-        <mark key="[" line="52" column="22" />
-        <mark key="]" line="52" column="22" />
-        <mark key="^" line="59" column="40" />
-        <mark key="." line="52" column="22" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/webpack.config.js" timestamp="1502437525187">
         <mark key="[" line="10" column="0" />
@@ -540,9 +539,9 @@
         <mark key="^" line="37" column="40" />
         <mark key="." line="37" column="40" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/groovy/com/wanda/ohm/chatops/xxoo/core/util/MarkdownUtilsTest.groovy" timestamp="1509440099722">
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/groovy/com/wanda/ohm/chatops/xxoo/core/util/MarkdownUtilsTest.groovy" timestamp="1509497832019">
         <mark key="'" line="22" column="68" />
-        <mark key="[" line="24" column="5" />
+        <mark key="[" line="18" column="52" />
         <mark key="]" line="22" column="65" />
         <mark key="^" line="22" column="65" />
         <mark key="." line="22" column="65" />
@@ -3173,7 +3172,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdvcmcuaGFtY3Jlc3Q6aGFtY3Jlc3QtY29yZToxLjMnCg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKHh4eC5jYWxsKGFueShTdHJpbmcuY2xhc3MpLCBhbnkoU3RyaW5nLmNsYXNzKSwgMSkpCg==</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
@@ -3185,28 +3184,28 @@
         <text encoding="base64">ICAgICAgICBhZGFwdGVyUmVnaXN0ZXIuYWRhcHRlcnMgPDwgd2FuZGFydHhBZGFwdGVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdvcmcuaGFtY3Jlc3Q6aGFtY3Jlc3QtY29yZToxLjMnCg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKHh4eC5jYWxsKGFueShTdHJpbmcuY2xhc3MpLCBhbnkoU3RyaW5nLmNsYXNzKSwgMSkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdvcmcubW9ja2l0bzptb2NraXRvLWNvcmU6MS4xMC4xOScK</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkoeHh4LCB0aW1lcygxKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdvcmcudGVzdG5nOnRlc3RuZzo2LjEwJwo=</text>
+        <text encoding="base64">ICAgICAgICBhZGFwdGVyUmVnaXN0ZXIuYWRhcHRlcnMgPDwgd2FuZGFydHhBZGFwdGVyCiAgICAgICAgdmVyaWZ5KHh4eCwgdGltZXMoMSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB4eHguY2FsbChfLCBfLCAvXGQvKSA+PiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGFzZGZhc2RmKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdvcmcuaGFtY3Jlc3Q6aGFtY3Jlc3QtY29yZToxLjMnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdvcmcubW9ja2l0bzptb2NraXRvLWNvcmU6MS4xMC4xOScK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZGVuY2llcyB7Cg==</text>
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdvcmcudGVzdG5nOnRlc3RuZzo2LjEwJwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
