@@ -539,12 +539,12 @@
         <mark key="^" line="37" column="40" />
         <mark key="." line="37" column="40" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/groovy/com/wanda/ohm/chatops/xxoo/core/util/MarkdownUtilsTest.groovy" timestamp="1509497832019">
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/groovy/com/wanda/ohm/chatops/xxoo/core/util/MarkdownUtilsTest.groovy" timestamp="1509501003308">
         <mark key="'" line="22" column="68" />
         <mark key="[" line="18" column="52" />
-        <mark key="]" line="22" column="65" />
-        <mark key="^" line="22" column="65" />
-        <mark key="." line="22" column="65" />
+        <mark key="]" line="21" column="52" />
+        <mark key="^" line="21" column="52" />
+        <mark key="." line="21" column="52" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/adapter/bearychat/bean/BearychatColor.groovy" timestamp="1508835286969">
         <mark key="[" line="26" column="27" />
@@ -852,11 +852,10 @@
         <mark key="^" line="27" column="84" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/integration/jira/client/JiraClientConfig.groovy" timestamp="1509084977351">
-        <mark key="[" line="50" column="115" />
-        <mark key="]" line="50" column="115" />
-        <mark key="." line="50" column="115" />
-        <mark key="^" line="50" column="115" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/integration/jira/client/JiraClientConfig.groovy" timestamp="1509501054383">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/adapter/wandartx/WandartxConfig.java" timestamp="1507626651351">
         <mark key="[" line="29" column="31" />
@@ -3172,7 +3171,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKHh4eC5jYWxsKGFueShTdHJpbmcuY2xhc3MpLCBhbnkoU3RyaW5nLmNsYXNzKSwgMSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
@@ -3184,31 +3183,31 @@
         <text encoding="base64">ICAgICAgICBhZGFwdGVyUmVnaXN0ZXIuYWRhcHRlcnMgPDwgd2FuZGFydHhBZGFwdGVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKHh4eC5jYWxsKGFueShTdHJpbmcuY2xhc3MpLCBhbnkoU3RyaW5nLmNsYXNzKSwgMSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkoeHh4LCB0aW1lcygxKSkK</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBkZWYgaHR0cCA9IG5ldyAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhZGFwdGVyUmVnaXN0ZXIuYWRhcHRlcnMgPDwgd2FuZGFydHhBZGFwdGVyCiAgICAgICAgdmVyaWZ5KHh4eCwgdGltZXMoMSkpCg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKHh4eC5jYWxsKGFueShTdHJpbmcuY2xhc3MpLCBhbnkoU3RyaW5nLmNsYXNzKSwgMSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB4eHguY2FsbChfLCBfLCAvXGQvKSA+PiAK</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkoeHh4LCB0aW1lcygxKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGFzZGZhc2RmKQo=</text>
+        <text encoding="base64">ICAgICAgICBhZGFwdGVyUmVnaXN0ZXIuYWRhcHRlcnMgPDwgd2FuZGFydHhBZGFwdGVyCiAgICAgICAgdmVyaWZ5KHh4eCwgdGltZXMoMSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdvcmcuaGFtY3Jlc3Q6aGFtY3Jlc3QtY29yZToxLjMnCg==</text>
+        <text encoding="base64">ICAgICAgICB4eHguY2FsbChfLCBfLCAvXGQvKSA+PiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdvcmcubW9ja2l0bzptb2NraXRvLWNvcmU6MS4xMC4xOScK</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGFzZGZhc2RmKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdvcmcudGVzdG5nOnRlc3RuZzo2LjEwJwo=</text>
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdvcmcuaGFtY3Jlc3Q6aGFtY3Jlc3QtY29yZToxLjMnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdvcmcubW9ja2l0bzptb2NraXRvLWNvcmU6MS4xMC4xOScK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
