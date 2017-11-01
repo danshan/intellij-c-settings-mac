@@ -2161,10 +2161,11 @@
       <file name="/Dummy.groovy" timestamp="1509348692792">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/build.gradle" timestamp="1509428417457">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/build.gradle" timestamp="1509502849180">
+        <mark key="[" line="70" column="13" />
+        <mark key="]" line="70" column="13" />
+        <mark key="." line="70" column="13" />
+        <mark key="^" line="70" column="43" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/integration/jira/bean/JiraIssue.groovy" timestamp="1509345564954">
         <mark key="[" line="4" column="0" />
@@ -3170,11 +3171,11 @@
       <jump line="14" column="56" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/groovy/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraIssueDueDateDailyTaskTest.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
