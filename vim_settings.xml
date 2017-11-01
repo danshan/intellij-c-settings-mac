@@ -365,11 +365,11 @@
         <mark key="." line="16" column="5" />
         <mark key="^" line="16" column="5" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/integration/github/service/GithubPullRequestBuilder.groovy" timestamp="1509084765651">
-        <mark key="[" line="43" column="28" />
-        <mark key="]" line="43" column="26" />
-        <mark key="^" line="43" column="26" />
-        <mark key="." line="43" column="26" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/integration/github/service/GithubPullRequestBuilder.groovy" timestamp="1509517161464">
+        <mark key="[" line="33" column="57" />
+        <mark key="]" line="33" column="57" />
+        <mark key="^" line="33" column="64" />
+        <mark key="." line="33" column="57" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/adapter/bearychat/client/BearychatClientConfig.java" timestamp="1508315406191">
         <mark key="[" line="30" column="49" />
@@ -678,7 +678,7 @@
         <mark key="." line="32" column="12" />
         <mark key="^" line="11" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509345875300">
+      <file name="/Dummy.txt" timestamp="1509517105994">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/github/service/GithubPingBuilder.java" timestamp="1501839394507">
@@ -3170,11 +3170,11 @@
       <jump line="14" column="56" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/groovy/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraIssueDueDateDailyTaskTest.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
