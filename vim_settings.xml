@@ -109,6 +109,12 @@
         <mark key="." line="35" column="15" />
         <mark key="^" line="35" column="15" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/adapter/bearychat/BearychatAdapter.groovy" timestamp="1509586150299">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+        <mark key="^" line="60" column="53" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/bearychat/client/BearychatErrorDecoder.java" timestamp="1500446251119">
         <mark key="[" line="33" column="72" />
         <mark key="]" line="33" column="60" />
@@ -455,7 +461,7 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/groovy/com/wanda/ohm/chatops/xxoo/integration/jira/service/JiraServiceImplTest.groovy" timestamp="1509352320174">
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/groovy/com/wanda/ohm/chatops/xxoo/integration/jira/service/JiraServiceImplTest.groovy" timestamp="1509586347840">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
@@ -536,7 +542,7 @@
         <mark key="^" line="37" column="40" />
         <mark key="." line="37" column="40" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/groovy/com/wanda/ohm/chatops/xxoo/core/util/MarkdownUtilsTest.groovy" timestamp="1509501003308">
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/groovy/com/wanda/ohm/chatops/xxoo/core/util/MarkdownUtilsTest.groovy" timestamp="1509586332814">
         <mark key="'" line="22" column="68" />
         <mark key="[" line="18" column="52" />
         <mark key="]" line="21" column="52" />
@@ -675,7 +681,7 @@
         <mark key="." line="32" column="12" />
         <mark key="^" line="11" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509517768424">
+      <file name="/Dummy.txt" timestamp="1509585609731">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/github/service/GithubPingBuilder.java" timestamp="1501839394507">
@@ -1378,10 +1384,10 @@
         <mark key="^" line="26" column="12" />
         <mark key="." line="27" column="19" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraBlockedIssueDailyTask.groovy" timestamp="1509584763393">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraBlockedIssueDailyTask.groovy" timestamp="1509585434930">
+        <mark key="[" line="53" column="21" />
+        <mark key="]" line="53" column="21" />
+        <mark key="." line="53" column="21" />
         <mark key="^" line="58" column="12" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/AdapterMessage.java" timestamp="1501813348187">
@@ -2665,12 +2671,12 @@
         <mark key="^" line="15" column="3" />
         <mark key="." line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraIssueDueDateDailyTask.groovy" timestamp="1509584785715">
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraIssueDueDateDailyTask.groovy" timestamp="1509585452858">
         <mark key="'" line="80" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="39" />
+        <mark key="[" line="51" column="21" />
+        <mark key="]" line="51" column="21" />
         <mark key="^" line="52" column="65" />
-        <mark key="." line="52" column="0" />
+        <mark key="." line="51" column="21" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/adapter/bearychat/client/BearychatException.groovy" timestamp="1509345553794">
         <mark key="[" line="2" column="0" />
@@ -3177,11 +3183,11 @@
       <jump line="32" column="33" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/service/impl/MessageServiceImpl.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBHUGFyc1Bvb2wud2l0aFBvb2woNSkgewo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -3190,31 +3196,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2VTZXJ2aWNlLnNlbmRNZXNzYWdlKGFkYXB0ZXIsIHBheWxvYWQsICJqaXJhIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBHUGFyc1Bvb2wud2l0aFBvb2woNSkgewo=</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBHUGFyc1Bvb2wud2l0aFBvb2woNSkgewo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBHUGFyc1Bvb2wud2l0aFBvb2woNSkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2VTZXJ2aWNlLnNlbmRNZXNzYWdlKGFkYXB0ZXIsIHBheWxvYWQsICJqaXJhIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRhcHRlclJlZ2lzdGVyLmFkYXB0ZXJzLmVhY2ggeyBhZGFwdGVyIC0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2VTZXJ2aWNlLnNlbmRNZXNzYWdlKGFkYXB0ZXIsIHBheWxvYWQsICJqaXJhIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlsb2Fkcy5lYWNoIHsgcGF5bG9hZCAtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRhcHRlclJlZ2lzdGVyLmFkYXB0ZXJzLmVhY2ggeyBhZGFwdGVyIC0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZXNzYWdlU2VydmljZS5zZW5kTWVzc2FnZShpdCwgc3RhbmRhcmRQYXlsb2FkLmdldCgpLCByZXNvdXJjZSkK</text>
+        <text encoding="base64">ICAgICAgICBwYXlsb2Fkcy5lYWNoIHsgcGF5bG9hZCAtPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
