@@ -150,11 +150,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/Jenkinsfile.groovy" timestamp="1509606446954">
-        <mark key="[" line="1" column="7" />
-        <mark key="]" line="2" column="13" />
-        <mark key="." line="2" column="13" />
-        <mark key="^" line="2" column="13" />
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/Jenkinsfile.groovy" timestamp="1509607085511">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="6" />
+        <mark key="." line="1" column="6" />
+        <mark key="^" line="1" column="6" />
       </file>
       <file name="$USER_HOME$/codes/wanda/wand_backend/src/test/java/com/wanda/wdlist/integration/jira/bean/JiraSearchRequestTest.java" timestamp="1503898456105">
         <mark key="[" line="28" column="56" />
@@ -297,9 +297,6 @@
         <mark key="]" line="15" column="27" />
         <mark key="^" line="76" column="15" />
         <mark key="." line="15" column="27" />
-      </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/groovy/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraIssueDueDateDailyTaskTest.groovy" timestamp="1509518338963">
-        <mark key="'" line="14" column="56" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/webpack.config.js" timestamp="1502437525187">
         <mark key="[" line="10" column="0" />
@@ -825,6 +822,11 @@
         <mark key="]" line="48" column="9" />
         <mark key="^" line="49" column="0" />
         <mark key="." line="48" column="9" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/dsl/Jenkinsfile.java" timestamp="1509607197932">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/dao/DaoHelper.java" timestamp="1507773612585">
         <mark key="[" line="14" column="67" />
@@ -1578,6 +1580,11 @@
         <mark key="." line="20" column="28" />
         <mark key="^" line="20" column="28" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/dsl/Jenkinsfile" timestamp="1509608495000">
+        <mark key="]" line="329" column="4" />
+        <mark key="^" line="329" column="4" />
+        <mark key="." line="329" column="4" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/adapter/AdapterMessage.groovy" timestamp="1508824115656">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="4" />
@@ -2317,7 +2324,7 @@
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
       </file>
-      <file name="/fragment.java" timestamp="1509074350298">
+      <file name="/fragment.java" timestamp="1509607034603">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
@@ -3097,7 +3104,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/BranchMarkCalculatorImpl.java" />
       <jump line="121" column="0" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/BranchMarkCalculatorImpl.java" />
       <jump line="74" column="31" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/BranchMarkCalculatorImpl.java" />
       <jump line="13" column="24" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/bean/BranchMark.java" />
@@ -3197,6 +3203,7 @@
       <jump line="13" column="1" filename="$USER_HOME$/codes/wanda/autotest/sgw-autotest/Test.groovy" />
       <jump line="1" column="2" filename="$USER_HOME$/codes/wanda/autotest/sgw-autotest/Test.groovy" />
       <jump line="8" column="11" filename="$USER_HOME$/codes/wanda/autotest/sgw-autotest/Test.groovy" />
+      <jump line="3" column="0" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/dsl/Jenkinsfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3215,28 +3222,28 @@
         <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YQo=</text>
+        <text encoding="base64">c3RhCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgdGVzdC51c2VUZXN0TkcoKQo=</text>
+        <text encoding="base64">cGlwZWxpbmUgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBodHRwID0gSHR0cEJ1aWxkCg==</text>
+        <text encoding="base64">LyoqCiAqIEBhdXRob3Igc2hhbmhvbmdoYW8KICogQHNpbmNlIDIwMTctMTEtMDIgMTU6MTkKICovCnB1YmxpYyBjbGFzcyBKZW5raW5zZmlsZSB7Cn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwLnJlcXVlc3QK</text>
+        <text encoding="base64">cGlwZWxpbmUgewogICAgcwp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YWdlcyB7CiAgICAgICAgc3RhZ2VzCiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBodHRwID0gbmV3IEhUVFBCdWlsZGVyKCAnaHR0cDovL3d3dy5nb29nbGUuY29tL3NlYXJjaCcgKQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QEdyYWIoJ2NnbGliOmNnbGliLW5vZGVwOjMuMScpCg==</text>
+        <text encoding="base64">ICAgIHN0YQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgdGVzdC51c2VUZXN0TkcoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
