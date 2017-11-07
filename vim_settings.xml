@@ -551,11 +551,11 @@
         <mark key="^" line="37" column="40" />
         <mark key="." line="37" column="40" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ldap-devops-sync/src/main/groovy/com/wanda/devops/sync/service/impl/LdapServiceImpl.groovy" timestamp="1510021830072">
-        <mark key="[" line="35" column="44" />
-        <mark key="]" line="35" column="44" />
-        <mark key="." line="35" column="44" />
-        <mark key="^" line="35" column="15" />
+      <file name="$USER_HOME$/codes/wanda/ldap-devops-sync/src/main/groovy/com/wanda/devops/sync/service/impl/LdapServiceImpl.groovy" timestamp="1510026623178">
+        <mark key="[" line="37" column="59" />
+        <mark key="]" line="38" column="23" />
+        <mark key="^" line="38" column="23" />
+        <mark key="." line="38" column="23" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/adapter/bearychat/bean/BearychatColor.groovy" timestamp="1508835286969">
         <mark key="[" line="26" column="27" />
@@ -1610,7 +1610,7 @@
         <mark key="^" line="66" column="0" />
         <mark key="." line="48" column="15" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ldap-devops-sync/src/main/groovy/com/wanda/devops/sync/integration/jira/service/JiraServiceImpl.groovy" timestamp="1510021774750">
+      <file name="$USER_HOME$/codes/wanda/ldap-devops-sync/src/main/groovy/com/wanda/devops/sync/integration/jira/service/JiraServiceImpl.groovy" timestamp="1510026786504">
         <mark key="[" line="43" column="55" />
         <mark key="]" line="43" column="55" />
         <mark key="." line="43" column="55" />
@@ -2250,8 +2250,11 @@
         <mark key="." line="20" column="45" />
         <mark key="^" line="20" column="45" />
       </file>
-      <file name="/Dummy.groovy" timestamp="1509348692792">
+      <file name="/Dummy.groovy" timestamp="1510026446577">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/integration/jira/bean/JiraIssue.groovy" timestamp="1509345564954">
         <mark key="[" line="4" column="0" />
@@ -2773,11 +2776,10 @@
         <mark key="^" line="16" column="51" />
         <mark key="." line="16" column="51" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ldap-devops-sync/src/main/groovy/com/wanda/devops/sync/controller/DebugController.groovy" timestamp="1510020851237">
-        <mark key="[" line="33" column="65" />
-        <mark key="]" line="33" column="66" />
-        <mark key="^" line="33" column="66" />
-        <mark key="." line="33" column="66" />
+      <file name="$USER_HOME$/codes/wanda/ldap-devops-sync/src/main/groovy/com/wanda/devops/sync/controller/DebugController.groovy" timestamp="1510026824295">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/codes/personal/douban-videostation/src/main/java/com/shanhh/synology/douban/service/impl/DoubanServiceImpl.java" timestamp="1506563687871">
         <mark key="[" line="57" column="41" />
@@ -3294,53 +3296,53 @@
       <jump line="8" column="1" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/core/util/DaoCallback.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oaXQpCg==</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwoXD4=</text>
+        <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBIZWFkZXJzKCJDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5leHRlcm4uc2xmNGouU2xmNGo7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oaXQpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZW1iZXJzLmdldFZhbHVlcygpLnN0cmVhbSgpLmZvckVhY2gobWVtYmVyIC0+IHVzZXJuYW1lcy5hZGQobWVtYmVyLmdldEtleSgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9LT4gewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVtYmVycy5nZXRWYWx1ZXMoKS5zdHJlYW0oKS5mb3JFYWNoKG1lbWJlciAtPiB1c2VybmFtZXMuYWRkKG1lbWJlci5nZXRLZXkoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5leHRlcm4uc2xmNGouU2xmNGo7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzTm90QmxhbmsobGRhcENvbmZpZy5nZXRCaW5kRG4oKSkpIHsKICAgICAgICAgICAgICAgICgoTGRhcE5ldHdvcmtDb25uZWN0aW9uKSBjb25uKS5iaW5kQXN5bmMobGRhcENvbmZpZy5nZXRCaW5kRG4oKSwgbGRhcENvbmZpZy5nZXRCaW5kUGFzc3dvcmQoKSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIGNvbm4uc2VhcmNoKCJPVT1EaXNhYmxlZERlcGFydCxPVT1JVEcsREM9d2FuZGEtaXRnLERDPWxvY2FsIiwgIihvYmplY3RDbGFzcz0qKSIsIFNlYXJjaFNjb3BlLlNVQlRSRUUsICJjbiIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QEdldHRlcgpAU2V0dGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5leHRlcm4uc2xmNGouU2xmNGo7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwoXD4=</last-search>
+      <last-search encoding="base64">XDwpXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwoXD4=</last-pattern>
+      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -3354,7 +3356,6 @@
         <entry encoding="base64">XDx1c2VybmFtZVw+</entry>
         <entry>dis</entry>
         <entry encoding="base64">XDwiXD4=</entry>
-        <entry encoding="base64">XDwpXD4=</entry>
         <entry encoding="base64">XDwuXD4=</entry>
         <entry>chant</entry>
         <entry>Chat</entry>
@@ -3366,6 +3367,7 @@
         <entry encoding="base64">XDx9XD4=</entry>
         <entry encoding="base64">XDxhZGFwdGVyXD4=</entry>
         <entry encoding="base64">XDwoXD4=</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
