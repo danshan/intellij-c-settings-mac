@@ -282,11 +282,11 @@
         <mark key="." line="14" column="16" />
         <mark key="^" line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ldap-devops-sync/src/main/groovy/com/wanda/devops/sync/task/ReloadDisabledUsersTask.groovy" timestamp="1510064887982">
-        <mark key="[" line="58" column="51" />
-        <mark key="]" line="58" column="49" />
-        <mark key="." line="58" column="49" />
-        <mark key="^" line="58" column="49" />
+      <file name="$USER_HOME$/codes/wanda/ldap-devops-sync/src/main/groovy/com/wanda/devops/sync/task/ReloadDisabledUsersTask.groovy" timestamp="1510106142461">
+        <mark key="[" line="79" column="46" />
+        <mark key="]" line="79" column="49" />
+        <mark key="^" line="79" column="49" />
+        <mark key="." line="79" column="49" />
       </file>
       <file name="$USER_HOME$/codes/personal/douban-videostation/src/main/java/com/shanhh/synology/douban/App.java" timestamp="1506549500203">
         <mark key="[" line="14" column="30" />
@@ -555,11 +555,12 @@
         <mark key="^" line="37" column="40" />
         <mark key="." line="37" column="40" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ldap-devops-sync/src/main/groovy/com/wanda/devops/sync/service/impl/LdapServiceImpl.groovy" timestamp="1510051026147">
-        <mark key="[" line="41" column="22" />
-        <mark key="]" line="41" column="37" />
-        <mark key="^" line="41" column="37" />
-        <mark key="." line="41" column="37" />
+      <file name="$USER_HOME$/codes/wanda/ldap-devops-sync/src/main/groovy/com/wanda/devops/sync/service/impl/LdapServiceImpl.groovy" timestamp="1510103858348">
+        <mark key="'" line="43" column="20" />
+        <mark key="[" line="43" column="33" />
+        <mark key="]" line="43" column="35" />
+        <mark key="^" line="43" column="35" />
+        <mark key="." line="43" column="89" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/adapter/bearychat/bean/BearychatColor.groovy" timestamp="1508835286969">
         <mark key="[" line="26" column="27" />
@@ -1608,11 +1609,11 @@
         <mark key="^" line="66" column="0" />
         <mark key="." line="48" column="15" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ldap-devops-sync/src/main/groovy/com/wanda/devops/sync/integration/jira/service/JiraServiceImpl.groovy" timestamp="1510046932650">
-        <mark key="[" line="21" column="34" />
-        <mark key="]" line="21" column="34" />
-        <mark key="^" line="23" column="52" />
-        <mark key="." line="23" column="160" />
+      <file name="$USER_HOME$/codes/wanda/ldap-devops-sync/src/main/groovy/com/wanda/devops/sync/integration/jira/service/JiraServiceImpl.groovy" timestamp="1510106514248">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="41" column="12" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/integration/jira/dao/entity/SprintInfo.java" timestamp="1504683593011">
         <mark key="[" line="16" column="19" />
@@ -2248,7 +2249,7 @@
         <mark key="." line="20" column="45" />
         <mark key="^" line="20" column="45" />
       </file>
-      <file name="/Dummy.groovy" timestamp="1510050936441">
+      <file name="/Dummy.groovy" timestamp="1510104522867">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
@@ -3198,7 +3199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="31" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/BranchMarkCalculatorImpl.java" />
       <jump line="13" column="24" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/bean/BranchMark.java" />
       <jump line="46" column="2" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/bean/BranchMark.java" />
       <jump line="15" column="47" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/bean/BranchMark.java" />
@@ -3298,61 +3298,61 @@
       <jump line="8" column="11" filename="$USER_HOME$/codes/wanda/autotest/sgw-autotest/Test.groovy" />
       <jump line="3" column="0" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/dsl/Jenkinsfile" />
       <jump line="8" column="1" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/core/util/DaoCallback.groovy" />
+      <jump line="44" column="20" filename="$USER_HOME$/codes/wanda/ldap-devops-sync/src/main/groovy/com/wanda/devops/sync/service/impl/LdapServiceImpl.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygicmVtb3ZpbmcgJHVzZXJuYW1lIGZyb20gJGdyb3VwbmFtZSIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>.respo</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwpXD4=</text>
+        <text encoding="base64">XDx1c2VybmFtZXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdC5oZWFkZXJzWydBdXRob3JpemF0aW9uJ10gPSAiQmFzaWMgIiArICgiJG93bmVyLmppcmFPaG1Db25maWcudXNlcm5hbWU6JG93bmVyLmppcmFPaG1Db25maWcucGFzc3dvcmQiLmJ5dGVzLmVuY29kZUJhc2U2NCgpLnRvU3RyaW5nKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGVhbkppcmFGZmFuVXNlcnModXNlcm5hbWVzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xlYW5KaXJhVXNlcih1c2VybmFtZXNPZkxkYXAsIGppcmFGZmFuSHR0cCwgZ3JvdXBuYW1lKQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygicmVtb3ZpbmcgJHVzZXJuYW1lIGZyb20gJGdyb3VwbmFtZSIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmVhY2hQYXJhbGxlbCB7IGppcmFTZXJ2aWNlLnJlbW92ZUdyb3VwTWVtYmVyKGppcmFPaG1IdHRwLCBncm91cG5hbWUsIGl0KSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBkaXNhYmxlIGRldm9wcyB1c2Vycwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJuYW1lc09mSmlyYS5maW5kQWxsIHsgIXVzZXJuYW1lc09mSmlyYS5jb250YWlucyhpdCkgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjbGVhbkppcmFPaG1Vc2Vycyh1c2VybmFtZXMpCiAgICAgICAgY2xlYW5KaXJhRmZhblVzZXJzKHVzZXJuYW1lcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZiB1c2VybmFtZXNPZkppcmEgPSBqaXJhU2VydmljZS5maW5kR3JvdXBNZW1iZXJzKGppcmFPaG1IdHRwLCBncm91cG5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb2xsZWN0IGFsbCBkZXZvcHMgdXNlcnMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgR1BhcnNQb29sLndpdGhQb29sKDMpIHsK</text>
+        <text encoding="base64">Ly8gICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy4K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgamlyYVNlcnZpY2UucmVtb3ZlR3JvdXBNZW1iZXIoamlyYU9obUh0dHAsICJqaXJhLWFkbWluaXN0cmF0b3JzIiwgaXQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgamlyYVNlcnZpY2UucmVtb3ZlR3JvdXBNZW1iZXIoamlyYU9obUh0dHAsICJqaXJhLXNvZnR3YXJlLXVzZXJzLTEiLCBpdCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwpXD4=</last-search>
+      <last-search encoding="base64">XDx1c2VybmFtZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VybmFtZXNcPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb21tZW50XD4=</entry>
         <entry>info</entry>
         <entry>key</entry>
         <entry>spring-boot</entry>
@@ -3372,6 +3372,7 @@
         <entry encoding="base64">XDxhZGFwdGVyXD4=</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry encoding="base64">XDwpXD4=</entry>
+        <entry encoding="base64">XDx1c2VybmFtZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
