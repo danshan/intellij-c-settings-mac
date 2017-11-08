@@ -103,7 +103,12 @@
         <mark key="^" line="37" column="105" />
         <mark key="." line="37" column="105" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/_main/GenerateTool.java" timestamp="1510108857563" />
+      <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/_main/GenerateTool.java" timestamp="1510111449815">
+        <mark key="[" line="205" column="82" />
+        <mark key="]" line="205" column="90" />
+        <mark key="^" line="205" column="90" />
+        <mark key="." line="205" column="90" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/activedirectory/service/AdService.java" timestamp="1507528794608">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="4" />
@@ -146,7 +151,13 @@
         <mark key="^" line="20" column="60" />
         <mark key="." line="20" column="60" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/gen/dao/DeviceDao.java" timestamp="1510108144354" />
+      <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/gen/dao/DeviceDao.java" timestamp="1510111062713">
+        <mark key="'" line="35" column="71" />
+        <mark key="[" line="8" column="86" />
+        <mark key="]" line="36" column="89" />
+        <mark key="^" line="36" column="89" />
+        <mark key="." line="36" column="89" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/integration/github/service/GithubPushBuilder.groovy" timestamp="1509345816533">
         <mark key="[" line="38" column="31" />
         <mark key="]" line="38" column="41" />
@@ -188,6 +199,7 @@
         <mark key="." line="20" column="29" />
         <mark key="^" line="20" column="29" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/gen/entity/Device.java" timestamp="1510110100958" />
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/controller/SubEventController.java" timestamp="1502694841784">
         <mark key="[" line="35" column="105" />
         <mark key="]" line="35" column="77" />
@@ -377,6 +389,7 @@
         <mark key="." line="35" column="85" />
         <mark key="^" line="35" column="85" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/gen/service/controller/DeviceController.java" timestamp="1510109694349" />
       <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/handler/WeChatLogHandler.java" timestamp="1503457841694">
         <mark key="[" line="15" column="10" />
         <mark key="]" line="16" column="5" />
@@ -696,7 +709,7 @@
         <mark key="." line="32" column="12" />
         <mark key="^" line="11" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510108016142">
+      <file name="/Dummy.txt" timestamp="1510110516497">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/github/service/GithubPingBuilder.java" timestamp="1501839394507">
@@ -1432,6 +1445,13 @@
         <mark key="]" line="157" column="32" />
         <mark key="." line="157" column="32" />
         <mark key="^" line="157" column="30" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/_main/M_SERVICE.java" timestamp="1510110825739">
+        <mark key="'" line="48" column="58" />
+        <mark key="[" line="48" column="128" />
+        <mark key="]" line="48" column="128" />
+        <mark key="^" line="48" column="128" />
+        <mark key="." line="48" column="128" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/controller/AdapterController.java" timestamp="1507521521371">
         <mark key="[" line="64" column="0" />
@@ -2398,7 +2418,7 @@
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
       </file>
-      <file name="/fragment.java" timestamp="1510020240810">
+      <file name="/fragment.java" timestamp="1510111419849">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
@@ -3210,12 +3230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="24" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/bean/BranchMark.java" />
-      <jump line="46" column="2" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/bean/BranchMark.java" />
-      <jump line="15" column="47" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/bean/BranchMark.java" />
-      <jump line="83" column="4" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/integration/github/client/GithubClient.java" />
-      <jump line="137" column="4" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/integration/github/client/GithubClient.java" />
-      <jump line="66" column="0" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/BranchMarkCalculatorImpl.java" />
       <jump line="96" column="0" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/integration/github/client/GithubClient.java" />
       <jump line="50" column="63" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/BranchMarkCalculatorImpl.java" />
       <jump line="40" column="0" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/GithubOrgDashboardServiceImpl.java" />
@@ -3310,61 +3324,66 @@
       <jump line="3" column="0" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/dsl/Jenkinsfile" />
       <jump line="8" column="1" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/core/util/DaoCallback.groovy" />
       <jump line="44" column="20" filename="$USER_HOME$/codes/wanda/ldap-devops-sync/src/main/groovy/com/wanda/devops/sync/service/impl/LdapServiceImpl.groovy" />
+      <jump line="81" column="68" filename="$USER_HOME$/codes/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/gen/dao/DeviceDao.java" />
+      <jump line="8" column="80" filename="$USER_HOME$/codes/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/gen/dao/DeviceDao.java" />
+      <jump line="10" column="87" filename="$USER_HOME$/codes/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/gen/dao/DeviceDao.java" />
+      <jump line="19" column="150" filename="$USER_HOME$/codes/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/gen/dao/DeviceDao.java" />
+      <jump line="35" column="71" filename="$USER_HOME$/codes/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/gen/dao/DeviceDao.java" />
+      <jump line="46" column="58" filename="$USER_HOME$/codes/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/_main/M_SERVICE.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQ2FzZUZvcm1hdC5MT1dFUl9VTkRFUlNDT1JFLnRvKENhc2VGb3JtYXQuTE9XRVJfQ0FNRUwsIHN0cik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5tYXAoaXQgLT4gaXQgKyAiIEFTICIgKyB0b0NhbWVsKGl0KSkK</text>
       </register>
       <register name="-" type="4">
-        <text>.respo</text>
+        <text>map</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VybmFtZXNcPg==</text>
+        <text>amount</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjbGVhbkppcmFGZmFuVXNlcnModXNlcm5hbWVzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQ2FzZUZvcm1hdC5MT1dFUl9VTkRFUlNDT1JFLnRvKENhc2VGb3JtYXQuTE9XRVJfQ0FNRUwsIHN0cik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5tYXAoaXQgLT4gaXQgKyAiIEFTICIgKyB0b0NhbWVsKGl0KSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQ2FzZUZvcm1hdC5MT1dFUl9VTkRFUlNDT1JFLnRvKENhc2VGb3JtYXQuTE9XRVJfQ0FNRUwsIHN0cik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBTdHJpbmcgdG9DYW1lbChTdHJpbmcgc3RyKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygicmVtb3ZpbmcgJHVzZXJuYW1lIGZyb20gJGdyb3VwbmFtZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBTdHJpbmcgdG9DYW1lbChTdHJpbmcgc3RyKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygicmVtb3ZpbmcgJHVzZXJuYW1lIGZyb20gJGdyb3VwbmFtZSIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkaXNhYmxlIGRldm9wcyB1c2Vycwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjbGVhbkppcmFPaG1Vc2Vycyh1c2VybmFtZXMpCiAgICAgICAgY2xlYW5KaXJhRmZhblVzZXJzKHVzZXJuYW1lcykK</text>
+        <text encoding="base64">ICAgICAgICAvLyBkaXNhYmxlIGRldm9wcyB1c2Vycwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb2xsZWN0IGFsbCBkZXZvcHMgdXNlcnMK</text>
+        <text encoding="base64">ICAgICAgICBjbGVhbkppcmFPaG1Vc2Vycyh1c2VybmFtZXMpCiAgICAgICAgY2xlYW5KaXJhRmZhblVzZXJzKHVzZXJuYW1lcykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb2xsZWN0IGFsbCBkZXZvcHMgdXNlcnMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2VybmFtZXNcPg==</last-search>
+      <last-search>amount</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VybmFtZXNcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>amount</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>info</entry>
         <entry>key</entry>
         <entry>spring-boot</entry>
         <entry>http</entry>
@@ -3384,6 +3403,7 @@
         <entry encoding="base64">XDwoXD4=</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry encoding="base64">XDx1c2VybmFtZXNcPg==</entry>
+        <entry>amount</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
