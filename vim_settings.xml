@@ -1888,7 +1888,6 @@
         <mark key="]" line="1022" column="8" />
         <mark key="." line="1022" column="8" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.http-builder-ng/http-builder-ng-core/1.0.2/79ff86dd50bc3fe39ff29c85ab8073278bdcd5fd/http-builder-ng-core-1.0.2-sources.jar!/groovyx/net/http/JavaHttpBuilder.java" timestamp="1510132782969" />
       <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/static/router/index.js" timestamp="1502441343898">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="21" />
@@ -1907,7 +1906,7 @@
         <mark key="^" line="31" column="28" />
         <mark key="." line="32" column="12" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/adapter/wandartx/dao/WandartxDAO.groovy" timestamp="1508982971724">
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/adapter/wandartx/dao/WandartxDAO.groovy" timestamp="1510539341495">
         <mark key="[" line="13" column="62" />
         <mark key="]" line="13" column="62" />
         <mark key="." line="13" column="62" />
