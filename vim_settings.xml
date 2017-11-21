@@ -86,11 +86,11 @@
         <mark key="." line="26" column="72" />
         <mark key="^" line="26" column="72" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/maxwell/maxwell-core/pom.xml" timestamp="1511228878053">
-        <mark key="[" line="40" column="23" />
-        <mark key="]" line="40" column="50" />
-        <mark key="." line="40" column="50" />
-        <mark key="^" line="40" column="50" />
+      <file name="$USER_HOME$/codes/wanda/maxwell/maxwell-core/pom.xml" timestamp="1511233574823">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="56" column="7" />
       </file>
       <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/integration/jira/service/JiraIssueAssigner.java" timestamp="1503475456473">
         <mark key="[" line="16" column="10" />
@@ -156,6 +156,13 @@
         <mark key="]" line="20" column="60" />
         <mark key="^" line="20" column="60" />
         <mark key="." line="20" column="60" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/gen/dao/DeviceDao.java" timestamp="1510111062713">
+        <mark key="'" line="35" column="71" />
+        <mark key="[" line="8" column="86" />
+        <mark key="]" line="36" column="89" />
+        <mark key="^" line="36" column="89" />
+        <mark key="." line="36" column="89" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/integration/github/service/GithubPushBuilder.groovy" timestamp="1509345816533">
         <mark key="[" line="38" column="31" />
@@ -573,6 +580,13 @@
         <mark key="]" line="37" column="40" />
         <mark key="^" line="37" column="40" />
         <mark key="." line="37" column="40" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/ldap-devops-sync/src/main/groovy/com/wanda/devops/sync/service/impl/LdapServiceImpl.groovy" timestamp="1510103858348">
+        <mark key="'" line="43" column="20" />
+        <mark key="[" line="43" column="33" />
+        <mark key="]" line="43" column="35" />
+        <mark key="^" line="43" column="35" />
+        <mark key="." line="43" column="89" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/adapter/bearychat/bean/BearychatColor.groovy" timestamp="1508835286969">
         <mark key="[" line="26" column="27" />
@@ -1104,6 +1118,13 @@
         <mark key="^" line="24" column="11" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/maxwell/maxwell-core/src/main/java/com/wanda/maxwell/core/logging/KafkaAppender.java" timestamp="1511233780720">
+        <mark key="'" line="22" column="55" />
+        <mark key="[" line="55" column="33" />
+        <mark key="]" line="55" column="30" />
+        <mark key="." line="55" column="30" />
+        <mark key="^" line="55" column="30" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/github/service/GithubPullRequestBuilder.java" timestamp="1501839399763">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -1445,6 +1466,13 @@
         <mark key="]" line="157" column="32" />
         <mark key="." line="157" column="32" />
         <mark key="^" line="157" column="30" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/_main/M_SERVICE.java" timestamp="1510110825739">
+        <mark key="'" line="48" column="58" />
+        <mark key="[" line="48" column="128" />
+        <mark key="]" line="48" column="128" />
+        <mark key="^" line="48" column="128" />
+        <mark key="." line="48" column="128" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/controller/AdapterController.java" timestamp="1507521521371">
         <mark key="[" line="64" column="0" />
@@ -2354,12 +2382,12 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/maxwell/maxwell-parent/pom.xml" timestamp="1511229075680">
-        <mark key="'" line="53" column="34" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="31" column="36" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/codes/wanda/maxwell/maxwell-parent/pom.xml" timestamp="1511233550247">
+        <mark key="'" line="49" column="34" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="27" column="36" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/service/SubscriptionService.java" timestamp="1502267511749">
         <mark key="[" line="13" column="19" />
@@ -2489,6 +2517,9 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.9.0.0/kafka-clients-0.9.0.0-sources.jar!/org/apache/kafka/clients/producer/ProducerConfig.java" timestamp="1511233769424">
+        <mark key="'" line="315" column="4" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ldap-devops-sync/src/main/groovy/com/wanda/devops/sync/service/impl/SyncJiraServiceImpl.groovy" timestamp="1510063916236">
         <mark key="[" line="16" column="0" />
@@ -2923,6 +2954,12 @@
         <mark key="^" line="20" column="5" />
         <mark key="." line="20" column="5" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/maxwell/maxwell-demo/src/main/resources/logback.xml" timestamp="1511231074782">
+        <mark key="[" line="0" column="39" />
+        <mark key="]" line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="34" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/client/subscription/dto/BaseResponse.java" timestamp="1502329331058">
         <mark key="[" line="11" column="7" />
         <mark key="]" line="19" column="24" />
@@ -3113,7 +3150,7 @@
         <mark key="." line="21" column="2" />
         <mark key="^" line="34" column="73" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/pom.xml" timestamp="1511229309757">
+      <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/pom.xml" timestamp="1511231059947">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="42" column="73" />
         <mark key="^" line="60" column="38" />
@@ -3130,6 +3167,11 @@
         <mark key="]" line="23" column="63" />
         <mark key="." line="23" column="63" />
         <mark key="^" line="33" column="51" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/maxwell/maxwell-demo/pom.xml" timestamp="1511231043679">
+        <mark key="]" line="11" column="40" />
+        <mark key="." line="11" column="40" />
+        <mark key="^" line="11" column="40" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/resources/application-sample.yml" timestamp="1500534882825">
         <mark key="[" line="21" column="33" />
@@ -3267,12 +3309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="63" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/BranchMarkCalculatorImpl.java" />
-      <jump line="40" column="0" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/GithubOrgDashboardServiceImpl.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/codes/wanda/dashboard-crawler/README.md" />
-      <jump line="33" column="41" filename="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/task/GithubOrgTask.java" />
-      <jump line="188" column="20" filename="$USER_HOME$/codes/personal/douban-videostation/pom.xml" />
-      <jump line="22" column="0" filename="$USER_HOME$/codes/personal/douban-videostation/pom.xml" />
       <jump line="10" column="0" filename="$USER_HOME$/codes/wanda/ldap-devops-sync/src/main/java/com/wanda/devops/sync/core/config/JiraConfig.java" />
       <jump line="6" column="25" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/activedirectory/service/AdClient.java" />
       <jump line="31" column="12" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/client/JiraErrorDecoder.java" />
@@ -3367,19 +3403,25 @@
       <jump line="35" column="71" filename="$USER_HOME$/codes/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/gen/dao/DeviceDao.java" />
       <jump line="46" column="58" filename="$USER_HOME$/codes/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/_main/M_SERVICE.java" />
       <jump line="53" column="34" filename="$USER_HOME$/codes/wanda/maxwell/maxwell-parent/pom.xml" />
+      <jump line="135" column="0" filename="$USER_HOME$/codes/wanda/maxwell/maxwell-core/src/main/java/com/wanda/maxwell/core/logging/KafkaAppender.java" />
+      <jump line="65" column="0" filename="$USER_HOME$/codes/wanda/maxwell/maxwell-core/src/main/java/com/wanda/maxwell/core/logging/KafkaAppender.java" />
+      <jump line="52" column="0" filename="$USER_HOME$/codes/wanda/maxwell/maxwell-core/src/main/java/com/wanda/maxwell/core/logging/KafkaAppender.java" />
+      <jump line="100" column="4" filename="$USER_HOME$/codes/wanda/maxwell/maxwell-core/src/main/java/com/wanda/maxwell/core/logging/KafkaAppender.java" />
+      <jump line="19" column="55" filename="$USER_HOME$/codes/wanda/maxwell/maxwell-core/src/main/java/com/wanda/maxwell/core/logging/KafkaAppender.java" />
+      <jump line="315" column="4" filename="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.9.0.0/kafka-clients-0.9.0.0-sources.jar!/org/apache/kafka/clients/producer/ProducerConfig.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID8+</text>
+        <text>Object</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID8+</text>
+        <text>Object</text>
       </register>
       <register name="/" type="4">
         <text>amount</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8bWF2ZW4tY29tcGlsZXItcGx1Z2luLnZlcnNpb24+My4xPC9tYXZlbi1jb21waWxlci1wbHVnaW4udmVyc2lvbj4KICAgICAgICA8Y292ZXJhbGxzLW1hdmVuLXBsdWdpbi52ZXJzaW9uPjQuMy4wPC9jb3ZlcmFsbHMtbWF2ZW4tcGx1Z2luLnZlcnNpb24+CiAgICAgICAgPGRvY2tlci1tYXZlbi1wbHVnaW4udmVyc2lvbj4wLjQuMTM8L2RvY2tlci1tYXZlbi1wbHVnaW4udmVyc2lvbj4K</text>
+        <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -3388,25 +3430,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8Y292ZXJhbGxzLW1hdmVuLXBsdWdpbi52ZXJzaW9uPjQuMy4wPC9jb3ZlcmFsbHMtbWF2ZW4tcGx1Z2luLnZlcnNpb24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHByb3BzCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSJDT05TT0xFX0xPR19QQVRURVJOIiB2YWx1ZT0iJHtQSUQ6LSB9Ii8+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8c3ByaW5nLWthZmthLnZlcnNpb24+MS4wLjQ8L3NwcmluZy1rYWZrYS52ZXJzaW9uPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSJGSUxFX0xPR19QQVRURVJOIiB2YWx1ZT0iJWR7eXl5eS1NTS1kZCBISDptbTpzcy5TU1N9ICR7TE9HX0xFVkVMX1BBVFRFUk46LSU1cH0gJHtQSUQ6LSB9IC0tLSBbJXRdICUtNDAuNDBsb2dnZXJ7Mzl9IDogJW0lbiR7TE9HX0VYQ0VQVElPTl9DT05WRVJTSU9OX1dPUkQ6LSV3RXh9Ii8+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
