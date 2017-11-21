@@ -86,11 +86,11 @@
         <mark key="." line="26" column="72" />
         <mark key="^" line="26" column="72" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/maxwell/maxwell-core/pom.xml" timestamp="1511233574823">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="56" column="7" />
+      <file name="$USER_HOME$/codes/wanda/maxwell/maxwell-core/pom.xml" timestamp="1511235055038">
+        <mark key="[" line="68" column="69" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="55" column="7" />
       </file>
       <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/integration/jira/service/JiraIssueAssigner.java" timestamp="1503475456473">
         <mark key="[" line="16" column="10" />
@@ -3411,8 +3411,8 @@
       <jump line="315" column="4" filename="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.9.0.0/kafka-clients-0.9.0.0-sources.jar!/org/apache/kafka/clients/producer/ProducerConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Object</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8a2Fma2EtY2xpZW50LnZlcnNpb24+MC45LjAuMDwva2Fma2EtY2xpZW50LnZlcnNpb24+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Object</text>
@@ -3424,7 +3424,7 @@
         <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8a2Fma2EtY2xpZW50LnZlcnNpb24+MC45LjAuMDwva2Fma2EtY2xpZW50LnZlcnNpb24+Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -3436,19 +3436,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHByb3BzCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHByb3BzCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8c3ByaW5nLWthZmthLnZlcnNpb24+MS4wLjQ8L3NwcmluZy1rYWZrYS52ZXJzaW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8c3ByaW5nLWthZmthLnZlcnNpb24+MS4wLjQ8L3NwcmluZy1rYWZrYS52ZXJzaW9uPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
