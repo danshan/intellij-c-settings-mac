@@ -87,10 +87,9 @@
         <mark key="^" line="26" column="72" />
       </file>
       <file name="$USER_HOME$/codes/wanda/maxwell/maxwell-core/pom.xml" timestamp="1511235055038">
-        <mark key="[" line="68" column="69" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
-        <mark key="^" line="55" column="7" />
+        <mark key="^" line="56" column="7" />
       </file>
       <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/integration/jira/service/JiraIssueAssigner.java" timestamp="1503475456473">
         <mark key="[" line="16" column="10" />
