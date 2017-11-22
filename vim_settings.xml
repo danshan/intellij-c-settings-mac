@@ -15,7 +15,7 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="30" column="40" />
       </file>
-      <file name="/a.dummy" timestamp="1511315141538">
+      <file name="/a.dummy" timestamp="1511317810611">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/entity/Subscription.java" timestamp="1502243779035">
@@ -144,6 +144,12 @@
         <mark key="]" line="27" column="6" />
         <mark key="^" line="27" column="7" />
         <mark key="." line="27" column="6" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/maxwell/maxwell-data-redis/src/main/java/com/wanda/maxwell/data/redis/RedisHelper.java" timestamp="1511318288137">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="19" column="15" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/test/java/com/wanda/ohm/chatops/subscription/utils/JsonUtils.java" timestamp="1502376004538">
         <mark key="[" line="16" column="65" />
@@ -326,6 +332,12 @@
         <mark key="^" line="30" column="1" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/maxwell/maxwell-data-redis/src/main/java/com/wanda/maxwell/data/redis/LdapHelper.java" timestamp="1511318260770">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="42" column="29" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/dao/DashboardDAO.java" timestamp="1505188040536">
         <mark key="[" line="32" column="5" />
         <mark key="]" line="32" column="5" />
@@ -404,7 +416,7 @@
         <mark key="^" line="29" column="55" />
         <mark key="." line="29" column="55" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/maxwell/maxwell-web-prometheus/pom.xml" timestamp="1511316853717">
+      <file name="$USER_HOME$/codes/wanda/maxwell/maxwell-web-prometheus/pom.xml" timestamp="1511317896913">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
@@ -679,6 +691,12 @@
         <mark key="]" line="16" column="62" />
         <mark key="." line="16" column="62" />
         <mark key="^" line="16" column="62" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/maxwell/maxwell-data-redis/src/main/java/com/wanda/maxwell/data/redis/RedisCallback.java" timestamp="1511317928450">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="6" />
+        <mark key="." line="5" column="6" />
+        <mark key="^" line="5" column="26" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/adapter/bearychat/bean/BearychatColor.groovy" timestamp="1508982447184">
         <mark key="[" line="2" column="0" />
@@ -1040,11 +1058,11 @@
         <mark key="." line="37" column="69" />
         <mark key="^" line="37" column="68" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/maxwell/maxwell-data-redis/pom.xml" timestamp="1511317041573">
-        <mark key="[" line="25" column="42" />
-        <mark key="]" line="26" column="35" />
-        <mark key="." line="26" column="35" />
-        <mark key="^" line="26" column="35" />
+      <file name="$USER_HOME$/codes/wanda/maxwell/maxwell-data-redis/pom.xml" timestamp="1511317908397">
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="32" column="35" />
+        <mark key="." line="32" column="35" />
+        <mark key="^" line="32" column="35" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/test/resources/payload/jira.issue_updated.json" timestamp="1500877735382">
         <mark key="[" line="314" column="3" />
@@ -2255,7 +2273,7 @@
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
       </file>
-      <file name="/fragment.java" timestamp="1511313969144">
+      <file name="/fragment.java" timestamp="1511317850240">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
@@ -2388,10 +2406,10 @@
         <mark key="." line="26" column="20" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/ChatOpsSubscriptionApplication.java" timestamp="1511311974477">
-        <mark key="[" line="20" column="74" />
-        <mark key="]" line="21" column="30" />
-        <mark key="^" line="21" column="30" />
-        <mark key="." line="21" column="30" />
+        <mark key="[" line="18" column="74" />
+        <mark key="]" line="18" column="30" />
+        <mark key="^" line="18" column="30" />
+        <mark key="." line="18" column="30" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Commons/src/main/java/com/wanda/ohm/chatops/commons/client/SubTypeClient.java" timestamp="1502683144706">
         <mark key="[" line="22" column="4" />
@@ -3123,11 +3141,11 @@
       <jump line="18" column="6" filename="$USER_HOME$/codes/wanda/maxwell/maxwell-web-prometheus/src/main/java/com/wanda/maxwell/web/promethues/PrometheusInterceptor.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>promethueus</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>promethueus</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>amount</text>
@@ -3139,28 +3157,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDx2ZXJzaW9uPjEuMC4wLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxhcnRpZmFjdElkPm1heHdlbGwtZGF0YS1yZWRpczwvYXJ0aWZhY3RJZD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxncm91cElkPmNvbS53YW5kYS5tYXh3ZWxsPC9ncm91cElkPgo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBsb2cuZXJyb3IoInJlbGVhc2UgY29ubiBmYWlsZWQiLCBlKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCiAgICBwcml2YXRlIFByb21ldGhldXNJbnRlcmNlcHRvciBwcm9tZXRoZXVzSW50ZXJjZXB0b3IoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBQcm9tZXRoZXVzSW50ZXJjZXB0b3IoKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKCJjb25uZWN0IHRvIGxkYXAgc2VydmVyIGZhaWxlZC4iLCBlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
