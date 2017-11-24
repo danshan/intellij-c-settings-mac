@@ -513,6 +513,7 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="43" column="64" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.36/fastjson-1.2.36-sources.jar!/com/alibaba/fastjson/JSON.java" timestamp="1511491756131" />
       <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-service/pom.xml" timestamp="1507707263842">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="6" column="16" />
@@ -661,11 +662,11 @@
         <mark key="]" line="45" column="43" />
         <mark key="." line="45" column="43" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-core/src/test/java/com/wanda/ohm2/core/logging/MaskToStringBuilderTest.groovy" timestamp="1511490812639">
-        <mark key="[" line="28" column="21" />
-        <mark key="]" line="28" column="20" />
-        <mark key="^" line="28" column="20" />
-        <mark key="." line="28" column="20" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-core/src/test/java/com/wanda/ohm2/core/logging/MaskToStringBuilderTest.groovy" timestamp="1511494742476">
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="17" column="22" />
+        <mark key="^" line="17" column="22" />
+        <mark key="." line="17" column="22" />
       </file>
       <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/bean/GithubOrgDashboard.java" timestamp="1507797409784">
         <mark key="[" line="29" column="28" />
@@ -1168,7 +1169,7 @@
         <mark key="^" line="14" column="30" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-core/src/main/java/com/wanda/ohm2/core/logging/Mask.java" timestamp="1511489262078">
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-core/src/main/java/com/wanda/ohm2/core/logging/Mask.java" timestamp="1511493789962">
         <mark key="[" line="11" column="3" />
         <mark key="]" line="13" column="25" />
         <mark key="^" line="13" column="25" />
@@ -2217,12 +2218,12 @@
         <mark key="^" line="38" column="23" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-core/src/main/java/com/wanda/ohm2/core/logging/MaskToStringBuilder.java" timestamp="1511490364188">
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-core/src/main/java/com/wanda/ohm2/core/logging/MaskToStringBuilder.java" timestamp="1511494644440">
         <mark key="i" line="94" column="29" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
-        <mark key="^" line="129" column="17" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+        <mark key="^" line="93" column="128" />
       </file>
       <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/integration/github/bean/GithubTeam.java" timestamp="1504795200587">
         <mark key="[" line="18" column="24" />
@@ -3099,6 +3100,12 @@
       <file name="$USER_HOME$/codes/wanda/maxwell/maxwell-web-security/src/main/java/com/wanda/maxwell/web/security/BodyReaderHttpServletRequestWrapper.java" timestamp="1511340433364">
         <mark key="[" line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-core/src/main/java/com/wanda/ohm2/core/logging/DesensitizedUtils.java" timestamp="1511494678261">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="6" column="16" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/yui-hatano/node_modules/hubot-scripts/src/scripts/jira-issues.coffee" timestamp="1501041735637">
         <mark key="[" line="36" column="13" />
         <mark key="]" line="36" column="13" />
@@ -3287,44 +3294,44 @@
       <jump line="30" column="29" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-core/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>****&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>****&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAi5Y2V5byY5piKIiAgfHwgIuWNlSrmmIoiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFN0cmluZ1V0aWxzLmxlZnQoZnVsbE5hbWUsIDEpLmNvbmNhdChTdHJpbmdVdGlscy5yZW1vdmVTdGFydChTdHJpbmdVdGlscy5sZWZ0UGFkKFN0cmluZ1V0aWxzLnJpZ2h0KGZ1bGxOYW1lLCAxKSwgU3RyaW5nVXRpbHMubGVuZ3RoKGZ1bGxOYW1lKSwgIioiKSwgIioqKiIpKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nVXRpbHMubGVmdChmdWxsTmFtZSwgMSkuY29uY2F0KCkuIChTdHJpbmdVdGlscy5yaWdodChmdWxsTmFtZSwgMSkpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoZnVsbE5hbWUubGVuZ3RoKCkgPiAyKSB7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wYXNzd29yZCA9IHBhc3N3b3JkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyKHBhc3N3b3JkKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBXYXJuaW5nOiBGaWVsZC5nZXQoT2JqZWN0KSBjcmVhdGVzIHdyYXBwZXJzIG9iamVjdHMgZm9yIHByaW1pdGl2ZSB0eXBlcy4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFza1ZhbHVlID0gc2IudG9TdHJpbmcoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAicGFzc3dvcmQiIHx8ICJwYSoqKm9yZCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
