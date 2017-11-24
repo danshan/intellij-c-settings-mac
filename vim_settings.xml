@@ -662,7 +662,7 @@
         <mark key="]" line="45" column="43" />
         <mark key="." line="45" column="43" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-core/src/test/java/com/wanda/ohm2/core/logging/MaskToStringBuilderTest.groovy" timestamp="1511494742476">
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-core/src/test/java/com/wanda/ohm2/core/logging/MaskToStringBuilderTest.groovy" timestamp="1511501479147">
         <mark key="[" line="17" column="24" />
         <mark key="]" line="17" column="22" />
         <mark key="^" line="17" column="22" />
@@ -1594,6 +1594,13 @@
         <mark key="." line="20" column="28" />
         <mark key="^" line="20" column="28" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-core/src/test/java/com/wanda/ohm2/core/logging/DesensitizedUtilsTest.groovy" timestamp="1511504190231">
+        <mark key="'" line="18" column="37" />
+        <mark key="[" line="36" column="21" />
+        <mark key="]" line="18" column="36" />
+        <mark key="^" line="18" column="36" />
+        <mark key="." line="18" column="36" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/maxwell/maxwell-web-security/src/main/java/com/wanda/maxwell/web/security/SignHeaders.java" timestamp="1511342193480">
         <mark key="'" line="25" column="40" />
         <mark key="[" line="10" column="22" />
@@ -2397,7 +2404,7 @@
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
       </file>
-      <file name="/fragment.java" timestamp="1511490848584">
+      <file name="/fragment.java" timestamp="1511501469691">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
@@ -3100,11 +3107,11 @@
       <file name="$USER_HOME$/codes/wanda/maxwell/maxwell-web-security/src/main/java/com/wanda/maxwell/web/security/BodyReaderHttpServletRequestWrapper.java" timestamp="1511340433364">
         <mark key="[" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-core/src/main/java/com/wanda/ohm2/core/logging/DesensitizedUtils.java" timestamp="1511494678261">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="6" column="16" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-core/src/main/java/com/wanda/ohm2/core/logging/DesensitizedUtils.java" timestamp="1511505061170">
+        <mark key="[" line="82" column="9" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="81" column="11" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/yui-hatano/node_modules/hubot-scripts/src/scripts/jira-issues.coffee" timestamp="1501041735637">
         <mark key="[" line="36" column="13" />
@@ -3192,8 +3199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="69" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraIssueDueDateDailyTask.java" />
-      <jump line="89" column="97" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraBlockedIssueDailyTask.java" />
       <jump line="59" column="32" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraBlockedIssueDailyTask.java" />
       <jump line="58" column="0" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraBlockedIssueDailyTask.java" />
       <jump line="120" column="19" filename="$MAVEN_REPOSITORY$/io/github/openfeign/feign-core/9.3.1/feign-core-9.3.1-sources.jar!/feign/Feign.java" />
@@ -3292,61 +3297,64 @@
       <jump line="94" column="30" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-core/pom.xml" />
       <jump line="95" column="24" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-core/pom.xml" />
       <jump line="30" column="29" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-core/pom.xml" />
+      <jump line="18" column="37" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-core/src/test/java/com/wanda/ohm2/core/logging/DesensitizedUtilsTest.groovy" />
+      <jump line="55" column="29" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-core/src/main/java/com/wanda/ohm2/core/logging/DesensitizedUtils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>****&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>****&quot;</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx7XD4=</text>
+        <text encoding="base64">XDxhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbWFza1ZhbHVlKG51bSwgMCwgNCwgIioiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFN0cmluZ1V0aWxzLmxlZnQoZnVsbE5hbWUsIDEpLmNvbmNhdChTdHJpbmdVdGlscy5yZW1vdmVTdGFydChTdHJpbmdVdGlscy5sZWZ0UGFkKFN0cmluZ1V0aWxzLnJpZ2h0KGZ1bGxOYW1lLCAxKSwgU3RyaW5nVXRpbHMubGVuZ3RoKGZ1bGxOYW1lKSwgIioiKSwgIioqKiIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGVtYWlsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nVXRpbHMubGVmdChmdWxsTmFtZSwgMSkuY29uY2F0KCkuIChTdHJpbmdVdGlscy5yaWdodChmdWxsTmFtZSwgMSkpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZnVsbE5hbWUubGVuZ3RoKCkgPiAyKSB7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBXYXJuaW5nOiBGaWVsZC5nZXQoT2JqZWN0KSBjcmVhdGVzIHdyYXBwZXJzIG9iamVjdHMgZm9yIHByaW1pdGl2ZSB0eXBlcy4K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICIiOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNCbGFuayhlbWFpbCkpIHsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICIiOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNCbGFuayhlbWFpbCkpIHsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFza1ZhbHVlID0gc2IudG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gU3RyaW5nVXRpbHMubGVmdChjYXJkTnVtLCA2KS5jb25jYXQoU3RyaW5nVXRpbHMucmVtb3ZlU3RhcnQoU3RyaW5nVXRpbHMubGVmdFBhZChTdHJpbmdVdGlscy5yaWdodChjYXJkTnVtLCA0KSwgU3RyaW5nVXRpbHMubGVuZ3RoKGNhcmROdW0pLCAiKiIpLCAiKioqKioqIikpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNCbGFuayhjYXJkTnVtKSkgewogICAgICAgICAgICByZXR1cm4gIiI7CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx7XD4=</last-search>
+      <last-search encoding="base64">XDxhXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx7XD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDxhXD4=</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute encoding="base64">XDxhXD4=</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dis</entry>
         <entry encoding="base64">XDwiXD4=</entry>
         <entry encoding="base64">XDwuXD4=</entry>
         <entry>chant</entry>
@@ -3366,6 +3374,7 @@
         <entry>maxwell</entry>
         <entry>max</entry>
         <entry encoding="base64">XDx7XD4=</entry>
+        <entry encoding="base64">XDxhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
