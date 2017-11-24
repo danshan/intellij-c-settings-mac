@@ -690,7 +690,7 @@
         <mark key="." line="32" column="12" />
         <mark key="^" line="11" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511402092938">
+      <file name="/Dummy.txt" timestamp="1511487971910">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/github/service/GithubPingBuilder.java" timestamp="1501839394507">
@@ -1160,6 +1160,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="14" column="30" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-core/src/main/java/com/wanda/ohm2/core/logging/Mask.java" timestamp="1511487512176">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="26" column="3" />
+        <mark key="^" line="26" column="3" />
+        <mark key="." line="26" column="3" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/core/util/MarkdownUtils.java" timestamp="1506677835353">
         <mark key="[" line="25" column="47" />
@@ -2203,6 +2209,13 @@
         <mark key="^" line="38" column="23" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-core/src/main/java/com/wanda/ohm2/core/logging/MaskToStringBuilder.java" timestamp="1511487888643">
+        <mark key="i" line="94" column="29" />
+        <mark key="[" line="112" column="26" />
+        <mark key="]" line="112" column="29" />
+        <mark key="." line="112" column="29" />
+        <mark key="^" line="112" column="29" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/integration/github/bean/GithubTeam.java" timestamp="1504795200587">
         <mark key="[" line="18" column="24" />
         <mark key="]" line="18" column="23" />
@@ -2306,7 +2319,6 @@
         <mark key="^" line="13" column="24" />
         <mark key="." line="13" column="24" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-core/src/main/resources/com/wanda/ohm2/core/logging/kafka-appender.xml" timestamp="1511401660322" />
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/adapter/wandartx/WandartxConfigLoader.groovy" timestamp="1508995799759">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -2373,7 +2385,7 @@
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
       </file>
-      <file name="/fragment.java" timestamp="1511340413741">
+      <file name="/fragment.java" timestamp="1511487982197">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
@@ -3265,58 +3277,57 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>AccessRequired</text>
+        <text>anno</text>
       </register>
       <register name="-" type="4">
-        <text>AccessRequired</text>
+        <text>anno</text>
       </register>
       <register name="/" type="4">
-        <text>max</text>
+        <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLmFkZChTaWduSGVhZGVyLlhfT0hNX0NMSUVOVF9LRVkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbWFza1ZhbHVlID0gZmllbGRWYWx1ZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGFuZGxlck1ldGhvZCBtZXRob2QgPSA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdmFsdWUgPSAoU3RyaW5nKSBmaWVsZFZhbHVlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGFuZGxlck1ldGhvZCBtZXRob2QgPSA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53YW5kYS51cHAuZnJhbWV3b3JrLmV4Y2VwdGlvbi5BcHBVbmF1dGhvcml6ZWRFeGNlcHRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53YW5kYS51cHAuY3BnLmVudGl0eS5jb21tb24uZW50aXR5LkFwcDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gV2FybmluZzogRmllbGQuZ2V0KE9iamVjdCkgY3JlYXRlcyB3cmFwcGVycyBvYmplY3RzIGZvciBwcmltaXRpdmUgdHlwZXMuCiAgICAgICAgICAgIHRoaXMuYXBwZW5kKGZpZWxkTmFtZSwgZmllbGRWYWx1ZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFubm8gIT0gbnVsbCAmJiBmaWVsZC5nZXRUeXBlKCkgPT0gU3RyaW5nLmNsYXNzKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQXBwU2VydmljZSBhcHBTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5hY2NlcHQoZmllbGQpKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>max</last-search>
+      <last-search encoding="base64">XDx7XD4=</last-search>
       <last-offset />
-      <last-pattern>max</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDx7XD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VybmFtZVw+</entry>
         <entry>dis</entry>
         <entry encoding="base64">XDwiXD4=</entry>
         <entry encoding="base64">XDwuXD4=</entry>
@@ -3336,6 +3347,7 @@
         <entry encoding="base64">XDxjaGVja0hlYWRlck5vdE51bGxcPg==</entry>
         <entry>maxwell</entry>
         <entry>max</entry>
+        <entry encoding="base64">XDx7XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
