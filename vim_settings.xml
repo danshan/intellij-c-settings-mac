@@ -21,7 +21,7 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="30" column="40" />
       </file>
-      <file name="/a.dummy" timestamp="1511697165941">
+      <file name="/a.dummy" timestamp="1511699192237">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/entity/Subscription.java" timestamp="1502243779035">
@@ -210,7 +210,6 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.8.1/okhttp-3.8.1-sources.jar!/okhttp3/internal/http/BridgeInterceptor.java" timestamp="1511517597849" />
       <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/integration/jira/bean/JiraTransition.java" timestamp="1503483114817">
         <mark key="[" line="26" column="27" />
         <mark key="]" line="26" column="49" />
@@ -415,7 +414,6 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="41" column="43" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-web-security/pom.xml" timestamp="1511517097230" />
       <file name="$USER_HOME$/codes/wanda/ldap-devops-sync/src/main/java/com/wanda/devops/sync/task/ReloadDisabledUsersTask.java" timestamp="1506737529771">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -494,7 +492,6 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="43" column="64" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.36/fastjson-1.2.36-sources.jar!/com/alibaba/fastjson/JSON.java" timestamp="1511491756131" />
       <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-service/pom.xml" timestamp="1507707263842">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="6" column="16" />
@@ -537,7 +534,6 @@
         <mark key="^" line="94" column="14" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5-sources.jar!/org/apache/commons/lang3/builder/ToStringStyle.java" timestamp="1511489144350" />
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/client/JiraClient.java" timestamp="1508898223493">
         <mark key="[" line="48" column="18" />
         <mark key="]" line="48" column="18" />
@@ -889,7 +885,6 @@
         <mark key="^" line="10" column="70" />
         <mark key="." line="10" column="70" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-web-security/src/main/java/com/wanda/ohm2/web/security/SignUtils.java" timestamp="1511614684058" />
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/service/impl/JiraWebhookParser.java" timestamp="1507516044145">
         <mark key="[" line="17" column="48" />
         <mark key="]" line="20" column="0" />
@@ -1556,7 +1551,6 @@
         <mark key="." line="20" column="28" />
         <mark key="^" line="20" column="28" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.8.1/okhttp-3.8.1-sources.jar!/okhttp3/internal/cache/CacheInterceptor.java" timestamp="1511516910801" />
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/test/java/com/wanda/ohm/chatops/utils/MockUtils.java" timestamp="1501830354033">
         <mark key="[" line="48" column="15" />
         <mark key="]" line="48" column="15" />
@@ -1848,11 +1842,11 @@
         <mark key="^" line="10" column="31" />
         <mark key="." line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-web-security/src/main/java/com/wanda/ohm2/web/security/AccessRequiredInterceptor.java" timestamp="1511697768374">
-        <mark key="[" line="69" column="93" />
-        <mark key="]" line="69" column="93" />
-        <mark key="." line="69" column="93" />
-        <mark key="^" line="69" column="93" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-web-security/src/main/java/com/wanda/ohm2/web/security/AccessRequiredInterceptor.java" timestamp="1511699776307">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="^" line="94" column="78" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/src/main/java/com/wanda/ohm/chatops/admin/controller/dto/SubscriptionResp.java" timestamp="1502938014394">
         <mark key="[" line="10" column="26" />
@@ -3045,7 +3039,6 @@
         <mark key="^" line="15" column="40" />
         <mark key="." line="15" column="40" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.8.1/okhttp-3.8.1-sources.jar!/okhttp3/Interceptor.java" timestamp="1511514601491" />
       <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/entity/RackConfigStatisticsDetail.java" timestamp="1499153969979">
         <mark key="[" line="42" column="8" />
         <mark key="]" line="41" column="15" />
@@ -3216,44 +3209,44 @@
       <jump line="10" column="8" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-core/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZ2F0ZXdheVNpZ24gPSByZXF1ZXN0LmdldEhlYWRlcihTZWN1cml0eUhlYWRlci5YX09ITV9TSUdOQVRVUkUuZ2V0SGVhZGVyKCkpOwogICAgICAgIFN0cmluZyB1cmkgPSBVUkxEZWNvZGVyLmRlY29kZShyZXF1ZXN0LmdldFJlcXVlc3RVUkkoKSwgIlVURi04Iik7CiAgICAgICAgU3RyaW5nIGh0dHBNZXRob2QgPSByZXF1ZXN0LmdldE1ldGhvZCgpLnRvVXBwZXJDYXNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBJbW11dGFibGVNYXA8U3RyaW5nLCBTdHJpbmc+IGhlYWRlcnMgPSBjb2xsZWN0SGVhZGVycyhyZXF1ZXN0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChTZWN1cml0eUhlYWRlciBoZWFkZXIgOiBTZWN1cml0eUhlYWRlcltde1NlY3VyaXR5SGVhZGVyLlhfT0hNX0NMSUVOVF9LRVl9KSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFjY2Vzc1JlcXVpcmVkICE9IG51bGwpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZXhjZXB0ZWRTaWduID0gU2VjdXJpdHlVdGlscy5zZXJ2aWNlU2lnbih1cmksIGh0dHBNZXRob2QsIGFwcC5nZXRBY2Nlc3NTZWNyZXQoKSwgaGVhZGVycywgcGFyYW1ldGVycywgaW5wdXRTdHJlYW1CeXRlcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY2hlY2tBdXRob3JpemF0aW9uID0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaHR0cE1ldGhvZCA9IHJlcXVlc3QuZ2V0TWV0aG9kKCkudG9VcHBlckNhc2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJpID0gVVJMRGVjb2Rlci5kZWNvZGUocmVxdWVzdC5nZXRSZXF1ZXN0VVJJKCksICJVVEYtOCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZ2F0ZXdheVNpZ24gPSByZXF1ZXN0LmdldEhlYWRlcihTZWN1cml0eUhlYWRlci5YX09ITV9TSUdOQVRVUkUuZ2V0SGVhZGVyKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBjaGVja1NpZ25hdHVyZShIdHRwU2VydmxldFJlcXVlc3QgcmVxdWVzdCkgdGhyb3dzIEV4Y2VwdGlvbiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBJbW11dGFibGVNYXAuQnVpbGRlcjxTdHJpbmcsIE9iamVjdD4gcGFyYW1CdWlsZGVyID0gSW1tdXRhYmxlTWFwLmJ1aWxkZXIoKTsKICAgICAgICByZXF1ZXN0LmdldFBhcmFtZXRlck1hcCgpLmZvckVhY2gocGFyYW1CdWlsZGVyOjpwdXQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0LmdldFBhcmFtZXRlck1hcCgpLmZvckVhY2gocGFyYW1CdWlsZGVyOjpwdXQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
