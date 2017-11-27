@@ -1467,11 +1467,11 @@
         <mark key="^" line="22" column="54" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-web-okhttp/src/main/java/com/wanda/ohm2/web/okhttp/SecurityInterceptor.java" timestamp="1511754133163">
-        <mark key="[" line="60" column="39" />
-        <mark key="]" line="60" column="49" />
-        <mark key="." line="60" column="49" />
-        <mark key="^" line="60" column="49" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-web-okhttp/src/main/java/com/wanda/ohm2/web/okhttp/SecurityInterceptor.java" timestamp="1511761358024">
+        <mark key="[" line="66" column="46" />
+        <mark key="]" line="66" column="52" />
+        <mark key="." line="66" column="52" />
+        <mark key="^" line="66" column="52" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-core/src/main/java/com/wanda/ohm2/core/logging/SensitiveType.java" timestamp="1511509802230">
         <mark key="[" line="15" column="12" />
@@ -1845,7 +1845,7 @@
         <mark key="^" line="10" column="31" />
         <mark key="." line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-web-security/src/main/java/com/wanda/ohm2/web/security/AccessRequiredInterceptor.java" timestamp="1511753299855">
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-web-security/src/main/java/com/wanda/ohm2/web/security/AccessRequiredInterceptor.java" timestamp="1511760700655">
         <mark key="[" line="76" column="37" />
         <mark key="]" line="85" column="36" />
         <mark key="." line="85" column="36" />
@@ -2322,7 +2322,7 @@
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
       </file>
-      <file name="/fragment.java" timestamp="1511753480889">
+      <file name="/fragment.java" timestamp="1511761358697">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
@@ -3131,8 +3131,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="52" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/service/JiraServiceImpl.java" />
-      <jump line="36" column="0" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/service/JiraServiceImpl.java" />
       <jump line="118" column="4" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraBlockedIssueDailyTask.java" />
       <jump line="46" column="41" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraBlockedIssueDailyTask.java" />
       <jump line="61" column="8" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraIssueDueDateDailyTask.java" />
@@ -3231,13 +3229,15 @@
       <jump line="30" column="0" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-core/pom.xml" />
       <jump line="5" column="0" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/src/main/java/com/wanda/ohm2/demo/controller/DemoController.java" />
       <jump line="56" column="46" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/src/main/java/com/wanda/ohm2/demo/controller/DemoController.java" />
+      <jump line="57" column="0" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-web-okhttp/src/main/java/com/wanda/ohm2/web/okhttp/SecurityInterceptor.java" />
+      <jump line="90" column="8" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-web-okhttp/src/main/java/com/wanda/ohm2/web/okhttp/SecurityInterceptor.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>POST</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1ZXN0LmJvZHkoKSA9PSBudWxsID8gbnVsbCA6IHJlcXVlc3QudG9TdHJpbmcoKS5nZXRCeXRlcyhDaGFyc2V0cy5VVEZfOCkK</text>
       </register>
       <register name="-" type="4">
-        <text>POST</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
@@ -3246,31 +3246,31 @@
         <text encoding="base64">ICAgICAgICBpbnRlcmNlcHRvci5zZXRTZWNyZXQoInNlY3JldCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9raHR0cDMuTWVkaWFUeXBlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1ZXN0LmJvZHkoKSA9PSBudWxsID8gbnVsbCA6IHJlcXVlc3QudG9TdHJpbmcoKS5nZXRCeXRlcyhDaGFyc2V0cy5VVEZfOCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGJ1ZmZlci5yZWFkQnl0ZUFycmF5KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5NZWRpYVR5cGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tZXRob2QoIlBPU1QiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICJkaWQgbm90IHdvcmsiOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tZXRob2QoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIm9rIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAiIjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
