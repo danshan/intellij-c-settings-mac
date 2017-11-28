@@ -2190,6 +2190,10 @@
         <mark key="." line="54" column="15" />
         <mark key="^" line="17" column="5" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-core/src/main/resources/com/wanda/ohm2/core/logging/defaults.xml" timestamp="1511838311022">
+        <mark key="'" line="113" column="0" />
+        <mark key="[" line="6" column="57" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/bearychat/client/StashErrorDecoder.java" timestamp="1500426840873">
         <mark key="[" line="29" column="61" />
         <mark key="]" line="29" column="73" />
@@ -3217,8 +3221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="13" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraReloadProjectsTask.java" />
-      <jump line="159" column="38" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraBlockedIssueDailyTask.java" />
       <jump line="34" column="13" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/service/JiraServiceImpl.java" />
       <jump line="121" column="0" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/service/JiraServiceImpl.java" />
       <jump line="115" column="8" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/service/JiraServiceImpl.java" />
@@ -3317,6 +3319,8 @@
       <jump line="27" column="0" filename="$USER_HOME$/codes/personal/spring-cloud-docker/spring-cloud-eureka/pom.xml" />
       <jump line="27" column="67" filename="$USER_HOME$/codes/personal/spring-cloud-docker/spring-boot-admin/pom.xml" />
       <jump line="16" column="78" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/src/main/resources/application.yml" />
+      <jump line="24" column="0" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-core/src/main/resources/com/wanda/ohm2/core/logging/defaults.xml" />
+      <jump line="112" column="0" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-core/src/main/resources/com/wanda/ohm2/core/logging/defaults.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
