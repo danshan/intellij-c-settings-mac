@@ -60,12 +60,12 @@
         <mark key="." line="28" column="7" />
         <mark key="^" line="28" column="7" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-etcd/src/main/java/com/wanda/ohm2/registry/etcd/discovery/EtcdDiscoveryClient.java" timestamp="1511853988995">
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-etcd/src/main/java/com/wanda/ohm2/registry/etcd/discovery/EtcdDiscoveryClient.java" timestamp="1511859479900">
         <mark key="'" line="112" column="0" />
-        <mark key="[" line="76" column="72" />
-        <mark key="]" line="76" column="71" />
-        <mark key="^" line="76" column="71" />
-        <mark key="." line="76" column="71" />
+        <mark key="[" line="75" column="13" />
+        <mark key="]" line="75" column="11" />
+        <mark key="^" line="75" column="11" />
+        <mark key="." line="75" column="11" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-web-okhttp/src/test/java/com/wanda/ohm2/web/okhttp/SecurityInterceptorTest.groovy" timestamp="1511748519069">
         <mark key="[" line="18" column="37" />
@@ -487,7 +487,7 @@
         <mark key="." line="6" column="29" />
         <mark key="^" line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/codes/others/spring-cloud-etcd/spring-cloud-etcd-discovery/src/main/java/org/springframework/cloud/etcd/discovery/EtcdLifecycle.java" timestamp="1511857620711">
+      <file name="$USER_HOME$/codes/others/spring-cloud-etcd/spring-cloud-etcd-discovery/src/main/java/org/springframework/cloud/etcd/discovery/EtcdLifecycle.java" timestamp="1511858319988">
         <mark key="[" line="63" column="8" />
         <mark key="]" line="197" column="34" />
         <mark key="." line="197" column="34" />
@@ -693,7 +693,7 @@
         <mark key="." line="32" column="12" />
         <mark key="^" line="11" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511857615031">
+      <file name="/Dummy.txt" timestamp="1511858319858">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/github/service/GithubPingBuilder.java" timestamp="1501839394507">
@@ -833,6 +833,7 @@
         <mark key="^" line="49" column="0" />
         <mark key="." line="48" column="9" />
       </file>
+      <file name="$USER_HOME$/codes/others/spring-cloud-etcd/spring-cloud-etcd-discovery/src/main/java/org/springframework/cloud/etcd/discovery/EtcdDiscoveryClientConfiguration.java" timestamp="1511858786372" />
       <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/dao/DaoHelper.java" timestamp="1507773612585">
         <mark key="[" line="14" column="67" />
         <mark key="]" line="14" column="67" />
@@ -1637,12 +1638,12 @@
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-etcd/src/main/java/com/wanda/ohm2/registry/etcd/discovery/RegistryDTO.java" timestamp="1511854397229">
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-etcd/src/main/java/com/wanda/ohm2/registry/etcd/discovery/RegistryDTO.java" timestamp="1511859315937">
         <mark key="'" line="14" column="3" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="36" column="12" />
-        <mark key="." line="36" column="12" />
-        <mark key="^" line="36" column="12" />
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="28" column="12" />
+        <mark key="." line="28" column="12" />
+        <mark key="^" line="28" column="20" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/core/service/MessageService.java" timestamp="1502065478842">
         <mark key="[" line="16" column="38" />
@@ -1656,19 +1657,19 @@
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/1.2.0.RELEASE/spring-cloud-commons-1.2.0.RELEASE-sources.jar!/org/springframework/cloud/client/discovery/AbstractDiscoveryLifecycle.java" timestamp="1511857678102" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/1.2.0.RELEASE/spring-cloud-commons-1.2.0.RELEASE-sources.jar!/org/springframework/cloud/client/discovery/AbstractDiscoveryLifecycle.java" timestamp="1511858276784" />
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/jira/client/JiraClient.java" timestamp="1501808981766">
         <mark key="[" line="29" column="40" />
         <mark key="]" line="29" column="41" />
         <mark key="." line="29" column="41" />
         <mark key="^" line="19" column="61" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-etcd/src/main/java/com/wanda/ohm2/registry/etcd/discovery/EtcdLifecycle.java" timestamp="1511857691701">
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-etcd/src/main/java/com/wanda/ohm2/registry/etcd/discovery/EtcdLifecycle.java" timestamp="1511859414243">
         <mark key="'" line="83" column="19" />
-        <mark key="[" line="42" column="35" />
-        <mark key="]" line="42" column="66" />
-        <mark key="^" line="42" column="66" />
-        <mark key="." line="42" column="66" />
+        <mark key="[" line="98" column="4" />
+        <mark key="]" line="98" column="13" />
+        <mark key="^" line="98" column="13" />
+        <mark key="." line="98" column="13" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-web-security/src/main/java/com/wanda/ohm2/web/security/Authorization.java" timestamp="1511404318813">
         <mark key="[" line="2" column="3" />
@@ -2426,7 +2427,7 @@
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
       </file>
-      <file name="/fragment.java" timestamp="1511847236304">
+      <file name="/fragment.java" timestamp="1511858428238">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
@@ -3368,11 +3369,11 @@
       <jump line="80" column="19" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-etcd/src/main/java/com/wanda/ohm2/registry/etcd/discovery/EtcdLifecycle.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">QWJzdHJhY3REaXNjb3ZlcnlMaWZlY3ljbGUg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QWJzdHJhY3REaXNjb3ZlcnlMaWZlY3ljbGUg</text>
+        <text>getser</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
@@ -3381,28 +3382,28 @@
         <text encoding="base64">ICAgICAgICBzZXJ2aWNlLnNldEFwcElkKGdldE1hbmFnZW1lbnRTZXJ2aWNlSWQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPOiB3aGF0IHNob3VsZCBiZSBzZXJpYWxpemVkIGFib3V0IHRoZSBzZXJ2aWNlPwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGZpbGwgcmVnaXN0cnkgZHRvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluc3RhbmNlcy5hZGQobmV3IERlZmF1bHRTZXJ2aWNlSW5zdGFuY2Uoc2VydmljZUlkLCBwYXJ0c1swXSwgSW50ZWdlci5wYXJzZUludChwYXJ0c1sxXSksIGZhbHNlKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPOiB3aGF0IHNob3VsZCBiZSBzZXJpYWxpemVkIGFib3V0IHRoZSBzZXJ2aWNlPwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlzZXJ2aWNlLnNldEFwcE5hbWUoZ2V0QXBwTmFtZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGZpbGwgcmVnaXN0cnkgZHRvCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlQcmVjb25kaXRpb25zLmNoZWNrTm90TnVsbChzZXJ2aWNlLmdldFBvcnQoKSwgInNlcnZpY2UucG9ydCBoYXMgbm90IGJlZW4gc2V0Iik7Cg==</text>
+        <text encoding="base64">CQlzZXJ2aWNlLnNldEFwcE5hbWUoZ2V0QXBwTmFtZSgpKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlzZXJ2aWNlLnNldEFwcE5hbWUoZ2V0QXBwTmFtZSgpKTsK</text>
+        <text encoding="base64">CQlQcmVjb25kaXRpb25zLmNoZWNrTm90TnVsbChzZXJ2aWNlLmdldFBvcnQoKSwgInNlcnZpY2UucG9ydCBoYXMgbm90IGJlZW4gc2V0Iik7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
