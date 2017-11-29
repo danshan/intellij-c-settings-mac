@@ -38,6 +38,12 @@
         <mark key="." line="197" column="34" />
         <mark key="^" line="197" column="34" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-etcd/src/main/java/com/wanda/ohm2/registry/etcd/EtcdProperties.java" timestamp="1511921911135">
+        <mark key="[" line="37" column="53" />
+        <mark key="]" line="37" column="53" />
+        <mark key="^" line="37" column="53" />
+        <mark key="." line="37" column="53" />
+      </file>
       <file name="$USER_HOME$/codes/others/spring-cloud-etcd/spring-cloud-etcd-core/pom.xml" timestamp="1511847149079" />
       <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-web-prometheus/README.md" timestamp="1511772764139" />
       <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-core/src/test/java/com/wanda/ohm2/core/logging/MaskToStringBuilderTest.groovy" timestamp="1511747892097">
@@ -134,14 +140,6 @@
       </file>
       <file name="$USER_HOME$/codes/others/spring-cloud-etcd/spring-cloud-etcd-sample/src/main/resources/application.yml" timestamp="1511837488486" />
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/adapter/bearychat/BearychatConfig.groovy" timestamp="1511765697072" />
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-core/src/main/resources/com/wanda/ohm2/core/logging/defaults.xml" timestamp="1511838311022">
-        <mark key="'" line="113" column="0" />
-        <mark key="[" line="6" column="57" />
-      </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-core/pom.xml" timestamp="1511837684275">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="36" column="21" />
-      </file>
       <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-core/src/main/java/com/wanda/ohm2/core/logging/SensitiveTypeEnum.java" timestamp="1511490902902">
         <mark key="[" line="3" column="11" />
       </file>
@@ -166,6 +164,12 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-etcd/src/main/java/com/wanda/ohm2/registry/etcd/EtcdAutoConfiguration.java" timestamp="1511921929441">
+        <mark key="[" line="45" column="68" />
+        <mark key="]" line="45" column="59" />
+        <mark key="^" line="45" column="59" />
+        <mark key="." line="45" column="59" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-core/README.md" timestamp="1511847801840">
         <mark key="'" line="10" column="8" />
         <mark key="[" line="57" column="0" />
@@ -185,12 +189,8 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="58" column="20" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/src/main/resources/application.yml" timestamp="1511837580253">
-        <mark key="'" line="20" column="78" />
-        <mark key="[" line="24" column="20" />
-        <mark key="]" line="24" column="19" />
-        <mark key="^" line="24" column="19" />
-        <mark key="." line="24" column="19" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/src/main/resources/application.yml" timestamp="1511921838767">
+        <mark key="'" line="26" column="78" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/resources/ohm.properties" timestamp="1511765568191">
         <mark key="[" line="0" column="0" />
@@ -341,43 +341,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ManagementServerPortUtils.port</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>ManagementServerPortUtils.port</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlLnNldEluc3RhbmNlRW5kcG9pbnQocHJvcHMuZ2V0SG9zdG5hbWUoKSArICI6IiArIHByb3BzKTsK</text>
+        <text encoding="base64">ICAgICAgICBodHRwOi8vMTAuMjE0LjE3MC40NjoyMzc5Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlLnNldEluc3RhbmNlRW5kcG9pbnQocHJvcHMuZ2V0SG9zdG5hbWUoKSArICI6IiArIHByb3BzKTsK</text>
+        <text encoding="base64">ICAgICAgLSBodHRwOi8vMTAuMjE0LjE3MC40ODoyMzc5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlLnNldEluc3RhbmNlRW5kcG9pbnQocHJvcHMuZ2V0SG9zdG5hbWUoKSArICI6IiArIHByb3BzKTsK</text>
+        <text encoding="base64">ICAgICAgICBodHRwOi8vMTAuMjE0LjE3MC40NzoyMzc5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlLnNldEluc3RhbmNlRW5kcG9pbnQocHJvcHMuZ2V0SG9zdG5hbWUoKSArICI6IiArIHByb3BzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlMaXN0PFVSST4gY29sbGVjdCA9IEFycmF5cy5zdHJlYW0oZXRjZFByb3BlcnRpZXMuZ2V0VXJpcygpLnRvQXJyYXkobmV3IFN0cmluZ1tde30pKQoJCQkJLm1hcChVUkk6OmNyZWF0ZSkKCQkJCS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+PC9hcnRpZmFjdElkPgo=</text>
+        <text encoding="base64">CQkJCS5tYQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgo=</text>
+        <text encoding="base64">CQkJCS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCS5tYXAoVVJJOjpjcmVhdGUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+PC9hcnRpZmFjdElkPgo=</text>
+        <text encoding="base64">CQl1cmlzLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgo=</text>
+        <text encoding="base64">QFNldHRlcgpAR2V0dGVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
