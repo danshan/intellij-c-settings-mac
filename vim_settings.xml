@@ -536,6 +536,13 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="43" column="64" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-web-okhttp/src/main/java/com/wanda/ohm2/web/okhttp/ResponseMapping.java" timestamp="1512007765258">
+        <mark key="'" line="21" column="13" />
+        <mark key="[" line="49" column="65" />
+        <mark key="]" line="49" column="47" />
+        <mark key="^" line="49" column="47" />
+        <mark key="." line="49" column="47" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-service/pom.xml" timestamp="1507707263842">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="6" column="16" />
@@ -1160,12 +1167,12 @@
         <mark key="^" line="22" column="48" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-etcd/src/main/java/com/wanda/ohm2/registry/discovery/Ohm2DiscoveryClient.java" timestamp="1511948492751">
-        <mark key="'" line="27" column="5" />
-        <mark key="[" line="93" column="57" />
-        <mark key="]" line="93" column="58" />
-        <mark key="." line="93" column="58" />
-        <mark key="^" line="93" column="58" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-etcd/src/main/java/com/wanda/ohm2/registry/discovery/Ohm2DiscoveryClient.java" timestamp="1512008339812">
+        <mark key="'" line="28" column="5" />
+        <mark key="[" line="100" column="70" />
+        <mark key="]" line="100" column="84" />
+        <mark key="." line="100" column="84" />
+        <mark key="^" line="100" column="84" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/test/resources/payload/github.create.json" timestamp="1500949523245">
         <mark key="[" line="0" column="0" />
@@ -1435,6 +1442,12 @@
         <mark key="]" line="27" column="19" />
         <mark key="^" line="26" column="12" />
         <mark key="." line="27" column="19" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-web-okhttp/src/test/java/com/wanda/ohm2/web/okhttp/ResponseMappingTest.groovy" timestamp="1512007793641">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="65" column="19" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraBlockedIssueDailyTask.groovy" timestamp="1510032102601">
         <mark key="[" line="53" column="21" />
@@ -2470,7 +2483,7 @@
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
       </file>
-      <file name="/fragment.java" timestamp="1511948492818">
+      <file name="/fragment.java" timestamp="1512007595707">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
@@ -2560,11 +2573,11 @@
         <mark key="^" line="31" column="35" />
         <mark key="." line="31" column="35" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-etcd/src/main/java/com/wanda/ohm2/registry/discovery/Ohm2ServiceLifecycle.java" timestamp="1511947406259">
-        <mark key="[" line="74" column="53" />
-        <mark key="]" line="74" column="73" />
-        <mark key="^" line="74" column="73" />
-        <mark key="." line="74" column="73" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-etcd/src/main/java/com/wanda/ohm2/registry/discovery/Ohm2ServiceLifecycle.java" timestamp="1512008163987">
+        <mark key="[" line="76" column="59" />
+        <mark key="]" line="76" column="58" />
+        <mark key="^" line="76" column="58" />
+        <mark key="." line="76" column="58" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-core/README.md" timestamp="1511847801840">
         <mark key="'" line="10" column="8" />
@@ -2854,6 +2867,9 @@
         <mark key="]" line="43" column="19" />
         <mark key="." line="43" column="19" />
         <mark key="^" line="40" column="38" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.8.1/okhttp-3.8.1-sources.jar!/okhttp3/Response.java" timestamp="1512006024560">
+        <mark key="'" line="175" column="32" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ldap-devops-sync/src/main/java/com/wanda/devops/sync/integration/jira/service/JiraServiceImpl.java" timestamp="1507513324741">
         <mark key="[" line="52" column="0" />
@@ -3335,9 +3351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="6" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraReloadProjectsTask.groovy" />
-      <jump line="31" column="16" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/adapter/StandardPayload.groovy" />
-      <jump line="73" column="12" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/adapter/bearychat/BearychatAdapter.groovy" />
       <jump line="45" column="58" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/adapter/bearychat/BearychatTasks.groovy" />
       <jump line="16" column="5" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/adapter/bearychat/BearychatTasks.groovy" />
       <jump line="22" column="14" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/adapter/wandartx/WandartxConfig.groovy" />
@@ -3435,46 +3448,49 @@
       <jump line="81" column="4" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-etcd/src/main/java/com/wanda/ohm2/registry/discovery/Ohm2DiscoveryClient.java" />
       <jump line="93" column="15" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-etcd/src/main/java/com/wanda/ohm2/registry/discovery/Ohm2DiscoveryClient.java" />
       <jump line="27" column="5" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-etcd/src/main/java/com/wanda/ohm2/registry/discovery/Ohm2DiscoveryClient.java" />
+      <jump line="288" column="13" filename="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.8.1/okhttp-3.8.1-sources.jar!/okhttp3/Response.java" />
+      <jump line="175" column="32" filename="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.8.1/okhttp-3.8.1-sources.jar!/okhttp3/Response.java" />
+      <jump line="21" column="13" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-web-okhttp/src/main/java/com/wanda/ohm2/web/okhttp/ResponseMapping.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CUBDb25kaXRpb25hbE9uUHJvcGVydHkoIm9obTIucmVnaXN0cnkuZGlzY292ZXJ5LmVuYWJsZWQiKQo=</text>
+      <register name="&quot;" type="4">
+        <text>resposne</text>
       </register>
       <register name="-" type="4">
-        <text>enabled</text>
+        <text>resposne</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2xlYW4gZW5hYmxlZCA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVzcG9uc2UuYm9keSgpID09IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQogICAgICAgIFN0cmluZyBjb250ZW50ID0gcmVzcG9uc2UuYm9keSgpLnN0cmluZygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUBDb25kaXRpb25hbE9uUHJvcGVydHkoIm9obTIucmVnaXN0cnkuZGlzY292ZXJ5LmVuYWJsZWQiKQo=</text>
+        <text encoding="base64">ICAgICAgICBtYXBwaW5nLm5hbWUgPT0gIm5hbWUxIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUBDb25kaXRpb25hbE9uUHJvcGVydHkoIm9obTIucmVnaXN0cnkucmVnaXN0ZXIuZW5hYmxlZCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBtYXBwaW5nLmlkID09IDEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2xlYW4gZW5hYmxlZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEpTT04ucGFyc2VPYmplY3QoY29udGVudCwgY2xhenosIGZlYXR1cmVzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBDb25kaXRpb25hbE9uUHJvcGVydHkoIm9obTIucmVnaXN0cnkuZGlzY292ZXJ5LmVuYWJsZWQiKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gSlNPTk9iamVjdC5wYXJzZUFycmF5KHJlc3BvbnNlLmJvZHkoKS5zdHJpbmcoKSwgY2xhenopOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBDb25kaXRpb25hbE9uUHJvcGVydHkoIm9obTIucmVnaXN0cnkucmVnaXN0ZXIuZW5hYmxlZCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIEFycmF5cy5zdHJlYW0ocGF0aC5zcGxpdCgiLiIpKS5mb3JFYWNoKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CUBDb25kaXRpb25hbE9uTWlzc2luZ0JlYW4K</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CUBDb25kaXRpb25hbE9uTWlzc2luZ0JlYW4K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
