@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/pom.xml" timestamp="1511860316327">
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/pom.xml" timestamp="1512022499746">
         <mark key="'" line="48" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="42" column="34" />
-        <mark key="." line="44" column="0" />
+        <mark key="[" line="41" column="38" />
+        <mark key="]" line="41" column="40" />
+        <mark key="^" line="41" column="40" />
+        <mark key="." line="41" column="40" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/config/application.yml" timestamp="1502938756057">
         <mark key="[" line="12" column="0" />
@@ -844,7 +844,6 @@
         <mark key="^" line="17" column="8" />
         <mark key="." line="17" column="8" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-etcd/src/main/java/com/wanda/ohm2/registry/etcd/EtcdEndpoint.java" timestamp="1511944813697" />
       <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/impl/BranchMarkCalculatorImpl.java" timestamp="1506733867244">
         <mark key="[" line="116" column="88" />
         <mark key="]" line="116" column="88" />
@@ -1055,12 +1054,12 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-etcd/pom.xml" timestamp="1511937029053">
-        <mark key="'" line="50" column="20" />
-        <mark key="[" line="30" column="35" />
-        <mark key="]" line="30" column="34" />
-        <mark key="." line="30" column="34" />
-        <mark key="^" line="30" column="34" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-etcd/pom.xml" timestamp="1512022325560">
+        <mark key="'" line="45" column="20" />
+        <mark key="[" line="40" column="33" />
+        <mark key="]" line="40" column="35" />
+        <mark key="." line="40" column="35" />
+        <mark key="^" line="40" column="35" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/test/resources/cases/general_subchannel_2.json" timestamp="1502377050757">
         <mark key="[" line="3" column="22" />
@@ -1292,6 +1291,12 @@
         <mark key="]" line="6" column="30" />
         <mark key="." line="6" column="30" />
         <mark key="^" line="6" column="30" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-sgw/README.md" timestamp="1512022780775">
+        <mark key="[" line="36" column="31" />
+        <mark key="]" line="44" column="35" />
+        <mark key="^" line="44" column="35" />
+        <mark key="." line="44" column="35" />
       </file>
       <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/web/controller/PeopleController.java" timestamp="1507779220340">
         <mark key="[" line="226" column="51" />
@@ -2367,7 +2372,6 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-etcd/src/main/java/com/wanda/ohm2/registry/etcd/discovery/EtcdDiscoveryClientConfiguration.java" timestamp="1511937543929" />
       <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/ex/entity/RackStatisticsDetail.java" timestamp="1499154025806">
         <mark key="[" line="114" column="8" />
         <mark key="]" line="114" column="15" />
@@ -2483,7 +2487,7 @@
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
       </file>
-      <file name="/fragment.java" timestamp="1512007595707">
+      <file name="/fragment.java" timestamp="1512020976455">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
@@ -2573,11 +2577,10 @@
         <mark key="^" line="31" column="35" />
         <mark key="." line="31" column="35" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-etcd/src/main/java/com/wanda/ohm2/registry/discovery/Ohm2ServiceLifecycle.java" timestamp="1512010325988">
-        <mark key="[" line="76" column="16" />
-        <mark key="]" line="76" column="20" />
-        <mark key="." line="76" column="20" />
-        <mark key="^" line="76" column="20" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-etcd/src/main/java/com/wanda/ohm2/registry/discovery/Ohm2ServiceLifecycle.java" timestamp="1512021784684">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-core/README.md" timestamp="1511847801840">
         <mark key="'" line="10" column="8" />
@@ -2765,12 +2768,12 @@
         <mark key="." line="95" column="20" />
         <mark key="^" line="95" column="20" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/src/main/resources/application.yml" timestamp="1511947574969">
-        <mark key="'" line="26" column="78" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="36" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="16" column="35" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/src/main/resources/application.yml" timestamp="1512022754880">
+        <mark key="'" line="27" column="78" />
+        <mark key="[" line="17" column="11" />
+        <mark key="]" line="18" column="17" />
+        <mark key="." line="18" column="17" />
+        <mark key="^" line="18" column="17" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/core/util/MarkdownUtils.groovy" timestamp="1509413492371">
         <mark key="[" line="23" column="43" />
@@ -2943,7 +2946,6 @@
         <mark key="^" line="13" column="6" />
         <mark key="." line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/codes/others/spring-cloud-etcd/spring-cloud-etcd-config/src/main/java/org/springframework/cloud/etcd/config/EtcdConfigBootstrapConfiguration.java" timestamp="1511936714292" />
       <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-web-okhttp/pom.xml" timestamp="1511747838701">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -3216,7 +3218,6 @@
         <mark key="^" line="19" column="3" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/others/spring-cloud-etcd/spring-cloud-etcd-core/src/main/java/org/springframework/cloud/etcd/EtcdProperties.java" timestamp="1511936626597" />
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/core/config/ChatopsConfig.java" timestamp="1501749195176">
         <mark key="[" line="39" column="36" />
         <mark key="]" line="39" column="36" />
@@ -3454,10 +3455,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>info</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
@@ -3466,31 +3467,31 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oIlJlZ2lzdGVyaW5nIHNlcnZpY2Ugd2l0aCBldGNkOiAiICsgc2VydmljZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlTWFwcGluZy5tYXBwaW5nT2JqZWN0KHJlc3BvbnNlLCAiLiIpCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLm1vdXNpbzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+ZXRjZDRqPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4ke2V0Y2Q0ai52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAocHJvcGVydGllcy5nZXRDb25maWcoKS5pc0VuYWJsZWQoKSkgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBwaW5nLm5hbWUgPT0gIm5hbWUxIgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBwaW5nLmlkID09IDEK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEpTT04ucGFyc2VPYmplY3QoY29udGVudCwgY2xhenosIGZlYXR1cmVzKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gSlNPTk9iamVjdC5wYXJzZUFycmF5KHJlc3BvbnNlLmJvZHkoKS5zdHJpbmcoKSwgY2xhenopOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBQcmVjb25kaXRpb25zLmNoZWNrTm90TnVsbChzZXJ2aWNlLmdldEluc3RhbmNlRW5kcG9pbnQoKSwgInNlcnZpY2UuaW5zdGFuY2VFbmRwb25pdCBoYXMgbm90IGJlZW4gc2V0Iik7CiAgICAgICAgLy8gZmlsbCByZWdpc3RyeWR0bwogICAgICAgIHJlZ2lzdGVyKHNlcnZpY2UpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlTWFwcGluZy5tYXBwaW5nT2JqZWN0KHJlc3BvbnNlLCAiLiIpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEFycmF5cy5zdHJlYW0ocGF0aC5zcGxpdCgiLiIpKS5mb3JFYWNoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
