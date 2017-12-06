@@ -2091,12 +2091,12 @@
         <mark key="^" line="21" column="45" />
         <mark key="." line="21" column="45" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-web-okhttp/README.md" timestamp="1512522720858">
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-web-okhttp/README.md" timestamp="1512538729752">
         <mark key="'" line="14" column="29" />
-        <mark key="[" line="45" column="65" />
-        <mark key="]" line="46" column="8" />
-        <mark key="^" line="43" column="6" />
-        <mark key="." line="46" column="8" />
+        <mark key="[" line="43" column="7" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/core/cache/key/UserSubscriptionKey.java" timestamp="1502269864105">
         <mark key="[" line="21" column="51" />
@@ -2912,7 +2912,7 @@
         <mark key="." line="43" column="19" />
         <mark key="^" line="40" column="38" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/src/main/java/com/wanda/ohm2/demo/client/DemoFeignClient.java" timestamp="1512520410306">
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/src/main/java/com/wanda/ohm2/demo/client/DemoFeignClient.java" timestamp="1512538699375">
         <mark key="[" line="11" column="27" />
         <mark key="]" line="11" column="27" />
         <mark key="." line="11" column="27" />
@@ -3388,11 +3388,11 @@
         <mark key="." line="49" column="45" />
         <mark key="^" line="40" column="86" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/src/main/java/com/wanda/ohm2/demo/controller/DemoController.java" timestamp="1512522678630">
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/src/main/java/com/wanda/ohm2/demo/controller/DemoController.java" timestamp="1512538884068">
         <mark key="'" line="67" column="46" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/codes/personal/spring-cloud-docker/spring-cloud-eureka/pom.xml" timestamp="1511776019700">
         <mark key="'" line="27" column="0" />
@@ -3505,8 +3505,8 @@
       <jump line="98" column="4" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-sgw/src/main/java/com/wanda/ohm2/registry/sgw/discovery/Ohm2ServiceLifecycle.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmNvbm5lY3Rpb25Qb29sKCkK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -3518,31 +3518,31 @@
         <text encoding="base64">ICAgICAgICBPaG0yRGlzY292ZXJ5Q29uZmlnIGNvbmZpZyA9IGxpZmVjeWNsZS5nZXRQcm9wZXJ0aWVzKCkuZ2V0Q29uZmlnKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC51cmwoY29uZmlnLmdldERpc2NvdmVyeSgpLmdldFNlcnZlclVybCgpICsgIi9zZ3cvdjEvYXBwSWRzIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmNvbm5lY3Rpb25Qb29sKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC51cmwoY29uZmlnLmdldERpc2NvdmVyeSgpLmdldFNlcnZlclVybCgpICsgIi9zZ3cvdjEvYXBwSWRzIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC51cmwoY29uZmlnLmdldERpc2NvdmVyeSgpLmdldFNlcnZlclVybCgpICsgIi9zZ3cvdjEvYXBwSWRzIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXVyZWthOgogIGluc3RhbmNlOgogICAgbGVhc2VSZW5ld2FsSW50ZXJ2YWxJblNlY29uZHM6IDEwCiAgY2xpZW50OgogICAgcmVnaXN0cnlGZXRjaEludGVydmFsU2Vjb25kczogNQogICAgc2VydmljZVVybDoKICAgICAgZGVmYXVsdFpvbmU6IGh0dHA6Ly8ke2V1cmVrYS5ob3N0OjEyNy4wLjAuMX06JHtldXJla2EucG9ydDo4NzYxfS9ldXJla2EvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC51cmwoY29uZmlnLmdldERpc2NvdmVyeSgpLmdldFNlcnZlclVybCgpICsgIi9zZ3cvdjEvYXBwSWRzIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGVuZHBvaW50ID0gU3RyaW5nLmZvcm1hdCgiczolcyIsIHByb3BlcnRpZXMuZ2V0SG9zdG5hbWUoKSwgc2VydmljZS5nZXRQb3J0KCkpOwo=</text>
+        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ZXVyZWthOgogIGluc3RhbmNlOgogICAgbGVhc2VSZW5ld2FsSW50ZXJ2YWxJblNlY29uZHM6IDEwCiAgY2xpZW50OgogICAgcmVnaXN0cnlGZXRjaEludGVydmFsU2Vjb25kczogNQogICAgc2VydmljZVVybDoKICAgICAgZGVmYXVsdFpvbmU6IGh0dHA6Ly8ke2V1cmVrYS5ob3N0OjEyNy4wLjAuMX06JHtldXJla2EucG9ydDo4NzYxfS9ldXJla2EvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuZHBvaW50ID0gZW5kcG9pbnQgKyBSZWdpc3RyeUNvbnN0YW50cy5ST09UX1BBVEhfU1RBUlRfU1lNQk9MICsgZ2V0QXBwTmFtZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGVuZHBvaW50ID0gU3RyaW5nLmZvcm1hdCgiczolcyIsIHByb3BlcnRpZXMuZ2V0SG9zdG5hbWUoKSwgc2VydmljZS5nZXRQb3J0KCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFTdHJpbmdVdGlscy5pc0VtcHR5KGdldEFwcE5hbWUoKSkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZS5zZXRBcHBJZChnZXRFbnZpcm9ubWVudCgpLmdldFByb3BlcnR5KFJlZ2lzdHJ5Q29uc3RhbnRzLkVOVl9LRVlfQVBQSUQpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuZHBvaW50ID0gZW5kcG9pbnQgKyBSZWdpc3RyeUNvbnN0YW50cy5ST09UX1BBVEhfU1RBUlRfU1lNQk9MICsgZ2V0QXBwTmFtZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
