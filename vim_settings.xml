@@ -3280,11 +3280,12 @@
         <mark key="." line="68" column="27" />
         <mark key="^" line="62" column="28" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-sgw/src/main/java/com/wanda/ohm2/registry/sgw/discovery/Ohm2ServiceLifecycle.java" timestamp="1512562597977">
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-sgw/src/main/java/com/wanda/ohm2/registry/sgw/discovery/Ohm2ServiceLifecycle.java" timestamp="1512595836654">
         <mark key="'" line="104" column="4" />
-        <mark key="[" line="65" column="48" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+        <mark key="[" line="79" column="20" />
+        <mark key="]" line="79" column="24" />
+        <mark key="." line="79" column="24" />
+        <mark key="^" line="79" column="24" />
       </file>
       <file name="$USER_HOME$/codes/wanda/maxwell/maxwell-web-security/src/main/java/com/wanda/maxwell/web/security/BodyReaderHttpServletRequestWrapper.java" timestamp="1511340433364">
         <mark key="[" line="13" column="0" />
@@ -3503,11 +3504,11 @@
       <jump line="38" column="20" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-sgw/src/main/java/com/wanda/ohm2/registry/sgw/discovery/RegistryDTO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGhlYXJ0YmVhdEludGVydmFsOiAyNTAwMAo=</text>
+      <register name="&quot;" type="4">
+        <text>info</text>
       </register>
       <register name="-" type="4">
-        <text>discovery</text>
+        <text>info</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
