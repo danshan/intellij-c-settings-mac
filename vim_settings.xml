@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-sgw/src/main/java/com/wanda/ohm2/registry/sgw/discovery/Ohm2DiscoveryClient.java" timestamp="1512551282459">
-        <mark key="[" line="88" column="19" />
-        <mark key="]" line="88" column="41" />
-        <mark key="^" line="88" column="41" />
-        <mark key="." line="88" column="41" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-sgw/src/main/java/com/wanda/ohm2/registry/sgw/discovery/Ohm2DiscoveryClient.java" timestamp="1512607708325">
+        <mark key="'" line="46" column="41" />
+        <mark key="[" line="86" column="23" />
+        <mark key="]" line="86" column="37" />
+        <mark key="^" line="86" column="37" />
+        <mark key="." line="86" column="37" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/pom.xml" timestamp="1512525449279">
         <mark key="'" line="54" column="0" />
@@ -933,6 +934,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="^" line="3" column="55" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-sgw/src/main/java/com/wanda/ohm2/registry/sgw/discovery/Ohm2DiscoveryProperties.java" timestamp="1512607918560">
+        <mark key="[" line="44" column="38" />
+        <mark key="]" line="44" column="47" />
+        <mark key="^" line="44" column="47" />
+        <mark key="." line="44" column="47" />
       </file>
       <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/entity/ex/RackConfigStatisticsDetail.java" timestamp="1499153776985">
         <mark key="[" line="28" column="43" />
@@ -3402,7 +3409,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="21" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/integration/github/service/GithubBuilder.groovy" />
       <jump line="39" column="24" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/integration/github/service/GithubPushBuilder.groovy" />
       <jump line="22" column="68" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/groovy/com/wanda/ohm/chatops/xxoo/core/util/MarkdownUtilsTest.groovy" />
       <jump line="38" column="6" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/adapter/bearychat/bean/BearychatPayload.groovy" />
@@ -3502,13 +3508,14 @@
       <jump line="66" column="12" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-sgw/src/main/java/com/wanda/ohm2/registry/sgw/discovery/Ohm2ServiceLifecycle.java" />
       <jump line="98" column="4" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-sgw/src/main/java/com/wanda/ohm2/registry/sgw/discovery/Ohm2ServiceLifecycle.java" />
       <jump line="38" column="20" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-sgw/src/main/java/com/wanda/ohm2/registry/sgw/discovery/RegistryDTO.java" />
+      <jump line="46" column="41" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-sgw/src/main/java/com/wanda/ohm2/registry/sgw/discovery/Ohm2DiscoveryClient.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>info</text>
+        <text>instances</text>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text>instances</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
