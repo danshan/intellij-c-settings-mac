@@ -1212,7 +1212,6 @@
         <mark key="^" line="40" column="10" />
         <mark key="." line="40" column="10" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/io/github/openfeign/feign-ribbon/9.4.0/feign-ribbon-9.4.0-sources.jar!/feign/ribbon/LoadBalancingTarget.java" timestamp="1512611998381" />
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/github/service/GithubCreateBuilder.java" timestamp="1501486594441">
         <mark key="[" line="9" column="25" />
         <mark key="]" line="21" column="46" />
@@ -3404,11 +3403,11 @@
         <mark key="." line="49" column="45" />
         <mark key="^" line="40" column="86" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/src/main/java/com/wanda/ohm2/demo/controller/DemoController.java" timestamp="1512617554607">
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/src/main/java/com/wanda/ohm2/demo/controller/DemoController.java" timestamp="1512629278656">
         <mark key="'" line="67" column="46" />
-        <mark key="[" line="33" column="59" />
-        <mark key="]" line="33" column="59" />
-        <mark key="." line="33" column="59" />
+        <mark key="[" line="33" column="44" />
+        <mark key="]" line="33" column="44" />
+        <mark key="." line="33" column="44" />
         <mark key="^" line="33" column="81" />
       </file>
       <file name="$USER_HOME$/codes/personal/spring-cloud-docker/spring-cloud-eureka/pom.xml" timestamp="1511776019700">
@@ -3522,11 +3521,11 @@
       <jump line="47" column="4" filename="$MAVEN_REPOSITORY$/io/github/openfeign/feign-ribbon/9.4.0/feign-ribbon-9.4.0-sources.jar!/feign/ribbon/RibbonClient.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBpbmZvOgogICAgc2Vuc2l0aXZlOiBmYWxzZQogICAgZW5hYmxlZDogdHJ1ZQo=</text>
+      <register name="&quot;" type="4">
+        <text>abtest</text>
       </register>
       <register name="-" type="4">
-        <text>Fun</text>
+        <text>abtest</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
