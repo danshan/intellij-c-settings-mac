@@ -2100,6 +2100,7 @@
         <mark key="^" line="20" column="22" />
         <mark key="." line="20" column="22" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.3.RELEASE/spring-cloud-netflix-core-1.2.3.RELEASE-sources.jar!/org/springframework/cloud/netflix/feign/ribbon/FeignRibbonClientAutoConfiguration.java" timestamp="1512632096012" />
       <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/resources/META-INF/app.properties" timestamp="1505116632025">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
@@ -3404,12 +3405,12 @@
         <mark key="." line="49" column="45" />
         <mark key="^" line="40" column="86" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/src/main/java/com/wanda/ohm2/demo/controller/DemoController.java" timestamp="1512631402218">
-        <mark key="'" line="69" column="46" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="33" column="108" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/src/main/java/com/wanda/ohm2/demo/controller/DemoController.java" timestamp="1512632273024">
+        <mark key="'" line="83" column="46" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="49" column="4" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/codes/personal/spring-cloud-docker/spring-cloud-eureka/pom.xml" timestamp="1511776019700">
         <mark key="'" line="27" column="0" />
@@ -3538,28 +3539,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBSaWJib25DbGllbnQuQnVpbGRlciBidWlsZGVyID0gUmliYm9uQ2xpZW50LmJ1aWxkZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZGVyLmRlbGVnYXRlKG5ldyBmZWlnbi5va2h0dHAuT2tIdHRwQ2xpZW50KHRoaXMub2tIdHRwQ2xpZW50KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVsZWdhdGUgPSBuZXcgZmVpZ24ub2todHRwLk9rSHR0cENsaWVudCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4yLjMuUkVMRUFTRTwvdmVyc2lvbj4K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QEZlaWduCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5va0h0dHBDbGllbnQgIT0gbnVsbCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpbmZvOgogICAgc2Vuc2l0aXZlOiBmYWxzZQogICAgZW5hYmxlZDogdHJ1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+aW8uZ2l0aHViLm9wZW5mZWlnbjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+ZmVpZ24tcmliYm9uPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj45LjQuMDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+aW8uZ2l0aHViLm9wZW5mZWlnbjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+ZmVpZ24tcmliYm9uPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj45LjQuMDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICBSaWJib25DbGllbnQuQnVpbGRlciBidWlsZGVyID0gUmliYm9uQ2xpZW50LmJ1aWxkZXIoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
