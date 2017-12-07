@@ -371,6 +371,7 @@
         <mark key="^" line="42" column="29" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/codes/others/spring-cloud-etcd/spring-cloud-etcd-discovery/src/main/java/org/springframework/cloud/etcd/discovery/EtcdServer.java" timestamp="1512636629948" />
       <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-etcd/src/main/java/com/wanda/ohm2/registry/RegistryAutoConfiguration.java" timestamp="1511948083568">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -672,7 +673,7 @@
         <mark key="^" line="18" column="30" />
         <mark key="." line="18" column="25" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/src/main/java/com/wanda/ohm2/demo/Application.java" timestamp="1512526158512">
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/src/main/java/com/wanda/ohm2/demo/Application.java" timestamp="1512636902504">
         <mark key="[" line="14" column="54" />
         <mark key="]" line="15" column="21" />
         <mark key="." line="15" column="21" />
@@ -3408,12 +3409,11 @@
         <mark key="." line="49" column="45" />
         <mark key="^" line="40" column="86" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/src/main/java/com/wanda/ohm2/demo/controller/DemoController.java" timestamp="1512633693214">
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/src/main/java/com/wanda/ohm2/demo/controller/DemoController.java" timestamp="1512637331165">
         <mark key="'" line="89" column="46" />
-        <mark key="[" line="45" column="129" />
-        <mark key="]" line="45" column="129" />
-        <mark key="." line="45" column="129" />
-        <mark key="^" line="45" column="95" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/codes/personal/spring-cloud-docker/spring-cloud-eureka/pom.xml" timestamp="1511776019700">
         <mark key="'" line="27" column="0" />
@@ -3526,8 +3526,8 @@
       <jump line="23" column="3" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-sgw/src/main/java/com/wanda/ohm2/registry/sgw/discovery/Ohm2ServerList.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">RXRjZEV4Y2VwdGlvbiA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmNsaWVudCgpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">RXRjZEV4Y2VwdGlvbiA=</text>
@@ -3539,31 +3539,31 @@
         <text encoding="base64">ICAgIEBSZXNvdXJjZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmNsaWVudCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzID0gcHJvcHM7Cg==</text>
+        <text encoding="base64">ICAgIGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmV0Y2QgPSBldGNkOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzID0gcHJvcHM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBFdGNkU2VydmVyTGlzdCgpIHsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmV0Y2QgPSBldGNkOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRXRjZERpc2NvdmVyeVByb3BlcnRpZXMgcHJvcHM7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBFdGNkU2VydmVyTGlzdCgpIHsKICAgIH0KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRXRjZENsaWVudCBldGNkOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRXRjZERpc2NvdmVyeVByb3BlcnRpZXMgcHJvcHM7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRXRjZENsaWVudCBldGNkOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZyBsb2cgPSBMb2dGYWN0b3J5LmdldExvZyhFdGNkU2VydmVyTGlzdC5jbGFzcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
