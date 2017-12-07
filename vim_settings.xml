@@ -13,11 +13,12 @@
       <file name="$MAVEN_REPOSITORY$/io/github/openfeign/feign-ribbon/9.4.0/feign-ribbon-9.4.0-sources.jar!/feign/ribbon/RibbonClient.java" timestamp="1512611186002">
         <mark key="'" line="47" column="4" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/pom.xml" timestamp="1512617546136">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/pom.xml" timestamp="1512631315597">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="53" column="21" />
+        <mark key="]" line="56" column="20" />
+        <mark key="." line="56" column="20" />
+        <mark key="^" line="56" column="20" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/config/application.yml" timestamp="1502938756057">
         <mark key="[" line="12" column="0" />
@@ -2929,10 +2930,10 @@
         <mark key="." line="43" column="19" />
         <mark key="^" line="40" column="38" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/src/main/java/com/wanda/ohm2/demo/client/DemoFeignClient.java" timestamp="1512538699375">
-        <mark key="[" line="11" column="27" />
-        <mark key="]" line="11" column="27" />
-        <mark key="." line="11" column="27" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/src/main/java/com/wanda/ohm2/demo/client/DemoFeignClient.java" timestamp="1512630685098">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ldap-devops-sync/src/main/java/com/wanda/devops/sync/integration/jira/service/JiraServiceImpl.java" timestamp="1507513324741">
         <mark key="[" line="52" column="0" />
@@ -3403,12 +3404,12 @@
         <mark key="." line="49" column="45" />
         <mark key="^" line="40" column="86" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/src/main/java/com/wanda/ohm2/demo/controller/DemoController.java" timestamp="1512629278656">
-        <mark key="'" line="67" column="46" />
-        <mark key="[" line="33" column="44" />
-        <mark key="]" line="33" column="44" />
-        <mark key="." line="33" column="44" />
-        <mark key="^" line="33" column="81" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/src/main/java/com/wanda/ohm2/demo/controller/DemoController.java" timestamp="1512631402218">
+        <mark key="'" line="69" column="46" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="33" column="108" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/codes/personal/spring-cloud-docker/spring-cloud-eureka/pom.xml" timestamp="1511776019700">
         <mark key="'" line="27" column="0" />
@@ -3521,11 +3522,11 @@
       <jump line="47" column="4" filename="$MAVEN_REPOSITORY$/io/github/openfeign/feign-ribbon/9.4.0/feign-ribbon-9.4.0-sources.jar!/feign/ribbon/RibbonClient.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>abtest</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>abtest</text>
+        <text>Ribb</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
@@ -3534,31 +3535,31 @@
         <text encoding="base64">ICAgIHNlbnNpdGl2ZTogZmFsc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpbmZvOgogICAgc2Vuc2l0aXZlOiBmYWxzZQogICAgZW5hYmxlZDogdHJ1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+aW8uZ2l0aHViLm9wZW5mZWlnbjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+ZmVpZ24tcmliYm9uPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj45LjQuMDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICBSaWJib25DbGllbnQuQnVpbGRlciBidWlsZGVyID0gUmliYm9uQ2xpZW50LmJ1aWxkZXIoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+aW8uZ2l0aHViLm9wZW5mZWlnbjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+ZmVpZ24tcmliYm9uPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj45LjQuMDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICBidWlsZGVyLmRlbGVnYXRlKG5ldyBmZWlnbi5va2h0dHAuT2tIdHRwQ2xpZW50KHRoaXMub2tIdHRwQ2xpZW50KSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNlcnZlclVybDogaHR0cDovLzEwLjIxNC4xNzAuNDU6ODA4MQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIExpc3RzLm5ld0FycmF5TGlzdChtb2NrKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4yLjMuUkVMRUFTRTwvdmVyc2lvbj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9jay5zZXRTeXN0ZW1JZCgiYWJ0ZXN0Iik7Cg==</text>
+        <text encoding="base64">QEZlaWduCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9jay5zZXRBcHBEZXNjKCJhYnRlc3QiKTsK</text>
+        <text encoding="base64">ICBpbmZvOgogICAgc2Vuc2l0aXZlOiBmYWxzZQogICAgZW5hYmxlZDogdHJ1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9jay5zZXRBcHBOYW1lKCJhYnRlc3QiKTsK</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+aW8uZ2l0aHViLm9wZW5mZWlnbjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+ZmVpZ24tcmliYm9uPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj45LjQuMDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9jay5zZXRBcHBJZCgiYWJ0ZXN0Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+aW8uZ2l0aHViLm9wZW5mZWlnbjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+ZmVpZ24tcmliYm9uPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj45LjQuMDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
