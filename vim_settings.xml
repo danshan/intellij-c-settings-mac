@@ -10,11 +10,11 @@
         <mark key="^" line="69" column="23" />
         <mark key="." line="69" column="23" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/pom.xml" timestamp="1512716154083">
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/pom.xml" timestamp="1512721841963">
         <mark key="'" line="59" column="0" />
-        <mark key="[" line="55" column="30" />
-        <mark key="]" line="55" column="30" />
-        <mark key="." line="55" column="30" />
+        <mark key="[" line="52" column="21" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/config/application.yml" timestamp="1502938756057">
         <mark key="[" line="12" column="0" />
@@ -2558,7 +2558,7 @@
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
       </file>
-      <file name="/fragment.java" timestamp="1512634263920">
+      <file name="/fragment.java" timestamp="1512721092449">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
@@ -2694,6 +2694,12 @@
         <mark key="]" line="18" column="26" />
         <mark key="." line="18" column="26" />
         <mark key="^" line="18" column="20" />
+      </file>
+      <file name="$USER_HOME$/codes/personal/spring-cloud-docker/spring-boot-admin/pom.xml" timestamp="1512548763320">
+        <mark key="'" line="27" column="67" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ldap-devops-sync/README.md" timestamp="1510190258238">
         <mark key="[" line="7" column="3" />
@@ -3404,12 +3410,11 @@
         <mark key="." line="49" column="45" />
         <mark key="^" line="40" column="86" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/src/main/java/com/wanda/ohm2/demo/controller/DemoController.java" timestamp="1512716194602">
-        <mark key="'" line="69" column="46" />
-        <mark key="[" line="33" column="20" />
-        <mark key="]" line="33" column="36" />
-        <mark key="^" line="33" column="36" />
-        <mark key="." line="33" column="36" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/src/main/java/com/wanda/ohm2/demo/controller/DemoController.java" timestamp="1512721765890">
+        <mark key="'" line="78" column="46" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/codes/personal/spring-cloud-docker/spring-cloud-eureka/pom.xml" timestamp="1511776019700">
         <mark key="'" line="27" column="0" />
@@ -3522,44 +3527,44 @@
       <jump line="28" column="3" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-sgw/src/main/java/com/wanda/ohm2/registry/sgw/Ohm2DiscoveryConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>okhttp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+aW8uZ2l0aHViLm9wZW5mZWlnbjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+ZmVpZ24tcmliYm9uPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj45LjQuMDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>okhttp</text>
+        <text>demo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+aW8uZ2l0aHViLm9wZW5mZWlnbjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+ZmVpZ24tb2todHRwPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj45LjQuMDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJmZWlnbkdldCIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuR0VULCBwcm9kdWNlcyA9IE1lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OX1VURjhfVkFMVUUpCiAgICBwdWJsaWMgU3RyaW5nIGZlaWduR2V0KCkgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gZGVtb0ZlaWduQ2xpZW50LmZlaWduR2V0KCk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+aW8uZ2l0aHViLm9wZW5mZWlnbjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+ZmVpZ24tcmliYm9uPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj45LjQuMDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBva0h0dHBDbGllbnQueHVzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNlcnZlclVybDogaHR0cDovLzEwLjIxNC4xNzAuNDc6ODA4Mwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVuYWJsZWQ6IHRydWUK</text>
+        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBFdXJla2FDbGllbnQgZXVyZWthQ2xpZW50Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZWdpc3RlcjoK</text>
+        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBEaXNjb3ZlcnlDbGllbnQgZGlzY292ZXJ5Q2xpZW50Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkaXNjb3Zlcnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmNsaWVudChuZXcgUmliYm9uQ2xpZW50KCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWNsb3VkLWNvbW1vbnM8L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5jbG91ZDwvZ3JvdXBJZD4K</text>
+        <text encoding="base64">ICAgIHNlcnZlclVybDogaHR0cDovLzEwLjIxNC4xNzAuNDc6ODA4Mwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
