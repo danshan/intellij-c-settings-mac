@@ -10,11 +10,11 @@
         <mark key="^" line="69" column="23" />
         <mark key="." line="69" column="23" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/pom.xml" timestamp="1512638262854">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/pom.xml" timestamp="1512716154083">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="55" column="30" />
+        <mark key="]" line="55" column="30" />
+        <mark key="." line="55" column="30" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/config/application.yml" timestamp="1502938756057">
         <mark key="[" line="12" column="0" />
@@ -2933,10 +2933,10 @@
         <mark key="^" line="40" column="38" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/src/main/java/com/wanda/ohm2/demo/client/DemoFeignClient.java" timestamp="1512714025060">
-        <mark key="[" line="10" column="3" />
-        <mark key="]" line="11" column="28" />
-        <mark key="." line="11" column="28" />
-        <mark key="^" line="11" column="28" />
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+        <mark key="^" line="8" column="28" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ldap-devops-sync/src/main/java/com/wanda/devops/sync/integration/jira/service/JiraServiceImpl.java" timestamp="1507513324741">
         <mark key="[" line="52" column="0" />
@@ -3404,12 +3404,12 @@
         <mark key="." line="49" column="45" />
         <mark key="^" line="40" column="86" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/src/main/java/com/wanda/ohm2/demo/controller/DemoController.java" timestamp="1512638332593">
-        <mark key="'" line="67" column="46" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="33" column="64" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/src/main/java/com/wanda/ohm2/demo/controller/DemoController.java" timestamp="1512716194602">
+        <mark key="'" line="69" column="46" />
+        <mark key="[" line="33" column="20" />
+        <mark key="]" line="33" column="36" />
+        <mark key="^" line="33" column="36" />
+        <mark key="." line="33" column="36" />
       </file>
       <file name="$USER_HOME$/codes/personal/spring-cloud-docker/spring-cloud-eureka/pom.xml" timestamp="1511776019700">
         <mark key="'" line="27" column="0" />
@@ -3523,16 +3523,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}&quot;, fixedRateString = &quot;${ohm2.registry.heartbeatInterval:25000}&quot;)</text>
+        <text>okhttp</text>
       </register>
       <register name="-" type="4">
-        <text>}&quot;, fixedRateString = &quot;${ohm2.registry.heartbeatInterval:25000}&quot;)</text>
+        <text>okhttp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+aW8uZ2l0aHViLm9wZW5mZWlnbjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+ZmVpZ24tb2todHRwPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj45LjQuMDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
