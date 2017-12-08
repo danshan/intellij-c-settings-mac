@@ -2365,11 +2365,11 @@
         <mark key="." line="26" column="4" />
         <mark key="^" line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-sgw/pom.xml" timestamp="1512638280047">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="32" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-sgw/pom.xml" timestamp="1512691788358">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="34" column="50" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/config/application.yml" timestamp="1501818632922">
         <mark key="[" line="22" column="0" />
@@ -3302,12 +3302,12 @@
         <mark key="." line="68" column="27" />
         <mark key="^" line="62" column="28" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-sgw/src/main/java/com/wanda/ohm2/registry/sgw/discovery/Ohm2ServiceLifecycle.java" timestamp="1512618084517">
-        <mark key="'" line="104" column="4" />
-        <mark key="[" line="67" column="55" />
-        <mark key="]" line="79" column="24" />
-        <mark key="." line="79" column="24" />
-        <mark key="^" line="79" column="24" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-sgw/src/main/java/com/wanda/ohm2/registry/sgw/discovery/Ohm2ServiceLifecycle.java" timestamp="1512691916687">
+        <mark key="'" line="32" column="10" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="80" column="11" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/maxwell/maxwell-web-security/src/main/java/com/wanda/maxwell/web/security/BodyReaderHttpServletRequestWrapper.java" timestamp="1511340433364">
         <mark key="[" line="13" column="0" />
@@ -3425,8 +3425,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="0" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/groovy/com/wanda/ohm/chatops/xxoo/utils/MockUtils.groovy" />
-      <jump line="62" column="39" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/build.gradle" />
       <jump line="14" column="56" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/test/groovy/com/wanda/ohm/chatops/xxoo/integration/jira/task/JiraIssueDueDateDailyTaskTest.groovy" />
       <jump line="59" column="0" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/build.gradle" />
       <jump line="32" column="33" filename="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/service/impl/MessageServiceImpl.groovy" />
@@ -3525,13 +3523,15 @@
       <jump line="73" column="0" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-sgw/src/main/java/com/wanda/ohm2/registry/sgw/discovery/Ohm2ServerList.java" />
       <jump line="104" column="0" filename="$USER_HOME$/codes/others/spring-cloud-etcd/spring-cloud-etcd-discovery/src/main/java/org/springframework/cloud/etcd/discovery/EtcdServerList.java" />
       <jump line="23" column="3" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-sgw/src/main/java/com/wanda/ohm2/registry/sgw/discovery/Ohm2ServerList.java" />
+      <jump line="96" column="22" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-sgw/src/main/java/com/wanda/ohm2/registry/sgw/discovery/Ohm2ServiceLifecycle.java" />
+      <jump line="33" column="10" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-sgw/src/main/java/com/wanda/ohm2/registry/sgw/discovery/Ohm2ServiceLifecycle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>abtest</text>
+        <text>extends AbstractDiscoveryLifecycle {</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
@@ -3540,31 +3540,31 @@
         <text encoding="base64">ICAgIEBSZXNvdXJjZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IExvYWRCYWxhbmNlckZlaWduQ2xpZW50KGRlbGVnYXRlLCBjYWNoaW5nRmFjdG9yeSwgY2xpZW50RmFjdG9yeSk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxlZ2F0ZSA9IG5ldyBmZWlnbi5va2h0dHAuT2tIdHRwQ2xpZW50KHRoaXMub2tIdHRwQ2xpZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5wcm9wZXJ0aWVzOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmZWlnbi5va2h0dHAuT2tIdHRwQ2xpZW50IGRlbGVnYXRlOwo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBPaG0yRGlzY292ZXJ5UHJvcGVydGllcyBnZXRDb25maWd1cmF0aW9uKCkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3ByaW5nQ2xpZW50RmFjdG9yeSBjbGllbnRGYWN0b3J5KSB7Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBDbGllbnQgZmVpZ25DbGllbnQoQ2FjaGluZ1NwcmluZ0xvYWRCYWxhbmNlckZhY3RvcnkgY2FjaGluZ0ZhY3RvcnksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBDb25kaXRpb25hbE9uTWlzc2luZ0JlYW4oQ2xpZW50LmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCg==</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2aWNlLnNldFBvcnQocG9ydCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLm5ldGZsaXgucmliYm9uPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5yaWJib24tbG9hZGJhbGFuY2VyPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4yLjIuMDwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIHNldENvbmZpZ3VyZWRQb3J0KGludCBwb3J0KSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
