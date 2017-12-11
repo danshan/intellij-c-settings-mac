@@ -365,7 +365,6 @@
         <mark key="^" line="42" column="29" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/others/spring-cloud-etcd/spring-cloud-etcd-discovery/src/main/java/org/springframework/cloud/etcd/discovery/EtcdServer.java" timestamp="1512636629948" />
       <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-registry-etcd/src/main/java/com/wanda/ohm2/registry/RegistryAutoConfiguration.java" timestamp="1511948083568">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -1609,8 +1608,8 @@
         <mark key="^" line="22" column="54" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-web-okhttp/src/main/java/com/wanda/ohm2/web/okhttp/SecurityInterceptor.java" timestamp="1511761358024">
-        <mark key="[" line="66" column="46" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-web-okhttp/src/main/java/com/wanda/ohm2/web/okhttp/SecurityInterceptor.java" timestamp="1512973019280">
+        <mark key="[" line="27" column="6" />
         <mark key="]" line="66" column="52" />
         <mark key="." line="66" column="52" />
         <mark key="^" line="66" column="52" />
@@ -1917,7 +1916,6 @@
         <mark key="^" line="6" column="49" />
         <mark key="." line="6" column="49" />
       </file>
-      <file name="$USER_HOME$/codes/others/spring-cloud-etcd/spring-cloud-etcd-discovery/pom.xml" timestamp="1512635002491" />
       <file name="$USER_HOME$/codes/personal/douban-videostation/src/main/java/com/shanhh/synology/douban/client/bean/Movie.java" timestamp="1506561335457">
         <mark key="[" line="12" column="3" />
         <mark key="]" line="14" column="6" />
@@ -2102,7 +2100,6 @@
         <mark key="^" line="20" column="22" />
         <mark key="." line="20" column="22" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.2.3.RELEASE/spring-cloud-netflix-core-1.2.3.RELEASE-sources.jar!/org/springframework/cloud/netflix/feign/ribbon/FeignRibbonClientAutoConfiguration.java" timestamp="1512633652217" />
       <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/resources/META-INF/app.properties" timestamp="1505116632025">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
@@ -3235,9 +3232,6 @@
         <mark key="]" line="29" column="31" />
         <mark key="." line="29" column="31" />
         <mark key="^" line="29" column="31" />
-      </file>
-      <file name="$USER_HOME$/codes/others/spring-cloud-etcd/spring-cloud-etcd-discovery/src/main/java/org/springframework/cloud/etcd/discovery/EtcdServerList.java" timestamp="1512634461385">
-        <mark key="'" line="104" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/service/AdapterRegister.groovy" timestamp="1508835895672">
         <mark key="[" line="21" column="2" />
