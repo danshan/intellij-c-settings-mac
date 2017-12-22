@@ -1940,11 +1940,11 @@
         <mark key="." line="13" column="53" />
         <mark key="^" line="13" column="53" />
       </file>
-      <file name="$USER_HOME$/codes/others/airwellexdemo/src/main/java/com/shanhh/airwallex/demo/operators/Subtraction.java" timestamp="1513873481285">
+      <file name="$USER_HOME$/codes/others/airwellexdemo/src/main/java/com/shanhh/airwallex/demo/operators/Subtraction.java" timestamp="1513902519747">
         <mark key="[" line="22" column="26" />
-        <mark key="]" line="22" column="26" />
-        <mark key="." line="22" column="26" />
-        <mark key="^" line="18" column="39" />
+        <mark key="]" line="23" column="34" />
+        <mark key="." line="23" column="34" />
+        <mark key="^" line="23" column="34" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ldap-devops-sync/src/main/groovy/com/wanda/devops/sync/integration/jira/service/JiraServiceImpl.groovy" timestamp="1510134033106">
         <mark key="[" line="44" column="0" />
