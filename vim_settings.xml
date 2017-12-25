@@ -405,12 +405,12 @@
         <mark key="^" line="35" column="31" />
         <mark key="." line="35" column="31" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/service/workflow/impl/WorkflowServiceImpl.java" timestamp="1514183677715">
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/service/workflow/impl/WorkflowServiceImpl.java" timestamp="1514186028775">
         <mark key="'" line="85" column="53" />
-        <mark key="[" line="89" column="20" />
-        <mark key="]" line="89" column="31" />
-        <mark key="." line="89" column="31" />
-        <mark key="^" line="89" column="31" />
+        <mark key="[" line="98" column="44" />
+        <mark key="]" line="98" column="48" />
+        <mark key="." line="98" column="48" />
+        <mark key="^" line="98" column="48" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/webpack.config.js" timestamp="1502437525187">
         <mark key="[" line="10" column="0" />
@@ -2059,11 +2059,11 @@
         <mark key="^" line="14" column="2" />
         <mark key="." line="14" column="2" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/workflow/dto/schema/CIBuildSchema.java" timestamp="1514171250587">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="9" column="26" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/workflow/dto/schema/CIBuildSchema.java" timestamp="1514185944074">
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="12" column="17" />
+        <mark key="^" line="12" column="17" />
+        <mark key="." line="12" column="17" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/integration/crucible/service/CrucibleService.java" timestamp="1509674384607">
         <mark key="[" line="8" column="33" />
@@ -4036,10 +4036,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">d29yayA=</text>
+        <text>stages</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">d29yayA=</text>
+        <text>stages</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
