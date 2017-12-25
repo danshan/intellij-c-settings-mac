@@ -4076,8 +4076,8 @@
       <register name="6" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaW5wdXQ7Cg==</text>
+      <register name="7" type="4">
+        <text />
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgaW5wdXQgPSBzY2FubmVyLm5leHRMaW5lKCk7Cg==</text>
