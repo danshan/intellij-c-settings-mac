@@ -405,11 +405,11 @@
         <mark key="^" line="35" column="31" />
         <mark key="." line="35" column="31" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/service/workflow/impl/WorkflowServiceImpl.java" timestamp="1513932988861">
-        <mark key="[" line="68" column="97" />
-        <mark key="]" line="68" column="14" />
-        <mark key="." line="68" column="14" />
-        <mark key="^" line="68" column="14" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/service/workflow/impl/WorkflowServiceImpl.java" timestamp="1514182653161">
+        <mark key="'" line="83" column="53" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/webpack.config.js" timestamp="1502437525187">
         <mark key="[" line="10" column="0" />
@@ -680,12 +680,6 @@
         <mark key="]" line="20" column="35" />
         <mark key="." line="20" column="35" />
         <mark key="^" line="20" column="35" />
-      </file>
-      <file name="$USER_HOME$/codes/others/airwellexdemo/src/main/java/com/shanhh/airwallex/demo/Application.java" timestamp="1514164749499">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/service/impl/SubChannelServiceImpl.java" timestamp="1502681460753">
         <mark key="[" line="2" column="0" />
@@ -1326,11 +1320,11 @@
         <mark key="." line="16" column="104" />
         <mark key="^" line="16" column="104" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/workflow/WorkflowController.java" timestamp="1514168400663">
-        <mark key="[" line="21" column="24" />
-        <mark key="]" line="21" column="32" />
-        <mark key="." line="21" column="32" />
-        <mark key="^" line="21" column="32" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/workflow/WorkflowController.java" timestamp="1514181289815">
+        <mark key="[" line="42" column="39" />
+        <mark key="]" line="42" column="58" />
+        <mark key="." line="42" column="58" />
+        <mark key="^" line="42" column="58" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/github/service/GithubPullRequestBuilder.java" timestamp="1501839399763">
         <mark key="[" line="23" column="0" />
@@ -3935,7 +3929,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="55" filename="$USER_HOME$/codes/wanda/maxwell/maxwell-core/src/main/java/com/wanda/maxwell/core/logging/KafkaAppender.java" />
       <jump line="315" column="4" filename="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.9.0.0/kafka-clients-0.9.0.0-sources.jar!/org/apache/kafka/clients/producer/ProducerConfig.java" />
       <jump line="38" column="21" filename="$USER_HOME$/codes/wanda/maxwell/maxwell-core/src/main/java/com/wanda/maxwell/core/logging/KafkaAppender.java" />
       <jump line="113" column="38" filename="$USER_HOME$/codes/wanda/maxwell/maxwell-core/src/main/resources/logback-spring.xml" />
@@ -4035,46 +4028,47 @@
       <jump line="60" column="0" filename="$USER_HOME$/codes/others/airwellexdemo/src/main/java/com/shanhh/airwallex/demo/Application.java" />
       <jump line="41" column="45" filename="$USER_HOME$/codes/others/airwellexdemo/src/main/java/com/shanhh/airwallex/demo/Application.java" />
       <jump line="0" column="0" filename="$USER_HOME$/codes/others/airwellexdemo/src/main/java/com/shanhh/airwallex/demo/Application.java" />
+      <jump line="84" column="53" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/service/workflow/impl/WorkflowServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>code</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>code</text>
+        <text>cibuild</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGlkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAiY2lidWlsZCI6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzdGFnZUJ1aWxkZXIucmVnaXN0ZXIoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBKU09OQXJyYXkgd29ya2Zsb3dKc29uID0gSlNPTi5wYXJzZUFycmF5KGNvbnRlbnQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBkZWxldGVkOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxldGVkID0gMAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
-      </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB3b3JrZmxvd0J1aWxkZXIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB3b3JrZmxvdy5zdHJlYW0oKS5tYXAodGhpczo6YnVpbGRTdGFnZSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB3b3JrZmxvdy5nZXRKU09OT2JqZWN0KCkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
