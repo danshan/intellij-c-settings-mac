@@ -210,11 +210,6 @@
         <mark key="^" line="20" column="60" />
         <mark key="." line="20" column="60" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo-integration/demo-sa/src/main/java/com/wanda/ohm2/demo/sa/Application.java" timestamp="1513913608774">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/dto/ProjectRunStatusDTO.java" timestamp="1513840256179">
         <mark key="[" line="22" column="23" />
         <mark key="]" line="22" column="19" />
@@ -371,11 +366,6 @@
         <mark key="^" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/others/airwellexdemo/src/main/java/com/shanhh/airwallex/demo/OperatorFactory.java" timestamp="1513872543855">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/service/parser/JiraAddGithubUser.java" timestamp="1507516107628">
         <mark key="[" line="7" column="30" />
         <mark key="]" line="3" column="7" />
@@ -436,11 +426,6 @@
         <mark key="]" line="84" column="0" />
         <mark key="^" line="77" column="72" />
         <mark key="." line="84" column="0" />
-      </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/dao/entity/Project.java" timestamp="1513843756225">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="28" />
-        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/webpack.config.js" timestamp="1502437525187">
         <mark key="[" line="10" column="0" />
@@ -514,11 +499,6 @@
         <mark key="^" line="37" column="44" />
         <mark key="." line="37" column="44" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/service/scheduled/ScheduledService.java" timestamp="1514189078565">
-        <mark key="[" line="6" column="7" />
-        <mark key="]" line="6" column="7" />
-        <mark key="." line="6" column="7" />
-      </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/adapter/Adapter.java" timestamp="1502261977461">
         <mark key="[" line="9" column="17" />
         <mark key="]" line="9" column="13" />
@@ -585,11 +565,11 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="41" column="43" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/service/workflow/executor/CIBuildExecutor.java" timestamp="1514339960872">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="59" column="21" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/service/workflow/executor/CIBuildExecutor.java" timestamp="1514343373258">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+        <mark key="^" line="91" column="49" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ldap-devops-sync/src/main/java/com/wanda/devops/sync/task/ReloadDisabledUsersTask.java" timestamp="1506737529771">
         <mark key="[" line="18" column="0" />
@@ -849,11 +829,6 @@
         <mark key="]" line="18" column="25" />
         <mark key="^" line="18" column="30" />
         <mark key="." line="18" column="25" />
-      </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/src/main/java/com/wanda/ohm2/demo/Application.java" timestamp="1513822774303">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/service/BranchMarkCalculatorImpl.java" timestamp="1504836671246">
         <mark key="[" line="8" column="38" />
@@ -1355,11 +1330,6 @@
         <mark key="^" line="47" column="2" />
         <mark key="." line="47" column="2" />
       </file>
-      <file name="$USER_HOME$/codes/others/airwellexdemo/src/main/java/com/shanhh/airwallex/demo/Operation.java" timestamp="1513926230468">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/task/GithubRepoTask.java" timestamp="1507790192784">
         <mark key="[" line="26" column="28" />
         <mark key="]" line="26" column="42" />
@@ -1440,11 +1410,6 @@
         <mark key="^" line="14" column="29" />
         <mark key="." line="14" column="29" />
       </file>
-      <file name="$USER_HOME$/codes/others/airwellexdemo/pom.xml" timestamp="1514291148863">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Commons/src/main/java/com/wanda/ohm/chatops/commons/client/SubEventController.java" timestamp="1502681228395">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -1474,11 +1439,6 @@
         <mark key="]" line="200" column="94" />
         <mark key="^" line="211" column="55" />
         <mark key="." line="200" column="94" />
-      </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/dao/entity/WorkflowExecRecord.java" timestamp="1514256259524">
-        <mark key="[" line="20" column="26" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/jira/service/JiraService.java" timestamp="1501744685849">
         <mark key="[" line="19" column="13" />
@@ -2131,11 +2091,11 @@
         <mark key="^" line="14" column="2" />
         <mark key="." line="14" column="2" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/workflow/dto/schema/CIBuildSchema.java" timestamp="1514266824062">
-        <mark key="[" line="16" column="26" />
-        <mark key="]" line="12" column="17" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/workflow/dto/schema/CIBuildSchema.java" timestamp="1514341138109">
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="16" column="19" />
         <mark key="^" line="12" column="17" />
-        <mark key="." line="12" column="17" />
+        <mark key="." line="16" column="19" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/integration/crucible/service/CrucibleService.java" timestamp="1509674384607">
         <mark key="[" line="8" column="33" />
@@ -2323,11 +2283,12 @@
         <mark key="^" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/integration/jenkins/JenkinsSDK.java" timestamp="1514338976064">
-        <mark key="[" line="55" column="50" />
-        <mark key="]" line="55" column="50" />
-        <mark key="." line="55" column="50" />
-        <mark key="^" line="55" column="60" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/integration/jenkins/JenkinsSDK.java" timestamp="1514343055493">
+        <mark key="'" line="61" column="15" />
+        <mark key="[" line="46" column="58" />
+        <mark key="]" line="46" column="63" />
+        <mark key="^" line="46" column="63" />
+        <mark key="." line="46" column="63" />
       </file>
       <file name="$USER_HOME$/codes/personal/douban-videostation/src/main/java/com/shanhh/synology/douban/client/bean/Movie.java" timestamp="1506561335457">
         <mark key="[" line="12" column="3" />
@@ -2382,11 +2343,6 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
         <mark key="^" line="21" column="90" />
-      </file>
-      <file name="$USER_HOME$/codes/others/airwellexdemo/src/main/java/com/shanhh/airwallex/demo/Item.java" timestamp="1513927280013">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/service/impl/JiraWebhookParserImpl.java" timestamp="1507515918504">
         <mark key="[" line="16" column="0" />
@@ -2810,11 +2766,6 @@
         <mark key="." line="54" column="15" />
         <mark key="^" line="17" column="5" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/workflow/dto/WorkflowController.java" timestamp="1513904835182">
-        <mark key="[" line="0" column="50" />
-        <mark key="]" line="0" column="50" />
-        <mark key="." line="0" column="50" />
-      </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/bearychat/client/StashErrorDecoder.java" timestamp="1500426840873">
         <mark key="[" line="29" column="61" />
         <mark key="]" line="29" column="73" />
@@ -3073,7 +3024,7 @@
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
       </file>
-      <file name="/fragment.java" timestamp="1514303327914">
+      <file name="/fragment.java" timestamp="1514343056231">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
@@ -3800,10 +3751,11 @@
         <mark key="^" line="12" column="4" />
         <mark key="." line="12" column="4" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/target/classes/pipeline/maven_jdk8.groovy" timestamp="1514303596172">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/target/classes/pipeline/maven_jdk8.groovy" timestamp="1514341039690">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+        <mark key="^" line="6" column="13" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/ChatOpsXxooApplication.groovy" timestamp="1508740995344">
         <mark key="[" line="18" column="11" />
@@ -3956,11 +3908,6 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/Application.java" timestamp="1513913963314">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/core/config/ChatopsConfig.java" timestamp="1501749195176">
         <mark key="[" line="39" column="36" />
         <mark key="]" line="39" column="36" />
@@ -4090,7 +4037,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="11" filename="$MAVEN_REPOSITORY$/org/codehaus/janino/janino/2.7.8/janino-2.7.8-sources.jar!/org/codehaus/janino/UnitCompiler.java" />
       <jump line="2" column="13" filename="$USER_HOME$/codes/wanda/maxwell/maxwell-core/src/main/resources/logback-spring.xml" />
       <jump line="15" column="7" filename="$USER_HOME$/codes/wanda/maxwell/maxwell-core/src/main/java/com/wanda/maxwell/core/logging/kafka-appender.xml" />
       <jump line="16" column="0" filename="$USER_HOME$/codes/wanda/maxwell/maxwell-core/src/main/java/com/wanda/maxwell/core/logging/kafka-appender.xml" />
@@ -4190,46 +4136,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/service/workflow/executor/CIBuildExecutor.java" />
       <jump line="90" column="84" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/service/workflow/executor/CIBuildExecutor.java" />
       <jump line="116" column="26" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/service/workflow/executor/CIBuildExecutor.java" />
+      <jump line="52" column="15" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/integration/jenkins/JenkinsSDK.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0cmlnZ2VySm9iQnVpbGQoKTsK</text>
+        <text encoding="base64">ICAgICAgICB0cmFja2VyQWN0aW9uLmFkZEVsZW1lbnQoImpvYlByb3BlcnRpZXMiKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>APPLICATION_XML_VALUE</text>
+        <text>toString</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9qZWN0RFRPIHByb2plY3QgPSBwcm9qZWN0UmVwby5sb2FkUHJvamVjdEJ5SWQod29ya2Zsb3cuZ2V0UHJvamVjdElkKCkpOwogICAgICAgIFByZWNvbmRpdGlvbnMuY2hlY2tBcmd1bWVudChwcm9qZWN0ICE9IG51bGwsICJwcm9qZWN0IG5vdCBleGlzdHMgOiVkIiwgd29ya2Zsb3cuZ2V0UHJvamVjdElkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0cmFja2VyQWN0aW9uLmFkZEVsZW1lbnQoImpvYlByb3BlcnRpZXMiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0cmlnZ2VySm9iQnVpbGQoKTsK</text>
+        <text encoding="base64">ICAgICAgICB0cmFja2VyQWN0aW9uLmFkZEVsZW1lbnQoImpvYlByb3BlcnRpZXMiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5Yib5bu6amVua2lucyDpobnnm64K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9qZWN0UmVwby5sb2FkUHJvamVjdEJ5SWQod29ya2Zsb3cpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0LkJ1aWxkZXIgYnVpbGRlciA9IG5ldyBSZXF1ZXN0LkJ1aWxkZXIoKS51cmwodXJsKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0Qm9keSByZXF1ZXN0Qm9keSA9IFJlcXVlc3RCb2R5LmNyZWF0ZShva2h0dHAzLk1lZGlhVHlwZS5wYXJzZShNZWRpYVR5cGUuQVBQTElDQVRJT05fSlNPTl9VVEY4X1ZBTFVFKSwganNvbi5nZXRCeXRlcyhDaGFyc2V0cy5VVEZfOCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9qZWN0RFRPIHByb2plY3QgPSBwcm9qZWN0UmVwby5sb2FkUHJvamVjdEJ5SWQod29ya2Zsb3cuZ2V0UHJvamVjdElkKCkpOwogICAgICAgIFByZWNvbmRpdGlvbnMuY2hlY2tBcmd1bWVudChwcm9qZWN0ICE9IG51bGwsICJwcm9qZWN0IG5vdCBleGlzdHMgOiVkIiwgd29ya2Zsb3cuZ2V0UHJvamVjdElkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9qZWN0U2VydmljZS5sb2FkCg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFBhcmFtPiBwYXJhbWV0ZXIgPSBMaXN0cy5uZXdMaW5rZWRMaXN0KCk7CiAgICAgICAgcGFyYW1zLmZvckVhY2goKG5hbWUsIHZhbHVlKSAtPiBwYXJhbWV0ZXIuYWRkKG5ldyBQYXJhbShuYW1lLCB2YWx1ZSkpKTsKICAgICAgICBTdHJpbmcganNvbiA9IEpTT04udG9KU09OU3RyaW5nKEltbXV0YWJsZU1hcC48U3RyaW5nLCBMaXN0PFBhcmFtPj5idWlsZGVyKCkucHV0KCJwYXJhbWV0ZXIiLCBwYXJhbWV0ZXIpLmJ1aWxkKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBQcm9qZWN0U2VydmljZSBwcm9qZWN0U2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcganNvbiA9IEpTT04udG9KU09OU3RyaW5nKEltbXV0YWJsZU1hcC48U3RyaW5nLCBMaXN0PFBhcmFtPj5idWlsZGVyKCkucHV0KCJwYXJhbWV0ZXIiLCBwYXJhbWV0ZXIpLmJ1aWxkKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXMuZm9yRWFjaCgobmFtZSwgdmFsdWUpIC0+IHBhcmFtZXRlci5hZGQobmV3IFBhcmFtKG5hbWUsIHZhbHVlKSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
