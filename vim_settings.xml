@@ -585,11 +585,11 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="41" column="43" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/service/workflow/executor/CIBuildExecutor.java" timestamp="1514337231803">
-        <mark key="[" line="122" column="32" />
-        <mark key="]" line="122" column="63" />
-        <mark key="." line="122" column="63" />
-        <mark key="^" line="122" column="63" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/service/workflow/executor/CIBuildExecutor.java" timestamp="1514339960872">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="59" column="21" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ldap-devops-sync/src/main/java/com/wanda/devops/sync/task/ReloadDisabledUsersTask.java" timestamp="1506737529771">
         <mark key="[" line="18" column="0" />
@@ -4192,8 +4192,8 @@
       <jump line="116" column="26" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/service/workflow/executor/CIBuildExecutor.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>APPLICATION_XML_VALUE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0cmlnZ2VySm9iQnVpbGQoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>APPLICATION_XML_VALUE</text>
@@ -4205,28 +4205,28 @@
         <text encoding="base64">ICAgICAgICBQcm9qZWN0RFRPIHByb2plY3QgPSBwcm9qZWN0UmVwby5sb2FkUHJvamVjdEJ5SWQod29ya2Zsb3cuZ2V0UHJvamVjdElkKCkpOwogICAgICAgIFByZWNvbmRpdGlvbnMuY2hlY2tBcmd1bWVudChwcm9qZWN0ICE9IG51bGwsICJwcm9qZWN0IG5vdCBleGlzdHMgOiVkIiwgd29ya2Zsb3cuZ2V0UHJvamVjdElkKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9qZWN0UmVwby5sb2FkUHJvamVjdEJ5SWQod29ya2Zsb3cpCg==</text>
+        <text encoding="base64">ICAgICAgICB0cmlnZ2VySm9iQnVpbGQoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5Yib5bu6amVua2lucyDpobnnm64K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcm9qZWN0UmVwby5sb2FkUHJvamVjdEJ5SWQod29ya2Zsb3cpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9qZWN0RFRPIHByb2plY3QgPSBwcm9qZWN0UmVwby5sb2FkUHJvamVjdEJ5SWQod29ya2Zsb3cuZ2V0UHJvamVjdElkKCkpOwogICAgICAgIFByZWNvbmRpdGlvbnMuY2hlY2tBcmd1bWVudChwcm9qZWN0ICE9IG51bGwsICJwcm9qZWN0IG5vdCBleGlzdHMgOiVkIiwgd29ya2Zsb3cuZ2V0UHJvamVjdElkKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9qZWN0U2VydmljZS5sb2FkCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBQcm9qZWN0U2VydmljZSBwcm9qZWN0U2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICBQcm9qZWN0RFRPIHByb2plY3QgPSBwcm9qZWN0UmVwby5sb2FkUHJvamVjdEJ5SWQod29ya2Zsb3cuZ2V0UHJvamVjdElkKCkpOwogICAgICAgIFByZWNvbmRpdGlvbnMuY2hlY2tBcmd1bWVudChwcm9qZWN0ICE9IG51bGwsICJwcm9qZWN0IG5vdCBleGlzdHMgOiVkIiwgd29ya2Zsb3cuZ2V0UHJvamVjdElkKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9qZWN0U2VydmljZS5sb2FkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBQcm9qZWN0U2VydmljZSBwcm9qZWN0U2VydmljZTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
