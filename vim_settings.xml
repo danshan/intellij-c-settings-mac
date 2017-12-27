@@ -120,11 +120,11 @@
         <mark key="." line="26" column="72" />
         <mark key="^" line="26" column="72" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/workflow/dto/WorkflowDTO.java" timestamp="1514257168477">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="39" column="4" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/workflow/dto/WorkflowDTO.java" timestamp="1514356641020">
+        <mark key="[" line="40" column="37" />
+        <mark key="]" line="40" column="53" />
+        <mark key="^" line="40" column="53" />
+        <mark key="." line="40" column="53" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/UserController.java" timestamp="1513904772426">
         <mark key="[" line="0" column="41" />
@@ -240,6 +240,12 @@
         <mark key="^" line="16" column="32" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/workflow/dto/schema/StepSchemaDTO.java" timestamp="1514357695125">
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="10" column="11" />
+        <mark key="^" line="11" column="41" />
+        <mark key="." line="10" column="11" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/ldap-devops-sync/src/main/java/com/wanda/devops/sync/core/config/LdapConfig.java" timestamp="1506738863484">
         <mark key="[" line="19" column="35" />
         <mark key="]" line="19" column="35" />
@@ -288,6 +294,7 @@
         <mark key="^" line="16" column="4" />
         <mark key="." line="16" column="4" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.5.9/swagger-annotations-1.5.9-sources.jar!/io/swagger/annotations/ApiModelProperty.java" timestamp="1514356785304" />
       <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/integration/jira/bean/JiraTransition.java" timestamp="1503483114817">
         <mark key="[" line="26" column="27" />
         <mark key="]" line="26" column="49" />
@@ -419,13 +426,6 @@
         <mark key="]" line="35" column="31" />
         <mark key="^" line="35" column="31" />
         <mark key="." line="35" column="31" />
-      </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/service/workflow/impl/WorkflowServiceImpl.java" timestamp="1514272233888">
-        <mark key="'" line="100" column="42" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="^" line="77" column="72" />
-        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/webpack.config.js" timestamp="1502437525187">
         <mark key="[" line="10" column="0" />
@@ -811,11 +811,11 @@
         <mark key="^" line="19" column="54" />
         <mark key="." line="19" column="54" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/workflow/dto/WorkflowStageDTO.java" timestamp="1514257148789">
-        <mark key="[" line="35" column="8" />
-        <mark key="]" line="35" column="14" />
-        <mark key="." line="35" column="14" />
-        <mark key="^" line="35" column="14" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/workflow/dto/WorkflowStageDTO.java" timestamp="1514356684589">
+        <mark key="[" line="33" column="46" />
+        <mark key="]" line="33" column="46" />
+        <mark key="." line="33" column="46" />
+        <mark key="^" line="33" column="35" />
       </file>
       <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/model/JIRATask.java" timestamp="1502777789684">
         <mark key="[" line="12" column="0" />
@@ -921,7 +921,7 @@
         <mark key="." line="32" column="12" />
         <mark key="^" line="11" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514302509770">
+      <file name="/Dummy.txt" timestamp="1514355345346">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/github/service/GithubPingBuilder.java" timestamp="1501839394507">
@@ -1037,13 +1037,6 @@
         <mark key="]" line="22" column="0" />
         <mark key="^" line="23" column="32" />
         <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/resources/application.yml" timestamp="1514301000377">
-        <mark key="'" line="1" column="5" />
-        <mark key="[" line="20" column="20" />
-        <mark key="]" line="20" column="14" />
-        <mark key="." line="20" column="19" />
-        <mark key="^" line="18" column="29" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/src/main/java/com/wanda/ohm/chatops/admin/service/SubscriptionService.java" timestamp="1502695485123">
         <mark key="[" line="17" column="10" />
@@ -1355,11 +1348,11 @@
         <mark key="." line="7" column="39" />
         <mark key="^" line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/workflow/WorkflowController.java" timestamp="1514337798699">
-        <mark key="[" line="42" column="49" />
-        <mark key="]" line="42" column="49" />
-        <mark key="." line="42" column="49" />
-        <mark key="^" line="42" column="50" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/workflow/WorkflowController.java" timestamp="1514357293789">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="62" />
+        <mark key="^" line="50" column="78" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.3.1/okhttp-3.3.1-sources.jar!/okhttp3/RealCall.java" timestamp="1514354522972" />
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/github/service/GithubPullRequestBuilder.java" timestamp="1501839399763">
@@ -1664,11 +1657,11 @@
         <mark key="^" line="19" column="116" />
         <mark key="." line="19" column="15" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/project/dto/ProjectRepositoryDTO.java" timestamp="1513747880940">
-        <mark key="[" line="18" column="23" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="0" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/project/dto/ProjectRepositoryDTO.java" timestamp="1514357613024">
+        <mark key="[" line="29" column="35" />
+        <mark key="]" line="29" column="37" />
+        <mark key="." line="29" column="37" />
+        <mark key="^" line="29" column="37" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ldap-devops-sync/src/main/java/com/wanda/devops/sync/App.java" timestamp="1506737247453">
         <mark key="[" line="18" column="30" />
@@ -1766,11 +1759,11 @@
         <mark key="^" line="120" column="21" />
         <mark key="." line="120" column="21" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/menu/dto/MenuItemDTO.java" timestamp="1514190383750">
-        <mark key="[" line="21" column="50" />
-        <mark key="]" line="30" column="22" />
-        <mark key="." line="30" column="22" />
-        <mark key="^" line="30" column="22" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/menu/dto/MenuItemDTO.java" timestamp="1514357406755">
+        <mark key="[" line="24" column="19" />
+        <mark key="]" line="26" column="41" />
+        <mark key="." line="26" column="41" />
+        <mark key="^" line="26" column="41" />
       </file>
       <file name="$USER_HOME$/codes/wanda/yui-hatano/node_modules/hubot-scripts/src/scripts/github-activity.coffee" timestamp="1501142697267">
         <mark key="[" line="30" column="44" />
@@ -2284,13 +2277,6 @@
         <mark key="^" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/integration/jenkins/JenkinsSDK.java" timestamp="1514352944133">
-        <mark key="'" line="61" column="15" />
-        <mark key="[" line="46" column="58" />
-        <mark key="]" line="46" column="63" />
-        <mark key="^" line="46" column="63" />
-        <mark key="." line="46" column="63" />
-      </file>
       <file name="$USER_HOME$/codes/personal/douban-videostation/src/main/java/com/shanhh/synology/douban/client/bean/Movie.java" timestamp="1506561335457">
         <mark key="[" line="12" column="3" />
         <mark key="]" line="14" column="6" />
@@ -2375,11 +2361,11 @@
         <mark key="^" line="31" column="28" />
         <mark key="." line="32" column="12" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/project/dto/ProjectDTO.java" timestamp="1514191545525">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="15" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="44" column="15" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/project/dto/ProjectDTO.java" timestamp="1514357538302">
+        <mark key="[" line="49" column="23" />
+        <mark key="]" line="49" column="28" />
+        <mark key="^" line="49" column="28" />
+        <mark key="." line="49" column="28" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/service/workflow/executor/ProjectBuildExecutor.java" timestamp="1513829161297">
         <mark key="[" line="9" column="34" />
@@ -2423,7 +2409,12 @@
         <mark key="^" line="10" column="31" />
         <mark key="." line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/user/UserController.java" timestamp="1514191685824" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/user/UserController.java" timestamp="1514357378237">
+        <mark key="[" line="28" column="28" />
+        <mark key="]" line="28" column="49" />
+        <mark key="^" line="28" column="49" />
+        <mark key="." line="28" column="49" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-web-security/src/main/java/com/wanda/ohm2/web/security/AccessRequiredInterceptor.java" timestamp="1512526874063">
         <mark key="[" line="33" column="39" />
         <mark key="]" line="33" column="44" />
@@ -2581,11 +2572,11 @@
         <mark key="." line="25" column="9" />
         <mark key="^" line="25" column="9" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/menu/MenuController.java" timestamp="1513923858274">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="35" column="23" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/menu/MenuController.java" timestamp="1514356983075">
+        <mark key="[" line="31" column="35" />
+        <mark key="]" line="31" column="56" />
+        <mark key="^" line="31" column="56" />
+        <mark key="." line="31" column="56" />
       </file>
       <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/resources/ohm.properties" timestamp="1505117461502">
         <mark key="[" line="7" column="56" />
@@ -2755,11 +2746,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="44" column="78" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/workflow/dto/WorkflowExecRecordDTO.java" timestamp="1514256483819">
-        <mark key="[" line="31" column="26" />
-        <mark key="]" line="41" column="32" />
-        <mark key="^" line="41" column="32" />
-        <mark key="." line="41" column="32" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/workflow/dto/WorkflowExecRecordDTO.java" timestamp="1514356283848">
+        <mark key="[" line="57" column="23" />
+        <mark key="]" line="57" column="40" />
+        <mark key="^" line="57" column="40" />
+        <mark key="." line="57" column="40" />
       </file>
       <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/handler/WeChatSubscribeHandler.java" timestamp="1503457883217">
         <mark key="[" line="54" column="15" />
@@ -3134,11 +3125,11 @@
         <mark key="^" line="31" column="35" />
         <mark key="." line="31" column="35" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/project/ProjectsController.java" timestamp="1514252890629">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="37" column="86" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/project/ProjectsController.java" timestamp="1514357271314">
+        <mark key="[" line="42" column="78" />
+        <mark key="]" line="42" column="78" />
+        <mark key="^" line="42" column="78" />
+        <mark key="." line="42" column="78" />
       </file>
       <file name="$USER_HOME$/codes/personal/spring-cloud-docker/spring-boot-admin/src/main/docker/Dockerfile" timestamp="1511776056379">
         <mark key="[" line="4" column="67" />
@@ -3278,11 +3269,11 @@
         <mark key="." line="24" column="43" />
         <mark key="^" line="24" column="42" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/workflow/dto/WorkflowStepDTO.java" timestamp="1514256672610">
-        <mark key="[" line="29" column="30" />
-        <mark key="]" line="29" column="37" />
-        <mark key="^" line="29" column="37" />
-        <mark key="." line="29" column="37" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/workflow/dto/WorkflowStepDTO.java" timestamp="1514356801013">
+        <mark key="[" line="31" column="31" />
+        <mark key="]" line="31" column="38" />
+        <mark key="^" line="31" column="38" />
+        <mark key="." line="31" column="38" />
       </file>
       <file name="$USER_HOME$/codes/personal/douban-videostation/src/main/java/com/shanhh/synology/douban/client/DoubanClient.java" timestamp="1506563257752">
         <mark key="[" line="26" column="39" />
@@ -3675,7 +3666,7 @@
         <mark key="^" line="23" column="35" />
         <mark key="." line="24" column="12" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/service/workflow/executor/SchemaFactory.java" timestamp="1514188934898">
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/service/workflow/executor/SchemaFactory.java" timestamp="1514356725022">
         <mark key="[" line="32" column="95" />
         <mark key="]" line="43" column="96" />
         <mark key="." line="42" column="0" />
@@ -3831,6 +3822,12 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="23" column="37" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/user/dto/UserDTO.java" timestamp="1514357689582">
+        <mark key="[" line="29" column="23" />
+        <mark key="]" line="29" column="26" />
+        <mark key="." line="29" column="26" />
+        <mark key="^" line="29" column="26" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/integration/crucible/task/CrucibleNotifyTask.groovy" timestamp="1509944875893">
         <mark key="[" line="21" column="4" />
         <mark key="]" line="21" column="4" />
@@ -3946,11 +3943,11 @@
         <mark key="." line="48" column="11" />
         <mark key="^" line="48" column="11" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/DebugController.java" timestamp="1514191746034">
-        <mark key="[" line="25" column="49" />
-        <mark key="]" line="26" column="33" />
-        <mark key="." line="26" column="33" />
-        <mark key="^" line="26" column="33" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/DebugController.java" timestamp="1514357335901">
+        <mark key="[" line="17" column="3" />
+        <mark key="]" line="18" column="9" />
+        <mark key="." line="18" column="9" />
+        <mark key="^" line="18" column="9" />
       </file>
       <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/integration/github/GithubClient.java" timestamp="1504517109903">
         <mark key="[" line="8" column="60" />
@@ -4142,43 +4139,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>用户信息</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>用户信息</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFja2VyQWN0aW9uLmFkZEVsZW1lbnQoImpvYlByb3BlcnRpZXMiKTsK</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIuS7k+W6k+WQjeensCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY2hhaW4gLT4gewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVxdWVzdCByZXF1ZXN0ID0gY2hhaW4ucmVxdWVzdCgpOwo=</text>
+        <text encoding="base64">QEFwaU9wZXJhdGlvbih2YWx1ZSA9ICJ3b3JrZmxvdyDnm7jlhbPmjqXlj6MiLCB0YWdzID0geyJ3b3JrZmxvdyJ9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">QEFwaU9wZXJhdGlvbigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVxdWVzdCByZXF1ZXN0ID0gY2hhaW4ucmVxdWVzdCgpOwo=</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KCLliJvlu7rml7bpl7QiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
