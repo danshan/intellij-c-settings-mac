@@ -1390,7 +1390,7 @@
         <mark key="." line="42" column="49" />
         <mark key="^" line="42" column="50" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.3.1/okhttp-3.3.1-sources.jar!/okhttp3/RealCall.java" timestamp="1514300973049" />
+      <file name="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.3.1/okhttp-3.3.1-sources.jar!/okhttp3/RealCall.java" timestamp="1514338786055" />
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/github/service/GithubPullRequestBuilder.java" timestamp="1501839399763">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -2323,11 +2323,11 @@
         <mark key="^" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/integration/jenkins/JenkinsSDK.java" timestamp="1514335714193">
-        <mark key="[" line="37" column="38" />
-        <mark key="]" line="37" column="99" />
-        <mark key="." line="37" column="99" />
-        <mark key="^" line="37" column="99" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/integration/jenkins/JenkinsSDK.java" timestamp="1514338976064">
+        <mark key="[" line="55" column="50" />
+        <mark key="]" line="55" column="50" />
+        <mark key="." line="55" column="50" />
+        <mark key="^" line="55" column="60" />
       </file>
       <file name="$USER_HOME$/codes/personal/douban-videostation/src/main/java/com/shanhh/synology/douban/client/bean/Movie.java" timestamp="1506561335457">
         <mark key="[" line="12" column="3" />
@@ -4193,10 +4193,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>workflow</text>
+        <text>APPLICATION_XML_VALUE</text>
       </register>
       <register name="-" type="4">
-        <text>workflow</text>
+        <text>APPLICATION_XML_VALUE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
