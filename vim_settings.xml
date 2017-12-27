@@ -2283,7 +2283,7 @@
         <mark key="^" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/integration/jenkins/JenkinsSDK.java" timestamp="1514343055493">
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/integration/jenkins/JenkinsSDK.java" timestamp="1514345687705">
         <mark key="'" line="61" column="15" />
         <mark key="[" line="46" column="58" />
         <mark key="]" line="46" column="63" />
@@ -3751,10 +3751,10 @@
         <mark key="^" line="12" column="4" />
         <mark key="." line="12" column="4" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/target/classes/pipeline/maven_jdk8.groovy" timestamp="1514341039690">
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="13" />
-        <mark key="." line="6" column="13" />
+      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/target/classes/pipeline/maven_jdk8.groovy" timestamp="1514345715854">
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="12" column="31" />
+        <mark key="." line="12" column="31" />
         <mark key="^" line="6" column="13" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/ChatOpsXxooApplication.groovy" timestamp="1508740995344">
@@ -4139,11 +4139,11 @@
       <jump line="52" column="15" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/integration/jenkins/JenkinsSDK.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFja2VyQWN0aW9uLmFkZEVsZW1lbnQoImpvYlByb3BlcnRpZXMiKTsK</text>
+      <register name="&quot;" type="4">
+        <text>repoBranch</text>
       </register>
       <register name="-" type="4">
-        <text>toString</text>
+        <text>repoBranch</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
