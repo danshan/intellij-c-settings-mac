@@ -291,7 +291,6 @@
         <mark key="^" line="16" column="4" />
         <mark key="." line="16" column="4" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.5.9/swagger-annotations-1.5.9-sources.jar!/io/swagger/annotations/ApiModelProperty.java" timestamp="1514356785304" />
       <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/integration/jira/bean/JiraTransition.java" timestamp="1503483114817">
         <mark key="[" line="26" column="27" />
         <mark key="]" line="26" column="49" />
@@ -833,7 +832,6 @@
         <mark key="^" line="28" column="4" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/Siberia/src/main/java/com/wanda/ohm/siberia/entity/enums/Env.java" timestamp="1514264215435" />
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/entity/SubChannel.java" timestamp="1502256510259">
         <mark key="[" line="18" column="25" />
         <mark key="]" line="18" column="25" />
@@ -852,7 +850,6 @@
         <mark key="." line="26" column="3" />
         <mark key="^" line="26" column="3" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.3.1/okhttp-3.3.1-sources.jar!/okhttp3/internal/http/Http1xStream.java" timestamp="1514354604689" />
       <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo-integration/demo-sb/src/main/java/com/wanda/ohm2/demo/sb/repository/key/BaseCacheKey.java" timestamp="1513587055270">
         <mark key="[" line="13" column="92" />
         <mark key="]" line="13" column="91" />
@@ -1124,7 +1121,6 @@
         <mark key="^" line="27" column="84" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/integration/jira/client/JiraClientConfig.groovy" timestamp="1514271584904" />
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/adapter/wandartx/WandartxConfig.java" timestamp="1507626651351">
         <mark key="[" line="29" column="31" />
         <mark key="]" line="29" column="38" />
@@ -1365,7 +1361,6 @@
         <mark key="^" line="50" column="78" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.3.1/okhttp-3.3.1-sources.jar!/okhttp3/RealCall.java" timestamp="1514354522972" />
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/github/service/GithubPullRequestBuilder.java" timestamp="1501839399763">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -1378,7 +1373,6 @@
         <mark key="." line="18" column="14" />
         <mark key="^" line="15" column="35" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/plugin/Plugin.java" timestamp="1514263905600" />
       <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/.gitignore" timestamp="1502440331678">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
@@ -1643,7 +1637,6 @@
         <mark key="^" line="49" column="62" />
         <mark key="." line="49" column="62" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.openfeign/feign-core/9.3.1/652a0dbf8d8feef0731593d9ef7377bd1119381e/feign-core-9.3.1-sources.jar!/feign/auth/BasicAuthRequestInterceptor.java" timestamp="1514272000957" />
       <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/core/config/WxCpAgentConfig.java" timestamp="1503383969918">
         <mark key="[" line="20" column="26" />
         <mark key="]" line="20" column="21" />
@@ -1938,7 +1931,6 @@
         <mark key="^" line="9" column="13" />
         <mark key="." line="9" column="13" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.8.1/okhttp-3.8.1-sources.jar!/okhttp3/internal/connection/ConnectInterceptor.java" timestamp="1514271301421" />
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/core/config/ChatOpsConfig.java" timestamp="1508743154706">
         <mark key="[" line="17" column="70" />
         <mark key="]" line="17" column="71" />
@@ -1993,7 +1985,6 @@
         <mark key="." line="20" column="28" />
         <mark key="^" line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-core/src/test/java/com/wanda/ohm2/core/logging/DesensitizedUtilsTest.groovy" timestamp="1514290817758" />
       <file name="$USER_HOME$/codes/others/airwellexdemo/src/main/java/com/shanhh/airwallex/demo/operators/Division.java" timestamp="1513926586843">
         <mark key="[" line="18" column="78" />
         <mark key="]" line="19" column="56" />
@@ -2505,7 +2496,6 @@
         <mark key="^" line="21" column="45" />
         <mark key="." line="21" column="45" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-web-okhttp/README.md" timestamp="1514270967154" />
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/core/cache/key/UserSubscriptionKey.java" timestamp="1502269864105">
         <mark key="[" line="21" column="51" />
         <mark key="]" line="21" column="62" />
@@ -3022,6 +3012,7 @@
         <mark key="." line="10" column="62" />
         <mark key="^" line="10" column="62" />
       </file>
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/controller/AdapterController.groovy" timestamp="1515984045884" />
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/bearychat/client/BearychatClientConfig.java" timestamp="1501581041859">
         <mark key="[" line="16" column="15" />
         <mark key="]" line="16" column="41" />
@@ -3088,7 +3079,6 @@
         <mark key="^" line="13" column="30" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.3.1/okhttp-3.3.1-sources.jar!/okhttp3/internal/http/HttpEngine.java" timestamp="1514354210616" />
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/integration/github/service/GithubBuilder.java" timestamp="1508209611651">
         <mark key="[" line="40" column="87" />
         <mark key="]" line="40" column="99" />
@@ -3311,7 +3301,6 @@
         <mark key="." line="21" column="66" />
         <mark key="^" line="21" column="66" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.3.1/okhttp-3.3.1-sources.jar!/okhttp3/MediaType.java" timestamp="1514273091788" />
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/jira/JiraConfig.java" timestamp="1501829777176">
         <mark key="[" line="27" column="28" />
         <mark key="]" line="29" column="15" />
@@ -3510,7 +3499,7 @@
         <mark key="." line="26" column="40" />
         <mark key="^" line="26" column="40" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/controller/MessageController.groovy" timestamp="1509582532267">
+      <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/controller/MessageController.groovy" timestamp="1515983830590">
         <mark key="[" line="43" column="19" />
         <mark key="]" line="43" column="19" />
         <mark key="." line="43" column="19" />
@@ -3864,7 +3853,6 @@
         <mark key="." line="29" column="31" />
         <mark key="^" line="29" column="31" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/project/dto/ProjectStatus.java" timestamp="1514191388595" />
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/service/AdapterRegister.groovy" timestamp="1508835895672">
         <mark key="[" line="21" column="2" />
         <mark key="]" line="21" column="2" />
@@ -4045,7 +4033,6 @@
         <mark key="." line="49" column="45" />
         <mark key="^" line="40" column="86" />
       </file>
-      <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-demo/src/main/java/com/wanda/ohm2/demo/controller/DemoController.java" timestamp="1514272025166" />
       <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/repository/ProjectRepo.java" timestamp="1514269946418">
         <mark key="[" line="12" column="35" />
         <mark key="]" line="12" column="36" />
