@@ -15,6 +15,9 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="30" column="40" />
       </file>
+      <file name="/a.dummy" timestamp="1518061018634">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/entity/Subscription.java" timestamp="1502243779035">
         <mark key="[" line="21" column="16" />
         <mark key="]" line="21" column="16" />
@@ -238,6 +241,12 @@
         <mark key="." line="1" column="6" />
         <mark key="^" line="1" column="6" />
       </file>
+      <file name="$USER_HOME$/codes/haier/togather/togather-web/src/main/java/tech/hsyk/togather/web/controller/workbench/NewsController.java" timestamp="1518061271267">
+        <mark key="[" line="36" column="78" />
+        <mark key="]" line="38" column="123" />
+        <mark key="." line="38" column="123" />
+        <mark key="^" line="38" column="123" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/wand_backend/src/test/java/com/wanda/wdlist/integration/jira/bean/JiraSearchRequestTest.java" timestamp="1503898456105">
         <mark key="[" line="28" column="56" />
         <mark key="]" line="28" column="56" />
@@ -421,11 +430,11 @@
         <mark key="^" line="19" column="56" />
         <mark key="." line="19" column="56" />
       </file>
-      <file name="$USER_HOME$/codes/haier/togather/togather-web/src/main/java/tech/hsyk/togather/web/controller/workbench/StreamController.java" timestamp="1518008916949">
-        <mark key="[" line="39" column="88" />
-        <mark key="]" line="39" column="89" />
-        <mark key="^" line="39" column="38" />
-        <mark key="." line="39" column="89" />
+      <file name="$USER_HOME$/codes/haier/togather/togather-web/src/main/java/tech/hsyk/togather/web/controller/workbench/StreamController.java" timestamp="1518061015942">
+        <mark key="[" line="22" column="24" />
+        <mark key="]" line="22" column="27" />
+        <mark key="^" line="22" column="27" />
+        <mark key="." line="22" column="27" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ldap-devops-sync/src/main/groovy/com/wanda/devops/sync/task/ReloadDisabledUsersTask.groovy" timestamp="1510134115488">
         <mark key="[" line="34" column="59" />
@@ -1224,6 +1233,12 @@
         <mark key="]" line="19" column="28" />
         <mark key="." line="19" column="28" />
         <mark key="^" line="19" column="28" />
+      </file>
+      <file name="$USER_HOME$/codes/haier/togather/togather-web/src/main/java/tech/hsyk/togather/web/controller/workbench/dto/NewsGroupDTO.java" timestamp="1518061399005">
+        <mark key="[" line="16" column="51" />
+        <mark key="]" line="12" column="1" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="12" column="1" />
       </file>
       <file name="$USER_HOME$/codes/others/airwellexdemo/src/main/java/com/shanhh/airwallex/demo/operators/Addition.java" timestamp="1513926563795">
         <mark key="[" line="18" column="78" />
@@ -3903,11 +3918,11 @@
         <mark key="." line="26" column="50" />
         <mark key="^" line="13" column="5" />
       </file>
-      <file name="$USER_HOME$/codes/haier/togather/togather-web/src/main/java/tech/hsyk/togather/web/controller/workbench/dto/StreamDTO.java" timestamp="1518008148533">
-        <mark key="[" line="24" column="26" />
-        <mark key="]" line="24" column="26" />
-        <mark key="." line="24" column="26" />
-        <mark key="^" line="24" column="13" />
+      <file name="$USER_HOME$/codes/haier/togather/togather-web/src/main/java/tech/hsyk/togather/web/controller/workbench/dto/StreamDTO.java" timestamp="1518061409532">
+        <mark key="[" line="24" column="21" />
+        <mark key="]" line="24" column="21" />
+        <mark key="." line="24" column="21" />
+        <mark key="^" line="24" column="25" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/service/impl/EventServiceImpl.java" timestamp="1502242374662">
         <mark key="[" line="30" column="15" />
@@ -4314,10 +4329,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>itle</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>itle</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
