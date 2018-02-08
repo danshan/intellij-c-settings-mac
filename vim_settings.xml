@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/codes/haier/togather/togather-news-listener/src/main/java/tech/hsyk/togather/news/listener/service/impl/NewsServiceImpl.java" timestamp="1518091769037">
-        <mark key="[" line="28" column="28" />
-        <mark key="]" line="28" column="28" />
-        <mark key="." line="28" column="28" />
-        <mark key="^" line="28" column="28" />
+      <file name="$USER_HOME$/codes/haier/togather/togather-news-listener/src/main/java/tech/hsyk/togather/news/listener/service/impl/NewsServiceImpl.java" timestamp="1518093515069">
+        <mark key="[" line="37" column="40" />
+        <mark key="]" line="37" column="52" />
+        <mark key="." line="37" column="52" />
+        <mark key="^" line="37" column="52" />
       </file>
       <file name="$USER_HOME$/codes/haier/togather/togather-news-listener/src/main/java/tech/hsyk/togather/news/listener/Application.java" timestamp="1518081438547">
         <mark key="[" line="15" column="26" />
@@ -514,11 +514,11 @@
         <mark key="^" line="16" column="16" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/haier/togather/togather-news-listener/config/application.yml" timestamp="1518091715823">
-        <mark key="[" line="4" column="22" />
-        <mark key="]" line="3" column="3" />
-        <mark key="^" line="3" column="3" />
-        <mark key="." line="3" column="3" />
+      <file name="$USER_HOME$/codes/haier/togather/togather-news-listener/config/application.yml" timestamp="1518093123769">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="4" />
+        <mark key="." line="7" column="4" />
+        <mark key="^" line="7" column="10" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/entity/SubEvent.java" timestamp="1502243770804">
         <mark key="[" line="18" column="12" />
@@ -897,11 +897,11 @@
         <mark key="^" line="30" column="43" />
         <mark key="." line="30" column="43" />
       </file>
-      <file name="$USER_HOME$/codes/haier/togather/togather-news-listener/src/main/java/tech/hsyk/togather/news/listener/config/MqConfig.java" timestamp="1518091445914">
+      <file name="$USER_HOME$/codes/haier/togather/togather-news-listener/src/main/java/tech/hsyk/togather/news/listener/config/MqConfig.java" timestamp="1518092952402">
         <mark key="[" line="30" column="19" />
-        <mark key="]" line="30" column="19" />
-        <mark key="." line="30" column="19" />
-        <mark key="^" line="29" column="27" />
+        <mark key="]" line="30" column="23" />
+        <mark key="." line="30" column="23" />
+        <mark key="^" line="30" column="23" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/entity/SubChannel.java" timestamp="1502256510259">
         <mark key="[" line="18" column="25" />
@@ -2589,6 +2589,12 @@
         <mark key="]" line="33" column="44" />
         <mark key="." line="33" column="44" />
         <mark key="^" line="33" column="44" />
+      </file>
+      <file name="$USER_HOME$/codes/haier/togather/togather-news-listener/src/main/java/tech/hsyk/togather/news/listener/config/ListenerConfig.java" timestamp="1518093185545">
+        <mark key="[" line="24" column="11" />
+        <mark key="]" line="24" column="10" />
+        <mark key="^" line="24" column="10" />
+        <mark key="." line="24" column="10" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/src/main/java/com/wanda/ohm/chatops/admin/controller/dto/SubscriptionResp.java" timestamp="1502938014394">
         <mark key="[" line="10" column="26" />
@@ -4380,10 +4386,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>count</text>
+        <text>futures</text>
       </register>
       <register name="-" type="4">
-        <text>count</text>
+        <text>futures</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
@@ -4392,31 +4398,31 @@
         <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHBhc3N3b3JkOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvdW50OiAyMAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IoRnV0dXJlPFN0cmluZz4gZnV0dXJlIDogZnV0dXJlcyl7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiZnV0dXJlLmdldCA9ICIgKyBmdXR1cmUuZ2V0KCkpOwogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5idWlsZCgpOwo=</text>
+        <text encoding="base64">ICAgIHBvb2wK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBSZXF1ZXN0Qm9keSByZXF1ZXN0Qm9keSA9IFJlcXVlc3RCb2R5LmNyZWF0ZSgpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC51cmwoU3RyaW5nLmZvcm1hdCgiJXMvY3JlYXRlSXRlbT9uYW1lPSVzIiwgamVua2luc0NvbmZpZy5nZXRVcmwoKSwgam9iTmFtZSkpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5oZWFkZXIoIkNvbnRlbnQtVHlwZSIsIE1lZGlhVHlwZS5URVhUX1hNTF9WQUxVRSkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBSZXEK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBSZXBvc2l0b3J5Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvdW50OiAyMAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5idWlsZCgpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0Qm9keSByZXF1ZXN0Qm9keSA9IFJlcXVlc3RCb2R5LmNyZWF0ZSgpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC51cmwoU3RyaW5nLmZvcm1hdCgiJXMvY3JlYXRlSXRlbT9uYW1lPSVzIiwgamVua2luc0NvbmZpZy5nZXRVcmwoKSwgam9iTmFtZSkpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5oZWFkZXIoIkNvbnRlbnQtVHlwZSIsIE1lZGlhVHlwZS5URVhUX1hNTF9WQUxVRSkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZXEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
