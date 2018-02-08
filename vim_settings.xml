@@ -241,7 +241,7 @@
         <mark key="." line="1" column="6" />
         <mark key="^" line="1" column="6" />
       </file>
-      <file name="$USER_HOME$/codes/haier/togather/togather-web/src/main/java/tech/hsyk/togather/web/controller/workbench/NewsController.java" timestamp="1518061271267">
+      <file name="$USER_HOME$/codes/haier/togather/togather-web/src/main/java/tech/hsyk/togather/web/controller/workbench/NewsController.java" timestamp="1518062235112">
         <mark key="[" line="36" column="78" />
         <mark key="]" line="38" column="123" />
         <mark key="." line="38" column="123" />
@@ -868,6 +868,12 @@
         <mark key="^" line="28" column="4" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/codes/haier/togather/togather-web/src/main/java/tech/hsyk/togather/web/controller/workbench/AnnouncementController.java" timestamp="1518062608822">
+        <mark key="[" line="30" column="24" />
+        <mark key="]" line="30" column="43" />
+        <mark key="^" line="30" column="43" />
+        <mark key="." line="30" column="43" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/entity/SubChannel.java" timestamp="1502256510259">
         <mark key="[" line="18" column="25" />
         <mark key="]" line="18" column="25" />
@@ -916,7 +922,7 @@
         <mark key="^" line="7" column="39" />
         <mark key="." line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/codes/haier/togather/togather-web/src/main/java/tech/hsyk/togather/web/controller/workbench/dto/NewsDTO.java" timestamp="1518008883672">
+      <file name="$USER_HOME$/codes/haier/togather/togather-web/src/main/java/tech/hsyk/togather/web/controller/workbench/dto/NewsDTO.java" timestamp="1518062413727">
         <mark key="'" line="39" column="22" />
         <mark key="[" line="35" column="31" />
         <mark key="]" line="36" column="23" />
@@ -3469,6 +3475,12 @@
         <mark key="." line="22" column="119" />
         <mark key="^" line="32" column="102" />
       </file>
+      <file name="$USER_HOME$/codes/haier/togather/togather-web/src/main/java/tech/hsyk/togather/web/controller/workbench/dto/AnnouncementDTO.java" timestamp="1518062592003">
+        <mark key="[" line="25" column="19" />
+        <mark key="]" line="33" column="24" />
+        <mark key="^" line="33" column="24" />
+        <mark key="." line="33" column="24" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-api/src/main/java/com/wanda/ohm/cmdb/api/gen/entity/People.java" timestamp="1507779133642">
         <mark key="[" line="24" column="4" />
         <mark key="]" line="24" column="4" />
@@ -4329,43 +4341,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>StreamDTO</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>StreamDTO</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHRpdGxlOwo=</text>
+        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
+        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRGF0ZSA7Cg==</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIuWwgemdouWbviIsIGV4YW1wbGUgPSAiaHR0cDovL2ltZzQuOTkxMTQuY29tL2dyb3VwMS9NMDAvNTUvNjgvd0tnR01GVkRmek9BQmd5b0FBQXMwdXlPNEg0OTY0XzYwMF82MDAuZ2lmIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IHR5cGVJZDsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRGF0ZSA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIuWIhue7hOexu+Wei0lELCDmtojmga/msYfmgLvnmoTkvp3mja4iLCBleGFtcGxlID0gIjEwIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IHR5cGVJZDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIuWIhue7hOexu+Wei0lELCDmtojmga/msYfmgLvnmoTkvp3mja4iLCBleGFtcGxlID0gIjEwIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDw+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDw+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
