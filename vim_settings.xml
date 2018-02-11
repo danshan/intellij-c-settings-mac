@@ -15,11 +15,11 @@
         <mark key="^" line="19" column="4" />
         <mark key="." line="19" column="4" />
       </file>
-      <file name="$USER_HOME$/codes/haier/togather/togather-contacts-web/src/main/java/tech/hsyk/togather/contacts/web/repo/dao/mapper/DepartmentMapper.xml" timestamp="1518303343559">
-        <mark key="[" line="16" column="67" />
-        <mark key="]" line="16" column="67" />
-        <mark key="^" line="16" column="55" />
-        <mark key="." line="16" column="67" />
+      <file name="$USER_HOME$/codes/haier/togather/togather-contacts-web/src/main/java/tech/hsyk/togather/contacts/web/repo/dao/mapper/DepartmentMapper.xml" timestamp="1518311081337">
+        <mark key="[" line="35" column="12" />
+        <mark key="]" line="35" column="12" />
+        <mark key="." line="35" column="12" />
+        <mark key="^" line="33" column="25" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/config/application.yml" timestamp="1502938756057">
         <mark key="[" line="12" column="0" />
@@ -4621,43 +4621,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getId</text>
+        <text>parent_id = #{parentId}, name = #{name}, the_order = #{order}</text>
       </register>
       <register name="-" type="4">
-        <text>getId</text>
+        <text>parent_id = #{parentId}, name = #{name}, the_order = #{order}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkdG8uc2V0SWQoSWRVdGlscy5lbmNvZGUoZGVwYXJ0bWVudC5nZXRJZCgpKSk7Cg==</text>
+        <text encoding="base64">ICAgIDx1cGRhdGUgaWQ9InVwZGF0ZUJ5SWQiIHBhcmFtZXRlclR5cGU9IkRlcGFydG1lbnQiPgogICAgICAgIFVQREFURSB0Z2FfZGVwYXJ0bWVudAogICAgICAgIFNFVCBwYXJlbnRfaWQgPSAje3BhcmVudElkfSwgbmFtZSA9ICN7bmFtZX0sIHRoZV9vcmRlciA9ICN7b3JkZXJ9CiAgICAgICAgV0hFUkUgaWQgPSAje2lkfSBBTkQgdGVuYW50X2lkID0gI3t0ZW5hbnRJZH0gQU5EIGRlbGV0ZWQgPSAwCiAgICAgICAgTElNSVQgMQogICAgPC91cGRhdGU+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgIDxkZWxldGUgaWQ9ImRlbGV0ZUJ5SWQiPgogICAgICAgIERFTEVURSB0Z2FfZGVwYXJ0bWVudAogICAgICAgIFdIRVJFIGlkID0gI3tpZH0gQU5EIHRlbmFudF9pZCA9ICN7dGVuYW50SWR9IEFORCBkZWxldGVkID0gMAogICAgPC9kZWxldGU+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGludCBkZWxldGUoaW50IGRlcGFydG1lbnRJZCk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICBXSEVSRSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkZWxldGUgaWQ9IiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGludCBkZWxldGUoaW50IGRlcGFydG1lbnRJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgICAgICBVUERBVEUgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBWQUxVRVMgKCAje2lkfSwgI3twYXJlbnRJZH0sICN7bmFtZX0sICN7b3JkZXJ9LCAje3RlbmFudElkfSApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpCg==</text>
+        <text encoding="base64">ICAgICAgICBTRUxFQ1QgPGluYyIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZXBhcnRtZW50LnNldElkKElkVXRpbHMuZW5jb2RlKHBvLmdldElkKCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGludCBkZWxldGUoaW50IGRlcGFydG1lbnRJZCk7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
