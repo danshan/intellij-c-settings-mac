@@ -15,11 +15,11 @@
         <mark key="^" line="19" column="4" />
         <mark key="." line="19" column="4" />
       </file>
-      <file name="$USER_HOME$/codes/haier/togather/togather-contacts-web/src/main/java/tech/hsyk/togather/contacts/web/repo/dao/mapper/DepartmentMapper.xml" timestamp="1518311081337">
-        <mark key="[" line="35" column="12" />
-        <mark key="]" line="35" column="12" />
-        <mark key="." line="35" column="12" />
-        <mark key="^" line="33" column="25" />
+      <file name="$USER_HOME$/codes/haier/togather/togather-contacts-web/src/main/java/tech/hsyk/togather/contacts/web/repo/dao/mapper/DepartmentMapper.xml" timestamp="1518314263321">
+        <mark key="[" line="10" column="67" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="43" column="37" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Admin/config/application.yml" timestamp="1502938756057">
         <mark key="[" line="12" column="0" />
@@ -32,9 +32,6 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
         <mark key="^" line="30" column="40" />
-      </file>
-      <file name="/a.dummy" timestamp="1518295018558">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codes/haier/kcb/kcb-data-mybatis/src/main/java/com/wanda/ohm2/data/mybatis/MybatisConfig.java" timestamp="1518159391210">
         <mark key="[" line="0" column="19" />
@@ -318,9 +315,6 @@
         <mark key="]" line="20" column="29" />
         <mark key="." line="20" column="29" />
         <mark key="^" line="20" column="29" />
-      </file>
-      <file name="$USER_HOME$/codes/haier/togather/togather-web/src/main/java/tech/hsyk/togather/web/controller/servicedesk/package-info.java" timestamp="1517994747060">
-        <mark key="[" line="0" column="3" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/controller/SubEventController.java" timestamp="1502694841784">
         <mark key="[" line="35" column="105" />
@@ -904,9 +898,6 @@
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/codes/haier/togather/togather-web/src/main/java/tech/hsyk/togather/web/service/AnnouncementService.java" timestamp="1518158736846">
-        <mark key="[" line="2" column="3" />
-      </file>
       <file name="$USER_HOME$/codes/wanda/CMDB/cmdb-service/src/main/java/com/wanda/ohm/cmdb/service/gen/entity/People.java" timestamp="1507779121298">
         <mark key="[" line="27" column="4" />
         <mark key="]" line="27" column="4" />
@@ -1057,9 +1048,6 @@
         <mark key="]" line="32" column="12" />
         <mark key="." line="32" column="12" />
         <mark key="^" line="11" column="9" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1518294798789">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/github/service/GithubPingBuilder.java" timestamp="1501839394507">
         <mark key="[" line="17" column="0" />
@@ -1249,12 +1237,11 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/codes/haier/togather/togather-contacts-web/src/main/java/tech/hsyk/togather/contacts/web/service/impl/DepartmentServiceImpl.java" timestamp="1518303019400">
-        <mark key="'" line="43" column="65" />
-        <mark key="[" line="51" column="51" />
-        <mark key="]" line="51" column="62" />
-        <mark key="." line="51" column="62" />
-        <mark key="^" line="51" column="62" />
+      <file name="$USER_HOME$/codes/haier/togather/togather-contacts-web/src/main/java/tech/hsyk/togather/contacts/web/service/impl/DepartmentServiceImpl.java" timestamp="1518315005515">
+        <mark key="'" line="47" column="65" />
+        <mark key="[" line="47" column="72" />
+        <mark key="]" line="47" column="72" />
+        <mark key="." line="47" column="72" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/core/controller/SubscriptionController.java" timestamp="1502257074601">
         <mark key="[" line="34" column="61" />
@@ -1538,13 +1525,12 @@
         <mark key="^" line="50" column="78" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/haier/togather/togather-contacts-web/src/main/java/tech/hsyk/togather/contacts/web/controller/contacts/DepartmentController.java" timestamp="1518307416326">
-        <mark key="'" line="63" column="55" />
+      <file name="$USER_HOME$/codes/haier/togather/togather-contacts-web/src/main/java/tech/hsyk/togather/contacts/web/controller/contacts/DepartmentController.java" timestamp="1518314139799">
         <mark key="j" line="43" column="98" />
-        <mark key="[" line="43" column="88" />
-        <mark key="]" line="43" column="88" />
-        <mark key="." line="43" column="88" />
-        <mark key="^" line="50" column="81" />
+        <mark key="[" line="65" column="89" />
+        <mark key="]" line="65" column="89" />
+        <mark key="." line="65" column="89" />
+        <mark key="^" line="65" column="89" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/github/service/GithubPullRequestBuilder.java" timestamp="1501839399763">
         <mark key="[" line="23" column="0" />
@@ -1594,20 +1580,17 @@
         <mark key="^" line="14" column="26" />
         <mark key="." line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/codes/haier/togather/togather-contacts-web/src/main/java/tech/hsyk/togather/contacts/web/service/DepartmentService.java" timestamp="1518302753466">
-        <mark key="[" line="16" column="29" />
-        <mark key="]" line="16" column="29" />
-        <mark key="." line="16" column="29" />
-        <mark key="^" line="14" column="35" />
+      <file name="$USER_HOME$/codes/haier/togather/togather-contacts-web/src/main/java/tech/hsyk/togather/contacts/web/service/DepartmentService.java" timestamp="1518314567980">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="23" />
+        <mark key="." line="20" column="23" />
+        <mark key="^" line="20" column="23" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/test/resources/payload/jira.issue_updated.json" timestamp="1500877735382">
         <mark key="[" line="314" column="3" />
         <mark key="]" line="127" column="21" />
         <mark key="^" line="127" column="21" />
         <mark key="." line="127" column="21" />
-      </file>
-      <file name="$USER_HOME$/codes/haier/togather/togather-news-gateway/config/application.yml" timestamp="1518079923404">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/integration/jira/bean/JiraIssueUpdateRequest.java" timestamp="1502789292424">
         <mark key="[" line="14" column="17" />
@@ -1740,6 +1723,12 @@
         <mark key="]" line="19" column="43" />
         <mark key="." line="19" column="43" />
         <mark key="^" line="19" column="43" />
+      </file>
+      <file name="$USER_HOME$/codes/haier/togather/togather-contacts-web/src/main/java/tech/hsyk/togather/contacts/web/service/UserService.java" timestamp="1518315101176">
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="16" column="23" />
+        <mark key="^" line="16" column="23" />
+        <mark key="." line="16" column="23" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-Subscription/src/main/java/com/wanda/ohm/chatops/subscription/dao/entity/SubChannel.java" timestamp="1502375783490">
         <mark key="[" line="18" column="43" />
@@ -2270,9 +2259,6 @@
         <mark key="." line="0" column="40" />
         <mark key="^" line="0" column="40" />
       </file>
-      <file name="$USER_HOME$/codes/haier/togather/togather-teamwork-web/pom.xml" timestamp="1518294698561">
-        <mark key="[" line="12" column="25" />
-      </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/test/java/com/wanda/ohm/chatops/utils/MockUtils.java" timestamp="1501830354033">
         <mark key="[" line="48" column="15" />
         <mark key="]" line="48" column="15" />
@@ -2347,10 +2333,10 @@
         <mark key="^" line="4" column="62" />
       </file>
       <file name="$USER_HOME$/codes/haier/togather/togather-contacts-web/src/main/java/tech/hsyk/togather/contacts/web/repo/DepartmentRepo.java" timestamp="1518303027600">
-        <mark key="[" line="6" column="33" />
-        <mark key="]" line="7" column="3" />
-        <mark key="." line="7" column="3" />
-        <mark key="^" line="7" column="3" />
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+        <mark key="^" line="9" column="3" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/jira/client/JiraClient.java" timestamp="1501808981766">
         <mark key="[" line="29" column="40" />
@@ -2417,6 +2403,12 @@
         <mark key="]" line="2" column="44" />
         <mark key="^" line="2" column="44" />
         <mark key="." line="2" column="44" />
+      </file>
+      <file name="$USER_HOME$/codes/haier/togather/togather-contacts-web/src/main/java/tech/hsyk/togather/contacts/web/repo/impl/UserRepoImpl.java" timestamp="1518314735616">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="13" column="5" />
+        <mark key="^" line="13" column="5" />
+        <mark key="." line="13" column="5" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/service/scheduled/ScheduledServiceImpl.java" timestamp="1518081708096">
         <mark key="[" line="26" column="0" />
@@ -3193,12 +3185,12 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/codes/haier/togather/togather-contacts-web/src/main/java/tech/hsyk/togather/contacts/web/repo/impl/DepartmentRepoImpl.java" timestamp="1518310111260">
-        <mark key="'" line="24" column="21" />
-        <mark key="[" line="71" column="50" />
-        <mark key="]" line="71" column="62" />
-        <mark key="." line="71" column="62" />
-        <mark key="^" line="71" column="62" />
+      <file name="$USER_HOME$/codes/haier/togather/togather-contacts-web/src/main/java/tech/hsyk/togather/contacts/web/repo/impl/DepartmentRepoImpl.java" timestamp="1518313996772">
+        <mark key="'" line="56" column="48" />
+        <mark key="[" line="56" column="87" />
+        <mark key="]" line="56" column="89" />
+        <mark key="." line="56" column="89" />
+        <mark key="^" line="56" column="89" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/build.gradle" timestamp="1511765622563">
         <mark key="[" line="87" column="49" />
@@ -3337,9 +3329,6 @@
         <mark key="]" line="11" column="52" />
         <mark key="^" line="11" column="52" />
         <mark key="." line="11" column="52" />
-      </file>
-      <file name="$USER_HOME$/codes/haier/togather/togather-news-listener/src/main/java/tech/hsyk/togather/news/listener/repo/impl/NewsRepo.java" timestamp="1518082441876">
-        <mark key="[" line="6" column="21" />
       </file>
       <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/integration/jira/dao/mapper/SprintInfoMapper.java" timestamp="1504683603404">
         <mark key="[" line="19" column="39" />
@@ -3520,6 +3509,12 @@
         <mark key="]" line="42" column="78" />
         <mark key="^" line="42" column="78" />
         <mark key="." line="42" column="78" />
+      </file>
+      <file name="$USER_HOME$/codes/haier/togather/togather-contacts-web/src/main/java/tech/hsyk/togather/contacts/web/repo/UserRepo.java" timestamp="1518315137608">
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="9" column="25" />
+        <mark key="^" line="9" column="25" />
+        <mark key="." line="9" column="25" />
       </file>
       <file name="$USER_HOME$/codes/haier/togather/togather-web/src/main/java/tech/hsyk/togather/web/repo/AnnouncementRepo.java" timestamp="1518165333578">
         <mark key="[" line="30" column="75" />
@@ -3821,11 +3816,11 @@
         <mark key="^" line="11" column="9" />
         <mark key="." line="11" column="9" />
       </file>
-      <file name="$USER_HOME$/codes/haier/togather/togather-contacts-web/src/main/java/tech/hsyk/togather/contacts/web/repo/dao/mapper/DepartmentMapper.java" timestamp="1518309822273">
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="15" column="3" />
-        <mark key="^" line="15" column="3" />
-        <mark key="." line="15" column="3" />
+      <file name="$USER_HOME$/codes/haier/togather/togather-contacts-web/src/main/java/tech/hsyk/togather/contacts/web/repo/dao/mapper/DepartmentMapper.java" timestamp="1518313983521">
+        <mark key="[" line="22" column="87" />
+        <mark key="]" line="22" column="85" />
+        <mark key="^" line="22" column="85" />
+        <mark key="." line="22" column="85" />
       </file>
       <file name="$USER_HOME$/codes/wanda/dashboard-crawler/src/main/java/com/wanda/devops/crawler/integration/jira/client/JiraClient.java" timestamp="1504517684142">
         <mark key="[" line="9" column="7" />
@@ -3982,6 +3977,13 @@
         <mark key="]" line="15" column="3" />
         <mark key="^" line="15" column="3" />
         <mark key="." line="15" column="3" />
+      </file>
+      <file name="$USER_HOME$/codes/haier/togather/togather-contacts-web/src/main/java/tech/hsyk/togather/contacts/web/service/impl/UserServiceImpl.java" timestamp="1518315297251">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="54" column="22" />
+        <mark key="]" line="54" column="35" />
+        <mark key="." line="54" column="35" />
+        <mark key="^" line="54" column="35" />
       </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/core/config/ChatOpsConfig.java" timestamp="1501754447392">
         <mark key="[" line="21" column="35" />
@@ -4518,8 +4520,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="30" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-core/pom.xml" />
-      <jump line="95" column="24" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-core/pom.xml" />
       <jump line="18" column="37" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-core/src/test/java/com/wanda/ohm2/core/logging/DesensitizedUtilsTest.groovy" />
       <jump line="55" column="29" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-core/src/main/java/com/wanda/ohm2/core/logging/DesensitizedUtils.java" />
       <jump line="10" column="8" filename="$USER_HOME$/codes/wanda/ohm2/ohm2-core/README.md" />
@@ -4618,55 +4618,57 @@
       <jump line="11" column="0" filename="$USER_HOME$/codes/haier/togather/togather-contacts-web/src/main/java/tech/hsyk/togather/contacts/web/repo/dao/entity/Department.java" />
       <jump line="42" column="65" filename="$USER_HOME$/codes/haier/togather/togather-contacts-web/src/main/java/tech/hsyk/togather/contacts/web/service/impl/DepartmentServiceImpl.java" />
       <jump line="24" column="21" filename="$USER_HOME$/codes/haier/togather/togather-contacts-web/src/main/java/tech/hsyk/togather/contacts/web/repo/impl/DepartmentRepoImpl.java" />
+      <jump line="56" column="48" filename="$USER_HOME$/codes/haier/togather/togather-contacts-web/src/main/java/tech/hsyk/togather/contacts/web/repo/impl/DepartmentRepoImpl.java" />
+      <jump line="29" column="0" filename="$USER_HOME$/codes/haier/togather/togather-contacts-web/src/main/java/tech/hsyk/togather/contacts/web/service/impl/UserServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>parent_id = #{parentId}, name = #{name}, the_order = #{order}</text>
+        <text>checkNotNull</text>
       </register>
       <register name="-" type="4">
-        <text>parent_id = #{parentId}, name = #{name}, the_order = #{order}</text>
+        <text>checkNotNull</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcml2YXRlXD4=</text>
+        <text encoding="base64">XDxmaW5kQnlQYXJlbnRJZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDx1cGRhdGUgaWQ9InVwZGF0ZUJ5SWQiIHBhcmFtZXRlclR5cGU9IkRlcGFydG1lbnQiPgogICAgICAgIFVQREFURSB0Z2FfZGVwYXJ0bWVudAogICAgICAgIFNFVCBwYXJlbnRfaWQgPSAje3BhcmVudElkfSwgbmFtZSA9ICN7bmFtZX0sIHRoZV9vcmRlciA9ICN7b3JkZXJ9CiAgICAgICAgV0hFUkUgaWQgPSAje2lkfSBBTkQgdGVuYW50X2lkID0gI3t0ZW5hbnRJZH0gQU5EIGRlbGV0ZWQgPSAwCiAgICAgICAgTElNSVQgMQogICAgPC91cGRhdGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICBQcmVjb25kaXRpb25zLmNoZWNrTm90TnVsbCh1c2VyLCAidXNlciBzaG91bGQgbm90IGJlIG51bGwiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxkZWxldGUgaWQ9ImRlbGV0ZUJ5SWQiPgogICAgICAgIERFTEVURSB0Z2FfZGVwYXJ0bWVudAogICAgICAgIFdIRVJFIGlkID0gI3tpZH0gQU5EIHRlbmFudF9pZCA9ICN7dGVuYW50SWR9IEFORCBkZWxldGVkID0gMAogICAgPC9kZWxldGU+Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBXSEVSRSAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIDxkZWxldGUgaWQ9IiIK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBQcmVjb25kaXRpb25zLmNoZWNrQXJndW1lbnQoKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB2YWxpZGF0ZVVwZGF0ZURlcGFydG1lbnQoZGVwYXJ0bWVudCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBQcmVjb25kaXRpb25zLmNoZWNrQXJndW1lbnQoU3RyaW5nVXRpbHMuaXNOb3RCbGFuayh1c2VySWQpLCAidXNlciIpOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBVUERBVEUgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBWQUxVRVMgKCAje2lkfSwgI3twYXJlbnRJZH0sICN7bmFtZX0sICN7b3JkZXJ9LCAje3RlbmFudElkfSApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTRUxFQ1QgPGluYyIiCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCB2YWxpZGF0ZVVwZGF0ZVVzZXIoVXNlckRUTyB1c2VyKSB7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGludCBkZWxldGUoaW50IGRlcGFydG1lbnRJZCk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcml2YXRlXD4=</last-search>
+      <last-search encoding="base64">XDxmaW5kQnlQYXJlbnRJZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcml2YXRlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmaW5kQnlQYXJlbnRJZFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhXD4=</last-substitute>
       <last-dir>-1</last-dir>
@@ -4674,7 +4676,6 @@
     </search>
     <history>
       <history-search>
-        <entry>chant</entry>
         <entry>Chat</entry>
         <entry>chat</entry>
         <entry encoding="base64">XDw6XD4=</entry>
@@ -4694,6 +4695,7 @@
         <entry>data</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
+        <entry encoding="base64">XDxmaW5kQnlQYXJlbnRJZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
