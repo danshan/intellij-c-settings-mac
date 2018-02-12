@@ -3126,6 +3126,12 @@
         <mark key="^" line="19" column="116" />
         <mark key="." line="19" column="15" />
       </file>
+      <file name="$USER_HOME$/codes/haier/togather/togather-teamwork-web/src/main/java/tech/hsyk/togather/contacts/web/controller/workflow/dto/Workflow.java" timestamp="1518419231682">
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="10" column="18" />
+        <mark key="^" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/controller/project/dto/ProjectRepositoryDTO.java" timestamp="1514357613024">
         <mark key="[" line="29" column="35" />
         <mark key="]" line="29" column="37" />
@@ -3623,6 +3629,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="20" column="42" />
+      </file>
+      <file name="$USER_HOME$/codes/haier/togather/togather-teamwork-web/src/main/java/tech/hsyk/togather/contacts/web/controller/workflow/dto/WfFieldType.java" timestamp="1518419359067">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="8" column="20" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="8" column="20" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/core/config/Constants.java" timestamp="1502269810864">
         <mark key="[" line="8" column="24" />
