@@ -2309,9 +2309,6 @@
         <mark key="." line="4" column="62" />
         <mark key="^" line="4" column="62" />
       </file>
-      <file name="$USER_HOME$/codes/haier/togather/togather-contacts-web/src/main/java/tech/hsyk/togather/contacts/web/repo/DepartmentRepo.java" timestamp="1518355054306">
-        <mark key="^" line="12" column="3" />
-      </file>
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/integration/jira/client/JiraClient.java" timestamp="1501808981766">
         <mark key="[" line="29" column="40" />
         <mark key="]" line="29" column="41" />
@@ -2546,7 +2543,6 @@
         <mark key="." line="62" column="56" />
         <mark key="^" line="62" column="55" />
       </file>
-      <file name="$USER_HOME$/codes/others/camunda-get-started-spring-boot/pom.xml" timestamp="1518527475683" />
       <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/integration/ldap/LdapHelper.java" timestamp="1503316225467">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -4054,6 +4050,7 @@
         <mark key="." line="51" column="28" />
         <mark key="^" line="51" column="28" />
       </file>
+      <file name="$USER_HOME$/codes/others/camunda-get-started-spring-boot/src/main/resources/application.yaml" timestamp="1518527948742" />
       <file name="$USER_HOME$/codes/wanda/bearychat-xxoo/src/main/java/com/wanda/ohm/chatops/adapter/bearychat/BearychatClient.java" timestamp="1500425634446">
         <mark key="[" line="20" column="69" />
         <mark key="]" line="20" column="5" />
@@ -4192,7 +4189,6 @@
         <mark key="." line="19" column="64" />
         <mark key="^" line="19" column="64" />
       </file>
-      <file name="$USER_HOME$/codes/others/spring-boot-with-activiti-example/src/main/resources/processes/Developer_Hiring_with_jpa.bpmn20.xml" timestamp="1518508727638" />
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/groovy/com/wanda/ohm/chatops/xxoo/integration/jira/service/JiraIssueBuilder.groovy" timestamp="1509345874770">
         <mark key="[" line="39" column="39" />
         <mark key="]" line="39" column="49" />
