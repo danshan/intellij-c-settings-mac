@@ -4380,11 +4380,10 @@
         <mark key="^" line="0" column="48" />
         <mark key="." line="0" column="48" />
       </file>
-      <file name="$USER_HOME$/codes/haier/togather/togather-teamwork-web/src/main/java/tech/hsyk/togather/contacts/web/service/impl/DynamicProcessServiceImpl.java" timestamp="1518535013129">
-        <mark key="[" line="38" column="44" />
-        <mark key="]" line="38" column="34" />
-        <mark key="." line="38" column="34" />
-        <mark key="^" line="38" column="34" />
+      <file name="$USER_HOME$/codes/haier/togather/togather-teamwork-web/src/main/java/tech/hsyk/togather/contacts/web/service/impl/DynamicProcessServiceImpl.java" timestamp="1518536546145">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-core/src/main/java/com/wanda/ohm2/core/logging/DesensitizedUtils.java" timestamp="1511509544576">
         <mark key="[" line="42" column="29" />
@@ -4605,7 +4604,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24oIuiOt+WPluWFrOWRiiIpCg==</text>
+        <text encoding="base64">ICAgICAgICBldmVudC5zZXRpbgo=</text>
       </register>
       <register name="-" type="4">
         <text>news</text>
@@ -4617,31 +4616,31 @@
         <text encoding="base64">aW1wb3J0IG9yZy5hY3Rpdml0aS5icG1uLm1vZGVsLkJwbW5Nb2RlbDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24oIuiOt+WPluWFrOWRiiIpCg==</text>
+        <text encoding="base64">ICAgICAgICBldmVudC5zZXRpbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QEFwaSh2YWx1ZSA9ICLkv6Hmga/mtYHnm7jlhbMgQVBJIiwgdGFncyA9IHsibmV3cyIsICJ3b3JrYmVuY2giLCAic3RyZWFtIn0pCg==</text>
+        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24oIuiOt+WPluWFrOWRiiIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">QEFwaSh2YWx1ZSA9ICLkv6Hmga/mtYHnm7jlhbMgQVBJIiwgdGFncyA9IHsibmV3cyIsICJ3b3JrYmVuY2giLCAic3RyZWFtIn0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBCZWFuKCJwcm9jZXNzRW5naW5lQ29uZmlndXJhdGlvbiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBQcmltYXJ5Cg==</text>
+        <text encoding="base64">ICAgIEBCZWFuKCJwcm9jZXNzRW5naW5lQ29uZmlndXJhdGlvbiIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jZXNzRW5naW5lQ29uZmlndXJhdGlvbi5zZXREYXRhYmFzZVNjaGVtYVVwZGF0ZSgidHJ1ZSIpOwo=</text>
+        <text encoding="base64">ICAgIEBQcmltYXJ5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTcHJpbmdQcm9jZXNzRW5naW5lQ29uZmlndXJhdGlvbiBwcm9jZXNzRW5naW5lQ29uZmlndXJhdGlvbiA9IChTcHJpbmdQcm9jZXNzRW5naW5lQ29uZmlndXJhdGlvbikgcHJvY2Vzc0VuZ2luZUNvbmZpZ3VyYXRpb24xOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcm9jZXNzRW5naW5lQ29uZmlndXJhdGlvbi5zZXREYXRhYmFzZVNjaGVtYVVwZGF0ZSgidHJ1ZSIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAuc2V0VHJhbnNhY3Rpb25NYW5hZ2VyKHRyYW5zYWN0aW9uTWFuYWdlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTcHJpbmdQcm9jZXNzRW5naW5lQ29uZmlndXJhdGlvbiBwcm9jZXNzRW5naW5lQ29uZmlndXJhdGlvbiA9IChTcHJpbmdQcm9jZXNzRW5naW5lQ29uZmlndXJhdGlvbikgcHJvY2Vzc0VuZ2luZUNvbmZpZ3VyYXRpb24xOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAuc2V0VHJhbnNhY3Rpb25NYW5hZ2VyKHRyYW5zYWN0aW9uTWFuYWdlcik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
