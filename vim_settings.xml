@@ -1351,6 +1351,12 @@
         <mark key="^" line="34" column="37" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/codes/haier/togather/togather-teamwork-web/src/main/java/tech/hsyk/togather/contacts/web/controller/process/DebugController.java" timestamp="1518534989108">
+        <mark key="[" line="29" column="29" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="33" column="4" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/codes/wanda/wand_backend/src/main/java/com/wanda/wdlist/WdlistApplication.java" timestamp="1503884848646">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="9" column="16" />
@@ -2402,6 +2408,7 @@
         <mark key="^" line="8" column="29" />
         <mark key="." line="8" column="29" />
       </file>
+      <file name="$USER_HOME$/codes/haier/togather/togather-teamwork-web/src/main/java/tech/hsyk/togather/contacts/web/controller/workbench/AnnouncementController.java" timestamp="1518534975163" />
       <file name="$USER_HOME$/codes/wanda/ChatOps-XXOO/src/main/java/com/wanda/ohm/chatops/xxoo/core/config/AdapterConfigLoader.java" timestamp="1507625802629">
         <mark key="[" line="8" column="30" />
         <mark key="]" line="8" column="30" />
@@ -4348,6 +4355,7 @@
         <mark key="^" line="19" column="3" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/codes/haier/togather/togather-teamwork-web/src/main/java/tech/hsyk/togather/contacts/web/controller/workbench/NewsController.java" timestamp="1518534960802" />
       <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-siberia/src/main/java/com/wanda/ohm2/siberia/dao/mapper/WorkflowExecRecordMapper.xml" timestamp="1514256228690">
         <mark key="[" line="8" column="20" />
         <mark key="]" line="8" column="20" />
@@ -4372,10 +4380,11 @@
         <mark key="^" line="0" column="48" />
         <mark key="." line="0" column="48" />
       </file>
-      <file name="$USER_HOME$/codes/haier/togather/togather-teamwork-web/src/main/java/tech/hsyk/togather/contacts/web/service/impl/DynamicProcessServiceImpl.java" timestamp="1518532264028">
-        <mark key="[" line="23" column="36" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/codes/haier/togather/togather-teamwork-web/src/main/java/tech/hsyk/togather/contacts/web/service/impl/DynamicProcessServiceImpl.java" timestamp="1518535013129">
+        <mark key="[" line="38" column="44" />
+        <mark key="]" line="38" column="34" />
+        <mark key="." line="38" column="34" />
+        <mark key="^" line="38" column="34" />
       </file>
       <file name="$USER_HOME$/codes/wanda/ohm2/ohm2-core/src/main/java/com/wanda/ohm2/core/logging/DesensitizedUtils.java" timestamp="1511509544576">
         <mark key="[" line="42" column="29" />
@@ -4596,10 +4605,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24oIuiOt+WPluWFrOWRiiIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>news</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaW5kQnlQYXJlbnRJZFw+</text>
@@ -4608,31 +4617,31 @@
         <text encoding="base64">aW1wb3J0IG9yZy5hY3Rpdml0aS5icG1uLm1vZGVsLkJwbW5Nb2RlbDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24oIuiOt+WPluWFrOWRiiIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBCZWFuKCJwcm9jZXNzRW5naW5lQ29uZmlndXJhdGlvbiIpCg==</text>
+        <text encoding="base64">QEFwaSh2YWx1ZSA9ICLkv6Hmga/mtYHnm7jlhbMgQVBJIiwgdGFncyA9IHsibmV3cyIsICJ3b3JrYmVuY2giLCAic3RyZWFtIn0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBQcmltYXJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jZXNzRW5naW5lQ29uZmlndXJhdGlvbi5zZXREYXRhYmFzZVNjaGVtYVVwZGF0ZSgidHJ1ZSIpOwo=</text>
+        <text encoding="base64">ICAgIEBCZWFuKCJwcm9jZXNzRW5naW5lQ29uZmlndXJhdGlvbiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTcHJpbmdQcm9jZXNzRW5naW5lQ29uZmlndXJhdGlvbiBwcm9jZXNzRW5naW5lQ29uZmlndXJhdGlvbiA9IChTcHJpbmdQcm9jZXNzRW5naW5lQ29uZmlndXJhdGlvbikgcHJvY2Vzc0VuZ2luZUNvbmZpZ3VyYXRpb24xOwo=</text>
+        <text encoding="base64">ICAgIEBQcmltYXJ5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAuc2V0VHJhbnNhY3Rpb25NYW5hZ2VyKHRyYW5zYWN0aW9uTWFuYWdlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9jZXNzRW5naW5lQ29uZmlndXJhdGlvbi5zZXREYXRhYmFzZVNjaGVtYVVwZGF0ZSgidHJ1ZSIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTcHJpbmdQcm9jZXNzRW5naW5lQ29uZmlndXJhdGlvbiBwcm9jZXNzRW5naW5lQ29uZmlndXJhdGlvbiA9IChTcHJpbmdQcm9jZXNzRW5naW5lQ29uZmlndXJhdGlvbikgcHJvY2Vzc0VuZ2luZUNvbmZpZ3VyYXRpb24xOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAuc2V0VHJhbnNhY3Rpb25NYW5hZ2VyKHRyYW5zYWN0aW9uTWFuYWdlcik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIOS9nOiAhe+8mkplcnJ5TF8KICAgIOmTvuaOpe+8mmh0dHBzOi8vd3d3LmppYW5zaHUuY29tL3AvMzdkNTZlMTRkNmE2CiAgICDkvobmupDvvJrnroDkuaYKICAgIOiRl+S9nOadg+W9kuS9nOiAheaJgOacieOAguWVhuS4mui9rOi9veivt+iBlOezu+S9nOiAheiOt+W+l+aOiOadg++8jOmdnuWVhuS4mui9rOi9veivt+azqOaYjuWHuuWkhOOAggo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
